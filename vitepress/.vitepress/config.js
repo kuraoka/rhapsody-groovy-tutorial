@@ -1,8 +1,8 @@
 export default {
   title: 'Rhapsody Plugin Tutorial',
   description: 'Tutorial for making Rhapsody Plugin.',
-  outDir: "../docs/",
-  base: "rhapsody-plugin-tutorial",
+  outDir: "../docs/rhapsody-plugin-tutorial/",
+  base: "/rhapsody-plugin-tutorial/",
   themeConfig: {
     sidebar: [{
       items: [
