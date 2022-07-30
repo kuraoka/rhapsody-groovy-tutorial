@@ -4,6 +4,6 @@
 ## DocumentのBuild
 
 ```
-cd src
+cd docs
 yarn build
 ```

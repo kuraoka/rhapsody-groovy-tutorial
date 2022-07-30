@@ -12,6 +12,6 @@ RhapsodyのPlug-inは、Javaアプリケーションです。下記が参考に�
 - APIのJava Doc: ```file:///C:/Program Files/IBM/Rhapsody/9.0.1/Doc/java_api/index.html```
 
 
-[RhapsodyのPlug-inのJavaによるチュートリアル](/java/)
-[RhapsodyのPlug-inのGroovyによるチュートリアル](/groovy/)
-[RhapsodyのPlug-inのScalaによるチュートリアル](/scala/)
+- [RhapsodyのPlug-inのJavaによるチュートリアル](java/)
+- [RhapsodyのPlug-inのGroovyによるチュートリアル](groovy/)
+- [RhapsodyのPlug-inのScalaによるチュートリアル](scala/)
