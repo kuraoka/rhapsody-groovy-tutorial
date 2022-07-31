@@ -45,7 +45,7 @@ Part 1 explains RPE-generic concepts such as the RPE components and workflow, cr
   
 Part 2 shows advanced examples (ICD generation and Traceability). It also shows how recursion and casting are important to Rhapsody models.
 
-### Movie
+### Video
 [Creating Reports on Rhapsody Models with Rational Publishing Engine v1.2 (Part 1)](https://youtu.be/hoQgh9h4pxg)
 
 
@@ -84,7 +84,7 @@ RSA RTE Community: http://goo.gl/AlJ5b
   
 In this video, Mattias Mohlin guides you through an in-depth view at the new feature set in Rational Software Architect Real-Time Edition v8.5.1.
 
-### Movie
+### Video
 [Deep Dive Tour: Rational Software Architect Real-Time Edition v8.5.1](https://youtu.be/pq-ae7qHNTo)
 
 
@@ -99,7 +99,7 @@ In this video, Mattias Mohlin guides you through an in-depth view at the new fea
 ### Description
 RSA RTE Community: http://goo.gl/AlJ5b
 
-### Movie
+### Video
 [What's New in Rational Software Architect Real-Time Edition v8.5.1 CP2](https://youtu.be/JkuL-nAAuEA)
 
 
@@ -132,7 +132,7 @@ Fore more information: http://www.omg.org/spec/SysML/1.3/ and http://www.incose.
 22:14 - Show model data  
 23:08 - Requirement relations
 
-### Movie
+### Video
 [Introduction to Systems Modeling Language (SysML), Part 1](https://youtu.be/xGDErNmqNLw)
 
 
@@ -160,7 +160,7 @@ Fore more info: http://www.omg.org/spec/SysML/1.3/ and http://www.incose.org
 15:45 - Scenarios  
 16:38 - Rhapsody Demonstration
 
-### Movie
+### Video
 [Introduction to Systems Modeling Language (SysML), Part 2](https://youtu.be/1tJq6DgY0BE)
 
 
@@ -175,7 +175,7 @@ Fore more info: http://www.omg.org/spec/SysML/1.3/ and http://www.incose.org
 ### Description
 In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces you to the concept of Systems Engineering and how it is done across an enterprise and across applications via Rational Rhapsody Designer v4.
 
-### Movie
+### Video
 [Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 2](https://youtu.be/jMSvRm21Oug)
 
 
@@ -190,7 +190,7 @@ In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces 
 ### Description
 In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces you to the concept of Systems Engineering and how it is done across an enterprise and across applications via Rational Rhapsody Designer v4.
 
-### Movie
+### Video
 [Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 3](https://youtu.be/tIy-2tTS8jw)
 
 
@@ -205,7 +205,7 @@ In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces 
 ### Description
 In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces you to the concept of Systems Engineering and how it is done across an enterprise and across applications via Rational Rhapsody Designer v4.
 
-### Movie
+### Video
 [Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 1](https://youtu.be/l4nqIZiyt5E)
 
 
@@ -220,7 +220,7 @@ In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces 
 ### Description
 RSA RTE Community: http://goo.gl/AlJ5b
 
-### Movie
+### Video
 [What's New in Rational Software Architect Real-Time Edition v8.5.1 CP3](https://youtu.be/RUH1tQl8wjg)
 
 
@@ -238,7 +238,7 @@ https://jazz.net/products/clm/
   
 This video provides an overview of the Rational Team Concert build management.
 
-### Movie
+### Video
 [IBM Rational Team Concert Build Management: Accelerated Overview](https://youtu.be/za_UQwSr-_k)
 
 
@@ -256,7 +256,7 @@ https://jazz.net/products/clm/
   
 This video provides an overview of the Rational Team Concert planning.
 
-### Movie
+### Video
 [IBM Rational Team Concert Planning: Accelerated Overview](https://youtu.be/Ij2LlLhZp4A)
 
 
@@ -274,7 +274,7 @@ https://jazz.net/products/clm/
   
 This video provides an overview of Jazz source control, which manages the source code, documents, and other artifacts that a team creates.
 
-### Movie
+### Video
 [IBM Jazz Source Control: Accelerated Overview](https://youtu.be/KZPRSnuMpwg)
 
 
@@ -292,7 +292,7 @@ https://jazz.net/products/clm/
   
 This video provides an overview of the Rational Team Concert, which provides agile teams with a highly collaborative development environment.
 
-### Movie
+### Video
 [IBM Rational Team Concert: Accelerated Overview](https://youtu.be/omWTfno_P6U)
 
 
@@ -334,7 +334,7 @@ This video provides an overview of the Rational Team Concert, which provides agi
 48:53 - Other types of executable nodes  
 Questions
 
-### Movie
+### Video
 [Introduction to SysML: Concepts of Activity Modeling](https://youtu.be/2EXloszVSpo)
 
 
@@ -379,7 +379,7 @@ Questions
   
 Introduction to Systems Modeling (SysML): Scenario Modeling with Sequence Diagrams
 
-### Movie
+### Video
 [Introduction to Systems Modeling (SysML): Scenario Modeling with Sequence Diagrams](https://youtu.be/r4ad_S5nkSc)
 
 
@@ -419,7 +419,7 @@ Agenda:
 - code generation workflow with Rhapsody  
 - software demonstration
 
-### Movie
+### Video
 [UML and Rational Rhapsody Workflows for Embedded Code Development](https://youtu.be/yaLGw-ZSUKk)
 
 
@@ -448,7 +448,7 @@ Leveraging Action Language with IBM Rational Rhapsody v8.0.3 (Action Language wa
   
 The action language is targeted at system engineers as it provides a simpler, higher-level language. Action language allows you to describe actions that involve model elements without having to know the syntax of a specific programming language, such as C++.
 
-### Movie
+### Video
 [Leveraging Action Language with IBM Rational Rhapsody v8.0.3](https://youtu.be/K5cJDtzvMdA)
 
 
@@ -484,7 +484,7 @@ The action language is targeted at system engineers as it provides a simpler, hi
   
 Simplify Modeling with Interface Specifications using Rational DOORS and Rhapsody with Ed Mayer.
 
-### Movie
+### Video
 [Simplify Modeling with Interface Specifications using Rational DOORS and Rhapsody](https://youtu.be/sqF7pGdLXUE)
 
 
@@ -502,7 +502,7 @@ https://jazz.net/products/clm/
   
 This video provides an overview of the Rational Team Concert Basic mode, which allows you to quickly create a work area and start sharing files and folders with your team.
 
-### Movie
+### Video
 [Share Changes in Rational Team Concert v4.0.5 Basic Mode](https://youtu.be/vkdTa8C4BaE)
 
 
@@ -553,7 +553,7 @@ More info: http://merlinscave.info/Merlins_Cave/Welcome.html
   
 Introduction to the Rational Rhapsody Harmony Toolkit for Systems Engineers with Andy Lapping.
 
-### Movie
+### Video
 [Introduction to the Rational Rhapsody Harmony Toolkit for Systems Engineers](https://youtu.be/axX6wwY3puQ)
 
 
@@ -585,7 +585,7 @@ Introduction to the Rational Rhapsody Harmony Toolkit for Systems Engineers with
   
 Reverse Engineer and reuse existing code through architectural analysis with IBM Rational Rhapsody with Rational Technical Specialist Christopher Carson.
 
-### Movie
+### Video
 [Reuse Existing Code with Rational Rhapsody](https://youtu.be/UlUHh0I_DNY)
 
 
@@ -620,7 +620,7 @@ Reverse Engineer and reuse existing code through architectural analysis with IBM
   
 Introduction to Model-Based Trade Studies with SysML and Rational Rhapsody by Gavin Arthurs, Rational Systems Solution Architect.
 
-### Movie
+### Video
 [Introduction to Model-Based Trade Studies with SysML and Rational Rhapsody](https://youtu.be/uxnqcnISz9o)
 
 
@@ -657,7 +657,7 @@ Introduction to Model-Based Trade Studies with SysML and Rational Rhapsody by Ga
   
 Model Based Testing: From Concept to Coverage with Ron Felice
 
-### Movie
+### Video
 [Model Based Testing: From Concept to Coverage](https://youtu.be/X-yNioiwqC8)
 
 
@@ -692,7 +692,7 @@ Model Based Testing: From Concept to Coverage with Ron Felice
   
 Hardware/Software Co-Design: SysML and System C in Rhapsody and Sodius with Rick Boldt, Senior Product Manager and Sandeep Desai, Solution Director.
 
-### Movie
+### Video
 [Hardware/Software Co-Design: SysML and SystemC in Rhapsody and Sodius](https://youtu.be/61Hp0jQNnwE)
 
 
@@ -707,7 +707,7 @@ Hardware/Software Co-Design: SysML and System C in Rhapsody and Sodius with Rick
 ### Description
 Importing Models and Design into Rational Rhapsody with Paul Urban of IBM Rational and Tom Capelle of Sodius.
 
-### Movie
+### Video
 [Importing Models and Design into Rational Rhapsody](https://youtu.be/ma6c2KrhsRA)
 
 
@@ -736,7 +736,7 @@ Importing Models and Design into Rational Rhapsody with Paul Urban of IBM Ration
   
 Verify Requirements through Model Execution in Rational Rhapsody with Ron Felice, Solution Architect, North America.
 
-### Movie
+### Video
 [Systems Engineering: Verify Requirements through Model Execution in Rational Rhapsody](https://youtu.be/f_YW5r4EQkg)
 
 
@@ -772,7 +772,7 @@ https://www.ibm.com/developerworks/mydeveloperworks/groups/service/html/communit
 45:51 - Automating Tasks via CLI  
 47:27 - Help Resources
 
-### Movie
+### Video
 [Extend IBM Rational Rhapsody via the API](https://youtu.be/9tJeo0Cl9-s)
 
 
@@ -787,7 +787,7 @@ https://www.ibm.com/developerworks/mydeveloperworks/groups/service/html/communit
 ### Description
 Migrating Legacy Applications for New Hardware using Rational Rhapsody with Thomas Hall.
 
-### Movie
+### Video
 [Migrating Legacy Applications for New Hardware using Rational Rhapsody](https://youtu.be/D7YrtQTSe-o)
 
 
@@ -828,7 +828,7 @@ Migrating Legacy Applications for New Hardware using Rational Rhapsody with Thom
   
 complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 
-### Movie
+### Video
 [Introduction to Systems Modeling (SysML): Basic Structural Modeling](https://youtu.be/K3RpSavVKeM)
 
 
@@ -843,7 +843,7 @@ complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 ### Description
 
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition CP1: Support UML Interfaces](https://youtu.be/1jBylqQ4kmo)
 
 
@@ -858,7 +858,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition CP1: Navigate By URI](https://youtu.be/4N-OI7vWkpg)
 
 
@@ -873,7 +873,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition CP1: Properties View](https://youtu.be/E69cBf6kXXA)
 
 
@@ -888,7 +888,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition CP1: TC Compare/Merge Improvements](https://youtu.be/rtyw7vssMeY)
 
 
@@ -903,7 +903,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition CP1: Exclude Element Code Generation](https://youtu.be/6wWAr-XG6lc)
 
 
@@ -918,7 +918,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition CP1: External Constants Support](https://youtu.be/ju4ZkzLGxww)
 
 
@@ -933,7 +933,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition CP1: Diagram Editing Improvements](https://youtu.be/CJUsw_kPx8c)
 
 
@@ -948,7 +948,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition v9.0.0.1 State Diagram Editing](https://youtu.be/QS2tm6emRYU)
 
 
@@ -963,7 +963,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition CP1: Select Type For Bounding](https://youtu.be/J08PV7tZaKQ)
 
 
@@ -978,7 +978,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition CP1: Intro, Support UML Interfaces](https://youtu.be/-XZO79trMns)
 
 
@@ -995,7 +995,7 @@ You can view or download this video in IBM Education Assistant for Rational: htt
   
 A demonstration of opening and modifying templates in the ReporterPLUS client for IBM Rational Rhapsody V8.0.
 
-### Movie
+### Video
 [Opening and modifying templates in ReporterPLUS for Rational Rhapsody 8.0](https://youtu.be/t7AevvlgodY)
 
 
@@ -1012,7 +1012,7 @@ More information: http://www.ibm.com/support/knowledgecenter/SSKPEG_9.1.0
   
 This video presents some of the main features of Rational Programming Patterns that will help developers in their daily development tasks. 
 
-### Movie
+### Video
 [Rational Programming Patterns Overview](https://youtu.be/fAaGWKE-2KU)
 
 
@@ -1038,7 +1038,7 @@ In this video Joanne Scouler and Andy Lapping define and demonstrate the followi
 - History connector - 43:55  
 - Summary - 45:00
 
-### Movie
+### Video
 [Introduction to SysML: State Modeling](https://youtu.be/ZuFFYmxFCwM)
 
 
@@ -1057,7 +1057,7 @@ In this video Rational Solution Architect Gavin Arthurs walks you through:
 - Code generation workflow in IBM Rational Rhapsody  
 - Demonstrate a different runtime environments in IBM Rational Rhapsody 
 
-### Movie
+### Video
 [Rational Rhapsody: Embedded Software Development with UML](https://youtu.be/DfFydsrZHGw)
 
 
@@ -1072,7 +1072,7 @@ In this video Rational Solution Architect Gavin Arthurs walks you through:
 ### Description
 Check out the Doors Next Generation free trial today and see how it has requirements management redefined: http://ibm.co/DNGTrial. In this video Ian Zimmerman from iZTech Inc. teaks you through why you should use a requirements management tool, current DOORS vs. DOORS NG, key features of DOORS NG, and then a demonstration of DOORS Next Generation....
 
-### Movie
+### Video
 [Introduction to IBM Rational DOORS Next Generation](https://youtu.be/N4Z7h4qt1MU)
 
 
@@ -1087,7 +1087,7 @@ Check out the Doors Next Generation free trial today and see how it has requirem
 ### Description
 In this video demonstration, technical specialist Andy Lapping defines and demonstrates Port Wizards in IBM  Rhapsody.
 
-### Movie
+### Video
 [IBM Rhapsody v8.x Features: Port Wizards](https://youtu.be/RvlSNQbLNVg)
 
 
@@ -1102,7 +1102,7 @@ In this video demonstration, technical specialist Andy Lapping defines and demon
 ### Description
 In this video demonstration, technical specialist Andy Lapping defines and demonstrates the concepts of standard content and stereotype-based helpers in IBM Rhapsody.
 
-### Movie
+### Video
 [IBM Rhapsody v8.x Features: Standard Content and Stereotype-Based Helpers](https://youtu.be/TzJ8hTUKbb8)
 
 
@@ -1117,7 +1117,7 @@ In this video demonstration, technical specialist Andy Lapping defines and demon
 ### Description
 In this video technical specialist Andy Lapping takes you through the guided help topics that appear in a sidebar within IBM  Rhapsody. These topics can be very useful as well as quick and easy to find.
 
-### Movie
+### Video
 [IBM Rhapsody v8.x Features: Guide Me Pages](https://youtu.be/dFTXXwOrn18)
 
 
@@ -1132,7 +1132,7 @@ In this video technical specialist Andy Lapping takes you through the guided hel
 ### Description
 In this video technical specialist Andy Lapping guides you through using Queries to filter your model, browser, diagrams, generate metrics, and more.
 
-### Movie
+### Video
 [IBM Rhapsody v8.x Features: Queries](https://youtu.be/eHdPxo20boI)
 
 
@@ -1147,7 +1147,7 @@ None
 ### Description
 In this video senior systems engineer Thomas Hall shows you how to reuse existing software code via reverse engineering in IBM Rational Rhapsody and in so doing, improve product time to market, product quality and performance, and minimize risk.
 
-### Movie
+### Video
 [IBM Rational Rhapsody: Reuse Existing Code for Efficiency](https://youtu.be/dFw4YiuCt3U)
 
 
@@ -1183,7 +1183,7 @@ In this video, Joanne Scouler and Andy Lapping once again take you through a det
   
 complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 
-### Movie
+### Video
 [Introduction to Systems Modeling (SysML): Advanced Structural Modeling](https://youtu.be/m5fIysmV1xE)
 
 
@@ -1198,7 +1198,7 @@ complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 ### Description
 
 
-### Movie
+### Video
 [TestConductor Support for Testing Rational Rhapsody in C](https://youtu.be/W2Ky_pluyTM)
 
 
@@ -1215,7 +1215,7 @@ This video is the first of three that shows how to create a cross-project report
   
 In this video, you select the artifact type to report on, and the projects to report on for that artifact type. Then, you create conditions...
 
-### Movie
+### Video
 [Reporting across CLM projects using the Jazz Reporting Service, Part 1](https://youtu.be/PAP0LBG7tSc)
 
 
@@ -1230,7 +1230,7 @@ In this video, you select the artifact type to report on, and the projects to re
 ### Description
 This video is the third of three that shows how to create a cross-project report by using the IBM Jazz Reporting Service. In this video you specify the visibility of your report, use tags to group your report with related reports, or to make your report easy to find.
 
-### Movie
+### Video
 [Reporting across CLM projects using the Jazz Reporting Service, Part 3](https://youtu.be/Qw_rzy-BCpQ)
 
 
@@ -1247,7 +1247,7 @@ For more info: https://jazz.net/library/article/1417
   
 This video is the second of three that shows how to create a cross-project report by using the IBM Jazz Reporting Service.
 
-### Movie
+### Video
 [Reporting across CLM projects using the Jazz Reporting Service, Part 2](https://youtu.be/SGu1lM7vIqw)
 
 
@@ -1270,7 +1270,7 @@ This video is the second of three that shows how to create a cross-project repor
   
 In this video Elena Strabykina takes you through what is new in RSA RTE v9.1.1
 
-### Movie
+### Video
 [Rational Software Architect RTE: What's New in v9.1.1](https://youtu.be/uvZOXTLBHmM)
 
 
@@ -1288,7 +1288,7 @@ https://jazz.net/products/clm/
   
 This video describes how to share a folder and deliver changes in the Rational Team Concert Shell.
 
-### Movie
+### Video
 [Deliver changes in the Rational Team Concert Shell (Advanced Mode)](https://youtu.be/osLUtqmQ5SI)
 
 
@@ -1306,7 +1306,7 @@ https://jazz.net/products/clm/
   
 This video describes how to accept a team invitation in the Rational Team Concert Shell.
 
-### Movie
+### Video
 [Share changes in Rational Team Concert Shell: Accept a team invitation](https://youtu.be/LV6PZf3s1qA)
 
 
@@ -1321,7 +1321,7 @@ This video describes how to accept a team invitation in the Rational Team Concer
 ### Description
 This video describes how to set preferences in the Rational Team Concert Shell.
 
-### Movie
+### Video
 [Set preferences in the Rational Team Concert Shell (Advanced Mode)](https://youtu.be/0Kym4DL25bI)
 
 
@@ -1341,7 +1341,7 @@ https://jazz.net/products/clm/
   
 This video describes how to create a repository workspace in the Rational Team Concert Shell.
 
-### Movie
+### Video
 [Create a repository workspace in the Rational Team Concert Shell (Advanced Mode)](https://youtu.be/o2Ehns08VJM)
 
 
@@ -1359,7 +1359,7 @@ https://jazz.net/products/clm/
   
 This video describes how to resolve a conflict in the Rational Team Concert Shell.
 
-### Movie
+### Video
 [Resolve a conflict in the Rational Team Concert Shell (Advanced Mode)](https://youtu.be/Y4rao0ScrDU)
 
 
@@ -1377,7 +1377,7 @@ https://jazz.net/products/clm/
   
 This video describes how to work with Jazz properties in the Rational Team Concert Shell.
 
-### Movie
+### Video
 [Work with Jazz properties in the Rational Team Concert Shell (Advanced Mode)](https://youtu.be/1Dk0D_0619U)
 
 
@@ -1396,7 +1396,7 @@ Extending RTC: https://rsjazz.wordpress.com/2014/12/03/creating-custom-link-type
   
 This video describes how to create a work item in the Rational Team Concert client for Microsoft Visual Studio IDE.
 
-### Movie
+### Video
 [Rational Team Concert client for Microsoft Visual Studio IDE: Create a work item](https://youtu.be/6-le45Oq7iw)
 
 
@@ -1415,7 +1415,7 @@ Extending RTC: https://rsjazz.wordpress.com/2014/12/03/creating-custom-link-type
   
 This video describes how to create a plan in the Rational Team Concert client for Microsoft Visual Studio IDE.
 
-### Movie
+### Video
 [Rational Team Concert Client for Microsoft Visual Studio IDE: Create a Plan](https://youtu.be/apjM2HE1G2g)
 
 
@@ -1432,7 +1432,7 @@ More info: https://jazz.net/downloads/jazz-reporting-service/
   
 In this video Jazz Reporting Specialists take you through the new features of IBM Rational Jazz Reporting Services (JRS) v5.0.2.  Lifecycle artifacts across projects and teams can now be captured in reports. You can now easily create traceability and reports in graphs or tables so that you can easily share information across the enterprise. And more...
 
-### Movie
+### Video
 [What's New in Jazz Reporting Services v5.0.2: Creating Traceability and Graphic Reports](https://youtu.be/Sk7kZHEO6RE)
 
 
@@ -1447,7 +1447,7 @@ In this video Jazz Reporting Specialists take you through the new features of IB
 ### Description
 In this video Andy Lapping takes you through more advanced used of Rhapsody tables including leveraging artifacts in Use Case diagrams.
 
-### Movie
+### Video
 [IBM Rhapsody Tables: Relation Tables and Profiling](https://youtu.be/s5MRVkEkyOo)
 
 
@@ -1462,7 +1462,7 @@ In this video Andy Lapping takes you through more advanced used of Rhapsody tabl
 ### Description
 Follow Joanne Scouler and Ron Felice as they walk you through discovering the unliberated data and knowledge in your environment.
 
-### Movie
+### Video
 [Unlocking Knowledge with Rational Engineering Lifecycle Manager](https://youtu.be/W_jJa5Lp2hg)
 
 
@@ -1477,7 +1477,7 @@ Follow Joanne Scouler and Ron Felice as they walk you through discovering the un
 ### Description
 In this must-see video for Rational Rhapsody users, Rhapsody expert and Technical Specialist Andy Lapping takes you through using the powerful capability of Context Patterns in Rhapsody tables.
 
-### Movie
+### Video
 [IBM Rhapsody Tables: Context Patterns in Table Views](https://youtu.be/iTHTxF5vOMc)
 
 
@@ -1492,7 +1492,7 @@ In this must-see video for Rational Rhapsody users, Rhapsody expert and Technica
 ### Description
 In this session Andy Lapping takes you through using the API to populate table data. This is the 3rd video in a series of using IBM IBM Rhapsody tables, in-depth. Tables can be a powerful way of collecting and arranging project model data for other uses.
 
-### Movie
+### Video
 [IBM Rhapsody Tables: Populating Cell Data Using the API](https://youtu.be/9LveEQQwiqk)
 
 
@@ -1507,7 +1507,7 @@ In this session Andy Lapping takes you through using the API to populate table d
 ### Description
 This video describes how to create a required attribute - in this case a code reviewer - through the web client for IBM Rational Team Concert.
 
-### Movie
+### Video
 [Rational Team Concert Custom Work Items: Adding a tab](https://youtu.be/31TpGtc88N0)
 
 
@@ -1525,7 +1525,7 @@ https://jazz.net/products/clm/
   
 This video describes how to deliver changes and resolve a work item in the Rational Team Concert client for Microsoft Visual Studio IDE.
 
-### Movie
+### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Deliver Changes and Resolve Work Item](https://youtu.be/wjjKwBeV_ng)
 
 
@@ -1543,7 +1543,7 @@ https://jazz.net/products/clm/
   
 This video describes how to share a project and solution in the Rational Team Concert client for Microsoft Visual Studio IDE.
 
-### Movie
+### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Share Project and Solution](https://youtu.be/SoDCKvbkVeE)
 
 
@@ -1561,7 +1561,7 @@ https://jazz.net/products/clm/
   
 This video describes how to create a repository workspace from a stream in the Rational Team Concert client for Microsoft Visual Studio IDE.
 
-### Movie
+### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Create Repository Workspace](https://youtu.be/4RS_eScByKA)
 
 
@@ -1579,7 +1579,7 @@ https://jazz.net/products/clm/
   
 This video describes how to create and promote a snapshot in the Rational Team Concert client for Microsoft Visual Studio IDE.
 
-### Movie
+### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Create and Promote a Snapshot](https://youtu.be/0N0wLjLTgtA)
 
 
@@ -1597,7 +1597,7 @@ https://jazz.net/products/clm/
   
 This video describes how to create a component baseline in the Rational Team Concert client for Microsoft Visual Studio IDE.
 
-### Movie
+### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Create a Component Baseline](https://youtu.be/4wo9vsyTpzc)
 
 
@@ -1615,7 +1615,7 @@ https://jazz.net/products/clm/
   
 This video describes how to accept incoming baselines and change sets in the Rational Team Concert client for Microsoft Visual Studio IDE.
 
-### Movie
+### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Accept Incoming Baselines/Change Sets](https://youtu.be/bWin0qawYfs)
 
 
@@ -1633,7 +1633,7 @@ https://jazz.net/products/clm/
   
 This video describes how to accept changes from other team members in the Rational Team Concert client for Microsoft Visual Studio IDE.
 
-### Movie
+### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Accept Changes from Other Team Members](https://youtu.be/PgX3rRNHOBQ)
 
 
@@ -1651,7 +1651,7 @@ https://jazz.net/products/clm/
   
 This video describes how to define a workflow with approval tracking in Rational Team Concert  v4.0.3.
 
-### Movie
+### Video
 [Rational Team Concert: Define a workflow with approval tracking](https://youtu.be/akDgLcCIP80)
 
 
@@ -1670,7 +1670,7 @@ https://jazz.net/products/clm/
   
 This video describes how to create a work item type in Rational Team Concert v4.0.3.
 
-### Movie
+### Video
 [Rational Team Concert: Create a Work Item Type](https://youtu.be/Gh7XsXbwbNk)
 
 
@@ -1688,7 +1688,7 @@ https://jazz.net/products/clm/
   
 This video describes how to customize the work item editor in Rational Team Concert v4.0.3.
 
-### Movie
+### Video
 [Rational Team Concert: Customize the Work Item Editor](https://youtu.be/4wItMb2GO6s)
 
 
@@ -1707,7 +1707,7 @@ https://jazz.net/products/clm/
   
 This video describes how to create an enumeration attribute type in Rational Team Concert v4.0.3.
 
-### Movie
+### Video
 [Rational Team Concert: Create an enumeration attribute type](https://youtu.be/dJLMHnkMj3M)
 
 
@@ -1726,7 +1726,7 @@ https://jazz.net/products/clm/
   
 This video describes how to create a ToDo work item type in the Rational Team Concert  v4.0.3 Eclipse client.
 
-### Movie
+### Video
 [IBM Rational Team Concert: Create a To-Do Work Item Type](https://youtu.be/cUWczOaenvU)
 
 
@@ -1745,7 +1745,7 @@ https://jazz.net/products/clm/
   
 This video describes how to create a work item attribute in Rational Team Concert v4.0.3.
 
-### Movie
+### Video
 [Rational Team Concert: Create a Work Item Attribute](https://youtu.be/dV-X7aIlfKg)
 
 
@@ -1763,7 +1763,7 @@ Demo: https://www.youtube.com/watch?v=q3DxAneAPYQ
   
 In this video distinguished engineer George Decandio gives you an overview of IBM Rational DOORS Next Generation using a PowerPoint slide deck and then takes you into the IBM Rational DOORS Next Generation program to demonstrate how the program works and what benefit it can provide to you. This video is aimed at new, beginner and novice users.
 
-### Movie
+### Video
 [IBM Rational DOORS Next Gen 101: Overview and Demonstration](https://youtu.be/qmW-9XZrUcU)
 
 
@@ -1781,7 +1781,7 @@ https://jazz.net/products/clm/
   
 This video describes how to resolve conflicts in file content in Rational Team Concert v4.0.3.
 
-### Movie
+### Video
 [Rational Team Concert: Resolving Conflicts in File Content](https://youtu.be/wnzHLpZNBVk)
 
 
@@ -1800,7 +1800,7 @@ https://jazz.net/products/clm/
   
 This video describes how to view build results in Rational Team Concert v4.0.3.
 
-### Movie
+### Video
 [Rational Team Concert: Build results](https://youtu.be/q469dEjJ2Zc)
 
 
@@ -1818,7 +1818,7 @@ https://jazz.net/products/clm/
   
 This video describes how to request a build in Rational Team Concert v4.0.3.
 
-### Movie
+### Video
 [Rational Team Concert: Request a build](https://youtu.be/QNfSH7Wmp2o)
 
 
@@ -1836,7 +1836,7 @@ https://jazz.net/products/clm/
   
 This video describes how to use build definitions and build engines in Rational Team Concert v4.0.3.
 
-### Movie
+### Video
 [Rational Team Concert: Build definitions and build engines](https://youtu.be/z8uaYrVy1dk)
 
 
@@ -1854,7 +1854,7 @@ https://jazz.net/products/clm/
   
 This video describes how to resolve a conflict in Rational Team Concert v4.0.
 
-### Movie
+### Video
 [Rational Team Concert: Resolve a Conflict](https://youtu.be/qjkqWQEknkY)
 
 
@@ -1872,7 +1872,7 @@ https://jazz.net/products/clm/
   
 This video describes how to lock, download, and edit a file in the Rational Team Concert web client v4.0.
 
-### Movie
+### Video
 [Rational Team Concert: Lock, Download, and Edit a File](https://youtu.be/qzbeqwyQoMU)
 
 
@@ -1890,7 +1890,7 @@ https://jazz.net/products/clm/
   
 This video describes how to deliver changes and resolve a work item in Rational Team Concert v4.0.
 
-### Movie
+### Video
 [Rational Team Concert: Deliver Changes and Resolve a Work Item](https://youtu.be/wyTv77oMCwo)
 
 
@@ -1908,7 +1908,7 @@ https://jazz.net/products/clm/
   
 This video describes how to create a repository workspace from a stream in Rational Team Concert v4.0.
 
-### Movie
+### Video
 [Rational Team Concert: Create a Repository Workspace from a Stream](https://youtu.be/ZsNEgHtmAX4)
 
 
@@ -1926,7 +1926,7 @@ https://jazz.net/products/clm/
   
 This video describes how to add files and folders to a stream in the Rational Team Concert web client v4.0.
 
-### Movie
+### Video
 [Rational Team Concert: Add files and folders to a stream](https://youtu.be/MaWHgBBm5tw)
 
 
@@ -1944,7 +1944,7 @@ https://jazz.net/products/clm/
   
 This video describes how to accept changes from other team members in Rational Team Concert.
 
-### Movie
+### Video
 [Rational Team Concert: Accept changes from other team members](https://youtu.be/CXb-xkzp83w)
 
 
@@ -1962,7 +1962,7 @@ https://jazz.net/products/clm/
   
 This video describes how to create and edit a text file in the Rational Team Concert web client v4.0.
 
-### Movie
+### Video
 [Rational Team Concert: Create and edit a text file](https://youtu.be/FHzY-_-BsLQ)
 
 
@@ -1979,7 +1979,7 @@ In this demonstration DOORS NG expert Jerrod Lankford covers such topics as "Wha
   
 This video contains a demonstration of the DOORS user interface.
 
-### Movie
+### Video
 [Extending DOORS Next Gen with JavaScript](https://youtu.be/F9-264596mM)
 
 
@@ -2011,7 +2011,7 @@ Additional information can be found in these locations:
   
  - The Rational DOORS Next Generation Learning Circle (https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=30a4b582-9075-4556-85a8-41818f205d94)
 
-### Movie
+### Video
 [IBM Rational DOORS Next Generation: Collaboration through diagramming](https://youtu.be/fpV2huAZhHY)
 
 
@@ -2030,7 +2030,7 @@ For more information: bit.ly/ibmsafesupport
 http://www.slideshare.net/rfeggins/adopting-scaled-agile-webinar  
 https://youtu.be/H_752O8P_Bs
 
-### Movie
+### Video
 [IBM DevOps Plan with SAFe® in CLM v6.0: Prepare for First Program Increment, Part 2](https://youtu.be/JLh0AED5qp8)
 
 
@@ -2057,7 +2057,7 @@ IBM experts Jared Pulham, Ernest Mah, and Dragos Cojocari take you through the f
   
  - Q&A
 
-### Movie
+### Video
 [What's New in DOORS/DNG Reporting and Document Generation](https://youtu.be/_ja33-H9Rh4)
 
 
@@ -2080,7 +2080,7 @@ Additional resources:
   
 developerWorks video: http://www.ibm.com/developerworks/rational/library/doors-nextgen-baselines/r-doors-nextgen-baselines.html
 
-### Movie
+### Video
 [IBM Rational DOORS Next Generation: Working with baselines](https://youtu.be/DKqAyI1HLcc)
 
 
@@ -2097,7 +2097,7 @@ The video builds on the concept of a lifecycle project in  IBM's solution for Co
   
 developerWorks link: http://www.ibm.com/developerworks/rational/library/clm-config/r-clm-global-config.html
 
-### Movie
+### Video
 [CLM global configuration - Overview of concepts and terminology](https://youtu.be/Yv4-G79OUDI)
 
 
@@ -2115,7 +2115,7 @@ This video demonstrates how to set up a basic distributed source control environ
 For more information, see http://www-01.ibm.com/support/knowledgecenter/SSYMRC_6.0.0/com.ibm.rational.clm.doc/helpindex_clm.html and   
 https://jazz.net/products/clm/
 
-### Movie
+### Video
 [Rational Team Concert: Flowing changes to different repositories (basic setup)](https://youtu.be/00cEYfSeElE)
 
 
@@ -2133,7 +2133,7 @@ This video demonstrates how to set up an advanced distributed source control env
 For more information, see: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_6.0.0/com.ibm.rational.clm.doc/helpindex_clm.html and  
 https://jazz.net/products/clm/
 
-### Movie
+### Video
 [Rational Team Concert: Flowing changes to different repositories (advanced setup)](https://youtu.be/lbTnTOPaU2Q)
 
 
@@ -2151,7 +2151,7 @@ In this short demonstration you will see how changes to requirements can be made
   
 developerWorks link: http://www.ibm.com/developerworks/rational/library/managing-requirement-changes/r-managing-requirement-changes.html
 
-### Movie
+### Video
 [Managing Requirement Changes with DOORS Next Generation (Global configuration management)](https://youtu.be/6hQ9b1_bGiw)
 
 
@@ -2170,7 +2170,7 @@ In this short demonstration you will see how global configurations can be used t
   
 developerWorks link: http://www.ibm.com/developerworks/rational/library/effective-manage/r-effective-manage.html
 
-### Movie
+### Video
 [Effectively managing and reusing components with Global Configurations](https://youtu.be/lgFj4gJA2aU)
 
 
@@ -2188,7 +2188,7 @@ In this short demonstration you will see how global configurations can be used t
   
 developerWorks video: http://www.ibm.com/developerworks/rational/library/effective-manage2/r-effective-manage2.html
 
-### Movie
+### Video
 [Effectively manage changes, baselines and engineering streams with Global Configurations](https://youtu.be/mNN9b2caJYY)
 
 
@@ -2203,7 +2203,7 @@ developerWorks video: http://www.ibm.com/developerworks/rational/library/effecti
 ### Description
 
 
-### Movie
+### Video
 [IBM Rational DOORS 101 Basics (v9.6)](https://youtu.be/-iRWMbnDLiA)
 
 
@@ -2218,7 +2218,7 @@ developerWorks video: http://www.ibm.com/developerworks/rational/library/effecti
 ### Description
 This video presents the new features in Rational Software Architect RealTime Edition version 9.1.2.
 
-### Movie
+### Video
 [Rational Software Architect RealTime Edition: What's new in 9.1.2](https://youtu.be/exV89pCwlW0)
 
 
@@ -2233,7 +2233,7 @@ This video presents the new features in Rational Software Architect RealTime Edi
 ### Description
 This video shows you how to use work items to manage priorities, assign tasks and track status.
 
-### Movie
+### Video
 [Rational Team Concert v. 6.0 - Managing Work Items and Status](https://youtu.be/MwLFdTWw9c8)
 
 
@@ -2248,7 +2248,7 @@ This video shows you how to use work items to manage priorities, assign tasks an
 ### Description
 This video explains how to quickly create items to track your project, create a prioritized backlog, handle iteration planning and assignments, and track and triage work. As of version 7.0, Rational Team Concert was renamed to IBM Engineering Workflow Management.
 
-### Movie
+### Video
 [Rational Team Concert v. 6.0 - Using the Quick Planner Feature](https://youtu.be/enc7--gAlAw)
 
 
@@ -2264,7 +2264,7 @@ This video explains how to quickly create items to track your project, create a 
 Software projects depend on people in various roles  
 Rational team Concert helps teams successfully track and execute projects. It also provides capabilities to help stakeholders quickly discover and analyze project information that will help them with their responsibilities related to the project. This video shows how Maria, an executive manager, uses burn down reports to oversee the efforts of multiple teams.
 
-### Movie
+### Video
 [Rational Team Concert v. 6.0 - Stakeholders](https://youtu.be/btpWbZxVusM)
 
 
@@ -2279,7 +2279,7 @@ Rational team Concert helps teams successfully track and execute projects. It al
 ### Description
 This video shows you how to create a work item, run a test build, deliver change sets, and update your work items.
 
-### Movie
+### Video
 [Rational Team Concert v.6.0 - Developing In The Eclipse Client](https://youtu.be/UNPuJbjt06g)
 
 
@@ -2294,7 +2294,7 @@ None
 ### Description
 In this demonstration we will look at the dashboards, queries, and reports that are provided by Rational Team Concert’s SAFe Support in version 6.0.
 
-### Movie
+### Video
 [IBM's Support for SAFe® v3.0 in RTC v6.0: Dashboards](https://youtu.be/ozgRRtdErco)
 
 
@@ -2309,7 +2309,7 @@ In this demonstration we will look at the dashboards, queries, and reports that 
 ### Description
 In this demonstration of SAFe Support in Rational Team Concert version 6.0, we will walk you through how to use the work item artifacts that are created for you.
 
-### Movie
+### Video
 [IBM's Support for SAFe® v3.0 in RTC v6.0: Work Items](https://youtu.be/TWz7atp4tck)
 
 
@@ -2324,7 +2324,7 @@ In this demonstration of SAFe Support in Rational Team Concert version 6.0, we w
 ### Description
 In this demonstration we will walk you through how to use the plans, plan type, and plan view that are created by Rational Team Concert’s SAFe Support in version 6.0.
 
-### Movie
+### Video
 [IBM's Support for SAFe® v3.0 in RTC v6.0: Using Plans](https://youtu.be/oLRHuc_qm30)
 
 
@@ -2339,7 +2339,7 @@ None
 ### Description
 After watching this video, you will feel confident in using the Project Area Initialization provided by IBM’s SAFe Support in Rational Team Concert version 6.0.
 
-### Movie
+### Video
 [IBM's Support for SAFe® v3.0 in RTC v6.0: Project Area Initialization](https://youtu.be/-9L_QKlh8RM)
 
 
@@ -2354,7 +2354,7 @@ After watching this video, you will feel confident in using the Project Area Ini
 ### Description
 In this video technical sales specialist Jim Marsh takes you through the basics of IBM DOORS eXtension Language for DOORS v9.x. This is not an advanced tutorial but rather a guided introduction for beginners.
 
-### Movie
+### Video
 [IBM DOORS v9.x: Introduction to DOORS eXtension Language (DXL)](https://youtu.be/6U_qfg-QgGA)
 
 
@@ -2369,7 +2369,7 @@ In this video technical sales specialist Jim Marsh takes you through the basics 
 ### Description
 Welcome to this solution overview of IBM’s SAFe Support in Rational Team Concert version 6.0. After watching this overview, you will feel confident in using the Project Area Initialization, Work Item Details, Planning, Dashboards, Queries and Reports of SAFe.
 
-### Movie
+### Video
 [IBM's Support for SAFe® v3.0 in RTC v6.0: Solution Overview](https://youtu.be/KUr0TyA-99w)
 
 
@@ -2386,7 +2386,7 @@ Learn about multiple timelines and team area capabilities.
   
 For more information, see http://www-01.ibm.com/support/knowledgecenter/SSR27Q_6.0.0/com.ibm.rational.test.qm.tutorial2.doc/topics/a_custm_proc_lesson1.html
 
-### Movie
+### Video
 [Rational Quality Manager v6.0: Add Support for Multiple Timelines and Team Areas](https://youtu.be/I1ovqQ3jxvM)
 
 
@@ -2402,7 +2402,7 @@ None
 IBM Installation Manager is a single installation program that uses remote or local software repositories to install, modify, or update certain IBM products. Use this program to install, update, modify, roll back, and uninstall packages on your computer.  
 Visit the IBM Installation Manager Knowledge Center, where you can find information about how to install, maintain, and use IBM Installation Manager: http://www.ibm.com/support/knowledgecenter/SSDV2W/im_family_welcome.html
 
-### Movie
+### Video
 [IBM Installation Manager: Installing Installation Manager](https://youtu.be/UX86M2azNp4)
 
 
@@ -2419,7 +2419,7 @@ This video provides an overview of the new configuration management and Global C
   
 For more information about the configuration management features, see https://jazz.net/library/article/1492
 
-### Movie
+### Video
 [Configuration Management Overview for CLM v6 releases](https://youtu.be/Q-ga_Q0PRy4)
 
 
@@ -2435,7 +2435,7 @@ For more information about the configuration management features, see https://ja
 This video explains the traceability improvements in the Report Builder in Jazz Reporting Service 6.0.  
 Learn how to create a full traceability path from stories to child tasks to related approvals and approvers. This example shows how to use this path to find all work items with approvals and no approvers, or work items with pending approvals for a particular user.
 
-### Movie
+### Video
 [Jazz Reporting Service: Report Builder traceability](https://youtu.be/bo6UpxUAWtY)
 
 
@@ -2450,7 +2450,7 @@ Learn how to create a full traceability path from stories to child tasks to rela
 ### Description
 This video provides a demonstration of the aggregation and drilldown function in Report Builder.
 
-### Movie
+### Video
 [IBM Jazz Reporting Service 6.0: Report Builder Aggregation and Drilldown](https://youtu.be/HwHvBrtnqIk)
 
 
@@ -2465,7 +2465,7 @@ This video provides a demonstration of the aggregation and drilldown function in
 ### Description
 The global configuration overview video provides an introduction to the main features in the 6.0 IBM® Global Configuration Management application, with an emphasis on variants and baselines. This video is geared toward users in the Configuration Lead role, but users interested in learning about global configurations with configuration management will find this video useful.
 
-### Movie
+### Video
 [Global Configuration Management: Overview with IBM solution for CLM 6.0](https://youtu.be/MQyNDsXQksE)
 
 
@@ -2484,7 +2484,7 @@ For more information: bit.ly/ibmsafesupport
 http://www.slideshare.net/rfeggins/adopting-scaled-agile-webinar  
 https://youtu.be/H_752O8P_Bs
 
-### Movie
+### Video
 [IBM DevOps Plan with SAFe® in CLM v6.0: Optimize Speed of Delivery, Part 3](https://youtu.be/iGkWPz-bdUo)
 
 
@@ -2499,7 +2499,7 @@ https://youtu.be/H_752O8P_Bs
 ### Description
 This video provides an overview of the new features and function in IBM Rational Software Architect RealTime Edition version 9.5
 
-### Movie
+### Video
 [Rational Software Architect: What's new in RSA-RTE 9.5](https://youtu.be/O7cGuoqj_YI)
 
 
@@ -2514,7 +2514,7 @@ This video provides an overview of the new features and function in IBM Rational
 ### Description
 This video demonstrates how to access the Ratoinal License Key center to obtain a license key file that will activate the USB hardware device provided with Rational Development and Test Environment for z Systems.
 
-### Movie
+### Video
 [Using Rational License Key Center to activate your Rational Development and Test Environment License](https://youtu.be/MhuZwntTBiQ)
 
 
@@ -2531,7 +2531,7 @@ This demo shows how the Requirements Reconcile feature has been updated and enha
   
 For more information, see: http://www.ibm.com/support/knowledgecenter/SSR27Q_6.0.1/com.ibm.rational.test.qm.doc/topics/c_qm_top.html
 
-### Movie
+### Video
 [IBM Rational Quality Manager v6.0.1: Requirements Reconcile in Configuration-enabled Projects](https://youtu.be/cZx5uSOeKeQ)
 
 
@@ -2548,7 +2548,7 @@ This demo shows the new test matrix widget.
   
 For more information, see http://www.ibm.com/support/knowledgecenter/SSR27Q_6.0.1/com.ibm.rational.test.qm.doc/topics/c_qm_top.html
 
-### Movie
+### Video
 [IBM Rational Quality Manager v6.0.1: Test Matrix Widget](https://youtu.be/oH69IlJgBuI)
 
 
@@ -2563,7 +2563,7 @@ For more information, see http://www.ibm.com/support/knowledgecenter/SSR27Q_6.0.
 ### Description
 The global configuration overview video provides an introduction to the main features in the 6.0.1 IBM® Global Configuration Management application, with an emphasis on variant and baseline automation. This video is geared toward users in the Configuration Lead role, but users interested in learning about global configurations with configuration management will find this video useful.
 
-### Movie
+### Video
 [Global configurations with the IBM solution for Collaborative Lifecycle Management (CLM) 6.0.1](https://youtu.be/qKHgIUkPZPo)
 
 
@@ -2580,7 +2580,7 @@ Using the Money that Matters sample project, copy an existing test plan to start
   
  http://www-01.ibm.com/support/knowledgecenter/SSR27Q_6.0.0/com.ibm.rational.test.qm.tutorial2.doc/topics/a_test_plans_copy.html
 
-### Movie
+### Video
 [IBM Rational Quality Manager v6.0: Copy a test plan](https://youtu.be/KwCoS_Pfeg8)
 
 
@@ -2603,7 +2603,7 @@ The links provides access to history, baselines, and other non-migrated data. By
 and eliminate the cost of migrating and revalidating audits and historical data in Rational DOORS Next Generation.  
 Visit the Knowledge Center for details on the migration process.
 
-### Movie
+### Video
 [Migrating data from IBM Rational DOORS to IBM Rational DOORS Next Generation](https://youtu.be/fxJuf12bDWo)
 
 
@@ -2618,7 +2618,7 @@ None
 ### Description
 Overview of migration characteristics and process.
 
-### Movie
+### Video
 [Migrating requirements from Rational DOORS to Rational DOORS Next Generation](https://youtu.be/1F4ju-AhEmo)
 
 
@@ -2633,7 +2633,7 @@ Overview of migration characteristics and process.
 ### Description
 In this learning module you will learn that the type of requirements information you can create within the project, depends on the type of system available to your project.  You will learn how to create an artifact of format module to represent your requirements specification, and how to create a number of artifacts of different types within the module, organized in sections.
 
-### Movie
+### Video
 [Rational DOORS Next Generation: Capturing requirements information](https://youtu.be/64JktRLptB8)
 
 
@@ -2654,7 +2654,7 @@ http://www-01.ibm.com/support/knowledgecenter/SSYMRC_6.0.1/com.ibm.jazz.vvc.doc/
 Jazz.net blog entry: Link validity – coming in CLM version 6.0.1  
 https://jazz.net/blog/index.php/2015/11/12/link-validity-coming-in-clm-version-6-0-1/
 
-### Movie
+### Video
 [IBM Rational CLM: Using link validity in 6.0.1](https://youtu.be/adG0Q6rfQcU)
 
 
@@ -2674,7 +2674,7 @@ The basic layout of the application explored and you will learn how to different
 You will know that there are several ways to located artifacts, including filters, or searches; where to save a view, and where to create a new artifact.  
 Finally, you will learn how to collapse and expand sections of the UI
 
-### Movie
+### Video
 [IBM Rational DOORS Next Generation: Basic Navigation](https://youtu.be/cqPXIqKOOew)
 
 
@@ -2689,7 +2689,7 @@ Finally, you will learn how to collapse and expand sections of the UI
 ### Description
 Did you even want to use Variables in your requirements? Check out how embedded artifacts may help!
 
-### Movie
+### Video
 [Rational DOORS Next Generation: Did you even want to use Variables in your requirements?](https://youtu.be/zCrPT075zog)
 
 
@@ -2712,7 +2712,7 @@ Product version applies to: RPE 2.0, 2.0.1
   
 SY: Dragos Cojocari
 
-### Movie
+### Video
 [Installing and deploying Rational Publishing Engine Part 1 of 4](https://youtu.be/0o6WxO_XIOk)
 
 
@@ -2732,7 +2732,7 @@ http://www-01.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.i
   
 SY: Dragos Cojocari
 
-### Movie
+### Video
 [Installing and deploying Rational Publishing Engine Part 3 of 4](https://youtu.be/SgMFXjGQdf8)
 
 
@@ -2751,7 +2751,7 @@ For more information, see: Installing IBM Rational Publishing Engine clients at 
   
 SY: Dragos Cojocari
 
-### Movie
+### Video
 [Installing and deploying Rational Publishing Engine Part 2 of 4](https://youtu.be/WKEzmxiE1X4)
 
 
@@ -2771,7 +2771,7 @@ http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.inst
   
 SY: Dragos Cojocari
 
-### Movie
+### Video
 [Installing and deploying Rational Publishing Engine Part 4 of 4](https://youtu.be/f525EyKxTHw)
 
 
@@ -2788,7 +2788,7 @@ This video explains how to import a Rational Rhapsody model into Rational Softwa
   
 SY: Pritesh Patel
 
-### Movie
+### Video
 [Importing an IBM Rational Rhapsody model into IBM Rational Software Architect](https://youtu.be/7LpF_7op-PA)
 
 
@@ -2814,7 +2814,7 @@ Product version applies to: 2.0, 2.0.1
   
 SY:Dragos Cojocari
 
-### Movie
+### Video
 [Editing templates with Rational Publishing Engine -1/6: A simple template with static text](https://youtu.be/ynlbtx5eIqQ)
 
 
@@ -2839,7 +2839,7 @@ Product version applies to: 2.0, 2.0.1
   
 SY: Dragos Cojocari
 
-### Movie
+### Video
 [Editing templates with Rational Publishing Engine - 2/6: Add a Rational Doors Next Generation schema](https://youtu.be/vZG2ZmnHdNA)
 
 
@@ -2864,7 +2864,7 @@ Product version applies to: 2.0, 2.0.1
   
 SY:Dragos Cojocari
 
-### Movie
+### Video
 [Editing templates with Rational Publishing Engine - 3/6: Connect to data source, generate a document](https://youtu.be/6-B7wcRBhuY)
 
 
@@ -2890,7 +2890,7 @@ Product version applies to: 2.0, 2.0.1
   
 SY: Dragos Cojocari
 
-### Movie
+### Video
 [Editing templates with Rational Publishing Engine - 4/6:  Formatting your document](https://youtu.be/riFQihDv1VM)
 
 
@@ -2916,7 +2916,7 @@ Product version applies to: 2.0, 2.0.1
   
 SY: Dragos Cojocari
 
-### Movie
+### Video
 [Editing templates with Rational Publishing Engine - 5/6: Add headers and footers](https://youtu.be/5rV4dFXc_Gs)
 
 
@@ -2941,7 +2941,7 @@ Product version applies to:  2.0, 2.0.1
   
 SY: Dragos Cojocari
 
-### Movie
+### Video
 [Editing templates with Rational Publishing Engine - 6/6: Troubleshooting and debugging](https://youtu.be/u7YWYWNQ7cY)
 
 
@@ -2958,7 +2958,7 @@ This presentation is Part 1 of a three-part series.  In this presentation we dis
   
 SY
 
-### Movie
+### Video
 [Rational Team Concert, Rational ClearCase, and Cadence Virtuoso - Part 1/3](https://youtu.be/u0lu_abu69c)
 
 
@@ -2975,7 +2975,7 @@ This presentation is Part 2 of a three-part series.  In this presentation we wil
   
 SY
 
-### Movie
+### Video
 [Rational ClearCase, Rational Team Concert, and Cadence Virtuoso - Part 2/3](https://youtu.be/YBRd9dHecoI)
 
 
@@ -2990,7 +2990,7 @@ SY
 ### Description
 This presentation is the third and final part of a three-part series.  In this presentation we will continue our discussion on the environment of the Solution for Electronic Design and see how you can use IBM Rational Team Concert and IBM Rational ClearCase to implement a Change and Configuration Management environment to track library cell components in the Cadence Virtuoso Library Manager environment.
 
-### Movie
+### Video
 [Rational ClearCase, Rational Team Concert, and Cadence Virtuoso - Part 3/3](https://youtu.be/eRat4DypqNM)
 
 
@@ -3007,7 +3007,7 @@ Fundamental concepts of the IBM jazz platform and the components of the architec
   
 SY
 
-### Movie
+### Video
 [Introduction To Jazz Architecture](https://youtu.be/viib7pbJ5rg)
 
 
@@ -3022,7 +3022,7 @@ SY
 ### Description
 In this video IBM Technical Specialist Andy Lapping takes you through how to customize Rhapsody table content using Java embedded into the Rhapsody model
 
-### Movie
+### Video
 [IBM Rhapsody Tables: Populating Custom Cell Data Using Java Inside Rhapsody](https://youtu.be/omLjAkVHXt8)
 
 
@@ -3037,7 +3037,7 @@ In this video IBM Technical Specialist Andy Lapping takes you through how to cus
 ### Description
 In this video, IBM Technical Specialist Andy Lapping will demonstrate how to simplify the Rhapsody User Experience with Domain Specific Modeling
 
-### Movie
+### Video
 [IBM Rhapsody: Simplifying the Rhapsody User Experience with Domain Specific Modeling](https://youtu.be/G1oRwN1yi0A)
 
 
@@ -3052,7 +3052,7 @@ In this video, IBM Technical Specialist Andy Lapping will demonstrate how to sim
 ### Description
 The global configuration What’s New in v6.0.2 video shows and discusses extended tag and search features, extended custom attribute and link features, and the new History features in the Global Configuration Management application. The video shows how these extended and new features can help your daily work. This video is geared toward users in the Configuration Lead role, but all users interested in learning about new and extended features will find this video useful.
 
-### Movie
+### Video
 [Global Configuration Management: What’s new in v6.0.2](https://youtu.be/3xcYj59mgxw)
 
 
@@ -3074,7 +3074,7 @@ http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.web.
   
 This video was produced with Rational Publishing Engine v2.1.0.
 
-### Movie
+### Video
 [RPE - Duplicate connections and reports](https://youtu.be/rKWx0B3uGPw)
 
 
@@ -3094,7 +3094,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.pub
   
 This video was produced with Rational Publishing Engine v2.1.0.
 
-### Movie
+### Video
 [RPE - Create a template from a module](https://youtu.be/uwsje1Zg_6U)
 
 
@@ -3111,7 +3111,7 @@ In IBM Rational Publishing Engine, the Palette View in Document Studio is now or
   
 This video was produced with Rational Publishing Engine v2.1.0.
 
-### Movie
+### Video
 [RPE- Palette View](https://youtu.be/VkEl7gnQ81E)
 
 
@@ -3131,7 +3131,7 @@ http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.inte
 Removing complexity from traceability documents by using the Plain Old XML Profile https://rpeactual.com/2016/03/28/no-phd-required/  
 This video was produced with Rational Publishing Engine v2.1.0 and CLM 6.0.2.
 
-### Movie
+### Video
 [RPE - Build a DOORS Next Generation to Design Manager traceability document](https://youtu.be/5FJLFQ1_2i4)
 
 
@@ -3153,7 +3153,7 @@ This video was produced with Rational Publishing Engine v2.1.0.
   
 hs
 
-### Movie
+### Video
 [RPE - Document Outline](https://youtu.be/Lg2bRx3uZWI)
 
 
@@ -3175,7 +3175,7 @@ This video was produced with Rational Publishing Engine v2.1.0.
   
 hs
 
-### Movie
+### Video
 [RPE - Studio Guide](https://youtu.be/a1nfFkAajIg)
 
 
@@ -3197,7 +3197,7 @@ This video was produced with Rational Publishing Engine v2.1.0.
   
 hs
 
-### Movie
+### Video
 [RPE  - Reuse JavaScript in a template](https://youtu.be/imCjPKBhT_U)
 
 
@@ -3219,7 +3219,7 @@ This video was produced with Rational Publishing Engine v2.0.1.
   
 SY:HS
 
-### Movie
+### Video
 [RPE: Generate a requirements document from DOORS Next Generation](https://youtu.be/MXP0JrOiVJQ)
 
 
@@ -3235,7 +3235,7 @@ SY:HS
 Reporting for versioned artifacts (from projects that are enabled for configuration management) does not use the data warehouse; instead, it uses the Lifecycle Query Engine data source. This video shows how to use Report Builder to create reports for versioned artifacts. Learn how to create a report of test cases with failing test results and the resulting associated work items.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Reporting on versioned artifacts](https://youtu.be/MmsdoDgm0-s)
 
 
@@ -3251,7 +3251,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 Change management artifacts aren't typically versioned, so are not part of a local configuration. However, they do need to link to the correct versions of requirements and test artifacts. This video shows how to set up releases and attribute mappings to associate work items and global configurations, to ensure that links to other artifact types resolve in the correct configuration context.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Configuring change management to participate in global configurations](https://youtu.be/lFcpLhbQ_Ak)
 
 
@@ -3267,7 +3267,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 This video shows how you can selectively merge changes from a baseline of one QM stream into another stream, with configuration management. This is useful when you have changes in one variant of your product that you want to apply and reuse across other variants.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Delivering test artifact changes across streams](https://youtu.be/rASk256fQB8)
 
 
@@ -3283,7 +3283,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 As you finalize the artifacts that make up your product, take a global baseline to capture the state of all artifacts at a a known point in time - a milestone or release. You can confidently use that baseline as a starting point to create new streams for maintenance or new versions or variants of your products.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Baselining a global configuration](https://youtu.be/xlm6Z1ofxds)
 
 
@@ -3299,7 +3299,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 With configuration management enabled, links from the requirements automatically resolve to the correct version of the test artifacts. Link validity indicators appear on both sides to communicate change. This video shows how the test team responds to the requirement changes and creates a baseline for the affected stream.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Managing change in test artifacts](https://youtu.be/lQGNPQ7RXLY)
 
 
@@ -3315,7 +3315,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 This video shows how to deliver changes that you've made in one stream into another - for example, if you had new requirements for one variant of your product that you want to reuse in other variants also. You will see how to deliver changes automatically, and options to manage conflicting changes.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Delivering requirements changes across streams](https://youtu.be/R0CFj2CAn3g)
 
 
@@ -3331,7 +3331,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 With configuration management enabled, you can control change through (optionally mandated) use of change sets that isolate your changes from the main working stream. You can also require that change sets be linked to change requests, before delivering to the main stream for others to see and use.  Links to artifacts such as tests can be marked valid or invalid automatically or explicitly, to communicate changes to potentially impacted parties.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Managing requirements change with configurations and change sets](https://youtu.be/ml9PzuKPyt8)
 
 
@@ -3347,7 +3347,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 This video introduces global configurations in the IBM Rational Collaborative Lifecycle Management and IBM Watson IoT Continuous Engineering solutions. It introduces components, configurations, streams and baselines, as well as history.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Global configurations overview](https://youtu.be/0uilL9HAmqg)
 
 
@@ -3369,7 +3369,7 @@ This video was produced with Rational Publishing Engine v2.0.1.
   
 SY:HS
 
-### Movie
+### Video
 [RPE: Configuration-aware documents with RPE Document Builder](https://youtu.be/ZyzO35bu4es)
 
 
@@ -3389,7 +3389,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.pub
   
 SY:HS
 
-### Movie
+### Video
 [RPE: Generating configuration-aware documents using the RPE desktop client](https://youtu.be/A_tnclbU564)
 
 
@@ -3409,7 +3409,7 @@ For more information, see: Discovering an OSLC resource for global configuration
 This video was produced with Rational Publishing Engine v2.1.1.  
 sy:hs
 
-### Movie
+### Video
 [RPE: Generating documents from fine-grained components](https://youtu.be/PUgqDIYiJLs)
 
 
@@ -3432,7 +3432,7 @@ This video was produced with Rational Publishing Engine v2.1.1.
   
 sy:hs
 
-### Movie
+### Video
 [RPE: JavaScript enhancements](https://youtu.be/HzxVPz8mM3U)
 
 
@@ -3453,7 +3453,7 @@ This video was produced with Rational Publishing Engine v2.1.1
   
 SY: HS
 
-### Movie
+### Video
 [RPE: Adding a Jazz Reporting Service graph into a template](https://youtu.be/lvqqPGvd408)
 
 
@@ -3475,7 +3475,7 @@ This video was produced with Rational Publishing Engine v2.1.1.
   
 SY:HS
 
-### Movie
+### Video
 [RPE: Math equations](https://youtu.be/r3SiGMSTem8)
 
 
@@ -3497,7 +3497,7 @@ This video was produced with Rational Publishing Engine v2.1.1.
   
 SY: HS
 
-### Movie
+### Video
 [RPE: Monitoring and controlling document generation jobs in Document Builder](https://youtu.be/LPdjvxc7oXk)
 
 
@@ -3519,7 +3519,7 @@ This video was produced with Rational Publishing Engine v2.1.1.
   
 sy:hs
 
-### Movie
+### Video
 [RPE: Sample assets](https://youtu.be/XmBLlNz8lYI)
 
 
@@ -3541,7 +3541,7 @@ This video was produced with Rational Publishing Engine v2.1.1.
   
 SY: HS
 
-### Movie
+### Video
 [RPE: Guided tours in Document Studio](https://youtu.be/lBseL4QvG0g)
 
 
@@ -3562,7 +3562,7 @@ This video was produced with Rational Publishing Engine v2.1.1.
   
 sy:hs
 
-### Movie
+### Video
 [RPE: Document Builder usability improvements](https://youtu.be/v3AKJ0-FgvU)
 
 
@@ -3579,7 +3579,7 @@ This video is part 3 of a 3 part series that explains how to initiate the portfo
   
 See part 2: https://youtu.be/t42DHVNl_TE
 
-### Movie
+### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Initiate the Portfolio, Part 3](https://youtu.be/UP32vzHqawE)
 
 
@@ -3596,7 +3596,7 @@ This video is part 2 of a 3 part series that explains how to initiate the portfo
   
 See part 1: https://youtu.be/pwvmXVbnHBY
 
-### Movie
+### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Initiate the Portfolio, Part 2](https://youtu.be/t42DHVNl_TE)
 
 
@@ -3613,7 +3613,7 @@ This video is part 3 of a 3 part series that explains how to optimize the toolin
   
 See part 2: https://youtu.be/AQ90-PQTPCM
 
-### Movie
+### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Optimize Tooling, Part 3](https://youtu.be/RHNSabvs5Ck)
 
 
@@ -3630,7 +3630,7 @@ This video is part 2 of a 3 part series that explains how to optimize the toolin
   
 See part 1: https://youtu.be/3-J1xtCZW8s
 
-### Movie
+### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Optimize Tooling, Part 2](https://youtu.be/AQ90-PQTPCM)
 
 
@@ -3645,7 +3645,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0: Prepare for PI Planning, Part 1 of 3](https://youtu.be/WzDF8_pyFZM)
 
 
@@ -3660,7 +3660,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0: Prepare for PI Planning, Part 2 of 3](https://youtu.be/wrmILcpzpI4)
 
 
@@ -3675,7 +3675,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0*: Prepare for PI Planning, Part 3 of 3](https://youtu.be/XMntVeEkANY)
 
 
@@ -3690,7 +3690,7 @@ None
 ### Description
 In this video Andy Lapping takes you through the basics of creating tables in Rhapsody
 
-### Movie
+### Video
 [IBM Rhapsody Tables: The Basics](https://youtu.be/Sinkndw6MPI)
 
 
@@ -3705,7 +3705,7 @@ In this video Andy Lapping takes you through the basics of creating tables in Rh
 ### Description
 In this video Andy Lapping takes you a new capability introduced in Rhapsody 8.2 - the automatic creation / synchronization of model elements based on other model elements - otherwise known as Inferred Modeling
 
-### Movie
+### Video
 [IBM Rhapsody Inferred Modeling](https://youtu.be/Vd5T9Pba5lY)
 
 
@@ -3724,7 +3724,7 @@ For more information on v6.0.3 of Rational Quality Manager, see https://jazz.net
   
 HS:VK
 
-### Movie
+### Video
 [IBM Rational Quality Manager:  Information type steps in manual test scripts](https://youtu.be/hgYWtrTA3kk)
 
 
@@ -3743,7 +3743,7 @@ For more information on v6.0.3 of Rational Quality Manager, see https://jazz.net
   
 HS: VK
 
-### Movie
+### Video
 [IBM Rational Quality Manager: Test automation traceability](https://youtu.be/vSkWxA_e3dk)
 
 
@@ -3758,7 +3758,7 @@ HS: VK
 ### Description
 In this video IBM Technical Specialist Andy Lapping takes you through an introduction to Model Based Testing for Systems Engineering models using Rhapsody's Test Conductor tool
 
-### Movie
+### Video
 [IBM Rhapsody: Test Conductor for Systems](https://youtu.be/B_SIECDzUmY)
 
 
@@ -3781,7 +3781,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.int
   
 HS:HS
 
-### Movie
+### Video
 [RPE: Generating documents with JSON data from Atlassian JIRA](https://youtu.be/xue_EuxyZds)
 
 
@@ -3804,7 +3804,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.pub
   
 HS:HS
 
-### Movie
+### Video
 [RPE: Generating comparison documents from configurations](https://youtu.be/OPTRRZ0jAQo)
 
 
@@ -3823,7 +3823,7 @@ For more information, see:
 Setting permissions on assets  
 https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.web.doc/topics/t_asset_perm.html
 
-### Movie
+### Video
 [RPE: Report permissions in Document Builder](https://youtu.be/qSBWn1G9Nko)
 
 
@@ -3844,7 +3844,7 @@ https://www.ibm.com/support/knowledgecenter/ SSYMRC_6.0.4/com.ibm.team.jp.jrs.do
   
 HS:HS
 
-### Movie
+### Video
 [Jazz Reporting Service: Generating Word, PDF, and HTML documents from Report Builder](https://youtu.be/Mj9ktFzoRXQ)
 
 
@@ -3865,7 +3865,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.ins
   
 HS:HS
 
-### Movie
+### Video
 [RPE: Document Builder authentication with Jazz Team Server](https://youtu.be/R00P4dPf9jE)
 
 
@@ -3886,7 +3886,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.web
   
 HS:HS
 
-### Movie
+### Video
 [RPE: Tagging data source connections in Document Builder](https://youtu.be/HtuCL2Yc0VQ)
 
 
@@ -3907,7 +3907,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.web
   
 HS:HS
 
-### Movie
+### Video
 [RPE: Administering runtime variables in Document Builder](https://youtu.be/ZWeSZWmmI8Q)
 
 
@@ -3928,7 +3928,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.4/com.ibm.team.jp.jrs.doc
   
 HS:HS
 
-### Movie
+### Video
 [Jazz Reporting Service: Adding custom expressions in Report Builder](https://youtu.be/QwwBROM_cR0)
 
 
@@ -3950,7 +3950,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.4/com.ibm.team.jp.jrs.doc
   
 HS:HS
 
-### Movie
+### Video
 [Jazz Reporting Service: Highlighting reports with color in Report Builder](https://youtu.be/CzTSKtX7Wvk)
 
 
@@ -3967,7 +3967,7 @@ Take control of your project costs!
 Poor management of requirements is one of the main reasons reported for project failure due to missed deadlines and costs spiraling out of control. Take control of your project with Change and Configuration Management built directly into the requirements tool. This does not need to be difficult or complicated.  
 Learn more: https://www.ibm.com/uk-en/marketplace/cloud-requirements-management/details#product-header-top
 
-### Movie
+### Video
 [Control changes to the requirements with Rational DOORS Next Generation](https://youtu.be/G65e5yaxlAI)
 
 
@@ -3985,7 +3985,7 @@ This video applies to Jazz Reporting Service version 6.0.3 and 6.0.4.
 For more information, see the SAFe landing page on jazz.net:  
 https://jazz.net/safe/
 
-### Movie
+### Video
 [Jazz Reporting Service: Import the Scaled Agile (SAFe) reports](https://youtu.be/r7Pawl3yh0I)
 
 
@@ -4000,7 +4000,7 @@ https://jazz.net/safe/
 ### Description
 This video describes the new features that were introduced in IBM Rational Test Workbench Web UI Tester 9 1.
 
-### Movie
+### Video
 [What's new in IBM Rational Test Workbench Web UI Tester 9.1](https://youtu.be/Rr1SG4j2X58)
 
 
@@ -4015,7 +4015,7 @@ This video describes the new features that were introduced in IBM Rational Test 
 ### Description
 IBM Technical Enablement Specialist Andy Lapping walks you through how to combine context patterns with java inside Rhapsody table layouts - allowing the creation of advanced tables that simply wouldn't be possible with either method alone
 
-### Movie
+### Video
 [IBM Rhapsody Tables: Combining Context Patterns and Java](https://youtu.be/_FgEcqytjt4)
 
 
@@ -4030,7 +4030,7 @@ IBM Technical Enablement Specialist Andy Lapping walks you through how to combin
 ### Description
 IBM Technical Enablement specialist Andy Lapping shows how to customize the appearance and content of "Remote Requirements" in Rhapsody - that is Requirements that are brought into the model through OSLC
 
-### Movie
+### Video
 [IBM Rhapsody: Customizing OSLC Requirements in Rhapsody](https://youtu.be/WRWswbxLU_E)
 
 
@@ -4045,7 +4045,7 @@ IBM Technical Enablement specialist Andy Lapping shows how to customize the appe
 ### Description
 IBM Technical Enablement specialist Andy Lapping demonstrates some of the improvements that have been made to the graphical editors in Rhapsody over the last few versions. Even seasoned Rhapsody users are sure to learn something new !
 
-### Movie
+### Video
 [IBM Rhapsody: Graphical Editor Improvements](https://youtu.be/SeqtPYD1u-k)
 
 
@@ -4060,7 +4060,7 @@ None
 ### Description
 There are three ways to access the Rational product help: 1) you can install it locally on your hard drive, 2) you can have your system administrator to install it on an enterprise wide server, or 3) you can configure your system to access the Rational information center on the Web. This video provides a detailed overview of how to install Knowledge Center Customer Install application on a computer or intranet server.
 
-### Movie
+### Video
 [Help configuration options in IBM Collaborative Lifecycle Management product help](https://youtu.be/i2ll8n_uM-Y)
 
 
@@ -4075,7 +4075,7 @@ There are three ways to access the Rational product help: 1) you can install it 
 ### Description
 This video is aimed at Rational Programming Patterns developers who are used to handling code generated between the 912 and the 96 versions. It shows them what to expect when they open such a code in the 961 version and it emphasizes the major enhancements.
 
-### Movie
+### Video
 [Upgraded generation in Rational Programming Patterns 9.6.1](https://youtu.be/lJITTdjmyCY)
 
 
@@ -4095,7 +4095,7 @@ This video was recorded using IBM Rational Publishing Engine version 6.0.5.
   
 HS:HS
 
-### Movie
+### Video
 [RPE: Generating Microsoft Excel documents](https://youtu.be/HZTYSbi7-pM)
 
 
@@ -4116,7 +4116,7 @@ This video was recorded using IBM Rational Publishing Engine version 6.0.5.
   
 HS: HS
 
-### Movie
+### Video
 [RPE: Generating documents from HP ALM data](https://youtu.be/CeK6F8jvq-g)
 
 
@@ -4137,7 +4137,7 @@ This video was recorded using IBM Rational Publishing Engine version 6.0.5.
   
 HS: HS
 
-### Movie
+### Video
 [RPE: Smart card and SSL certificate authentication](https://youtu.be/L44THkyPS4E)
 
 
@@ -4152,7 +4152,7 @@ HS: HS
 ### Description
 This video describes the usability improvements for windows shell that are dome in 6.0.5 release.
 
-### Movie
+### Video
 [Windows shell usability enhancements](https://youtu.be/Z7gr0-n0XUw)
 
 
@@ -4169,7 +4169,7 @@ This video explores how to selectively merge changes made to test artifacts in o
 This video shows version 6.0.4 of the IBM CLM/CE solution.  
 The video shows version 6.0.4 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Delivering changes across configurations - test artifacts](https://youtu.be/aCVGrNJenWI)
 
 
@@ -4185,7 +4185,7 @@ The video shows version 6.0.4 of the IBM CLM/CE solution.
 This video explores how to deliver changes made to requirements in one configuration to another, making it easy to reuse those changes across different versions or variants of your product.   
 This video show version 6.0.4 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Delivering changes across configurations - requirements](https://youtu.be/p-o8X4m8_CI)
 
 
@@ -4201,7 +4201,7 @@ This video show version 6.0.4 of the IBM CLM/CE solution.
 In recent versions of the IBM CLM/CE solution, when you enable configurations for RM and QM projects, you can optionally subdivide the project area into multiple components, each with its own set of artifacts and its own configurations. This video describes the capabilities, considerations for determining your component strategy, and how you can transition content from an existing project-area-level component into multiple smaller components.  
 This video shows version 6.0.4 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Transitioning to multiple components for requirements and test artifacts](https://youtu.be/NEjWctuI9aw)
 
 
@@ -4217,7 +4217,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 The global configuration groups contributions with artifacts from across domains to provide a holistic view of your product. This video shows how to create a baseline of the global configuration, capturing the state of all artifacts at a particular milestone. Global baselines can be used as a record, and as a starting point for new versions or variants of your product.  
 This video shows version 6.0.4 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Creating a global baseline](https://youtu.be/55zge7crcvQ)
 
 
@@ -4233,7 +4233,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 This video explores how a test team responds to changes made to requirements in the context of a global configuration, leveraging lifecycle traceability and link validity.  
 This video shows version 6.0.4 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Managing change in test artifacts with configuration management](https://youtu.be/g3s6jMQHxKo)
 
 
@@ -4249,7 +4249,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 This video illustrates using configuration management and change sets to manage changes to requirements, isolating changes from the main stream until they are ready to share, and leveraging lifecycle traceability and link validity.  
 This video shows version 6.0.4 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Managing change in requirements with configuration management](https://youtu.be/gyVqiacjbzU)
 
 
@@ -4264,7 +4264,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 ### Description
 This video provides an overview of the basics and benefits of configuration management capabilities in the IBM Collaborative Lifecycle Management and Continuous Engineering solutions. It introduces key concepts and provides high-level adoption guidance.
 
-### Movie
+### Video
 [Overview of configuration management](https://youtu.be/RVIgXcrSA2A)
 
 
@@ -4280,7 +4280,7 @@ This video provides an overview of the basics and benefits of configuration mana
 This video explores global components and configurations and how they group contributions from across application domains to provide a holistic view of your products and components, and determine which versions of which artifacts make up each product version or variant.  
 This video shows version 6.0.4 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Reviewing global configurations in the GCM application](https://youtu.be/A1zOoX70wV0)
 
 
@@ -4296,7 +4296,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 This video explores how to use Report Builder to create reports for versioned artifacts using the Lifecycle Query Engine data source. It explains some key differences for reporting on versioned artifacts, and also highlights Report Builder capabilities.  
 This video shows version 6.0.4 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Reporting on configurations and versioned artifacts](https://youtu.be/9eR6GF2Xlow)
 
 
@@ -4313,7 +4313,7 @@ In a configuration management scenario, the change management
 artifacts (like work items) aren't versioned, and therefore are not technically part of a local configuration. However, they still need to link to the correct versions of requirements and test artifacts in a global configuration context. This video shows how to set up releases and attribute mappings in the Rational Team Concert change management application to associate work items and global configurations, ensuring that links to other artifact types resolve in the correct configuration context.  
 This video shows version 6.0.4 of the IBM CLM/CE solution.
 
-### Movie
+### Video
 [Enabling RTC change management to participate in global configurations](https://youtu.be/VDx6sZ9qXeY)
 
 
@@ -4334,7 +4334,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.5/com.ibm.team.jp.relm.do
   
 HS: AJ
 
-### Movie
+### Video
 [IBM Rational Engineering Lifecycle Manager: Overview](https://youtu.be/vrA6ouuuizE)
 
 
@@ -4355,7 +4355,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.5/com.ibm.team.jp.relm.do
   
 HS: AJ
 
-### Movie
+### Video
 [IBM Rational Engineering Lifecycle Manager: Creating traceability views](https://youtu.be/z7ObhbgDMUw)
 
 
@@ -4376,7 +4376,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.5/com.ibm.team.jp.relm.do
   
 HS:AJ
 
-### Movie
+### Video
 [IBM Rational Engineering Lifecycle Manager: Running dependency analysis in views](https://youtu.be/eOqg0A4tnM0)
 
 
@@ -4401,7 +4401,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.5/com.ibm.team.jp.relm.do
   
 HS: AJ
 
-### Movie
+### Video
 [IBM Rational Engineering Lifecycle Manager: Exporting and importing views](https://youtu.be/BzuGnPWsH0E)
 
 
@@ -4416,7 +4416,7 @@ HS: AJ
 ### Description
 This video provides a short introduction to the Unified Reporting Web application. The application is a simple, easy-to-navigate dashboard that consolidates all test reports from Test Workbench into one place and gives a clear view of how your applications under test are performing, without needing to open or use multiple testing products.
 
-### Movie
+### Video
 [Unified Reporting Web app](https://youtu.be/lC8pSAT-G9s)
 
 
@@ -4431,7 +4431,7 @@ This video provides a short introduction to the Unified Reporting Web applicatio
 ### Description
 IBM has great support for the Digital Twin.  Have a look at the Continuous Engineering story.
 
-### Movie
+### Video
 [Continuous Engineering with Digital Twin](https://youtu.be/Ri0TD7kYsIQ)
 
 
@@ -4453,7 +4453,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6/com.ibm.rational.pe.web
   
 HS:HS
 
-### Movie
+### Video
 [RPE: Certificate authentication in Document Builder](https://youtu.be/NXiXVKvcVu0)
 
 
@@ -4474,7 +4474,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6/com.ibm.rational.pe.pub
   
 HS:HS
 
-### Movie
+### Video
 [RPE: Kerberos authentication](https://youtu.be/5ARWsalZzgw)
 
 
@@ -4495,7 +4495,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6/com.ibm.rational.pe.pub
   
 HS: HS
 
-### Movie
+### Video
 [RPE: Live Document Preview](https://youtu.be/Ism85E93r3Y)
 
 
@@ -4516,7 +4516,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.6/com.ibm.team.jp.jrs.doc
   
 HS: HS
 
-### Movie
+### Video
 [JRS: Scheduling reports in Report Builder](https://youtu.be/93BSH56mWJY)
 
 
@@ -4537,7 +4537,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.6/com.ibm.team.jp.jrs.doc
   
 HS:HS
 
-### Movie
+### Video
 [JRS: Organizing reports with folders in Report Builder](https://youtu.be/FRG9WqOzeDw)
 
 
@@ -4553,7 +4553,7 @@ HS:HS
 This video explains the basic principles of the Rational Programming Patterns metamodel and focuses on the data description entities.  
 The management of source code is explained in the video titled "Skeleton programming in the COBOL facet of Rational Programming Patterns".
 
-### Movie
+### Video
 [Data description in the kernel facet of Rational Programming Patterns](https://youtu.be/9Y2y732ncck)
 
 
@@ -4568,7 +4568,7 @@ None
 ### Description
 This video explains how to manage source code in the COBOL facet of the Rational Programming Patterns Software Development Kit (SDK). It shows how to create models for the code structure through Skeletons and manage specific code through Micropatterns.
 
-### Movie
+### Video
 [Skeleton programming in the COBOL facet of Rational Programming Patterns](https://youtu.be/cVLgNh_g5vE)
 
 
@@ -4583,7 +4583,7 @@ This video explains how to manage source code in the COBOL facet of the Rational
 ### Description
 This video demonstrates how to create roll up results for a test case execution record in Rational Quality Manager.
 
-### Movie
+### Video
 [Rolling up results for a Test Case Execution Record in Rational Quality Manager](https://youtu.be/Dj1vWKKahMo)
 
 
@@ -4598,7 +4598,7 @@ This video demonstrates how to create roll up results for a test case execution 
 ### Description
 This video demonstrates how to create roll up results for a test suite execution record in Rational Quality Manager.
 
-### Movie
+### Video
 [Rolling up results for a Test Suite Execution Record in Rational Quality Manager](https://youtu.be/wawPAz39v4Y)
 
 
@@ -4613,7 +4613,7 @@ None
 ### Description
 This tour of Rational Quality Manager was created using the 4.x product but it applies for other releases.
 
-### Movie
+### Video
 [Rational Quality Manager tour](https://youtu.be/JKWssLdHXQc)
 
 
@@ -4628,7 +4628,7 @@ None
 ### Description
 In this video IBM Technical Specialist Andy Lapping takes you through a very powerful capability in Rhapsody - Custom Views
 
-### Movie
+### Video
 [IBM Rhapsody: Custom Views](https://youtu.be/p5BbZrSNsDA)
 
 
@@ -4643,7 +4643,7 @@ None
 ### Description
 IBM Technical Enablement Specialist Andy Lapping lifts the lid on the mystery of the Rhapsody INI file and reveals some secret settings that will help you work smarter.
 
-### Movie
+### Video
 [IBM Rhapsody: The Rhapsody INI File](https://youtu.be/9DCP6iRLX3k)
 
 
@@ -4658,7 +4658,7 @@ IBM Technical Enablement Specialist Andy Lapping lifts the lid on the mystery of
 ### Description
 Manage lab reservations in Rational Quality Manager.
 
-### Movie
+### Video
 [Managing Lab Reservations in Rational Quality Manager](https://youtu.be/3xFoM-EiT7Y)
 
 
@@ -4673,7 +4673,7 @@ Manage lab reservations in Rational Quality Manager.
 ### Description
 This video demonstrates how to select a test plan iteration.
 
-### Movie
+### Video
 [Select a test plan iteration](https://youtu.be/J55qFgkb-wE)
 
 
@@ -4688,7 +4688,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [MEC   Global Configs](https://youtu.be/6rQRDqJSAu4)
 
 
@@ -4703,7 +4703,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [MEC   The CE Solution](https://youtu.be/rzBPw8ltjAg)
 
 
@@ -4718,7 +4718,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [MEC   The V Lifecycle](https://youtu.be/Q1t65FeqBRQ)
 
 
@@ -4733,7 +4733,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [MEC Demonstrating Compliance - Traceability](https://youtu.be/s1VbaThX-ic)
 
 
@@ -4748,7 +4748,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [IBM Architecture Room Live](https://youtu.be/k6C4lcdo3Nc)
 
 
@@ -4763,7 +4763,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [What's new video for sprints 2018.36 to 40](https://youtu.be/Go7uDmKRI4o)
 
 
@@ -4778,7 +4778,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [1  Demonstrating Compliance Intro - Practice Content](https://youtu.be/AuB4ePwZigo)
 
 
@@ -4793,7 +4793,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [5  Demonstrating Compliance - Conclusion](https://youtu.be/C7tQbQJymBw)
 
 
@@ -4808,7 +4808,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [4  Demonstrating Compliance - Engineering lifecycle Management](https://youtu.be/gY1V1JPEneY)
 
 
@@ -4823,7 +4823,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [2  Demonstrating Compliance - Requirements Management](https://youtu.be/doc6gnEzJpk)
 
 
@@ -4838,7 +4838,7 @@ None
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create an available licenses report.
 
-### Movie
+### Video
 [Create an available licenses report](https://youtu.be/LAtV6T7vVcY)
 
 
@@ -4853,7 +4853,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a chargeback report.
 
-### Movie
+### Video
 [Create a Chargeback report](https://youtu.be/ziOd7waje_I)
 
 
@@ -4868,7 +4868,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a concurrent peak denial report.
 
-### Movie
+### Video
 [Create a concurrent peak denial report](https://youtu.be/VtjHgBXABt8)
 
 
@@ -4883,7 +4883,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a concurrent peak usage report.
 
-### Movie
+### Video
 [Create a concurrent peak usage report](https://youtu.be/eOkeJzIFv0w)
 
 
@@ -4898,7 +4898,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create an expiration report.
 
-### Movie
+### Video
 [Create an expiration report](https://youtu.be/cbFvR_tEwGo)
 
 
@@ -4913,7 +4913,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a license details report.
 
-### Movie
+### Video
 [Create a license details report](https://youtu.be/P5YnuLWYXxs)
 
 
@@ -4928,7 +4928,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a Token Value report.
 
-### Movie
+### Video
 [Create a Token Value report](https://youtu.be/BhrXv1z_YR0)
 
 
@@ -4943,7 +4943,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a Userbased report.
 
-### Movie
+### Video
 [Create a Userbased report](https://youtu.be/T7RFmYQKGH0)
 
 
@@ -4958,7 +4958,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Description
 Powered by IBM Watson, Requirements Quality Assistant (RQA) applies the power of AI to engineering. RQA assesses the quality of requirements in DOORS Next Generation and provides guidance on how to improve them.
 
-### Movie
+### Video
 [IBM Requirements Quality Assistant (RQA)](https://youtu.be/RcKVxWjWFF8)
 
 
@@ -4973,7 +4973,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [3  Demonstrating Compliance - Testing](https://youtu.be/68fYQH8VZOA)
 
 
@@ -4988,7 +4988,7 @@ None
 ### Description
 See how the IBM Continuous Engineering solution can help in designing complex, connected products in the world of Internet of Things.
 
-### Movie
+### Video
 [Continuous Engineering for the Internet of Things](https://youtu.be/54Qa_uDP1bs)
 
 
@@ -5003,7 +5003,7 @@ See how the IBM Continuous Engineering solution can help in designing complex, c
 ### Description
 In this demonstration, we will see how we can design, monitor and improve connected systems utilizing the IBM platform for building and managing IoT solutions.  We will take a look at how we can augment traditional systems engineering with designing for analytics. That is defining monitors and the key data points we want to monitor once a system is deployed.  And then feeding the insight we can gain by analyzing that data back into engineering in order to make our connected systems faster, safer, more reliable, more secure and more optimized. In a sense, enabling a feedback loop around engineering, deployment and operations to continuously fine tune, calibrate and improve our connected systems.
 
-### Movie
+### Video
 [Designing, Monitoring and Improving Connected Systems with the IBM IoT Solution](https://youtu.be/B84aLMmxxBc)
 
 
@@ -5020,7 +5020,7 @@ This video demonstrates the project area initialization provided by IBM SAFe sup
 Concert version 6.0. You'll learn you how easy it is to create a project area infrastructure using the SAFe template. SAFe creates a set of plans that represent the program and team backlogs, the roadmap plan aligned on the agile release train time line, and a set of program increments and sprint plans for the program and the  
 team.
 
-### Movie
+### Video
 [RTC v6.0 SAFe support - Project Area Initialization](https://youtu.be/OFdvtzzaQXE)
 
 
@@ -5035,7 +5035,7 @@ team.
 ### Description
 In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how to use Rational Publishing Engine to report on models stored in Rhapsody Model Manager (RMM) including linked requirements, test case and work items. In Part 1 - reporting through the Rhapsody client. Part 2 will cover reporting on RMM directly.
 
-### Movie
+### Video
 [Reporting on Models in Rhapsody Model Manager (RMM) Part 1 - The Rhapsody Client](https://youtu.be/49xn9a83Yi8)
 
 
@@ -5050,7 +5050,7 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create User Count report.
 
-### Movie
+### Video
 [Create an User Count report](https://youtu.be/kcwlYVahB28)
 
 
@@ -5065,7 +5065,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Description
 IBM Technical Enablement Specialist Andy Lapping explains how to use queries in conjunction with table layouts and table views
 
-### Movie
+### Video
 [Queries and Table Views](https://youtu.be/z7X7nbmJgZ0)
 
 
@@ -5080,7 +5080,7 @@ IBM Technical Enablement Specialist Andy Lapping explains how to use queries in 
 ### Description
 In this video you will see how models are integrated with other essential MBSE capabilities such as requirements management and test management
 
-### Movie
+### Video
 [MBSE - Models in the Lifecycle](https://youtu.be/mdOYHS-k5VU)
 
 
@@ -5095,7 +5095,7 @@ In this video you will see how models are integrated with other essential MBSE c
 ### Description
 In this video you will see how a defect raised against an existing system is progressed through the original requirements and designs, and the problem identified through model based simulations and model based testing,
 
-### Movie
+### Video
 [MBSE - A Day in the Life of a Defect](https://youtu.be/iFaF1Mnj1_8)
 
 
@@ -5110,7 +5110,7 @@ In this video you will see how a defect raised against an existing system is pro
 ### Description
 This short video gives a brief overview of the capabilities and benefits of Model Based Systems Engineering with IBM Engineering Lifecycle Management
 
-### Movie
+### Video
 [MBSE Introduction](https://youtu.be/8d7WGUqJelQ)
 
 
@@ -5131,7 +5131,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.6.1/com.ibm.team.jp.lqe2.
   
 HS:HS(AJ)
 
-### Movie
+### Video
 [JRS: Troubleshooting data problems by validating TRS feeds and the LQE index](https://youtu.be/Zprgdxu_DNk)
 
 
@@ -5150,7 +5150,7 @@ For more information, see:
 Scheduling reports to run in Report Builder  
 https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.6.1/com.ibm.team.jp.jrs.doc/topics/t_rb_sched.html
 
-### Movie
+### Video
 [JRS: Email notification for scheduled reports in Report Builder](https://youtu.be/yFJFrF0nsnY)
 
 
@@ -5171,7 +5171,7 @@ Deploying Document Builder on WebSphere Application Server Liberty Profile
   
 HS:HS
 
-### Movie
+### Video
 [RPE Document Builder: Automatic deployment to WebSphere Liberty](https://youtu.be/o9AEbZcjSAs)
 
 
@@ -5192,7 +5192,7 @@ Microsoft Excel output reference for designing templates
   
 HS:HS
 
-### Movie
+### Video
 [RPE: Microsoft Excel output improvements](https://youtu.be/Iq4SOkgZX-o)
 
 
@@ -5217,7 +5217,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6.1/com.ibm.rational.pe.i
   
 HS:HS
 
-### Movie
+### Video
 [RPE Document Builder: Simplified Jazz Team Server authentication](https://youtu.be/rT6AVXYiGEc)
 
 
@@ -5238,7 +5238,7 @@ Administering Document Builder
   
 HS:HS
 
-### Movie
+### Video
 [RPE Document Builder: Sending a test email](https://youtu.be/9H3GSiuTFVQ)
 
 
@@ -5253,7 +5253,7 @@ HS:HS
 ### Description
 In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how to use Rational Publishing Engine to report directly on models stored in Rhapsody Model Manager (RMM) including linked requirements.
 
-### Movie
+### Video
 [Reporting on Models in Rhapsody Model Manager (RMM) Part 2 - The RMM Server](https://youtu.be/k2iWVe-Uq8M)
 
 
@@ -5268,7 +5268,7 @@ None
 ### Description
 In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how to use Rational Publishing Engine to report on traceability coverage statistics using  a new reporting schema available in Rhapsody Model Manager version 6.0.6.1
 
-### Movie
+### Video
 [Reporting on Models in Rhapsody Model Manager (RMM) Part 3 - Traceability Statistics](https://youtu.be/7e4gIEDCV0s)
 
 
@@ -5283,7 +5283,7 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 ### Description
 In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how to import and roundtrip CSV files into Rhapsody
 
-### Movie
+### Video
 [Importing CSV Files](https://youtu.be/FDIA7rvGgmc)
 
 
@@ -5298,7 +5298,7 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 ### Description
 Learn how to use IBM Engineering Lifecycle Optimization – Publishing (formerly IBM Rational Publishing Engine) to create a simple traceability document that shows requirements and the work items that implement them.
 
-### Movie
+### Video
 [RPE: Generate a traceability document with requirements and work items](https://youtu.be/apMfKcRfRwo)
 
 
@@ -5313,7 +5313,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Customize TOC names for HTML split mode](https://youtu.be/MfmreUYF_lo)
 
 
@@ -5328,7 +5328,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Performance improvement for large HTML output files in split mode](https://youtu.be/1vMv1wFn4-0)
 
 
@@ -5343,7 +5343,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Generate comparison document in Document Builder](https://youtu.be/o_Y-OVUN5xw)
 
 
@@ -5358,7 +5358,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Install Document Builder from ELM installation launchpad](https://youtu.be/kVSNLaLM7PA)
 
 
@@ -5373,7 +5373,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Add icons to the table of contents for HTML output](https://youtu.be/EWj4x39PH4o)
 
 
@@ -5388,7 +5388,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Enable clickable regions for different hyperlinks within images for HTML output](https://youtu.be/dx2udrSWQcU)
 
 
@@ -5403,7 +5403,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Folder enhancements in Document Builder](https://youtu.be/24Y4ZmOPy3I)
 
 
@@ -5418,7 +5418,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Improved error logging for dragging and dropping JSON text](https://youtu.be/kYnNEhpti3M)
 
 
@@ -5433,7 +5433,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Improved workload distribution for load balancing](https://youtu.be/R3RVqxMKICc)
 
 
@@ -5448,7 +5448,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Simplified document comparison in Desktop client](https://youtu.be/z_9Sf3PBz7E)
 
 
@@ -5463,7 +5463,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Customize TOC font size and style for HTML split mode](https://youtu.be/FeagoGhzx90)
 
 
@@ -5478,7 +5478,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [Support for PDF/A output enhancement](https://youtu.be/cmK207dYiLE)
 
 
@@ -5494,7 +5494,7 @@ None
 Previously, the only way that you could report on link validity was by manually editing the SPARQL code generated by Report Builder. Now, you can use the Report Builder guided interface to build reports about link validity.  
 Learn how to create a report that traces test cases to requirements and captures the validity information.
 
-### Movie
+### Video
 [Report Builder: Create a report that captures link validity information](https://youtu.be/E6aSZLBPwas)
 
 
@@ -5510,7 +5510,7 @@ Learn how to create a report that traces test cases to requirements and captures
 A report administrator can add a data source scoped by a specified global configuration that defines a consistent set of types. Users can then execute reports built upon this metamodel scoped to the types specific to the new data source.  
 Learn how to use Report Builder in IBM Engineering Lifecycle Management – Jazz Reporting Service to create a data source for a specific baseline or stream.
 
-### Movie
+### Video
 [Report Builder: Create a data source for a specific baseline or stream](https://youtu.be/6XgsUebVSak)
 
 
@@ -5526,7 +5526,7 @@ Learn how to use Report Builder in IBM Engineering Lifecycle Management – Jazz
 The product banners for IBM Engineering Lifecycle Management (ELM) products and components are updated to align with IBM's open-source Carbon design theme. This modern theme provides a consistent look across IBM products.  
 Learn how to access the different Report Builder options in the redesigned user interface.
 
-### Movie
+### Video
 [Report Builder: New look](https://youtu.be/N0RPOygzYyA)
 
 
@@ -5542,7 +5542,7 @@ Learn how to access the different Report Builder options in the redesigned user 
 For folders that contain reports or other folders, you can now select all the reports or folders in the parent folder. You can also drag and drop folders and reports from one location to another folder, in order to organize and move them with less effort.   
 Learn how to organize reports in Report Builder using folders.
 
-### Movie
+### Video
 [Report Builder: Organize reports using folders](https://youtu.be/gTZ-O4nOK0c)
 
 
@@ -5558,7 +5558,7 @@ Learn how to organize reports in Report Builder using folders.
 You can use Data Completeness Check to check if a specific report has problems with the LQE data source. Problems that might affect the report results include skipped resources, missing resources, or resources with failed patches. If your reports do not show the artifacts that you expect, show artifacts more than once, or show a different number of artifacts when compared with the application, perform a data completeness check.   
 Learn how to check if a specific report has problems with the LQE data source.
 
-### Movie
+### Video
 [Report Builder: Check if a specific report has problems with the LQE data source](https://youtu.be/EGxfilW3scw)
 
 
@@ -5573,7 +5573,7 @@ None
 ### Description
 IBM Technical Enablement Specialist Andy Lapping explains SysML Views and Viewpoints and how to use them in your Rhapsody models
 
-### Movie
+### Video
 [Views and Viewpoints](https://youtu.be/aULSLBfXuFY)
 
 
@@ -5588,7 +5588,7 @@ None
 ### Description
 Powered by IBM Watson, Requirements Quality Assistant (RQA) applies the power of AI to engineering. RQA assesses the quality of requirements in DOORS Next Generation and provides guidance on how to improve them
 
-### Movie
+### Video
 [Improving Requirements Quality with IBM Engineering Requirements Management and RQA](https://youtu.be/LuADaN20dfU)
 
 
@@ -5603,7 +5603,7 @@ None
 ### Description
 IBM Technical Enablement Specialist Andy Lapping explains how to implement your own powerful custom Rhapsody model browsers, quickly and easily by setting only three properties.
 
-### Movie
+### Video
 [Custom Model Browsers](https://youtu.be/CAXo7lmyqWA)
 
 
@@ -5618,7 +5618,7 @@ None
 ### Description
 In this video IBM Engineering Technical Specialist Andy Lapping shows you how you can gain insight and value from your connected engineering data using IBM Engineering Lifecycle Optimisation - Engineering Insights
 
-### Movie
+### Video
 [Gain Insight and Value From Your Connected Engineering Data](https://youtu.be/ELPdis9Ag8s)
 
 
@@ -5633,7 +5633,7 @@ None
 ### Description
 IBM Technical Enablement Specialist Andy Lapping covers some of the improvements that have been made to the Rhapsody model browser over the last few releases.
 
-### Movie
+### Video
 [Browser Improvements](https://youtu.be/qFY_fVttKLQ)
 
 
@@ -5653,7 +5653,7 @@ For more information, see
 Finding and organizing reports in Report Builder  
 https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc/topics/t_rb_find_org.html
 
-### Movie
+### Video
 [Report Builder: Configuring automatic deletion of Draft reports](https://youtu.be/gTASh5aWB9s)
 
 
@@ -5675,7 +5675,7 @@ For more information, see
 Reporting on artifacts across projects with Report Builder  
 https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc/topics/t_jrs_create_reports.html
 
-### Movie
+### Video
 [Report Builder: Filling data gaps](https://youtu.be/_enx3wIcLTs)
 
 
@@ -5695,7 +5695,7 @@ For more information, see
 Tips for working with Report Builder traceability reports  
 https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc/topics/t_trace_multiple_rel_paths_merging.html
 
-### Movie
+### Video
 [Report Builder: Combining Merge and Append relationship paths](https://youtu.be/lE5mEzaSmzk)
 
 
@@ -5714,7 +5714,7 @@ For more information, see
 Configuring Link Validity Status based filtering in views  
 https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.relm.doc/topics/t_filter_link_validity.html
 
-### Movie
+### Video
 [Visual reporting and filtering based on the Link Validity Status values](https://youtu.be/2y8ZUVmMYGA)
 
 
@@ -5729,7 +5729,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.relm.do
 ### Description
 The product banner for IBM Engineering Lifecycle Optimization - Publishing Document Builder is updated to align with IBM's open-source Carbon Design System. This modern theme provides a consistent look across IBM Engineering solutions.
 
-### Movie
+### Video
 [Publishing Document Builder:  New look for product and component banners](https://youtu.be/BsnL3-oyzMg)
 
 
@@ -5746,7 +5746,7 @@ You can generate document from GitLab and Github. IBM Engineering Lifecycle Opti
   
 For more information, see Integrating GitLab or GitHub with Engineering Publishing https://www.ibm.com/support/knowledgecenter/SS6RHZ_7.0.1/com.ibm.rational.pe.integration.doc/topics/c_gitlab_integrate.html
 
-### Movie
+### Video
 [Generating documents with JSON data from GitLab](https://youtu.be/Vrwy1CidsAE)
 
 
@@ -5764,7 +5764,7 @@ The process to add connections for resources is now simplified. You can browse a
 For more information, see  
 Managing data sources in Document Builder https://www.ibm.com/support/knowledgecenter/SS6RHZ_7.0.1/com.ibm.rational.pe.web.doc/topics/t_datasource.html
 
-### Movie
+### Video
 [Publishing Document Builder:  Resource picker enhancement](https://youtu.be/8ZeZ6X0AY8w)
 
 
@@ -5779,7 +5779,7 @@ None
 ### Description
 This video provides an overview of the ability to link Git Pull Requests to work items in version 7.0.1 of Engineering Workflow Management.
 
-### Movie
+### Video
 [IBM Engineering Workflow Management - Linking Git Pull Request with work items in EWM 7.0.1](https://youtu.be/BXLXD8W09sE)
 
 
@@ -5794,7 +5794,7 @@ None
 ### Description
 This video introduces Rhapsody Model Manager (RMM) - a web-based repository for Rhapsody models.
 
-### Movie
+### Video
 [Introduction to Rhapsody Model Manager](https://youtu.be/JJiaZ-khYVU)
 
 
@@ -5809,7 +5809,7 @@ None
 ### Description
 The Financial Services sector is under constant regulatory scrutiny and regulation. Risk management and demonstrating compliance to industry standards is crucial. In this video you will see how the IBM Engineering Lifecycle Management (ELM) solution allows the business to easily capture and demonstrate the internal controls it has in place to measure and manage the risks that it faces, as well as reporting and addressing breaches in a timely fashion.
 
-### Movie
+### Video
 [ELM for FSS Compliance](https://youtu.be/RR4TvPeUWpw)
 
 
@@ -5824,7 +5824,7 @@ None
 ### Description
 Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 
-### Movie
+### Video
 [Overview of Engineering Lifecycle Optimization - Publishing (PUB)](https://youtu.be/IqGFNksEDrA)
 
 
@@ -5839,7 +5839,7 @@ None
 ### Description
 Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 
-### Movie
+### Video
 [Overview of Engineering Lifecycle Optimization - Publishing (PUB)](https://youtu.be/Rq0zHFuWPeE)
 
 
@@ -5854,7 +5854,7 @@ Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 ### Description
 Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 
-### Movie
+### Video
 [Overview of Engineering Lifecycle Optimization - Publishing (PUB)](https://youtu.be/Ig3UaF_YKLk)
 
 
@@ -5869,7 +5869,7 @@ Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 ### Description
 Simplified Connection Association
 
-### Movie
+### Video
 [Simplified Connection Association](https://youtu.be/eXYS0Ux68bI)
 
 
@@ -5884,7 +5884,7 @@ Simplified Connection Association
 ### Description
 Document Generation Resilience
 
-### Movie
+### Video
 [Document Generation Resilience](https://youtu.be/Pg4PiMrIBGM)
 
 
@@ -5899,7 +5899,7 @@ None
 ### Description
 This video provides an overview of the ability to create artifact links in the web client of version 7.0.2 of Engineering Workflow Management.
 
-### Movie
+### Video
 [IBM Engineering Workflow Management - Simplified Linking in EWM 7.0.2](https://youtu.be/4JxCxOThpsw)
 
 
@@ -5914,7 +5914,7 @@ None
 ### Description
 This video provides an overview of the ability to create Global Configuration  links in the web client of version 7.0.2 of Engineering Workflow Management.
 
-### Movie
+### Video
 [IBM Engineering Workflow Management - Global Configuration Linking in EWM 7.0.2](https://youtu.be/n4BnRO_umsQ)
 
 
@@ -5930,7 +5930,7 @@ This video provides an overview of the ability to create Global Configuration  l
 Engineering Insights enables you to see the list of current links and their count for the selected node container. It helps you to verify whether every possible link is considered in the dependency analysis.  
 Learn how to generate links information and perform actions.
 
-### Movie
+### Video
 [Viewing current links information](https://youtu.be/ZGGawqKiYdI)
 
 
@@ -5946,7 +5946,7 @@ Learn how to generate links information and perform actions.
 View authors can now save the node definitions as a style and use that style across the views. The view authors can use the style to create a view faster and reduce the time required to format each node.  
 Learn how to use the style across view.
 
-### Movie
+### Video
 [Enhanced view building experience by using styles](https://youtu.be/GGhXZKC5TB8)
 
 
@@ -5965,7 +5965,7 @@ If a report with an LQE data source is incomplete due to different LQE condition
   
 For more information, see Reporting on data in configurations with Report Builder (https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.2/com.ibm.team.jp.jrs.doc/topics/c_jrs_rep_cfgs.html).
 
-### Movie
+### Video
 [Report Builder: Detailed Lifecycle Query Engine status information in Report Builder](https://youtu.be/7ll77maTwGw)
 
 
@@ -5984,7 +5984,7 @@ You can select the Defer scoping by projects with an alternative query checkbox 
   
 For more information, see Optimizing reports (https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.2/com.ibm.team.jp.jrs.doc/topics/t_jrs_create_reports.html#task_optimize).
 
-### Movie
+### Video
 [Report Builder: Generating alternate queries to filter on artifacts before scoping by projects](https://youtu.be/5MAHZF9D7dU)
 
 
@@ -6001,7 +6001,7 @@ The Type to filter text box in Report Builder is replaced with the Search text b
   
 For more information, see Finding and organizing reports in Report Builder (https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.2/com.ibm.team.jp.jrs.doc/topics/t_rb_find_org.html).
 
-### Movie
+### Video
 [Report Builder: Retrieving records using the enhanced Search functionality](https://youtu.be/5d44p8cYWOA)
 
 
@@ -6018,7 +6018,7 @@ You can now replace missing or renamed artifacts from other IBM Engineering Life
   
 For more information, see Repairing reports with missing artifact types or parameters (https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.2/com.ibm.team.jp.jrs.doc/topics/c_rb_replace_missing_artifacts.html).
 
-### Movie
+### Video
 [Report Builder: Repairing reports with missing artifact types or parameters](https://youtu.be/Sjfbvq4V4AE)
 
 
@@ -6033,7 +6033,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [ELM for Medical Devices Act 1 - Design Planning](https://youtu.be/wcV-DohDDoo)
 
 
@@ -6048,7 +6048,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [ELM for Medical Devices Act 2 - Product Requirements](https://youtu.be/UGkLKuzRw4E)
 
 
@@ -6063,7 +6063,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [ELM for Medical Devices Act 3 - Design Input](https://youtu.be/5eJBhl6PQMk)
 
 
@@ -6078,7 +6078,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [ELM for Medical Devices Act 4 - Design Output](https://youtu.be/mv_RPa1F16Q)
 
 
@@ -6093,7 +6093,7 @@ None
 ### Description
 
 
-### Movie
+### Video
 [ELM for Medical Devices Introduction](https://youtu.be/KJtT3Uj6aqI)
 
 
@@ -6108,7 +6108,7 @@ None
 ### Description
 This video demonstrates improvements made for internal transitions and comments of state diagrams.
 
-### Movie
+### Video
 [RSARTE 9.1.2 CP1: State diagram editing improvements](https://youtu.be/44UyGjAn9RM)
 
 
@@ -6123,5 +6123,5 @@ This video demonstrates improvements made for internal transitions and comments 
 ### Description
 Gerrit is a popular code review system that now can be accessed directly from RSARTE using MyLyn. This video gives a short introduction to the main views and work flows provided by the integration.
 
-### Movie
+### Video
 [RSARTE 9.1.2 CP1: Gerrit Integration using MyLyn](https://youtu.be/aLI2q54pnYk)
