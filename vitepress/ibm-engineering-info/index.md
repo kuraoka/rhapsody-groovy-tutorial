@@ -2,7 +2,6 @@
 
 ## Videos
 
-
 ## Creating Reports on Rhapsody Models with Rational Publishing Engine v1.2 (Part 1)
 
 ### PublishedAt
@@ -10,6 +9,40 @@
 
 ### Tags
 ['IBM', 'RPE', 'Rational Publishing Engine', 'reporting', 'document generation', 'document specification', 'document template', 'Rhapsody', 'Rhapsody reporting', 'Rhapsody model', 'casting', 'recursion', 'andy lapping', 'report']
+
+### Description(ja)
+Rhapsodyレポートhttp://pic.dhe.ibm.com/infocenter/rhaphlp/v8/topic/com.ibm.rhp.reporting.doc/topics/rhp_c_rp_rptplus_report_rpe.html  
+DeveloperworksのRPE：https://www.ibm.com/developerworks/wikis/display/rpe/Home  
+RPEブログ：http：//rpeactual.com/  
+RPE1.2インフォセンター：http：//pic.dhe.ibm.com/infocenter/rpehelp/v1r2/index.jsp  
+Rhapsodyコミュニティ：http：//goo.gl/Nw51R  
+RhapsodydeveloperWorks wiki：http://goo.gl/qyJtt  
+  
+  0:00-はじめに  
+  0:42-議事  
+  1:45-RPEコンポーネント  
+  4:10-中央図書館  
+  4:43-オーサリングとパブリッシング  
+  5:25-必要なファイル  
+  7:34-ワークフローを理解する  
+  8:01-データソーススキーマ  
+  9:54-ローカルアプリケーションサーバーを起動します  
+11:59-基本的なドキュメントテンプレートを作成する  
+13:11-データソーススキーマを追加する  
+15:45-コンテナ、段落、テキストを作成する  
+17:46-ドキュメントを生成する  
+20:35-ランチャーの視点  
+21:30-スタイルを追加  
+22:20-要件の表を追加  
+24:18-事前定義されたクエリを使用する  
+24:57-RPEの反復方法  
+26:03-ドキュメントを生成する  
+  
+この2部構成のシリーズは、IBM Rational PublishingEnginev1.2を使用してRhapsodyモデルについてレポートする方法を示しています。  
+  
+第1部では、RPEコンポーネントやワークフロー、ドキュメント仕様とドキュメントテンプレートの作成、データスキーマのポイントと使用など、RPEの一般的な概念について説明します。 Rhapsodyモデルから引き出された要件のテーブルを含む単純なテンプレートを作成する方法を示しています。  
+  
+パート2は、高度な例（ICDの生成とトレーサビリティ）を示しています。また、Rhapsodyモデルにとって再帰とキャストがいかに重要であるかも示しています。
 
 ### Description
 Rhapsody reporting http://pic.dhe.ibm.com/infocenter/rhaphlp/v8/topic/com.ibm.rhp.reporting.doc/topics/rhp_c_rp_rptplus_report_rpe.html  
@@ -57,6 +90,33 @@ Part 2 shows advanced examples (ICD generation and Traceability). It also shows 
 ### Tags
 ['IBM', 'RSA', 'Real-Time Edition', 'RTE', 'v8.5.1', 'new', 'features', 'changes', 'Connector Property page', 'properties', 'tour', 'diagram', 'Mattias', 'build', 'transform', 'configuration', 'search', 'explorer', 'project', 'code', 'edit', 'performance', 'compare', 'merge', 'feedback', 'Mohlin', 'IBM Rational Software Architect']
 
+### Description(ja)
+RSA RTEコミュニティ：http：//goo.gl/AlJ5b  
+  
+ 0:12-ビルドの更新、CDTプロジェクト、および例  
+ 2:30-C ++変換、Doxygenの更新、および例  
+ 4:27-変換、ソースの整理  
+10:27-検索：例を使用して、トリガーイベントを検索します  
+15:03-[NamedElementの検索]ダイアログの改善  
+16:59-NamedElementダイアログの例を検索  
+19:29-ダイアログの検索/置換の改善と例  
+21:51-コードスニペット参照およびモデル検索コマンド  
+23:03-例によるコード編集の改善  
+25:31-例を使用した複数行のデフォルト値のサポート  
+27:13-例を使用したリード生成ソースのコード編集の改善  
+29:17-コード編集、読み取り専用の改善  
+30:40-パフォーマンスの向上  
+32:22-プロジェクトエクスプローラーの改善、状態のフィルタリング  
+34:21-プロパティビューの改善点と例  
+38:07-変換例によるダイアグラム編集の改善  
+41:25-例によるシーケンス図の改善  
+45:19-改善点を例と比較/マージ  
+50:21-...変更のより良いソートと例との競合  
+55:23-比較/マージのための新しいリソース  
+55:43-製品フィードバック-製品エラーとエラーログの送信が可能になりました！  
+  
+このビデオでは、Mattias Mohlinが、Rational Software Architect Real-TimeEditionv8.5.1の新機能セットの詳細を説明します。
+
 ### Description
 RSA RTE Community: http://goo.gl/AlJ5b  
   
@@ -96,6 +156,9 @@ In this video, Mattias Mohlin guides you through an in-depth view at the new fea
 ### Tags
 ['IBM', 'IBM Rational Software Architect', 'Rational Software (Organization)', 'RSA-RTE', 'RSA', 'Real-Time Edition', 'RTE', 'v8.5.1', 'new', 'features', 'changes', 'Connector Property page', 'properties', 'tour', 'diagram', 'Mattias', 'build', 'transform', 'configuration', 'search', 'explorer', 'project', 'code', 'edit', 'performance', 'compare', 'merge', 'feedback', 'Mohlin', 'CP2', 'IBM (Organization)']
 
+### Description(ja)
+RSA RTEコミュニティ：http：//goo.gl/AlJ5b
+
 ### Description
 RSA RTE Community: http://goo.gl/AlJ5b
 
@@ -110,6 +173,27 @@ RSA RTE Community: http://goo.gl/AlJ5b
 
 ### Tags
 ['IBM (Organization)', 'Rational Software (Organization)', 'SysML', 'systems modeling language', 'introduction', 'beginner', 'what is sysml?', 'model-based', 'Systems Engineering (Field Of Study)', 'Unified Modeling Language (Programming Language)', 'UML', 'structural diagrams', 'behavioral diagrams', 'intro', 'requirements', 'use case', 'MDD', 'model-driven development', 'joanne scouler', 'graham bleakley']
+
+### Description(ja)
+詳細情報：http：//www.omg.org/spec/SysML/1.3/およびhttp://www.incose.org  
+  
+0:56-ビデオアジェンダ  
+1:41-リソース  
+3:38-システム開発の課題  
+6:11-伝統的な開発  
+9:14-テキストでのコラボレーション、例  
+9:55-SysMLでのコラボレーション  
+10:41-モデリングの利点  
+12:03-言語仕様  
+13:33-SysMLとUML  
+14:33-SysML仕様図  
+16:10-SysMLダイアグラム情報  
+16:50-ダイアグラムヘッダー  
+18:14-SysML要件要素  
+20:03-要件タイプ  
+21:22-モデルと要件  
+22:14-モデルデータを表示する  
+23:08-要件の関係
 
 ### Description
 Fore more information: http://www.omg.org/spec/SysML/1.3/ and http://www.incose.org  
@@ -144,6 +228,22 @@ Fore more information: http://www.omg.org/spec/SysML/1.3/ and http://www.incose.
 ### Tags
 ['IBM (Organization)', 'Rational Software (Organization)', 'SysML', 'systems modeling language', 'introduction', 'what is sysml?', 'model-based', 'Unified Modeling Language (Programming Language)', 'UML', 'structural diagrams', 'behavioral diagrams', 'intro', 'requirements', 'use case', 'model-driven development', 'joanne scouler', 'graham bleakley', 'dependency', 'generalization', 'include', 'extend', 'matrix', 'scenarios', 'rational rhapsody', 'OSLC']
 
+### Description(ja)
+詳細情報：http：//www.omg.org/spec/SysML/1.3/およびhttp://www.incose.org  
+  
+0:10-なぜユースケースモデリングなのか？  
+2:03-俳優  
+3:12-ユースケース  
+6:50-基本構文  
+7:08-ユースケースの例  
+8:29-ユースケースの関係  
+8:56-ユースケースの一般化  
+9:40-依存関係を含める  
+11:02-依存関係を拡張する  
+14:16-マトリックス  
+15:45-シナリオ  
+16:38-ラプソディデモンストレーション
+
 ### Description
 Fore more info: http://www.omg.org/spec/SysML/1.3/ and http://www.incose.org  
   
@@ -172,6 +272,9 @@ Fore more info: http://www.omg.org/spec/SysML/1.3/ and http://www.incose.org
 ### Tags
 ['Rational Software (Organization)', 'Systems Engineering (Field Of Study)', 'IBM (Organization)', 'ricardo camacho', 'Rational Rhapsody', 'Rhapsody Designer', 'Introduction', 'beginner', 'SSE']
 
+### Description(ja)
+この3部構成のシリーズでは、RationalテクニカルスペシャリストのRicardo Camachoが、システムエンジニアリングの概念と、Rational RhapsodyDesignerv4を介して企業全体およびアプリケーション全体でシステムエンジニアリングがどのように行われるかを紹介します。
+
 ### Description
 In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces you to the concept of Systems Engineering and how it is done across an enterprise and across applications via Rational Rhapsody Designer v4.
 
@@ -186,6 +289,9 @@ In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces 
 
 ### Tags
 ['Rational Software (Organization)', 'Systems Engineering (Field Of Study)', 'IBM (Organization)', 'ricardo camacho', 'Rational Rhapsody', 'Rhapsody Designer', 'Introduction', 'beginner', 'SSE']
+
+### Description(ja)
+この3部構成のシリーズでは、RationalテクニカルスペシャリストのRicardo Camachoが、システムエンジニアリングの概念と、Rational RhapsodyDesignerv4を介して企業全体およびアプリケーション全体でシステムエンジニアリングがどのように行われるかを紹介します。
 
 ### Description
 In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces you to the concept of Systems Engineering and how it is done across an enterprise and across applications via Rational Rhapsody Designer v4.
@@ -202,6 +308,9 @@ In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces 
 ### Tags
 ['Rational Software (Organization)', 'Systems Engineering (Field Of Study)', 'IBM (Organization)', 'ricardo camacho', 'Rational Rhapsody', 'Rhapsody Designer', 'Introduction', 'beginner', 'SSE']
 
+### Description(ja)
+この3部構成のシリーズでは、RationalテクニカルスペシャリストのRicardo Camachoが、システムエンジニアリングの概念と、Rational RhapsodyDesignerv4を介して企業全体およびアプリケーション全体でシステムエンジニアリングがどのように行われるかを紹介します。
+
 ### Description
 In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces you to the concept of Systems Engineering and how it is done across an enterprise and across applications via Rational Rhapsody Designer v4.
 
@@ -217,6 +326,9 @@ In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces 
 ### Tags
 ['Software', 'IBM Rational Software Architect', 'Rational Software (Organization)', 'RSA-RTE', 'RSA', 'Real-Time Edition', 'RTE', 'v8.5.1', 'new', 'features', 'changes', 'Connector Property page', 'properties', 'tour', 'diagram', 'Mattias', 'build', 'transform', 'configuration', 'search', 'explorer', 'project', 'code', 'edit', 'performance', 'compare', 'merge', 'feedback', 'Mohlin', 'CP2', 'IBM (Organization)']
 
+### Description(ja)
+RSA RTEコミュニティ：http：//goo.gl/AlJ5b
+
 ### Description
 RSA RTE Community: http://goo.gl/AlJ5b
 
@@ -231,6 +343,12 @@ RSA RTE Community: http://goo.gl/AlJ5b
 
 ### Tags
 ['IBM Rational Team Concert', 'Builds', 'Accelerated Overview', 'IBM', 'rational software', 'Rational', 'RTC', 'v3.0', 'v3.0.1', 'v4.0', 'v4.0.1']
+
+### Description(ja)
+詳細情報：http：//pic.dhe.ibm.com/infocenter/clmhelp/v4r0m1/index.jsp  
+https://jazz.net/products/clm/  
+  
+このビデオでは、RationalTeamConcertのビルド管理の概要を説明します。
 
 ### Description
 More information: http://pic.dhe.ibm.com/infocenter/clmhelp/v4r0m1/index.jsp   
@@ -250,6 +368,12 @@ This video provides an overview of the Rational Team Concert build management.
 ### Tags
 ['Planning', 'IBM', 'Rational', 'Rational Team Concert', 'RTC', 'v3.0', 'v3.0.1', 'v4.0', 'Accelerated Overview']
 
+### Description(ja)
+詳細情報：http：//pic.dhe.ibm.com/infocenter/clmhelp/v4r0/index.jsp  
+https://jazz.net/products/clm/  
+  
+このビデオでは、RationalTeamConcertの計画の概要を説明します。
+
 ### Description
 More information: http://pic.dhe.ibm.com/infocenter/clmhelp/v4r0/index.jsp   
 https://jazz.net/products/clm/  
@@ -267,6 +391,12 @@ This video provides an overview of the Rational Team Concert planning.
 
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert', 'RTC', 'Jazz', 'v3.0', 'v3.0.1', 'v4.0', 'v4.0.1', 'source control management', 'source code', 'documents', 'artifacts', 'team', 'jazz.net']
+
+### Description(ja)
+詳細情報：http：//pic.dhe.ibm.com/infocenter/clmhelp/v4r0m1/index.jsp  
+https://jazz.net/products/clm/  
+  
+このビデオでは、チームが作成するソースコード、ドキュメント、およびその他のアーティファクトを管理するJazzソース管理の概要を説明します。
 
 ### Description
 More information: http://pic.dhe.ibm.com/infocenter/clmhelp/v4r0m1/index.jsp  
@@ -286,6 +416,12 @@ This video provides an overview of Jazz source control, which manages the source
 ### Tags
 ['IBM (Organization)', 'IBM Rational Team Concert', 'Rational Team Concert', 'RTC', 'v3.0', 'v3.0.1', 'v4.0', 'Rational Software (Organization)', 'overview']
 
+### Description(ja)
+詳細情報：http：//pic.dhe.ibm.com/infocenter/clmhelp/v4r0/index.jsp  
+https://jazz.net/products/clm/  
+  
+このビデオでは、アジャイルチームに高度なコラボレーション開発環境を提供するRationalTeamConcertの概要を説明します。
+
 ### Description
 More information: http://pic.dhe.ibm.com/infocenter/clmhelp/v4r0/index.jsp  
 https://jazz.net/products/clm/  
@@ -303,6 +439,36 @@ This video provides an overview of the Rational Team Concert, which provides agi
 
 ### Tags
 ['Concepts', 'IBM', 'SysML', 'Rational Rhapsody', 'Activity Modeling', 'UML', 'MDD', 'OMG', 'Incose', 'Software', 'Joanne Scouler', 'Andy Lapping', 'systems engineering', 'pins', 'rules', 'swimlanes', 'actions', 'types', 'nodes and edges', 'token flows', 'SysML extensions', 'fork nodes', 'time events', 'interruptible regions', 'signal actions', 'merge nodes', 'object flow', 'Rational Software (Organization)']
+
+### Description(ja)
+0:08-ビデオ議事  
+2:30-ユースケースの次のステップ  
+4:38-SysML仕様図  
+5:19-アクティビティ図が重要なのはなぜですか？  
+7:09-アクティビティモデリング。前書き  
+9:17-アクティビティ図  
+9:57-アクションの定義  
+11:15-トークンフローとフローチャート  
+12:39-トークンフローのセマンティクスなど。  
+14:48-トークンフローのルール、例  
+18:06-ノードとエッジ  
+20:12-基本構文  
+22:02-タイムイベント  
+22:54-中断可能な領域  
+24:26-アクティビティパーティション-スイムレーン  
+25:06-フォークノード  
+29:58-ノードをマージ  
+33:24-オブジェクトフロー  
+36:55-パラメータ、ストリーミング  
+38:40-通話動作  
+39:35-コントロールとオブジェクトフローを組み合わせる  
+40:42-ピンとパラメーター  
+44:24-フォークとジョインの再検討  
+45:53-オブジェクトフローと結合します  
+46:47-エッジルール  
+47:17-エッジの重み  
+48:53-他のタイプの実行可能ノード  
+質問
 
 ### Description
 0:08 - Video agenda  
@@ -345,6 +511,39 @@ Questions
 
 ### Tags
 ['Sequence Diagram', 'Introduction to SysML', 'Software', 'IBM (Organization)', 'Rational Software (Organization)', 'Systems Modeling Language', 'SysML', 'scenario modeling', 'Introduction', 'Rational Rhapsody', 'joanne scouler', 'andy lapping']
+
+### Description(ja)
+0:21-アジェンダ  
+0:56-リソース  
+2:47-SysML仕様図  
+3:36-ユースケースの詳細  
+7:37-ユースケースシナリオとしてのシーケンス図  
+8:47-テキストでの概念的なコラボレーションの例  
+9:37-SysML/UMLを使用した概念的なコラボレーション  
+10:23-シナリオビューの自動生成  
+11:35-シーケンス図が重要なのはなぜですか？  
+12:38-シーケンス図の構文-ライフライン  
+14:33-構文-メッセージ  
+15:58-引数  
+17:04-発生  
+18:21-状態不変  
+19:45-作成/削除メッセージ  
+22:11-遺失物取扱所  
+25:18-処刑  
+27:00-時間  
+29:49-時間を表す  
+31:00-時間の例  
+33:45-スケーラブルなシーケンス図  
+35:07-相互作用フラグメント  
+35:53-インタラクションの使用  
+36:57-結合されたフラグメント  
+39:00-インタラクション演算子の例  
+39:35-結合されたフラグメントのネスト  
+40:39-その他の一般的な相互作用演算子  
+43:43-パーツの分解  
+45:28-まとめ  
+  
+システムモデリング（SysML）の概要：シーケンス図を使用したシナリオモデリング
 
 ### Description
 0:21 - Agenda  
@@ -391,6 +590,34 @@ Introduction to Systems Modeling (SysML): Scenario Modeling with Sequence Diagra
 ### Tags
 ['Rational Rhapsody', 'Workflows', 'Embedded Code Development', 'gavin arthurs', 'code generation', 'IBM (Organization)', 'Rational Software (Organization)', 'GNU/Linux (Operating System)', 'MDD', 'model-driven development', 'demonstration', 'MBSE', 'sub system development', 'Unified Modeling Language (Programming Language)', 'model view', 'behavioral model', 'statecharts', 'components and artifacts', 'IDE', 'host environment', 'test/debug', 'requirements']
 
+### Description(ja)
+00:04-議事  
+01:15-モデルベースのソフトウェア開発成功  
+02:55-モデルベースのシステムエンジニアリングのケーススタディ  
+04:03-サブシステム開発  
+06:00-モデル中心の開発とコード中心の開発  
+12:01-UMLを使用したモデリングソフトウェア-視覚化  
+12:56-抽象化  
+13:56-ビュー  
+15:07-プロトタイプ  
+16:16-コード生成  
+18:49-基本的な開発ワークフロー  
+23:41-オブジェクト実行フレームワーク  
+28:22-アダプタインターフェイス  
+26:53-Windowsアダプター  
+27:08-VxWorksアダプター  
+28:50-ラプソディコード生成  
+31:23-既存のコードを操作するRhapsody  
+34:20-Rhapsodyインターフェースのデモンストレーション  
+  
+IBMRationalSystemsソリューションアーキテクトであるGavinArthursによる組み込みコード開発のためのRationalRhapsodyワークフロー。  
+  
+議題：  
+-モデルベースのソフトウェア開発の成功  
+-モデルベースのソフトウェア開発コンテキスト  
+-Rhapsodyを使用したコード生成ワークフロー  
+-ソフトウェアのデモンストレーション
+
 ### Description
 00:04 - Agenda  
 01:15 - Model-based Software Dev. Success  
@@ -431,6 +658,23 @@ Agenda:
 ### Tags
 ['IBM (Organization)', 'Action Language', 'Rational Rhapsody', 'Rational Software (Organization)', 'Rational', 'v8', 'Ricardo Camacho', 'rhapsody developer', 'rhapsody designer', 'rhapsody architect', 'system engineers', 'Unified Modeling Language (Programming Language)', 'syntax', 'local variables', 'conditional statements', 'for loops', 'statechart operators', 'collections']
 
+### Description(ja)
+0:12-アクション言語  
+2:34-構文  
+4:18-条件文  
+5:20-Forループ  
+6:30-特別なステートチャート演算子  
+7:35-特別なキーワード  
+9:31-基本機能  
+12:28-事前定義されたタイプ  
+13:33-アクション言語のコンテキスト  
+15:40-オートコンプリート  
+16:30-Rhapsodyインターフェースのデモンストレーション  
+  
+IBM Rational Rhapsody v8.0.3（アクション言語はRhapsody v8.0.3で導入されました）とIBMRationalテクニカルスペシャリストのRicardoCamachoによるアクション言語の活用。  
+  
+アクション言語は、より単純で高水準の言語を提供するため、システムエンジニアを対象としています。アクション言語を使用すると、C ++などの特定のプログラミング言語の構文を知らなくても、モデル要素を含むアクションを記述できます。
+
 ### Description
 0:12 - Action Language  
 2:34 - Syntax  
@@ -459,6 +703,30 @@ The action language is targeted at system engineers as it provides a simpler, hi
 
 ### Tags
 ['IBM Rational DOORS', 'Rational Software (Organization)', 'IBM (Organization)', 'interface', 'port', 'handshake', 'specifications', 'reuse', 'requirements', 'receptors', 'Rational Rhapsody', 'Ed Mayer', 'automated meter reader', 'Interface Control Document', 'systems engineering', 'Rational Harmony', 'subsystems interface', 'event', 'reporting']
+
+### Description(ja)
+0:41-ビデオアジェンダ  
+1:10-DOORS /RhapsodyProjectの例  
+2:15-3サブシステム  
+2:30-サブシステムインターフェイス  
+3:48-従来のインターフェースの概念と課題  
+5:18-なぜインターフェースが重要なのですか？  
+6:16-インターフェース制御文書  
+8:11-インターフェースタイプ  
+9:07-インターフェースの仕様  
+11:40-要件の編成  
+13:22-ドキュメント主導のアプローチの課題  
+15:01-システムおよびソフトウェアエンジニアリングのための合理的なソリューション  
+16:03-モデリングの一般的な利点  
+17:07-インターフェースの仕様  
+19:08-システムエンジニアリングモデルベースのプラクティス  
+20:00-RationalHarmonyワークフロー  
+21:05-建築設計  
+21:50-自動化  
+23:46-サブシステムインターフェイス  
+25:00-ラプソディのデモンストレーション  
+  
+RationalDOORSとRhapsodywithEd Mayerを使用して、インターフェース仕様でモデリングを簡素化します。
 
 ### Description
 0:41 - Video Agenda  
@@ -496,6 +764,12 @@ Simplify Modeling with Interface Specifications using Rational DOORS and Rhapsod
 ### Tags
 ['IBM Rational Team Concert', 'Rational Software (Organization)', 'IBM (Organization)', 'shell basic mode', 'sharing', 'share changes', 'v4.0.5', 'manage', 'jazz artifacts', 'repository workspace', 'rational team concert shell', 'team', 'stream', 'files and folders', 'administrator', 'URI', 'source control configuration file']
 
+### Description(ja)
+詳細情報：http：//pic.dhe.ibm.com/infocenter/clmhelp/v4r0m5/index.jsp  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational Team Concert Basicモードの概要を説明します。このモードを使用すると、作業領域をすばやく作成して、チームとのファイルやフォルダーの共有を開始できます。
+
 ### Description
 More information: http://pic.dhe.ibm.com/infocenter/clmhelp/v4r0m5/index.jsp  
 https://jazz.net/products/clm/  
@@ -513,6 +787,45 @@ This video provides an overview of the Rational Team Concert Basic mode, which a
 
 ### Tags
 ['Systems Engineering (Field Of Study)', 'Rational Rhapsody', 'Rational Software (Organization)', 'SE toolkit', 'andy lapping', 'Rational DOORS', 'Rhapsody gateway', 'SysML', 'software automation', 'screnario-driven', 'database', 'consistency checking', 'best practice automation', 'sequence diagram', 'ports', 'interfaces', 'HarmonySE Profile', 'Requirements Analysis (Concepts/Theories)', 'stereotypes']
+
+### Description(ja)
+詳細：http：//merlinscave.info/Merlins_Cave/Welcome.html  
+  
+0:10-AndyLappingの背景  
+1:21-アジェンダ  
+2:08-ハーモニーの概要  
+4:07-統合システム/ソフトウェアワークフロー内の調和  
+4:49-システムエンジニアリングツールキットの自動化  
+6:00-INCOSEの例  
+6:21-Rhapsodyのハーモニープロファイル  
+7:26-HarmonyRhapsodyプロジェクトのプロジェクト構造  
+7:51-SEツールキットを使用してRhapsodyで新しいプロジェクトを作成する  
+10:00-ハーモニーツールキットプロジェクトパッケージ  
+10:50-要件分析フェーズ-ドア  
+11:26-ゲートウェイを介した要件の管理  
+11:56-ゲートウェイウィザードを介してDOORSから要件をインポートする  
+14:11-要件をユースケースに関連付ける  
+15:27-ビューを介して要件のトレーサビリティを作成する  
+17:30-モデリングツールボックス：依存関係を作成する  
+19:24-機能分析  
+21:44-機能的なユースケースを作成する  
+23:47-システム機能と機能フローを定義する  
+24:44-俳優ピン  
+25:36-メッセージアクション  
+26:00-アクション  
+30:00-シーケンス図を使用したシナリオ  
+36:36-ポートとインターフェースを定義する  
+42:58-状態モデリング：アクターとシステムのステートマシン  
+47:11-待機状態  
+47:47-アクションを送信する  
+48:00-アクションの状態  
+50:28-モデルを実行して検証する  
+53:45-デザインの統合  
+54:50-建築設計  
+1:05:28-詳細設計  
+1:07:21-その他のリソース  
+  
+AndyLappingを使用するシステムエンジニア向けのRationalRhapsodyHarmonyToolkitの概要。
 
 ### Description
 More info: http://merlinscave.info/Merlins_Cave/Welcome.html  
@@ -565,6 +878,26 @@ Introduction to the Rational Rhapsody Harmony Toolkit for Systems Engineers with
 ### Tags
 ['Reverse Engineering', 'Existing Code', 'Rational Rhapsody', 'reuse', 'Rational Software (Organization)', 'IBM (Organization)', 'ed mayer']
 
+### Description(ja)
+01:00-なぜ既存のコードを再利用するのですか？  
+02:59-成功へのステップ  
+05:42-アーキテクチャ図の作成  
+06:54-関係を視覚化するUMLパッケージ図  
+09:57-操作フローチャート  
+11:07-UMLシーケンス図  
+13:05-インポートされたソースコードがシーケンス図で実行されました  
+14:35-モデル中心、コード中心、コード認識アプローチ  
+18:04-動的モデルコードの結合性  
+20:11-再利用、再構築の例  
+21:51-コード中心の例  
+22:25-ラプソディの例  
+29:50-モデル中心の例  
+42:25-コード対応の例  
+47:48-まとめ  
+49:24-質問  
+  
+IBM RationalRhapsodyとRationalテクニカルスペシャリストのChristopherCarsonによるアーキテクチャー分析を通じて、リバースエンジニアリングを行い、既存のコードを再利用します。
+
 ### Description
 01:00 - Why reuse existing code?  
 02:59 - Steps to success  
@@ -596,6 +929,29 @@ Reverse Engineer and reuse existing code through architectural analysis with IBM
 
 ### Tags
 ['Rational Software (Organization)', 'Rhapsody', 'model-based study', 'introduction', 'rational rhapsody', 'SysML', 'Systems Engineering (Field Of Study)', 'Gavin Arthurs', 'systems solution architect']
+
+### Description(ja)
+0:16-ビデオ議事  
+1:11-モデルベースのシステムエンジニアリング  
+2:44-貿易調査とは何ですか？  
+6:06-システムエンジニアリングのベストプラクティス  
+10:04-SysMLパラメトリック図  
+13:16-SysML制約ブロック  
+15:44-ConstraintProperties  
+17:20-アーキテクチャの分析  
+18:43-問題の定義と要件の例  
+20:00-主要なシステム機能を特定する  
+24:32-MOEの決定  
+26:43-SysML制約を使用したモデリング  
+28:51-派生値とMOEの計算  
+31:28-代替アーキテクチャの定義  
+32:24-目標表の計算  
+33:27-成功例と動機  
+35:56-まとめ  
+37:58-その他のリソース  
+41:51-体重などの値の変更  
+  
+Rational Systems SolutionArchitectのGavinArthursによる、SysMLとRationalRhapsodyを使用したモデルベースのトレードスタディの概要。
 
 ### Description
 0:16 - Video agenda  
@@ -631,6 +987,31 @@ Introduction to Model-Based Trade Studies with SysML and Rational Rhapsody by Ga
 
 ### Tags
 ['Model-based Testing', 'Rational Software (Organization)', 'rhapsody', 'IBM (Organization)', 'concept', 'introduction', 'Ron Felice', 'UML', 'testing methodology', 'test architecture', 'test case', 'scenario', 'diagram']
+
+### Description(ja)
+00:07-モデルベーステストとは何ですか？  
+01:43-従来のテスト方法の失敗  
+02:44-なぜモデルベースの開発とテストを使用するのですか？  
+04:08-UMLプロファイルの概要  
+04:53-UMLテストの目標  
+05:47-UMLテストプロファイルの概要  
+09:35-モデルベースのテストを有効にする  
+09:58-UMLでテストケースをキャプチャする  
+13:06-設計とテストを統合する  
+14:07-品質を自動化  
+15:58-要件主導のテスト  
+17:24-SDLCでのモデルベースのテスト  
+18:17-結果カバレッジをテストするための要件  
+20:42-RhapsodyTestConductorアドオン  
+22:17-TestConductorとRQMの統合  
+24:00-RQMとの統合  
+24:50-テスト容易性のための設計  
+27:59-RationalTestRealTime統合によるコード検証  
+28:38-iPLON  
+29:46-よりスマートなエネルギー計測  
+  
+  
+モデルベースのテスト：コンセプトからRonFeliceによるカバレッジまで
 
 ### Description
 00:07 - What is Model based testing?  
@@ -669,6 +1050,29 @@ Model Based Testing: From Concept to Coverage with Ron Felice
 ### Tags
 ['hardware', 'software', 'co-design', 'SysML', 'System C', 'Rational Rhapsody', 'Sodius', 'IBM (Organization)', 'Systems Engineering (Field Of Study)', 'systems modeling language', 'System-level design', 'SystemC', 'introduction', 'code generation', 'case studies']
 
+### Description(ja)
+00:35-議事  
+01:00-システムレベルの設計上の課題  
+02:18-SysMLを使用して課題に対応  
+03:35-SysMLの基本  
+05:36-なぜシステムアーキテクチャを定義するのですか？  
+06:17-SysMLシステムオンチップ（SOC）  
+07:09-SysML構造ビュー  
+07:33-SysMLシーケンス図  
+09:30-ラプソディとは？  
+10:58-SysMLからのSystemCコード生成  
+11:31-HW/SWシステムワークフロー  
+14:11-SystemC用のMDGen  
+18:34-SysMLを使用したハードウェアのモデリング  
+23:30-コード生成の概要-C/C++およびSystemC  
+24:42-抽象化レベル  
+26:52-非時限/時限モデル-シーケンス図  
+27:50-ケーススタディ  
+30:00-まとめ  
+32:00-質問  
+  
+ハードウェア/ソフトウェアの共同設計：RhapsodyとSodiusのSysMLとシステムC、シニアプロダクトマネージャーのRickBoldtとソリューションディレクターのSandeepDesai。
+
 ### Description
 00:35 - Agenda  
 01:00 - System level design challenges  
@@ -704,6 +1108,9 @@ Hardware/Software Co-Design: SysML and System C in Rhapsody and Sodius with Rick
 ### Tags
 ['IBM Personal Computer (Computer)', 'Rational Software (Organization)', 'Importing Models and Design', 'Rational Rhapsody', 'import', 'reuse', 'migrate', 'reverse engineering', 'XMI', 'legacy', 'third party code', 'importing', 'rational rose', 'sparx systems', 'system architect', 'customize', 'RulesComposer', 'enterprise architect', 'import model']
 
+### Description(ja)
+IBMRationalのPaulUrbanとSodiusのTomCapelleを使用して、モデルと設計をRationalRhapsodyにインポートします。
+
 ### Description
 Importing Models and Design into Rational Rhapsody with Paul Urban of IBM Rational and Tom Capelle of Sodius.
 
@@ -718,6 +1125,23 @@ Importing Models and Design into Rational Rhapsody with Paul Urban of IBM Ration
 
 ### Tags
 ['IBM (Organization)', 'Rational Software (Organization)', 'rhapsody', 'model execution', 'requirements', 'requirements management', 'Requirements Analysis (Concepts/Theories)', 'verify', 'verification', 'Systems Engineering (Field Of Study)', 'SSE', 'Requirements Engineering', 'validation', 'change impact', 'modeling', 'SysML', 'Systems Modeling Language']
+
+### Description(ja)
+00:56-要件エンジニアリングVモデル  
+01:21-なぜ製品が失敗するのですか！？！？！  
+02:00-不十分な要件エンジニアリングのビジネスへの影響  
+03:47-要件エンジニアリングの定義  
+06:10-要件の課題  
+08:54-要求工学におけるモデリング  
+11:13-モデルベースのシステムエンジニアリング（MBSE）とは何ですか？  
+12:57-システムエンジニアリングワークフロー  
+14:31-IBMRationalのMBSE  
+15:49-要求工学におけるモデリング  
+17:50-例を含むアクティビティビューとシーケンスビューの重要性  
+19:27-まとめ  
+20:53-ラプソディデモンストレーション  
+  
+北米のソリューションアーキテクトであるRonFeliceと、RationalRhapsodyでのモデル実行による要件の検証。
 
 ### Description
 00:56 - Requirements Engineering V-model  
@@ -747,6 +1171,30 @@ Verify Requirements through Model Execution in Rational Rhapsody with Ron Felice
 
 ### Tags
 ['Application Programming Interface (Ontology Class)', 'Rational Software (Organization)', 'IBM (Organization)', 'justin dyer', 'API', 'Java (UoA Technology)', 'C++', 'Rational Rhapsody', 'SSE', 'systems solutions', '.hep file', 'COM', 'Rhapsody helper', 'plugins', 'examples', 'extend Rhapsody', 'RTC']
+
+### Description(ja)
+詳細：http：//pic.dhe.ibm.com/infocenter/rhaphlp/v8/nav/24  
+http://www-01.ibm.com/support/docview.wss?uid=swg27017178  
+https://www.ibm.com/developerworks/mydeveloperworks/groups/service/html/communityview?communityUuid=969f1342-9137-406d-81f5-7f082a7c646d  
+  
+0:44-はじめに  
+2:25-合理的なシステムとソフトウェアエンジニアリング  
+4:27-ラプソディの機能と利点  
+7:03-Rhapsodyを拡張するさまざまな方法  
+13:38-なぜRhapsodyを拡張するのですか？例....  
+16:19-APIの使用  
+17:19-COMまたはJavaAPI？  
+18:53-JavaAPIの使用を開始する  
+20:34-例-RationalTeamConcertEclipseクライアントでのAPIの作成  
+30:55-ヘルパー  
+32:20-ヘルパーを追加する  
+33:17-例-Rhapsodyのヘルパー  
+36:57-プラグイン  
+38:08-.hepファイル  
+38:58-例-Rhapsodyのプラグイン  
+44:21-外部ツール統合用のAPI-人気があります！  
+45:51-CLIを介したタスクの自動化  
+47:27-ヘルプリソース
 
 ### Description
 More info: http://pic.dhe.ibm.com/infocenter/rhaphlp/v8/nav/24  
@@ -784,6 +1232,9 @@ https://www.ibm.com/developerworks/mydeveloperworks/groups/service/html/communit
 ### Tags
 ['IBM (Organization)', 'Rational Software (Organization)', 'legacy applications', 'multicore', 'migrating', 'Computer Hardware (Industry)', 'Rational Rhapsody', 'Thomas Hall']
 
+### Description(ja)
+ThomasHallとRationalRhapsodyを使用した新しいハードウェアのレガシーアプリケーションの移行。
+
 ### Description
 Migrating Legacy Applications for New Hardware using Rational Rhapsody with Thomas Hall.
 
@@ -798,6 +1249,35 @@ Migrating Legacy Applications for New Hardware using Rational Rhapsody with Thom
 
 ### Tags
 ['Systems Modeling Language', 'Systems Modeling', 'SysML', 'Basic Structural Modeling', 'IBM (Organization)', 'Rational Software (Organization)', 'Rational Rhapsody', 'Introduction']
+
+### Description(ja)
+00:28-議事  
+01:12-リソース  
+03:00-SysML仕様図  
+03:40-SysML構造図タイプ  
+04:40-SysMLブロック：SysMLの基本単位  
+05:30-ブロック機能、タイプ  
+08:40-ブロック値のプロパティ  
+10:12-値の型と例  
+12:20-ブロックパーツ、パーツプロパティ  
+13:33-ブロック定義図でのパーツの関連付け  
+14:54-多重度  
+15:38-グラフィカルパス  
+16:15-依存関係  
+17:17-参照の関連付け  
+18:04-共有アソシエーション  
+19:20-一般化  
+20:33-内部ブロック図の関係  
+21:56-内部ブロック図のコネクタ  
+23:15-内部ブロック図の例  
+24:00-デフォルトのプロパティ、インスタンスの仕様、例  
+28:21-リンク、要約例  
+34:00-フロープロパティ、モデリングフロー  
+36:13-コネクタとアイテムフロー  
+39:09-まとめ  
+42:00-質問と回答  
+  
+完全なOMGSysML仕様-http://www.omg.org/spec/SysML/1.3/
 
 ### Description
 00:28 - Agenda  
@@ -840,6 +1320,9 @@ complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 ### Tags
 ['Unified Modeling Language (Programming Language)', 'rational software architect', 'IBM (Organization)', 'Rational Software (Organization)']
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -854,6 +1337,9 @@ complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -870,6 +1356,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -884,6 +1373,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -900,6 +1392,9 @@ None
 ### Tags
 ['rational software architect', 'IBM (Organization)', 'Rational Software (Organization)']
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -914,6 +1409,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -930,6 +1428,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -944,6 +1445,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -960,6 +1464,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -975,6 +1482,9 @@ None
 ### Tags
 ['Unified Modeling Language (Programming Language)', 'IBM (Organization)', 'Introduction', 'Rational Software (Organization)']
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -989,6 +1499,11 @@ None
 
 ### Tags
 ['ibm', 'rational', 'rhapsody', 'reporterplus', '8.0', 'template', 'open', 'modify', 'report']
+
+### Description(ja)
+このビデオは、IBM Education Assistant for Rationalで表示またはダウンロードできます：http：//ibm.co/1kT9uEm  
+  
+IBM RationalRhapsodyV8.0用のReporterPLUSクライアントでテンプレートを開いて変更するデモ。
 
 ### Description
 You can view or download this video in IBM Education Assistant for Rational: http://ibm.co/1kT9uEm  
@@ -1007,6 +1522,11 @@ A demonstration of opening and modifying templates in the ReporterPLUS client fo
 ### Tags
 ['IBM', 'Rational Programming Patterns', 'RPP', 'perspective', 'views', 'Rational Software (Organization)']
 
+### Description(ja)
+詳細情報：http：//www.ibm.com/support/knowledgecenter/SSKPEG_9.1.0  
+  
+このビデオでは、開発者が日常の開発タスクを行うのに役立つRationalProgrammingPatternsの主な機能のいくつかを紹介します。
+
 ### Description
 More information: http://www.ibm.com/support/knowledgecenter/SSKPEG_9.1.0  
   
@@ -1023,6 +1543,20 @@ This video presents some of the main features of Rational Programming Patterns t
 
 ### Tags
 ['IBM (Organization)', 'Rational Software (Organization)', 'SysML', 'State Modeling', 'Transitions', 'events', 'junctions', 'nested states', 'concepts', 'introduction', 'beginner', 'Systems modeling language', 'Rational Rhapsody']
+
+### Description(ja)
+このビデオでは、JoanneScoulerとAndyLappingが、次の基本的なSysMLの概念を定義して示しています。  
+  
+-状態-1：39  
+-トランジション-4:29  
+-イベント-7:18  
+-トリガー、ガード、エフェクト-9:13  
+-ジャンクション-18:39  
+-タイムイベント-25:09  
+-ネストされた状態-27:58  
+-直交（同時）状態-35:40  
+-履歴コネクタ-43:55  
+-まとめ-45:00
 
 ### Description
 In this video Joanne Scouler and Andy Lapping define and demonstrate the following basic SysML concepts:  
@@ -1050,6 +1584,13 @@ In this video Joanne Scouler and Andy Lapping define and demonstrate the followi
 ### Tags
 ['Unified Modeling Language (Programming Language)', 'Rational Rhapsody', 'Rational Software (Organization)', 'IBM (Organization)']
 
+### Description(ja)
+このビデオでは、RationalSolutionアーキテクトのGavinArthursが次の手順を説明します。  
+-モデルベースのソフトウェア開発の成功  
+-ソフトウェアベースのモデル開発のコンテキスト  
+-IBMRationalRhapsodyでのコード生成ワークフロー  
+-IBMRationalRhapsodyでさまざまなランタイム環境をデモンストレーションします
+
 ### Description
 In this video Rational Solution Architect Gavin Arthurs walks you through:  
 - Success of model-based software development  
@@ -1069,6 +1610,9 @@ In this video Rational Solution Architect Gavin Arthurs walks you through:
 ### Tags
 ['Rational Software (Software Developer)', 'Rational DOORS', 'IBM (Award Winner)', 'DOORS Next Generation', 'DNG', 'Introduction', 'Overview', 'Software (Industry)']
 
+### Description(ja)
+今日、Doors Next Generationの無料トライアルをチェックして、要件管理がどのように再定義されているかを確認してください：http://ibm.co/DNGTrial。このビデオでは、iZTechInc.のIanZimmermanが、要件管理ツールを使用する理由、現在のDOORSとDOORS NG、DOORS NGの主な機能、そしてDOORSNextGenerationのデモンストレーションについて説明します。
+
 ### Description
 Check out the Doors Next Generation free trial today and see how it has requirements management redefined: http://ibm.co/DNGTrial. In this video Ian Zimmerman from iZTech Inc. teaks you through why you should use a requirements management tool, current DOORS vs. DOORS NG, key features of DOORS NG, and then a demonstration of DOORS Next Generation....
 
@@ -1083,6 +1627,9 @@ Check out the Doors Next Generation free trial today and see how it has requirem
 
 ### Tags
 ['IBM', 'port wizards', 'andy lapping', 'ports', 'rhapsody', 'modeling']
+
+### Description(ja)
+このビデオデモンストレーションでは、技術スペシャリストのAndyLappingがIBMRhapsodyのポートウィザードを定義してデモンストレーションします。
 
 ### Description
 In this video demonstration, technical specialist Andy Lapping defines and demonstrates Port Wizards in IBM  Rhapsody.
@@ -1099,6 +1646,9 @@ In this video demonstration, technical specialist Andy Lapping defines and demon
 ### Tags
 ['andy lapping', 'stereotype', 'helpers', 'ibm', 'rhapsody', 'modeling']
 
+### Description(ja)
+このビデオデモンストレーションでは、技術スペシャリストのAndy Lappingが、IBMRhapsodyの標準コンテンツとステレオタイプベースのヘルパーの概念を定義してデモンストレーションします。
+
 ### Description
 In this video demonstration, technical specialist Andy Lapping defines and demonstrates the concepts of standard content and stereotype-based helpers in IBM Rhapsody.
 
@@ -1113,6 +1663,9 @@ In this video demonstration, technical specialist Andy Lapping defines and demon
 
 ### Tags
 ['IBM', 'rhapsody', 'modeling', 'andy lapping']
+
+### Description(ja)
+このビデオでは、技術スペシャリストのAndy Lappingが、IBMRhapsody内のサイドバーに表示されるガイド付きヘルプトピックを紹介します。これらのトピックは非常に便利であるだけでなく、すばやく簡単に見つけることができます。
 
 ### Description
 In this video technical specialist Andy Lapping takes you through the guided help topics that appear in a sidebar within IBM  Rhapsody. These topics can be very useful as well as quick and easy to find.
@@ -1129,6 +1682,9 @@ In this video technical specialist Andy Lapping takes you through the guided hel
 ### Tags
 ['IBM', 'rhapsody', 'modeling', 'andy lapping']
 
+### Description(ja)
+このビデオでは、技術スペシャリストのAndy Lappingが、クエリを使用してモデル、ブラウザ、図をフィルタリングしたり、指標を生成したりする方法を説明しています。
+
 ### Description
 In this video technical specialist Andy Lapping guides you through using Queries to filter your model, browser, diagrams, generate metrics, and more.
 
@@ -1144,6 +1700,9 @@ In this video technical specialist Andy Lapping guides you through using Queries
 ### Tags
 None
 
+### Description(ja)
+このビデオでは、シニアシステムエンジニアのThomas Hallが、IBM Rational Rhapsodyのリバースエンジニアリングを介して既存のソフトウェアコードを再利用する方法を紹介します。そうすることで、製品の市場投入までの時間、製品の品質とパフォーマンスを改善し、リスクを最小限に抑えます。
+
 ### Description
 In this video senior systems engineer Thomas Hall shows you how to reuse existing software code via reverse engineering in IBM Rational Rhapsody and in so doing, improve product time to market, product quality and performance, and minimize risk.
 
@@ -1158,6 +1717,30 @@ In this video senior systems engineer Thomas Hall shows you how to reuse existin
 
 ### Tags
 ['Systems Modeling Language', 'Systems Modeling', 'Rational Rhapsody', 'Advanced Structural modeling', 'SysML', 'Ports', 'Example', 'Connect Ports', 'interface blocks', 'flow properties', 'implicit mapping', 'behavioral', 'delegation', 'nesting', 'nested proxy ports']
+
+### Description(ja)
+1:10-議題  
+2:23-リソース  
+3:30-SysML仕様図  
+5:40-ポート  
+13:54-フルポート  
+14:55-プロキシポート  
+16:29-インターフェースブロック  
+18:50-ポートとフロープロパティ  
+20:29-ポートを接続する  
+22:24-インターフェースブロックの有向機能  
+27:00-例  
+29:55-ポート機能間のマッピング  
+31:00-暗黙的なマッピング  
+32:39-明示的なマッピング  
+35:48-行動vs.委任（ポート）  
+38:48-ネストポート  
+39:41-ネストされたプロキシポート  
+43:44-投票の質問  
+  
+このビデオでは、JoanneScoulerとAndyLappingが、システムモデリング言語（SysML）の詳細な説明をもう一度紹介します。今回は、高度な構造モデリングに焦点を当てています。  
+  
+完全なOMGSysML仕様-http://www.omg.org/spec/SysML/1.3/
 
 ### Description
 1:10 - Agenda  
@@ -1195,6 +1778,9 @@ complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 ### Tags
 ['IBM (Organization)', 'Rational Software (Organization)', 'Rational Rhapsody', 'TestConductor', 'Testing', 'Software Testing (Software)', 'usage', 'dependencies', 'functions']
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -1209,6 +1795,11 @@ complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 
 ### Tags
 ['IBM', 'Rational', 'JRS', 'Jazz Reporting Service', 'cross-project', 'report', 'data collection', 'artifact', 'project', 'conditions']
+
+### Description(ja)
+このビデオは、IBM JazzReportingServiceを使用してプロジェクト間レポートを作成する方法を示す3つのうちの最初のビデオです。  
+  
+このビデオでは、レポートするアーティファクトタイプと、そのアーティファクトタイプについてレポートするプロジェクトを選択します。次に、条件を作成します...
 
 ### Description
 This video is the first of three that shows how to create a cross-project report by using the IBM Jazz Reporting Service.   
@@ -1227,6 +1818,9 @@ In this video, you select the artifact type to report on, and the projects to re
 ### Tags
 ['IBM', 'CLM', 'JRS', 'Jazz Reporting Service', 'reporting', 'dashboard', 'cross-projects', 'manage', 'share', 'report', 'tags', 'group', 'find report', 'details', 'description', 'widget', 'catalogue']
 
+### Description(ja)
+このビデオは、IBM JazzReportingServiceを使用してプロジェクト間レポートを作成する方法を示す3つのうちの3つ目です。このビデオでは、レポートの可視性を指定したり、タグを使用してレポートを関連するレポートとグループ化したり、レポートを見つけやすくしたりします。
+
 ### Description
 This video is the third of three that shows how to create a cross-project report by using the IBM Jazz Reporting Service. In this video you specify the visibility of your report, use tags to group your report with related reports, or to make your report easy to find.
 
@@ -1241,6 +1835,11 @@ This video is the third of three that shows how to create a cross-project report
 
 ### Tags
 ['SQL Server Reporting Services', 'JRS', 'IBM', 'Rational', 'CLM', 'cross-project']
+
+### Description(ja)
+詳細については、https：//jazz.net/library/article/1417をご覧ください。  
+  
+このビデオは、IBM JazzReportingServiceを使用してプロジェクト間レポートを作成する方法を示す3つのうちの2つ目です。
 
 ### Description
 For more info: https://jazz.net/library/article/1417  
@@ -1258,6 +1857,17 @@ This video is the second of three that shows how to create a cross-project repor
 
 ### Tags
 ['Rational Software (Software Developer)', 'IBM Rational Software Architect (Software)', 'v9.1.1', "What's New", 'Introduction', 'Elena Strabykina']
+
+### Description(ja)
+0:11-新機能の概要  
+1:02-TC内の欠落しているソース要素の自動検出  
+3:28-ぶら下がっている断片の検出  
+4:30-リッチテキストエディタの改善  
+5:22-ダイアグラムの改善  
+6:37-新しいUI設定  
+7:47-特定のパッケージをソースとして持つすべてのTCを検索  
+  
+このビデオでは、Elena Strabykinaが、RSARTEv9.1.1の新機能について説明します。
 
 ### Description
 0:11 - Overview of New Features  
@@ -1282,6 +1892,12 @@ In this video Elena Strabykina takes you through what is new in RSA RTE v9.1.1
 ### Tags
 ['Rational Software (Software Developer)', 'Rational Team Concert', 'IBM', 'Rational', 'RTC', 'v4.0.3', 'v4.0.4', 'v4.0.5']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.5/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational Team Concert Shellでフォルダーを共有し、変更を配信する方法について説明します。
+
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.5/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1299,6 +1915,12 @@ This video describes how to share a folder and deliver changes in the Rational T
 
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert Advanced mode', 'RTC', 'v4.0.3', 'v4.0.4', 'v4.0.5']
+
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.5/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertShellでチームの招待を受け入れる方法について説明します。
 
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.5/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1318,6 +1940,9 @@ This video describes how to accept a team invitation in the Rational Team Concer
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert Advanced mode', 'RTC', 'v4.0.3', 'v4.0.4', 'v4.0.5', 'Rational Software (Software Developer)']
 
+### Description(ja)
+このビデオでは、RationalTeamコンサートシェルでプリファレンスを設定する方法について説明します。
+
 ### Description
 This video describes how to set preferences in the Rational Team Concert Shell.
 
@@ -1332,6 +1957,14 @@ This video describes how to set preferences in the Rational Team Concert Shell.
 
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert Advanced mode', 'RTC', 'v4.0.3', 'v4.0.4', 'v4.0.5', 'Software (Industry)', 'Rational Software (Software Developer)']
+
+### Description(ja)
+詳しくは：  
+  
+http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.5/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertShellでリポジトリワークスペースを作成する方法について説明します。
 
 ### Description
 More information:  
@@ -1353,6 +1986,12 @@ This video describes how to create a repository workspace in the Rational Team C
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert Advanced mode', 'RTC', 'v4.0.3', 'v4.0.4', 'v4.0.5', 'resolve', 'conflict']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.5/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、RationalTeamコンサートシェルの競合を解決する方法について説明します。
+
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.5/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1371,6 +2010,12 @@ This video describes how to resolve a conflict in the Rational Team Concert Shel
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert Advanced mode', 'RTC', 'v4.0.3', 'v4.0.4', 'v4.0.5', 'Rational Software (Software Developer)']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.5/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、RationalTeamコンサートシェルでJazzプロパティを操作する方法について説明します。
+
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.5/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1388,6 +2033,13 @@ This video describes how to work with Jazz properties in the Rational Team Conce
 
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert client for Microsoft Visual Studio IDE', 'RTC', 'v4.0.3', 'work item', 'microsoft', 'visual studio']
+
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+RTCの拡張：https：//rsjazz.wordpress.com/2014/12/03/creating-custom-link-types-for-rational-team-concert/  
+  
+このビデオでは、Microsoft VisualStudioIDE用のRationalTeamConcertクライアントでワークアイテムを作成する方法について説明します。
 
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1408,6 +2060,13 @@ This video describes how to create a work item in the Rational Team Concert clie
 ### Tags
 ['Rational Team Concert', 'Microsoft Visual Studio (Software)', 'Rational Software (Software Developer)', 'Integrated Development Environment (Software Genre)', 'IBM', 'plan']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+RTCの拡張：https：//rsjazz.wordpress.com/2014/12/03/creating-custom-link-types-for-rational-team-concert/  
+  
+このビデオでは、Microsoft VisualStudioIDE用のRationalTeamConcertクライアントでプランを作成する方法について説明します。
+
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1427,6 +2086,11 @@ This video describes how to create a plan in the Rational Team Concert client fo
 ### Tags
 ['IBM', 'Rational', 'Jazz Reporting', 'JRS', 'Traceability', 'Graphics', 'outliers', 'dashboards', 'team', 'across projects']
 
+### Description(ja)
+詳細：https：//jazz.net/downloads/jazz-reporting-service/  
+  
+このビデオでは、Jazz Reporting Specialistsが、IBM Rational Jazz Reporting Services（JRS）v5.0.2の新機能について説明します。プロジェクトおよびチーム全体のライフサイクルアーティファクトをレポートに取り込むことができるようになりました。トレーサビリティとレポートをグラフまたは表で簡単に作成できるようになったため、企業全体で情報を簡単に共有できます。もっと...
+
 ### Description
 More info: https://jazz.net/downloads/jazz-reporting-service/  
   
@@ -1444,6 +2108,9 @@ In this video Jazz Reporting Specialists take you through the new features of IB
 ### Tags
 ['IBM', 'Rational Rhapsody', 'Tables', 'Rational Software (Software Developer)', 'Telelogic Rhapsody (Software)', 'Software (Industry)', 'relationships', 'artifacts', 'elements', 'attributes', 'ports', 'interfaces', 'links', 'connectors', 'modeling', 'andy lapping']
 
+### Description(ja)
+このビデオでは、Andy Lappingが、ユースケース図のアーティファクトの活用など、Rhapsodyテーブルのより高度な使用方法について説明します。
+
 ### Description
 In this video Andy Lapping takes you through more advanced used of Rhapsody tables including leveraging artifacts in Use Case diagrams.
 
@@ -1458,6 +2125,9 @@ In this video Andy Lapping takes you through more advanced used of Rhapsody tabl
 
 ### Tags
 ['Knowledge (Quotation Subject)', 'relm', 'rational', 'engineering lifecycle management', 'ibm', 'analyzing data', 'integration', 'unlocking engineering knowledge', 'Rational Engineering Manager', 'RELM', 'Joanne L Scouler', 'Joanne Scouler', 'Ron Felice']
+
+### Description(ja)
+JoanneScoulerとRonFeliceが、環境内の解放されていないデータと知識を発見する方法を説明します。
 
 ### Description
 Follow Joanne Scouler and Ron Felice as they walk you through discovering the unliberated data and knowledge in your environment.
@@ -1474,6 +2144,9 @@ Follow Joanne Scouler and Ron Felice as they walk you through discovering the un
 ### Tags
 ['Telelogic Rhapsody (Software)', 'Rational Software (Software Developer)', 'Rational Rhapsody', 'Context Patterns', 'Table Views', 'IBM', 'rhapsody education', 'andy lapping', 'modeling', 'rhapsody']
 
+### Description(ja)
+Rational Rhapsodyユーザー向けのこの必見のビデオでは、RhapsodyのエキスパートでテクニカルスペシャリストのAndy Lappingが、Rhapsodyテーブルのコンテキストパターンの強力な機能を使用して説明します。
+
 ### Description
 In this must-see video for Rational Rhapsody users, Rhapsody expert and Technical Specialist Andy Lapping takes you through using the powerful capability of Context Patterns in Rhapsody tables.
 
@@ -1488,6 +2161,9 @@ In this must-see video for Rational Rhapsody users, Rhapsody expert and Technica
 
 ### Tags
 ['Telelogic Rhapsody (Software)', 'Rational Software (Software Developer)', 'Application Programming Interface (Literature Subject)', 'Data (Dimension)', 'Table', 'IBM', 'Rational software', 'property', 'andy lapping', 'modeling', 'rhapsody']
+
+### Description(ja)
+このセッションでは、Andy Lappingが、APIを使用してテーブルデータにデータを入力する方法について説明します。これは、IBMIBMRhapsodyテーブルを使用した一連の詳細な3番目のビデオです。テーブルは、他の用途のためにプロジェクトモデルデータを収集および配置するための強力な方法です。
 
 ### Description
 In this session Andy Lapping takes you through using the API to populate table data. This is the 3rd video in a series of using IBM IBM Rhapsody tables, in-depth. Tables can be a powerful way of collecting and arranging project model data for other uses.
@@ -1504,6 +2180,9 @@ In this session Andy Lapping takes you through using the API to populate table d
 ### Tags
 ['Rational Software (Software Developer)', 'Rational Team Concert', 'Software (Industry)', 'custom', 'work item', 'tab', 'user', 'v4.0.6', 'v5.0', 'education', 'software', 'RTC']
 
+### Description(ja)
+このビデオでは、IBM Rational Team ConcertのWebクライアントを介して、必要な属性（この場合はコード・レビューア）を作成する方法について説明します。
+
 ### Description
 This video describes how to create a required attribute - in this case a code reviewer - through the web client for IBM Rational Team Concert.
 
@@ -1518,6 +2197,12 @@ This video describes how to create a required attribute - in this case a code re
 
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert client for Microsoft Visual Studio IDE', 'RTC', 'v4.0.3']
+
+### Description(ja)
+http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Microsoft VisualStudioIDE用のRationalTeamConcertクライアントで変更を提供して作業項目を解決する方法について説明します。
 
 ### Description
 http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1537,6 +2222,12 @@ This video describes how to deliver changes and resolve a work item in the Ratio
 ### Tags
 ['Integrated Development Environment (Software Genre)', 'Microsoft Visual Studio (Software)', 'Rational Team Concert', 'Rational Software (Software Developer)', 'Microsoft Corporation (Venture Funded Company)', 'IBM', 'Rational', 'Rational Team Concert client for Microsoft Visual Studio IDE', 'RTC', 'v4.0.3']
 
+### Description(ja)
+http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Microsoft VisualStudioIDE用のRationalTeamConcertクライアントでプロジェクトとソリューションを共有する方法について説明します。
+
 ### Description
 http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1554,6 +2245,12 @@ This video describes how to share a project and solution in the Rational Team Co
 
 ### Tags
 ['Integrated Development Environment (Software Genre)', 'Microsoft Visual Studio (Software)', 'Rational Team Concert', 'Rational Software (Software Developer)', 'Workspace', 'IBM', 'Rational', 'Rational Team Concert client for Microsoft Visual Studio IDE', 'RTC', 'v4.0.3']
+
+### Description(ja)
+http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Microsoft VisualStudioIDE用のRationalTeamConcertクライアントのストリームからリポジトリワークスペースを作成する方法について説明します。
 
 ### Description
 http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1573,6 +2270,12 @@ This video describes how to create a repository workspace from a stream in the R
 ### Tags
 ['Integrated Development Environment (Software Genre)', 'Rational Software (Software Developer)', 'Microsoft Visual Studio (Software)', 'Rational Team Concert', 'Microsoft Corporation (Venture Funded Company)']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Microsoft VisualStudioIDE用のRationalTeamConcertクライアントでスナップショットを作成してプロモートする方法について説明します。
+
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1590,6 +2293,12 @@ This video describes how to create and promote a snapshot in the Rational Team C
 
 ### Tags
 ['Rational Team Concert', 'Integrated Development Environment (Software Genre)', 'Microsoft Visual Studio (Software)', 'Rational Software (Software Developer)', 'Microsoft Corporation (Venture Funded Company)']
+
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Microsoft VisualStudioIDE用のRationalTeamConcertクライアントでコンポーネントベースラインを作成する方法について説明します。
 
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1609,6 +2318,12 @@ This video describes how to create a component baseline in the Rational Team Con
 ### Tags
 ['Integrated Development Environment (Software Genre)', 'Rational Team Concert', 'Microsoft Visual Studio (Software)', 'Rational Software (Software Developer)', 'Microsoft Corporation (Venture Funded Company)', 'IBM', 'Rational', 'Rational Team Concert client for Microsoft Visual Studio IDE', 'RTC', 'v4.0.3']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Microsoft VisualStudioIDE用のRationalTeamConcertクライアントで受信ベースラインと変更セットを受け入れる方法について説明します。
+
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1626,6 +2341,12 @@ This video describes how to accept incoming baselines and change sets in the Rat
 
 ### Tags
 ['Integrated Development Environment (Software Genre)', 'Microsoft Visual Studio (Software)', 'Rational Team Concert', 'Rational Software (Software Developer)', 'Microsoft Corporation (Venture Funded Company)', 'IBM', 'Rational', 'Rational Team Concert client for Microsoft Visual Studio IDE', 'RTC', 'v4.0.3']
+
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Microsoft VisualStudioIDE用のRationalTeamConcertクライアントで他のチームメンバーからの変更を受け入れる方法について説明します。
 
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1645,6 +2366,12 @@ This video describes how to accept changes from other team members in the Ration
 ### Tags
 ['Rational Software (Software Developer)', 'Rational Team Concert', 'IBM', 'Rational', 'RTC', 'v4.0.3', 'Software (Industry)', 'workflow', 'approval', 'tracking']
 
+### Description(ja)
+詳細情報：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0.3で承認追跡を使用してワークフローを定義する方法について説明します。
+
 ### Description
 More information: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1662,6 +2389,13 @@ This video describes how to define a workflow with approval tracking in Rational
 
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert', 'RTC', 'v4.0.3', 'work item', 'type', 'create work item', 'Rational Software (Software Developer)', 'Software (Industry)']
+
+### Description(ja)
+詳しくは：  
+http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0.3でワークアイテムタイプを作成する方法について説明します。
 
 ### Description
 More information:  
@@ -1682,6 +2416,12 @@ This video describes how to create a work item type in Rational Team Concert v4.
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert', 'RTC', 'v4.0.3', 'Software (Industry)', 'CLM', 'work item', 'editor', 'Rational Software (Software Developer)']
 
+### Description(ja)
+詳細情報：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0.3でワークアイテムエディタをカスタマイズする方法について説明します。
+
 ### Description
 More information: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1699,6 +2439,13 @@ This video describes how to customize the work item editor in Rational Team Conc
 
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert', 'RTC', 'v4.0.3', 'enumeration', 'attribute', 'type']
+
+### Description(ja)
+より詳しい情報：  
+http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0.3で列挙属性タイプを作成する方法について説明します。
 
 ### Description
 More Info:  
@@ -1719,6 +2466,13 @@ This video describes how to create an enumeration attribute type in Rational Tea
 ### Tags
 ['v4.0.3', 'Rational Team Concert', 'Rational Software (Software Developer)', 'IBM (Award Winner)', 'Software (Industry)', 'IBM', 'Rational', 'RTC', 'to-do', 'work item', 'type', 'CLM']
 
+### Description(ja)
+詳しくは：  
+http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational Team Concertv4.0.3EclipseクライアントでToDo作業項目タイプを作成する方法について説明します。
+
 ### Description
 More information:  
 http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1737,6 +2491,13 @@ This video describes how to create a ToDo work item type in the Rational Team Co
 
 ### Tags
 ['Rational Team Concert', 'Rational Software (Software Developer)', 'Software (Industry)', 'IBM', 'RTC', 'v4.0.3', 'work item', 'attribute']
+
+### Description(ja)
+詳しくは：  
+http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0.3で作業項目属性を作成する方法について説明します。
 
 ### Description
 More information:  
@@ -1757,6 +2518,12 @@ This video describes how to create a work item attribute in Rational Team Concer
 ### Tags
 ['Rational Software (Software Developer)', 'Rational DOORS', 'IBM (Award Winner)', 'Software (Industry)', 'doors ng', 'next generation', 'basics', 'overview', 'beginner']
 
+### Description(ja)
+拡張機能に関する情報：https：//jazz.net/wiki/bin/view/Main/RMExtensions502  
+デモ：https：//www.youtube.com/watch？v = q3DxAneAPYQ  
+  
+このビデオでは、著名なエンジニアであるGeorge Decandioが、PowerPointスライドデッキを使用してIBM Rational DOORS Next Generationの概要を説明し、次にIBM Rational DOORS Next Generationプログラムに移動して、プログラムの仕組みとプログラムが提供できるメリットを示します。このビデオは、初心者、初心者、初心者のユーザーを対象としています。
+
 ### Description
 Information on extensions: https://jazz.net/wiki/bin/view/Main/RMExtensions502  
 Demo: https://www.youtube.com/watch?v=q3DxAneAPYQ  
@@ -1775,6 +2542,12 @@ In this video distinguished engineer George Decandio gives you an overview of IB
 ### Tags
 ['Rational Team Concert', 'Rational Software (Software Developer)', 'IBM', 'RTC', 'v4.0.3']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0.3でファイルコンテンツの競合を解決する方法について説明します。
+
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1792,6 +2565,13 @@ This video describes how to resolve conflicts in file content in Rational Team C
 
 ### Tags
 ['Rational Team Concert', 'Software Build (Software Genre)', 'Rational Software (Software Developer)', 'IBM', 'RTC', 'v4.0.3']
+
+### Description(ja)
+より詳しい情報：  
+http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0.3でビルド結果を表示する方法について説明します。
 
 ### Description
 More info:  
@@ -1812,6 +2592,12 @@ This video describes how to view build results in Rational Team Concert v4.0.3.
 ### Tags
 ['Rational Team Concert', 'Software Build (Software Genre)', 'Rational Software (Software Developer)', 'Rational', 'RTC', 'v4.0.3']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0.3でビルドをリクエストする方法について説明します。
+
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1829,6 +2615,12 @@ This video describes how to request a build in Rational Team Concert v4.0.3.
 
 ### Tags
 ['Software Build (Software Genre)', 'Rational Team Concert', 'Rational Software (Software Developer)', 'IBM', 'Rational', 'RTC', 'v4.0.3']
+
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0.3でビルド定義とビルドエンジンを使用する方法について説明します。
 
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.3/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1848,6 +2640,12 @@ This video describes how to use build definitions and build engines in Rational 
 ### Tags
 ['Rational Team Concert', 'Rational Software (Software Developer)', 'IBM', 'Rational', 'RTC', 'v4.0']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0で競合を解決する方法について説明します。
+
 ### Description
 More info:  http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1865,6 +2663,12 @@ This video describes how to resolve a conflict in Rational Team Concert v4.0.
 
 ### Tags
 ['Rational Team Concert', 'Rational Software (Software Developer)', 'Software (Industry)', 'IBM', 'Rational', 'RTC', 'v4.0']
+
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational Team Concert Webクライアントv4.0でファイルをロック、ダウンロード、および編集する方法について説明します。
 
 ### Description
 More info:  http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1884,6 +2688,12 @@ This video describes how to lock, download, and edit a file in the Rational Team
 ### Tags
 ['Rational Team Concert', 'Rational Software (Software Developer)', 'Software (Industry)', 'IBM', 'Rational', 'RTC', 'v4.0']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0で変更を提供して作業項目を解決する方法について説明します。
+
 ### Description
 More info:  http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1901,6 +2711,12 @@ This video describes how to deliver changes and resolve a work item in Rational 
 
 ### Tags
 ['Rational Team Concert', 'Rational Software (Software Developer)', 'IBM', 'Rational', 'RTC', 'v4.0']
+
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertv4.0のストリームからリポジトリワークスペースを作成する方法について説明します。
 
 ### Description
 More info:  http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1920,6 +2736,12 @@ This video describes how to create a repository workspace from a stream in Ratio
 ### Tags
 ['Rational Team Concert', 'Rational Software (Software Developer)', 'IBM', 'Rational', 'RTC', 'v4.0']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertWebクライアントv4.0のストリームにファイルとフォルダーを追加する方法について説明します。
+
 ### Description
 More info:  http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1937,6 +2759,12 @@ This video describes how to add files and folders to a stream in the Rational Te
 
 ### Tags
 ['Rational Software (Software Developer)', 'Rational Team Concert', 'Software (Industry)', 'IBM', 'Rational', 'RTC', 'v4.0']
+
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、RationalTeamConcertで他のチームメンバーからの変更を受け入れる方法について説明します。
 
 ### Description
 More info:  http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
@@ -1956,6 +2784,12 @@ This video describes how to accept changes from other team members in Rational T
 ### Tags
 ['Rational Team Concert', 'Text File (File Format Genre)', 'Rational Software (Software Developer)', 'IBM', 'RTC', 'v4.0']
 
+### Description(ja)
+詳細：http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
+https://jazz.net/products/clm/  
+  
+このビデオでは、Rational TeamConcertWebクライアントv4.0でテキストファイルを作成および編集する方法について説明します。
+
 ### Description
 More info: http://www-01.ibm.com/support/knowledgecenter/SSYMRC_4.0.0/com.ibm.rational.clm.doc/helpindex_clm.html  
 https://jazz.net/products/clm/  
@@ -1974,6 +2808,11 @@ This video describes how to create and edit a text file in the Rational Team Con
 ### Tags
 ['JavaScript (Programming Language)', 'Jerrod Lankford', 'jllankfo@us.ibm.com', 'Interconnect', '2015', 'DOORS Next Generation', 'IBM', 'Rational', 'client extensions', 'Application Programming Interface (Literature Subject)']
 
+### Description(ja)
+このデモンストレーションでは、DOORSNGのエキスパートであるJerrodLankfordが、「クライアント拡張機能とは」、JavaScript API、カタログ、デプロイメントの考慮事項、サンプルプラグインなどのトピックについて説明します。  
+  
+このビデオには、DOORSユーザーインターフェイスのデモンストレーションが含まれています。
+
 ### Description
 In this demonstration DOORS NG expert Jerrod Lankford covers such topics as "What are client extensions?," JavaScript API, Catalogs, Deployment considerations, and Sample plugins.   
   
@@ -1990,6 +2829,26 @@ This video contains a demonstration of the DOORS user interface.
 
 ### Tags
 ['IBM (Award Winner)', 'Rational DOORS', 'Rational Software (Software Developer)', 'Jazz', 'DOORS Next Generation', 'v6', 'Requirements management', 'tutorial', 'RDNG', 'DNG', 'Yianna Papadakis-Kantos', 'Software (Industry)']
+
+### Description(ja)
+このビデオは、IBM Rational DOORSNextGenerationのダイアグラムエディターに焦点を当てています。完全にキーボードでアクセス可能なグラフィカルエディタ。これにより、チームは問題を視覚化して分析し、ソリューションの範囲をよりよく理解すると同時に、より適切な要件を導き出すことができます。  
+  
+このデモンストレーションには2つの部分があります。  
+  
+00:43-既存の図を探索し、その中の機能を強調表示する  
+  
+01:53-図の作成/編集機能のデモンストレーション  
+  
+-------------------------------------------------- ---------------  
+追加情報は、次の場所にあります。  
+  
+ --Jazz.netのRationalDOORSNext Generationプロジェクトページ（https://jazz.net/products/rational-doors-next-generation/）  
+  
+ --IBMdeveloperWorks®のRationalDOORSNextGenerationおよびRationalDOORS9.x製品ページ（http://www.ibm.com/developerworks/rational/products/doors/）  
+  
+ -CLMインフォメーション・センターの合理的なソリューション：https://jazz.net/help-dev/clm/index.jsp?re=1&topic=/com.ibm.jazz.dashboard.doc/topics/t_work_viewlets.html&scope=null  
+  
+ -Rational DOORS次世代学習サークル（https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=30a4b582-9075-4556-85a8-41818f205d94）
 
 ### Description
 This video focuses on the diagram editor of IBM Rational DOORS Next Generation; a fully keyboard accessible graphical editor, that enables your team to visualize and analyze the problem, and gain a better understanding of the scope of the solution, while deriving better requirements.  
@@ -2023,6 +2882,13 @@ Additional information can be found in these locations:
 ### Tags
 ['devops', 'Rational Team Concert', 'SAFE', 'IBM', 'Architecture Framework', 'Software (Industry)', 'scaled agile framework']
 
+### Description(ja)
+このビデオデモンストレーションでは、DevOpsソリューションアーキテクトのAmy Silberbauerが、IBMのScaled Agile Framework（SAFE）の使用方法を紹介します。このコラボレーションフレームワークは、リーンでアジャイルな原則を企業に拡大するための市場をリードするフレームワークであり、組織が成功を実現するのに役立つガイダンスとベストプラクティスを提供します。また、重要なのは、オープンスタンダードベースのツールプラットフォームを通じて継続的デリバリーモデルをサポートし、組織の効率と効果を高めるのに役立つIBMDevOpsアプローチです。 SAFeとIBMDevOpsプラットフォームを組み合わせることで、エンドツーエンドのライフサイクルを最適化する包括的なプロセスとツールのフレームワークが提供されるため、異種環境のチーム間で開発、テスト、展開を同期し、組織内のすべての役割間でコラボレーションできます。ソフトウェア配信の計画と実行。  
+  
+詳細については、bit.ly/ibmsafesupportをご覧ください。  
+http://www.slideshare.net/rfeggins/adopting-scaled-agile-webinar  
+https://youtu.be/H_752O8P_Bs
+
 ### Description
 In this video demonstration, DevOps Solution Architect Amy Silberbauer takes you through the how-to's of using IBM's Scaled Agile Framework (SAFE). This collaborative framework a market-leading framework for scaling lean and agile principles to the enterprise, providing guidance and best practices to help organizations realize success. Also key is the IBM DevOps approach which supports a continuous delivery model through an open-standards-based tooling platform to help drive organizational efficiency and effectiveness. Combined, SAFe and the IBM DevOps platform provide a comprehensive process and tooling framework that will optimize your end-to-end lifecycle, so you can synchronize development, testing and deployment across teams in heterogeneous environments, and collaborate across all roles in the organization in the planning and execution of software delivery.  
   
@@ -2041,6 +2907,21 @@ https://youtu.be/H_752O8P_Bs
 
 ### Tags
 ['IBM', 'DOORS', 'DNG', 'Next Generation', 'reporting', 'RPE', 'report pubishing engine', 'Software', 'Rational DOORS', 'Document', 'jazz reporting service', 'Requirements Management', 'analtyics', 'metrics', 'RM']
+
+### Description(ja)
+IBMの専門家であるJaredPulham、Ernest Mah、およびDragos Cojocariが、Reporting forRationalRequirements管理ツールの新機能について説明する次のアジェンダを紹介します。  
+  
+ -要件管理でのレポート  
+  
+ -ドキュメントの生成と分析/メトリクス  
+  
+ -Rational Publishing Engine  
+  
+ -ジャズレポーティングサービス  
+  
+ -それらがどのように機能するか  
+  
+ -Q＆A
 
 ### Description
 IBM experts Jared Pulham, Ernest Mah, and Dragos Cojocari take you through the following agenda in covering what's new in Reporting for Rational Requirements management tools:  
@@ -2069,6 +2950,17 @@ IBM experts Jared Pulham, Ernest Mah, and Dragos Cojocari take you through the f
 ### Tags
 ['IBM (Award Winner)', 'Jazz', 'Rational DOORS Next Generation', '6.0', 'requirements management', 'tutorial', 'RM', 'RDNG', 'DNG', 'Yianna Papadakis Kantos']
 
+### Description(ja)
+このビデオでは、IBM Rational DOORS NextGenerationV6.0でベースラインを操作する方法を学習します。  
+  
+追加リソース：  
+•Jazz.netのRationalDOORSNext Generationプロジェクトページ（https://jazz.net/products/rational-doors-next-generation/）  
+•IBMdeveloperWorks®のRationalDOORSNextGenerationおよびRationalDOORS9.x製品ページ（http://www.ibm.com/developerworks/rational/products/doors/）  
+•CLMインフォメーション・センターの合理的なソリューション：https://jazz.net/help-dev/clm/index.jsp?re=1&topic=/com.ibm.jazz.dashboard.doc/topics/t_work_viewlets.html&scope=null  
+•RationalDOORS次世代学習サークル（https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=30a4b582-9075-4556-85a8-41818f205d94）  
+  
+developerWorksビデオ：http：//www.ibm.com/developerworks/rational/library/doors-nextgen-baselines/r-doors-nextgen-baselines.html
+
 ### Description
 In this video we learn how to work with baselines in IBM Rational DOORS Next Generation V6.0.  
   
@@ -2092,6 +2984,11 @@ developerWorks video: http://www.ibm.com/developerworks/rational/library/doors-n
 ### Tags
 ['IBM', 'CfgM', 'configuration management', 'ple', 'requirements', '6.0', 'jazz', 'Yianna', 'Papadakis', 'kantos', 'requirements management', 'quality management', 'design managment', 'rtc', 'rqm', 'rdng', 'dm', 'rdm']
 
+### Description(ja)
+このビデオは、IBM Jazzアプリケーションのバージョン6.0で導入された概念と用語を紹介することにより、IBMのコラボレーティブ・ライフサイクル管理（CLM）ソリューションのライフサイクル・プロジェクトの概念に基づいています。これらの概念には、ベースライン、スチーム、構成、グローバル構成、コンポーネントなどが含まれます。これらの機能は、製品バリアント、製品ラインエンジニアリング、および日常のプロジェクト開発で要件またはコンポーネントを再利用する場合に役立ちます。  
+  
+developerWorksリンク：http：//www.ibm.com/developerworks/rational/library/clm-config/r-clm-global-config.html
+
 ### Description
 The video builds on the concept of a lifecycle project in  IBM's solution for Collaborative Lifecycle Management (CLM)  by introducing concepts and terminology introduced in version 6.0 of the IBM Jazz applications.  These concepts include baselines, steams, configurations, global configurations, components and other.  These capabilities are useful when reusing requirements or components in product variants, in product line engineering, and in everyday project development.  
   
@@ -2108,6 +3005,12 @@ developerWorks link: http://www.ibm.com/developerworks/rational/library/clm-conf
 
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert', 'RTC', 'v6.0', 'v5.0.2', 'v5.0']
+
+### Description(ja)
+このビデオでは、リポジトリ間で変更セットを配信できるように、基本的な分散ソース管理環境をセットアップする方法を示します。これはシリーズのパート1です。こちらのパート2をご覧ください：https：//www.youtube.com/watch？v = lbTnTOPaU2Q  
+  
+詳細については、http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_6.0.0/com.ibm.rational.clm.doc/helpindex_clm.htmlおよびを参照してください。  
+https://jazz.net/products/clm/
 
 ### Description
 This video demonstrates how to set up a basic distributed source control environment so that you can deliver change sets between repositories.  This is part 1 of a series. See part 2 here: https://www.youtube.com/watch?v=lbTnTOPaU2Q  
@@ -2127,6 +3030,12 @@ https://jazz.net/products/clm/
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert', 'RTC', 'v6.0', 'v5.0.2', 'v5.0']
 
+### Description(ja)
+このビデオでは、変更セットを他のリポジトリの作業項目にリンクし、別のリポジトリから変更セットを受け入れたり、別のリポジトリに配信したりできるように、高度な分散ソース管理環境をセットアップする方法を示します。これはシリーズのパート2です。こちらのパート1をご覧ください-https://www.youtube.com/watch?v=00cEYfSeElE  
+  
+詳細については、http：//www-01.ibm.com/support/knowledgecenter/SSYMRC_6.0.0/com.ibm.rational.clm.doc/helpindex_clm.htmlおよびを参照してください。  
+https://jazz.net/products/clm/
+
 ### Description
 This video demonstrates how to set up an advanced distributed source control environment so that you can link change sets to work items on other repositories and accept change sets from or deliver them to different repositories.  This is part 2 of a series. See part 1 here - https://www.youtube.com/watch?v=00cEYfSeElE  
   
@@ -2145,6 +3054,12 @@ https://jazz.net/products/clm/
 ### Tags
 None
 
+### Description(ja)
+この短いデモンストレーションでは、要件への変更を分離されたストリームで行い、変更セットにキャプチャして作業項目にリンクし、共有して他のストリームで再利用するために配信する方法を説明します。  
+[CFGを備えたRationalDOORSNext Generation V6.0]  
+  
+developerWorksリンク：http：//www.ibm.com/developerworks/rational/library/managing-requirement-changes/r-managing-requirement-changes.html
+
 ### Description
 In this short demonstration you will see how changes to requirements can be made in an isolated stream, captured in change sets and linked with work items and then shared and delivered for reuse in other streams.  
 [Rational DOORS Next Generation V6.0 with CFG]  
@@ -2162,6 +3077,13 @@ developerWorks link: http://www.ibm.com/developerworks/rational/library/managing
 
 ### Tags
 ['Justin', 'Dyer', 'CfgM', 'IBM', 'Rational', 'Configuration', 'Management', 'SSE', 'Continuous engineering', 'CLM', 'Global Configurations']
+
+### Description(ja)
+この短いデモンストレーションでは、グローバル構成を使用して、開発ライフサイクル全体でアーティファクトを含むコンポーネントを効果的に管理、整理、および再利用する方法を説明します。  
+  
+[GfgMを搭載したCLMV6.0]  
+  
+developerWorksリンク：http：//www.ibm.com/developerworks/rational/library/effective-manage/r-effective-manage.html
 
 ### Description
 In this short demonstration you will see how global configurations can be used to help you effectively manage, organize and reuse components that contain artifacts across the development lifecycle.  
@@ -2182,6 +3104,12 @@ developerWorks link: http://www.ibm.com/developerworks/rational/library/effectiv
 ### Tags
 ['Justin', 'Dyer', 'CfgM', 'IBM', 'Rational', 'Configuration', 'Management', 'SSE', 'Continuous engineering', 'CLM', 'Global Configurations']
 
+### Description(ja)
+この短いデモンストレーションでは、グローバル構成を使用して、エンジニアリングライフサイクル全体で変更を効果的に管理する方法を説明します。自動検針システムに対して最近提出された新しい欠陥を調べることから始めます。このシステムは、住宅および商業ビルでの水の使用量の収集を自動化するのに役立ちます。 IBM Continuous Engineering Solutionのプロジェクト計画および変更管理コンポーネントを使用すると、リリースと作業項目を使用してチームメンバー間で調整を行うことができます。作業項目は通常、プロジェクトでチームメンバーによって実行される作業の小さなチャンクであり、拡張機能、欠陥、システム変更要求などのタスクを表すことができます。  
+[CfgMを搭載したCLMV6.0]  
+  
+developerWorksビデオ：http：//www.ibm.com/developerworks/rational/library/effective-manage2/r-effective-manage2.html
+
 ### Description
 In this short demonstration you will see how global configurations can be used to help you effectively manage changes across the engineering lifecycle.  We will start off by examining a new defect that has recently been submitted against an Automated Meter Reader system.  This system helps automate collection of water usage in residential and commercial buildings.  The project planning and change management component of the IBM Continuous Engineering Solution allow us to coordinate amongst team members using releases and work items.  Work items are typically small chunks of work carried out by team members on a project and can represent tasks like enhancements, defects and system change requests.     
 [CLM V6.0 with CfgM]  
@@ -2200,6 +3128,9 @@ developerWorks video: http://www.ibm.com/developerworks/rational/library/effecti
 ### Tags
 ['IBM (Award Winner)', 'Rational Software (Software Developer)', 'Rational DOORS']
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -2214,6 +3145,9 @@ developerWorks video: http://www.ibm.com/developerworks/rational/library/effecti
 
 ### Tags
 ['rsarte', '912', 'whatsnew', 'Rational Software (Software Developer)', 'Rational', 'IBM Rational Software Architect (Software)']
+
+### Description(ja)
+このビデオでは、Rational Software ArchitectRealTimeEditionバージョン9.1.2の新機能を紹介します。
 
 ### Description
 This video presents the new features in Rational Software Architect RealTime Edition version 9.1.2.
@@ -2230,6 +3164,9 @@ This video presents the new features in Rational Software Architect RealTime Edi
 ### Tags
 ['Rational Team Concert', 'Software (Industry)']
 
+### Description(ja)
+このビデオでは、作業項目を使用して優先順位を管理し、タスクを割り当て、ステータスを追跡する方法を示します。
+
 ### Description
 This video shows you how to use work items to manage priorities, assign tasks and track status.
 
@@ -2245,6 +3182,9 @@ This video shows you how to use work items to manage priorities, assign tasks an
 ### Tags
 ['Rational Team Concert', 'Rational Software (Software Developer)']
 
+### Description(ja)
+このビデオでは、プロジェクトを追跡するためのアイテムをすばやく作成する方法、優先順位の高いバックログを作成する方法、反復の計画と割り当てを処理する方法、および作業を追跡してトリアージする方法について説明します。バージョン7.0の時点で、RationalTeamConcertはIBMEngineeringWorkflowManagementに名前が変更されました。
+
 ### Description
 This video explains how to quickly create items to track your project, create a prioritized backlog, handle iteration planning and assignments, and track and triage work. As of version 7.0, Rational Team Concert was renamed to IBM Engineering Workflow Management.
 
@@ -2259,6 +3199,10 @@ This video explains how to quickly create items to track your project, create a 
 
 ### Tags
 ['Rational Team Concert', 'Rational Software (Software Developer)']
+
+### Description(ja)
+ソフトウェアプロジェクトは、さまざまな役割の人々に依存しています  
+Rational team Concertは、チームがプロジェクトを正常に追跡および実行するのに役立ちます。また、利害関係者がプロジェクトに関連する責任を果たすのに役立つプロジェクト情報をすばやく発見して分析するのに役立つ機能も提供します。このビデオは、エグゼクティブマネージャーのMariaがバーンダウンレポートを使用して複数のチームの取り組みを監督する方法を示しています。
 
 ### Description
 Software projects depend on people in various roles  
@@ -2276,6 +3220,9 @@ Rational team Concert helps teams successfully track and execute projects. It al
 ### Tags
 ['Rational Team Concert', 'Rational Software (Software Developer)']
 
+### Description(ja)
+このビデオでは、作業項目の作成、テストビルドの実行、変更セットの提供、および作業項目の更新の方法を示します。
+
 ### Description
 This video shows you how to create a work item, run a test build, deliver change sets, and update your work items.
 
@@ -2290,6 +3237,9 @@ This video shows you how to create a work item, run a test build, deliver change
 
 ### Tags
 None
+
+### Description(ja)
+このデモンストレーションでは、バージョン6.0のRational Team ConcertのSAFeサポートによって提供されるダッシュボード、クエリ、およびレポートについて説明します。
 
 ### Description
 In this demonstration we will look at the dashboards, queries, and reports that are provided by Rational Team Concert’s SAFe Support in version 6.0.
@@ -2306,6 +3256,9 @@ In this demonstration we will look at the dashboards, queries, and reports that 
 ### Tags
 ['IBM (Award Winner)']
 
+### Description(ja)
+Rational Team Concertバージョン6.0でのSAFeサポートのこのデモンストレーションでは、作成されたワークアイテムアーティファクトの使用方法について説明します。
+
 ### Description
 In this demonstration of SAFe Support in Rational Team Concert version 6.0, we will walk you through how to use the work item artifacts that are created for you.
 
@@ -2320,6 +3273,9 @@ In this demonstration of SAFe Support in Rational Team Concert version 6.0, we w
 
 ### Tags
 ['IBM (Award Winner)', 'safe']
+
+### Description(ja)
+このデモンストレーションでは、バージョン6.0のRational Team ConcertのSAFeサポートによって作成されたプラン、プランタイプ、およびプランビューの使用方法について説明します。
 
 ### Description
 In this demonstration we will walk you through how to use the plans, plan type, and plan view that are created by Rational Team Concert’s SAFe Support in version 6.0.
@@ -2336,6 +3292,9 @@ In this demonstration we will walk you through how to use the plans, plan type, 
 ### Tags
 None
 
+### Description(ja)
+このビデオを見た後、RationalTeamConcertバージョン6.0でIBMのSAFeサポートが提供するプロジェクトエリア初期化を使用することに自信が持てるようになります。
+
 ### Description
 After watching this video, you will feel confident in using the Project Area Initialization provided by IBM’s SAFe Support in Rational Team Concert version 6.0.
 
@@ -2350,6 +3309,9 @@ After watching this video, you will feel confident in using the Project Area Ini
 
 ### Tags
 ['IBM (Award Winner)', 'Jim Marsh', 'Rational DOORS', 'DXL', 'Software (Industry)', 'Intro', 'Editor', 'Reference', 'DXL scripting basics', 'attributes', 'layout', 'administration', 'traceability']
+
+### Description(ja)
+このビデオでは、テクニカルセールススペシャリストのジムマーシュが、IBM DOORS eXtension Language forDOORSv9.xの基本について説明します。これは高度なチュートリアルではなく、初心者向けのガイド付き入門書です。
 
 ### Description
 In this video technical sales specialist Jim Marsh takes you through the basics of IBM DOORS eXtension Language for DOORS v9.x. This is not an advanced tutorial but rather a guided introduction for beginners.
@@ -2366,6 +3328,9 @@ In this video technical sales specialist Jim Marsh takes you through the basics 
 ### Tags
 ['IBM (Award Winner)', 'Software', 'Management', 'work item', 'planning', 'dashboards', 'queries', 'reports', 'SAFe', 'scaled agile framework']
 
+### Description(ja)
+RationalTeamConcertバージョン6.0でのIBMのSAFeサポートのこのソリューション概要へようこそ。この概要を見た後、SAFeのプロジェクトエリアの初期化、作業項目の詳細、計画、ダッシュボード、クエリ、およびレポートを使用することに自信が持てるようになります。
+
 ### Description
 Welcome to this solution overview of IBM’s SAFe Support in Rational Team Concert version 6.0. After watching this overview, you will feel confident in using the Project Area Initialization, Work Item Details, Planning, Dashboards, Queries and Reports of SAFe.
 
@@ -2380,6 +3345,11 @@ Welcome to this solution overview of IBM’s SAFe Support in Rational Team Conce
 
 ### Tags
 ['Rational Quality Manager', 'V6.0', 'team areas', 'timelines', 'project administration', 'iterations']
+
+### Description(ja)
+複数のタイムラインとチームエリアの機能について学びます。  
+  
+詳細については、http：//www-01.ibm.com/support/knowledgecenter/SSR27Q_6.0.0/com.ibm.rational.test.qm.tutorial2.doc/topics/a_custm_proc_lesson1.htmlを参照してください。
 
 ### Description
 Learn about multiple timelines and team area capabilities.  
@@ -2398,6 +3368,10 @@ For more information, see http://www-01.ibm.com/support/knowledgecenter/SSR27Q_6
 ### Tags
 None
 
+### Description(ja)
+IBM Installation Managerは、リモートまたはローカルのソフトウェア・リポジトリーを使用して特定のIBM製品をインストール、変更、または更新する単一のインストール・プログラムです。このプログラムを使用して、コンピューターにパッケージをインストール、更新、変更、ロールバック、およびアンインストールします。  
+IBM Installation Managerナレッジ・センターにアクセスしてください。ここでは、IBM Installation Managerのインストール、保守、および使用方法に関する情報を見つけることができます：http://www.ibm.com/support/knowledgecenter/SSDV2W/im_family_welcome.html
+
 ### Description
 IBM Installation Manager is a single installation program that uses remote or local software repositories to install, modify, or update certain IBM products. Use this program to install, update, modify, roll back, and uninstall packages on your computer.  
 Visit the IBM Installation Manager Knowledge Center, where you can find information about how to install, maintain, and use IBM Installation Manager: http://www.ibm.com/support/knowledgecenter/SSDV2W/im_family_welcome.html
@@ -2413,6 +3387,11 @@ Visit the IBM Installation Manager Knowledge Center, where you can find informat
 
 ### Tags
 ['IBM Rational', 'CLM', 'Configuration Management']
+
+### Description(ja)
+このビデオでは、CLM6.0の新しい構成管理とグローバル構成管理機能の概要を説明します。  
+  
+構成管理機能の詳細については、https：//jazz.net/library/article/1492を参照してください。
 
 ### Description
 This video provides an overview of the new configuration management and Global Configuration Management function in CLM 6.0.   
@@ -2431,6 +3410,10 @@ For more information about the configuration management features, see https://ja
 ### Tags
 ['jazz reporting', 'JRS']
 
+### Description(ja)
+このビデオでは、Jazz ReportingService6.0のレポートビルダーでのトレーサビリティの改善について説明します。  
+ストーリーから子タスク、関連する承認および承認者までの完全なトレーサビリティパスを作成する方法を学びます。この例は、このパスを使用して、承認があり承認者がいないすべての作業項目、または特定のユーザーの承認待ちの作業項目を検索する方法を示しています。
+
 ### Description
 This video explains the traceability improvements in the Report Builder in Jazz Reporting Service 6.0.  
 Learn how to create a full traceability path from stories to child tasks to related approvals and approvers. This example shows how to use this path to find all work items with approvals and no approvers, or work items with pending approvals for a particular user.
@@ -2447,6 +3430,9 @@ Learn how to create a full traceability path from stories to child tasks to rela
 ### Tags
 ['IBM Jazz', 'JRS', 'Jazz Reporting Service', 'IBM reporting']
 
+### Description(ja)
+このビデオでは、レポートビルダーの集計およびドリルダウン機能のデモンストレーションを提供します。
+
 ### Description
 This video provides a demonstration of the aggregation and drilldown function in Report Builder.
 
@@ -2462,6 +3448,9 @@ This video provides a demonstration of the aggregation and drilldown function in
 ### Tags
 ['project area', 'configuration', 'global configuration', 'baseline', 'stream', 'component', 'variant', 'branch', 'baseline staging stream', 'configuration management', 'global configuration management', 'configuration lead', 'system', 'product', 'reuse', 'trace', 'compare', 'context', 'project area configuration']
 
+### Description(ja)
+グローバル構成の概要ビデオでは、6.0IBM®グローバル構成管理アプリケーションの主な機能を、バリアントとベースラインに重点を置いて紹介しています。このビデオは、構成リードの役割を持つユーザーを対象としていますが、構成管理を使用したグローバル構成について学習することに関心のあるユーザーは、このビデオが役立つと思います。
+
 ### Description
 The global configuration overview video provides an introduction to the main features in the 6.0 IBM® Global Configuration Management application, with an emphasis on variants and baselines. This video is geared toward users in the Configuration Lead role, but users interested in learning about global configurations with configuration management will find this video useful.
 
@@ -2476,6 +3465,13 @@ The global configuration overview video provides an introduction to the main fea
 
 ### Tags
 ['IBM', 'Rational', 'CLM', 'DevOps', 'Agile framework', 'SAFE']
+
+### Description(ja)
+このビデオデモンストレーションでは、DevOpsソリューションアーキテクトのAmy Silberbauerが、IBMのScaled Agile Framework（SAFE）の使用方法を紹介します。このコラボレーションフレームワークは、リーンでアジャイルな原則を企業に拡大するための市場をリードするフレームワークであり、組織が成功を実現するのに役立つガイダンスとベストプラクティスを提供します。また、重要なのは、オープンスタンダードベースのツールプラットフォームを通じて継続的デリバリーモデルをサポートし、組織の効率と効果を高めるのに役立つIBMDevOpsアプローチです。 SAFeとIBMDevOpsプラットフォームを組み合わせることで、エンドツーエンドのライフサイクルを最適化する包括的なプロセスとツールのフレームワークが提供されるため、異種環境のチーム間で開発、テスト、展開を同期し、組織内のすべての役割間でコラボレーションできます。ソフトウェア配信の計画と実行。  
+  
+詳細については、bit.ly/ibmsafesupportをご覧ください。  
+http://www.slideshare.net/rfeggins/adopting-scaled-agile-webinar  
+https://youtu.be/H_752O8P_Bs
 
 ### Description
 In this video demonstration, DevOps Solution Architect Amy Silberbauer takes you through the how-to's of using IBM's Scaled Agile Framework (SAFE). This collaborative framework a market-leading framework for scaling lean and agile principles to the enterprise, providing guidance and best practices to help organizations realize success. Also key is the IBM DevOps approach which supports a continuous delivery model through an open-standards-based tooling platform to help drive organizational efficiency and effectiveness. Combined, SAFe and the IBM DevOps platform provide a comprehensive process and tooling framework that will optimize your end-to-end lifecycle, so you can synchronize development, testing and deployment across teams in heterogeneous environments, and collaborate across all roles in the organization in the planning and execution of software delivery.  
@@ -2496,6 +3492,9 @@ https://youtu.be/H_752O8P_Bs
 ### Tags
 ['IBM Rational Software Architect (Software)']
 
+### Description(ja)
+このビデオでは、IBM Rational Software ArchitectRealTimeEditionバージョン9.5の新機能の概要を説明します。
+
 ### Description
 This video provides an overview of the new features and function in IBM Rational Software Architect RealTime Edition version 9.5
 
@@ -2511,6 +3510,9 @@ This video provides an overview of the new features and function in IBM Rational
 ### Tags
 ['rational development and test', 'Software Testing (Industry)', 'Software (Industry)', 'Product Key', 'Software License']
 
+### Description(ja)
+このビデオでは、Ratoinal License Keyセンターにアクセスして、Rational Development and Test Environment forzSystemsで提供されるUSBハードウェアデバイスをアクティブ化するライセンスキーファイルを取得する方法を示します。
+
 ### Description
 This video demonstrates how to access the Ratoinal License Key center to obtain a license key file that will activate the USB hardware device provided with Rational Development and Test Environment for z Systems.
 
@@ -2525,6 +3527,11 @@ This video demonstrates how to access the Ratoinal License Key center to obtain 
 
 ### Tags
 ['Rational Quality Manager', 'V6.0.1', 'requirements reconcile', 'test plans', 'test cases', 'requirement links']
+
+### Description(ja)
+このデモは、構成管理対応プロジェクトのサポートにより、要件調整機能がどのように更新および拡張されたかを示しています。  
+  
+詳細については、http：//www.ibm.com/support/knowledgecenter/SSR27Q_6.0.1/com.ibm.rational.test.qm.doc/topics/c_qm_top.htmlを参照してください。
 
 ### Description
 This demo shows how the Requirements Reconcile feature has been updated and enhanced with support for Configuration Management-enabled projects.  
@@ -2543,6 +3550,11 @@ For more information, see: http://www.ibm.com/support/knowledgecenter/SSR27Q_6.0
 ### Tags
 ['Rational Quality Manager', 'V6.0.1', 'reporting', 'test matrix widget']
 
+### Description(ja)
+このデモは、新しいテストマトリックスウィジェットを示しています。  
+  
+詳細については、http：//www.ibm.com/support/knowledgecenter/SSR27Q_6.0.1/com.ibm.rational.test.qm.doc/topics/c_qm_top.htmlを参照してください。
+
 ### Description
 This demo shows the new test matrix widget.  
   
@@ -2560,6 +3572,9 @@ For more information, see http://www.ibm.com/support/knowledgecenter/SSR27Q_6.0.
 ### Tags
 ['project area', 'configuration', 'global configuration', 'baseline', 'stream', 'component', 'variant', 'branch', 'baseline staging stream', 'configuration management', 'global configuration management', 'configuration lead', 'system', 'product', 'reuse', 'trace', 'compare', 'context', 'project area configuration', 'automation', 'automated baselines', 'automated streams', 'automated variants', 'tags', 'custom attribute values', 'links']
 
+### Description(ja)
+グローバル構成の概要ビデオでは、6.0.1IBM®グローバル構成管理アプリケーションの主な機能を紹介し、バリアントとベースラインの自動化に重点を置いています。このビデオは、構成リードの役割を持つユーザーを対象としていますが、構成管理を使用したグローバル構成について学習することに関心のあるユーザーは、このビデオが役立つと思います。
+
 ### Description
 The global configuration overview video provides an introduction to the main features in the 6.0.1 IBM® Global Configuration Management application, with an emphasis on variant and baseline automation. This video is geared toward users in the Configuration Lead role, but users interested in learning about global configurations with configuration management will find this video useful.
 
@@ -2574,6 +3589,11 @@ The global configuration overview video provides an introduction to the main fea
 
 ### Tags
 ['Rational Quality Manager', 'V6.0', 'team areas', 'test plans', 'artifact reuse', 'iterations']
+
+### Description(ja)
+Money that Mattersサンプルプロジェクトを使用して、既存のテストプランをコピーし、新しいテストの反復を開始します。  
+  
+ http://www-01.ibm.com/support/knowledgecenter/SSR27Q_6.0.0/com.ibm.rational.test.qm.tutorial2.doc/topics/a_test_plans_copy.html
 
 ### Description
 Using the Money that Matters sample project, copy an existing test plan to start a new testing iteration.  
@@ -2591,6 +3611,17 @@ Using the Money that Matters sample project, copy an existing test plan to start
 
 ### Tags
 ['yianna', 'papadakis', 'kantos', 'rational', 'doors', 'rdng', 'next', 'generation', 'migration', 'ibm']
+
+### Description(ja)
+IBM RationalDOORS9.6.1.4およびIBMRationalDOORS Next Generation V6.0.1のリリースにより、マイグレーションが最適化され、定義された型システムの共通性を考慮して、IBM Rational DOORSNextGenerationでグローバル型システムとアーティファクト型が自動的に作成されるようになりました。 DOORS内のモジュール、およびリンク関係。さらに、プロジェクトを段階的に移行できるようになり、2つのアプリケーションは、段階的な移行のたびにリンク関係を自動的に維持および更新します。  
+   
+移行とは、データをあるツールから別のツールに移動したり、場合によっては元に戻したりできるデータの交換ではありません。移行は、RationalDOORSからRationalDOORS Next Generationへの一方向の移行であり、ソースまでのトレーサビリティを備えています。  
+  
+移行パッケージを使用すると、移行に1つ以上のモジュールを含めることができ、段階的に移行して、一度に少しずつ、必要なものだけを移行できます。モジュールの現在のバージョンは、内部の外部リンクとOSLCリンク、OLEオブジェクト、画像などとともに移行されます。  
+移行されたデータの履歴は移行されませんが、移行により、Rational DOORS Next Generationにリンクが作成され、RationalDOORSの対応するレコードにリンクされます。  
+リンクは、履歴、ベースライン、およびその他の移行されていないデータへのアクセスを提供します。現在のデータのみを移行することにより、RationalDOORSのすべての履歴と監査情報を保持します。  
+Rational DOORSNextGenerationの監査と履歴データの移行と再検証のコストを削減します。  
+移行プロセスの詳細については、ナレッジセンターにアクセスしてください。
 
 ### Description
 With the release of IBM Rational DOORS 9.6.1.4 and IBM Rational DOORS Next Generation V6.0.1 the migration has been optimized, now automatically creating a global type system and artifact types in IBM Rational DOORS Next Generation, considering the commonalities of the type system defined in modules within DOORS, as well as links relationships. In addition, you can now incrementally migrate a project, and the two applications will automatically maintain and update link relationships with every incremental migration.    
@@ -2615,6 +3646,9 @@ Visit the Knowledge Center for details on the migration process.
 ### Tags
 None
 
+### Description(ja)
+移行の特性とプロセスの概要。
+
 ### Description
 Overview of migration characteristics and process.
 
@@ -2630,6 +3664,9 @@ Overview of migration characteristics and process.
 ### Tags
 ['yianna', 'papadakis', 'kantos', 'rational', 'doors', 'next', 'generation', 'v6.0.1', 'ibm', 'requirements', 'management']
 
+### Description(ja)
+この学習モジュールでは、プロジェクト内で作成できる要件情報のタイプが、プロジェクトで使用可能なシステムのタイプによって異なることを学習します。要件仕様を表すフォーマットモジュールのアーティファクトを作成する方法と、モジュール内にさまざまなタイプのアーティファクトを作成する方法を、セクションにまとめて学習します。
+
 ### Description
 In this learning module you will learn that the type of requirements information you can create within the project, depends on the type of system available to your project.  You will learn how to create an artifact of format module to represent your requirements specification, and how to create a number of artifacts of different types within the module, organized in sections.
 
@@ -2644,6 +3681,15 @@ In this learning module you will learn that the type of requirements information
 
 ### Tags
 ['IBM', 'Rational', 'CLM', 'v6.0.1', 'link validity', 'configurations', 'linked data', 'validity summary']
+
+### Description(ja)
+リンクの有効性情報を使用して、アーティファクトに変更を加えるときにアーティファクトとリンク全体の一貫性を実現する方法について説明します。リンクの有効性情報は、チームがリンクされたアーティファクト間の変更を共同で管理および伝達するのに役立ちます。  
+  
+KCトピック：CLMアプリケーションでのリンク有効性の使用：  
+http://www-01.ibm.com/support/knowledgecenter/SSYMRC_6.0.1/com.ibm.jazz.vvc.doc/topics/c_node_link_validity.html  
+  
+Jazz.netブログエントリ：リンクの有効性–CLMバージョン6.0.1で提供  
+https://jazz.net/blog/index.php/2015/11/12/link-validity-coming-in-clm-version-6-0-1/
 
 ### Description
 Learn about using link validity information to help achieve consistency across artifacts and links as you make changes to artifacts. Link validity information helps teams collaboratively manage and propagate changes between linked artifacts.  
@@ -2666,6 +3712,14 @@ https://jazz.net/blog/index.php/2015/11/12/link-validity-coming-in-clm-version-6
 ### Tags
 ['Navigation', 'IBM', 'Rational', 'DOORS', 'Next', 'Generation', 'RDNG']
 
+### Description(ja)
+IBM Rational DOORS次世代入門：基本ナビゲーション  
+YiannaPapadakisKantos著  
+このビデオでは、ホームボタン、ナビゲーションメニュー、パンくずリストなど、Rational DOORSNextGeneration内の基本的なナビゲーションについて説明します。 。  
+アプリケーションの基本的なレイアウトを検討し、プロジェクトページ、アーティファクトページ、オープンアーティファクトページなどのさまざまなページを区別する方法を学習します。  
+フィルタや検索など、アーティファクトを見つける方法はいくつかあることがわかります。ビューを保存する場所、および新しいアーティファクトを作成する場所。  
+最後に、UIのセクションを折りたたんだり展開したりする方法を学びます
+
 ### Description
 Getting Started with IBM Rational DOORS Next Generation: Basic Navigation  
 By Yianna Papadakis Kantos  
@@ -2686,6 +3740,9 @@ Finally, you will learn how to collapse and expand sections of the UI
 ### Tags
 ['RDNG', 'requirements', 'management', 'variables', 'embedded', 'doors', 'next', 'generation', 'v6.0.1', 'Yianna', 'Papadakis', 'Kantos']
 
+### Description(ja)
+要件に変数を使用したいですか？埋め込まれたアーティファクトがどのように役立つかを確認してください！
+
 ### Description
 Did you even want to use Variables in your requirements? Check out how embedded artifacts may help!
 
@@ -2700,6 +3757,17 @@ Did you even want to use Variables in your requirements? Check out how embedded 
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1', 'install']
+
+### Description(ja)
+パート1：IBMInstallationManagerを使用したオンラインリポジトリからのインストール  
+  
+詳細については、http：//www.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.install.doc/topics/t_install_clients.htmlでIBM RationalPublishingEngineクライアントのインストールを参照してください。  
+  
+製品バージョンのビデオは、RPE2.0.1で作成されました。  
+  
+製品バージョンの適用対象：RPE 2.0、2.0.1  
+  
+SY：ドラゴスコジョカリ
 
 ### Description
 Part 1: Installing from the online repository using IBM Installation Manager   
@@ -2724,6 +3792,14 @@ SY: Dragos Cojocari
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1', 'install', 'deploy', 'web app']
 
+### Description(ja)
+パート3：WebUIのインストールとセットアップ  
+  
+詳細については、「Webアプリのデプロイ」を参照してください。  
+http://www-01.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.install.doc/topics/c_web_rpeng.html  
+  
+SY：ドラゴスコジョカリ
+
 ### Description
 Part 3: Web UI installation and setup   
   
@@ -2744,6 +3820,13 @@ SY: Dragos Cojocari
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1', 'install', 'Document Studio', 'licensing', 'troubleshooting']
 
+### Description(ja)
+パート2：デスクトップインストールの確認  
+  
+詳細については、「IBM Rational Publishing Engineクライアントのインストール」（http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.install.doc/topics/t_install_clients.html）を参照してください。  
+  
+SY：ドラゴスコジョカリ
+
 ### Description
 Part 2: Verifying the desktop installation   
   
@@ -2762,6 +3845,14 @@ SY: Dragos Cojocari
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1', 'install', 'deploy', 'web app']
+
+### Description(ja)
+パート4：WebUIの確認  
+  
+詳細については、「Webアプリのデプロイ」を参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.install.doc/topics/c_web_rpeng.html  
+  
+SY：ドラゴスコジョカリ
 
 ### Description
 Part 4: Verifying the Web UI   
@@ -2783,6 +3874,11 @@ SY: Dragos Cojocari
 ### Tags
 ['rational software', 'rational rhapsody', 'IBM', 'Rational Software Architect']
 
+### Description(ja)
+このビデオでは、RationalRhapsodyモデルをRationalSoftwareArchitectにインポートする方法について説明します。  
+  
+SY：プリテシュパテル
+
 ### Description
 This video explains how to import a Rational Rhapsody model into Rational Software Architect  
   
@@ -2799,6 +3895,20 @@ SY: Pritesh Patel
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1', 'template']
+
+### Description(ja)
+パート1：静的テキストを使用した単純なテンプレートのレイアウト  
+IBMの専門家であるDragosCojocariが、Document Studioのツアーに参加し、テンプレートに単純な要素を追加する方法を紹介します。  
+  
+詳細については、「ドキュメントテンプレートの設計」を参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.overview.doc/topics/c_template_roadmap.html  
+  
+製品バージョンのビデオは2.0.1で作成されました  
+  
+製品バージョンの適用対象：2.0、2.0.1  
+  
+  
+SY：ドラゴスコジョカリ
 
 ### Description
 Part 1: Laying out a simple template with static text   
@@ -2826,6 +3936,19 @@ SY:Dragos Cojocari
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1', 'template', 'DNG']
 
+### Description(ja)
+パート2：RationalDoors次世代スキーマの追加  
+IBMの専門家であるDragosCojocariが、特定のDoorsNextGenerationモジュールのコンテンツをドキュメントに印刷する方法を紹介します。  
+  
+詳細については、「Rational DOORSNextGenerationをデータソースとして使用したテンプレートの設計」を参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.integration.doc/topics/t_dng_templates.html  
+  
+製品バージョンのビデオは2.0.1で作成されました  
+  
+製品バージョンの適用対象：2.0、2.0.1  
+  
+SY：ドラゴスコジョカリ
+
 ### Description
 Part 2: Adding a Rational Doors Next Generation schema  
 IBM expert Dragos Cojocari shows you how to print the content of a specific Doors Next Generation module in a document.  
@@ -2851,6 +3974,19 @@ SY: Dragos Cojocari
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1', 'template', 'DNG']
 
+### Description(ja)
+パート3：データソースに接続してドキュメントを生成する  
+IBMの専門家であるDragosCojocariが、データソースの構成方法、出力ドキュメントの生成方法、および変数の作成方法を説明します。  
+  
+詳細については、「Rational DOORSNextGenerationをデータソースとして使用したテンプレートの設計」を参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.integration.doc/topics/t_dng_templates.html  
+  
+製品バージョンのビデオは2.0.1で作成されました  
+  
+製品バージョンの適用対象：2.0、2.0.1  
+  
+SY：ドラゴスコジョカリ
+
 ### Description
 Part 3: Connecting to a data source and generating a document  
 IBM expert Dragos Cojocari shows you how to configure a data source,  generate an output document, and create variables.  
@@ -2875,6 +4011,20 @@ SY:Dragos Cojocari
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1', 'template', 'DNG']
+
+### Description(ja)
+パート4：ドキュメントのフォーマット  
+IBMの専門家であるDragosCojocariが、DNGテキストデータソースでデータソース構成要素を使用する方法、スクリプト式を追加する方法、およびデータ構成を継承する方法を紹介します。  
+  
+詳細については、「データソース構成要素の追加」を参照してください。  
+  
+http://www-.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.publishing.doc/topics/t_element_run_time.html  
+  
+製品バージョンのビデオは2.0.1で作成されました  
+  
+製品バージョンの適用対象：2.0、2.0.1  
+  
+SY：ドラゴスコジョカリ
 
 ### Description
 Part 4: Formatting your document  
@@ -2902,6 +4052,20 @@ SY: Dragos Cojocari
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1', 'templates']
 
+### Description(ja)
+パート5：ヘッダーとフッターの追加  
+IBMの専門家であるDragosCojocariは、スタイルシートを使用してヘッダーとフッターを追加し、インクルードファイル要素を使用して免責事項テキストを追加することにより、再利用のベストプラクティスを示しています。  
+  
+詳細については、「テンプレートの作成」を参照してください。  
+  
+http://www-.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.publishing.doc/topics/t_template_designing.html?lang=en  
+  
+製品バージョンのビデオは2.0.1で作成されました  
+  
+製品バージョンの適用対象：2.0、2.0.1  
+  
+SY：ドラゴスコジョカリ
+
 ### Description
 Part 5: Adding headers and footers  
 IBM expert Dragos Cojocari demonstrates best practices for reuse by adding headers and footers using stylesheets, and adding disclaimer text using the Include File element.  
@@ -2928,6 +4092,19 @@ SY: Dragos Cojocari
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1', 'templates', 'troubleshooting', 'debugging']
 
+### Description(ja)
+パート6：トラブルシューティングとデバッグ  
+IBMの専門家であるDragosCojocariが、コンソールビューを確認し、ログファイルを表示し、組み込みのデバッグツールを使用して、問題のトラブルシューティングとデバッグを行う方法を紹介します。  
+  
+詳細については、「テンプレートのデバッグ」を参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.troubleshooting.doc/topics/t_debug.html  
+  
+製品バージョンのビデオは2.0.1で作成されました  
+  
+製品バージョンの適用対象：2.0、2.0.1  
+  
+SY：ドラゴスコジョカリ
+
 ### Description
 Part 6: Troubleshooting and debugging  
 IBM expert Dragos Cojocari presents how to troubleshoot and debug problems by looking at the Console view, viewing the log files, and using the built-in debugging tools.  
@@ -2953,6 +4130,11 @@ SY: Dragos Cojocari
 ### Tags
 ['RTC', 'ClearCase', 'Cadence', 'IBM', 'Rational']
 
+### Description(ja)
+このプレゼンテーションは、3部構成のシリーズのパート1です。このプレゼンテーションでは、Solution for Electronic Designの環境について説明し、IBM RationalTeamConcertおよびIBMRationalClearCaseを使用して、変更および構成管理環境を実装し、Cadence VirtuosoLibraryManager環境でライブラリーセルコンポーネントを追跡する方法を確認します。  
+  
+SY
+
 ### Description
 This presentation is Part 1 of a three-part series.  In this presentation we discuss the environment of the Solution for Electronic Design and see how you can use IBM Rational Team Concert and IBM Rational ClearCase to implement a Change and Configuration Management environment to track library cell components in the Cadence Virtuoso Library Manager environment.  
   
@@ -2969,6 +4151,11 @@ SY
 
 ### Tags
 ['ClearCase', 'IBM Rational', 'RTC', 'Rational Team Concert', 'Cadence Virtuoso']
+
+### Description(ja)
+このプレゼンテーションは、3部構成のシリーズのパート2です。このプレゼンテーションでは、電子設計ソリューションの環境について引き続き説明し、IBM RationalTeamConcertおよびIBMRationalClearCaseを使用して、変更および構成管理環境を実装し、Cadence VirtuosoLibraryManagerでライブラリーセルコンポーネントを追跡する方法を確認します。環境。  
+  
+SY
 
 ### Description
 This presentation is Part 2 of a three-part series.  In this presentation we will continue our discussion on the environment of the Solution for Electronic Design and see how you can use IBM Rational Team Concert and IBM Rational ClearCase to implement a Change and Configuration Management environment to track library cell components in the Cadence Virtuoso Library Manager environment.  
@@ -2987,6 +4174,9 @@ SY
 ### Tags
 ['IBM Rational', 'ClearCase', 'RTC', 'Rational Team Concert', 'Cadence Virtuoso']
 
+### Description(ja)
+このプレゼンテーションは、3部構成のシリーズの3番目で最後の部分です。このプレゼンテーションでは、電子設計ソリューションの環境について引き続き説明し、IBM RationalTeamConcertおよびIBMRationalClearCaseを使用して、変更および構成管理環境を実装し、Cadence VirtuosoLibraryManagerでライブラリーセルコンポーネントを追跡する方法を確認します。環境。
+
 ### Description
 This presentation is the third and final part of a three-part series.  In this presentation we will continue our discussion on the environment of the Solution for Electronic Design and see how you can use IBM Rational Team Concert and IBM Rational ClearCase to implement a Change and Configuration Management environment to track library cell components in the Cadence Virtuoso Library Manager environment.
 
@@ -3001,6 +4191,11 @@ This presentation is the third and final part of a three-part series.  In this p
 
 ### Tags
 ['jazz.net', 'jazz', 'IBM software', 'IBM Rational', 'CLM']
+
+### Description(ja)
+IBMジャズプラットフォームとアーキテクチャーのコンポーネントの基本的な概念。  
+  
+SY
 
 ### Description
 Fundamental concepts of the IBM jazz platform and the components of the architecture.  
@@ -3019,6 +4214,9 @@ SY
 ### Tags
 ['ibm', 'rhapsody', 'modeling', 'andy lapping']
 
+### Description(ja)
+このビデオでは、IBMテクニカルスペシャリストのAndy Lappingが、Rhapsodyモデルに埋め込まれたJavaを使用してRhapsodyテーブルのコンテンツをカスタマイズする方法について説明します。
+
 ### Description
 In this video IBM Technical Specialist Andy Lapping takes you through how to customize Rhapsody table content using Java embedded into the Rhapsody model
 
@@ -3033,6 +4231,9 @@ In this video IBM Technical Specialist Andy Lapping takes you through how to cus
 
 ### Tags
 ['IBM', 'rhapsody', 'modeling', 'sysml', 'uml']
+
+### Description(ja)
+このビデオでは、IBMテクニカルスペシャリストのAndy Lappingが、ドメイン固有モデリングを使用してRhapsodyユーザーエクスペリエンスを簡素化する方法を示します。
 
 ### Description
 In this video, IBM Technical Specialist Andy Lapping will demonstrate how to simplify the Rhapsody User Experience with Domain Specific Modeling
@@ -3049,6 +4250,9 @@ In this video, IBM Technical Specialist Andy Lapping will demonstrate how to sim
 ### Tags
 ['configuration management', 'global configuration', 'baseline', 'stream', 'component', 'variant', 'branch', 'global configuration management', 'configuration lead', 'product', 'baselines', 'streams', 'variants', 'tags', 'custom attribute values', 'links', 'history']
 
+### Description(ja)
+グローバル構成v6.0.2の新機能のビデオでは、拡張タグと検索機能、拡張カスタム属性とリンク機能、およびグローバル構成管理アプリケーションの新しい履歴機能について説明しています。ビデオは、これらの拡張された新機能が日常業務にどのように役立つかを示しています。このビデオは、構成リードの役割を持つユーザーを対象としていますが、新機能や拡張機能について学習することに関心のあるすべてのユーザーは、このビデオが役立つと思います。
+
 ### Description
 The global configuration What’s New in v6.0.2 video shows and discusses extended tag and search features, extended custom attribute and link features, and the new History features in the Global Configuration Management application. The video shows how these extended and new features can help your daily work. This video is geared toward users in the Configuration Lead role, but all users interested in learning about new and extended features will find this video useful.
 
@@ -3063,6 +4267,16 @@ The global configuration What’s New in v6.0.2 video shows and discusses extend
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.0']
+
+### Description(ja)
+IBM RationalPublishingEngineでデータソース接続とレポートのコピーを作成する方法を学びます。  
+詳細については、以下を参照してください。  
+データソース接続の複製  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.web.doc/topics/t_datasource_dup.html  
+既存のレポートからレポートを作成する  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.web.doc/topics/t_report_dup.html  
+  
+このビデオは、Rational PublishingEnginev2.1.0で作成されました。
 
 ### Description
 Learn how to make copies of your data source connections and reports in IBM Rational Publishing Engine.  
@@ -3086,6 +4300,14 @@ This video was produced with Rational Publishing Engine v2.1.0.
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.0']
 
+### Description(ja)
+Rational DOORSNextGenerationモジュールをIBMRationalPublishingEngineテンプレートにドラッグアンドドロップする方法を学びます。  
+詳細については、以下を参照してください。  
+WebリソースのURLからドキュメントテンプレートを作成する  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.publishing.doc/topics/t_dndurl_template.html  
+  
+このビデオは、Rational PublishingEnginev2.1.0で作成されました。
+
 ### Description
 Learn how to drag and drop a Rational DOORS Next Generation module into a IBM Rational Publishing Engine template.  
 For more information, see:   
@@ -3106,6 +4328,11 @@ This video was produced with Rational Publishing Engine v2.1.0.
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.0']
 
+### Description(ja)
+IBM Rational Publishing Engineでは、DocumentStudioのパレットビューがドロワーに編成されるようになりました。この機能は有効または無効にできます。  
+  
+このビデオは、Rational PublishingEnginev2.1.0で作成されました。
+
 ### Description
 In IBM Rational Publishing Engine, the Palette View in Document Studio is now organized into drawers. This feature can be enabled or disabled.  
   
@@ -3122,6 +4349,14 @@ This video was produced with Rational Publishing Engine v2.1.0.
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.0', 'CLM', 'DNG', 'DM']
+
+### Description(ja)
+POX（Plain Old XML）プロファイルを使用してOSLCURLをレポート可能なRESTURLに変換できるようになったため、トレーサビリティドキュメントの作成がこれまでになく簡単になりました。この例では、Rational DOORS Next Generation andDesignManagerからの情報を出力します。  
+詳細については：  
+POXプロファイルを使用してCLMアプリケーションからトレーサビリティドキュメントを作成する  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.integration.doc/topics/t_pox.html  
+プレーンオールドXMLプロファイルを使用してトレーサビリティドキュメントから複雑さを取り除くhttps://rpeactual.com/2016/03/28/no-phd-required/  
+このビデオは、Rational PublishingEnginev2.1.0およびCLM6.0.2で作成されました。
 
 ### Description
 It is easier than ever to create traceability documents as you can now use the POX (Plain Old XML) profile to convert OSLC URLs to reportable REST URLs.  This example prints information from Rational DOORS Next Generation and Design Manager.   
@@ -3142,6 +4377,16 @@ This video was produced with Rational Publishing Engine v2.1.0 and CLM 6.0.2.
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.0']
+
+### Description(ja)
+表示する要素を定義し、テンプレート・エディターの「文書のアウトライン」タブをクリックすることにより、IBM RationalPublishingEngineでテンプレートの簡略化された構造を表示できるようになりました。  
+詳細については、以下を参照してください。  
+テンプレートの構造を表示する  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.publishing.doc/topics/t_docoutline.html  
+  
+このビデオは、Rational PublishingEnginev2.1.0で作成されました。  
+  
+hs
 
 ### Description
 You can now view a simplified structure of your template in IBM Rational Publishing Engine by defining which elements you want to see and then clicking the Document Outline tab in the template editor.  
@@ -3165,6 +4410,16 @@ hs
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.0']
 
+### Description(ja)
+テンプレートアシスタント（スタジオガイド）は、データと要素の追加、フォーマット、およびドキュメントの生成によってテンプレートを作成する手順を説明するインタラクティブなガイドです。  
+詳細については、以下を参照してください。  
+テンプレートアシスタント  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.overview.doc/topics/c_template_assistant.html  
+  
+このビデオは、Rational PublishingEnginev2.1.0で作成されました。  
+  
+hs
+
 ### Description
 The template assistant (studio guide) is an interactive guide that walks you through the steps of creating a template by adding data and elements, formatting, and generating a document.  
 For more information, see:   
@@ -3186,6 +4441,16 @@ hs
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.0']
+
+### Description(ja)
+これで、IBM Rational Publishing Engineテンプレート内でコード・モジュールを定義し、テンプレート内の他の場所で定義された関数を再利用できます。  
+詳細については、「JavaScriptコード要素の追加」を参照してください。  
+  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.publishing.doc/topics/t_element_jscode.html  
+  
+このビデオは、Rational PublishingEnginev2.1.0で作成されました。  
+  
+hs
 
 ### Description
 You can now define code modules inside an IBM Rational Publishing Engine template and reuse the functions defined there everywhere else in the template.  
@@ -3209,6 +4474,16 @@ hs
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1']
 
+### Description(ja)
+ドキュメントテンプレートを作成する方法、ドキュメントに必要なデータを見つける方法、ドキュメント仕様を構成する方法、PDFドキュメントを生成する方法を学びます。  
+  
+詳細については、を参照してください-データソースとしてRational DOORSNextGenerationを使用したテンプレートの設計  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.integration.doc/topics/t_dng_templates.html  
+  
+このビデオは、Rational PublishingEnginev2.0.1で作成されました。  
+  
+SY：HS
+
 ### Description
 Learn how to build a document template, find the data that you want in your document, configure a document specification, and generate a PDF document.  
   
@@ -3231,6 +4506,10 @@ SY:HS
 ### Tags
 ['Rational', 'CLM', 'IoTCE', '6.0.2', 'LQE', 'reporting', 'configuration management']
 
+### Description(ja)
+（構成管理が有効になっているプロジェクトからの）バージョン管理されたアーティファクトのレポートでは、データウェアハウスは使用されません。代わりに、ライフサイクルクエリエンジンのデータソースを使用します。このビデオは、レポートビルダーを使用してバージョン管理されたアーティファクトのレポートを作成する方法を示しています。失敗したテスト結果と結果として生じる関連作業項目を含むテストケースのレポートを作成する方法を学びます。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.2を示しています。
+
 ### Description
 Reporting for versioned artifacts (from projects that are enabled for configuration management) does not use the data warehouse; instead, it uses the Lifecycle Query Engine data source. This video shows how to use Report Builder to create reports for versioned artifacts. Learn how to create a report of test cases with failing test results and the resulting associated work items.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
@@ -3246,6 +4525,10 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'configuration management', 'global configurations']
+
+### Description(ja)
+変更管理アーティファクトは通常バージョン管理されていないため、ローカル構成の一部ではありません。ただし、要件とテスト成果物の正しいバージョンにリンクする必要があります。このビデオでは、リリースと属性マッピングを設定して作業項目とグローバル構成を関連付け、他のアーティファクトタイプへのリンクが正しい構成コンテキストで確実に解決されるようにする方法を示します。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.2を示しています。
 
 ### Description
 Change management artifacts aren't typically versioned, so are not part of a local configuration. However, they do need to link to the correct versions of requirements and test artifacts. This video shows how to set up releases and attribute mappings to associate work items and global configurations, to ensure that links to other artifact types resolve in the correct configuration context.  
@@ -3263,6 +4546,10 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'configuration management']
 
+### Description(ja)
+このビデオでは、構成管理を使用して、あるQMストリームのベースラインから別のストリームに変更を選択的にマージする方法を示します。これは、製品の1つのバリアントに変更を加えて、他のバリアントに適用して再利用する場合に役立ちます。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.2を示しています。
+
 ### Description
 This video shows how you can selectively merge changes from a baseline of one QM stream into another stream, with configuration management. This is useful when you have changes in one variant of your product that you want to apply and reuse across other variants.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
@@ -3278,6 +4565,10 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'configuration management']
+
+### Description(ja)
+製品を構成するアーティファクトを完成させるときは、グローバルベースラインを使用して、既知の時点（マイルストーンまたはリリース）でのすべてのアーティファクトの状態をキャプチャします。そのベースラインを出発点として自信を持って使用して、メンテナンス用の新しいストリーム、または製品の新しいバージョンやバリアントを作成できます。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.2を示しています。
 
 ### Description
 As you finalize the artifacts that make up your product, take a global baseline to capture the state of all artifacts at a a known point in time - a milestone or release. You can confidently use that baseline as a starting point to create new streams for maintenance or new versions or variants of your products.  
@@ -3295,6 +4586,10 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'configuration management']
 
+### Description(ja)
+構成管理を有効にすると、要件からのリンクが自動的に正しいバージョンのテスト成果物に解決されます。リンクの有効性インジケーターは、変更を伝えるために両側に表示されます。このビデオは、テストチームが要件の変更にどのように対応し、影響を受けるストリームのベースラインを作成するかを示しています。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.2を示しています。
+
 ### Description
 With configuration management enabled, links from the requirements automatically resolve to the correct version of the test artifacts. Link validity indicators appear on both sides to communicate change. This video shows how the test team responds to the requirement changes and creates a baseline for the affected stream.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
@@ -3310,6 +4605,10 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'configuration management', 'global configurations']
+
+### Description(ja)
+このビデオでは、あるストリームで行った変更を別のストリームに配信する方法を示します。たとえば、製品のあるバリアントに新しい要件があり、他のバリアントでも再利用したい場合などです。変更を自動的に配信する方法と、競合する変更を管理するためのオプションが表示されます。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.2を示しています。
 
 ### Description
 This video shows how to deliver changes that you've made in one stream into another - for example, if you had new requirements for one variant of your product that you want to reuse in other variants also. You will see how to deliver changes automatically, and options to manage conflicting changes.  
@@ -3327,6 +4626,10 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'configuration management', 'global configurations']
 
+### Description(ja)
+構成管理を有効にすると、変更をメインの作業ストリームから分離する変更セットを使用して（オプションで必須の）変更を制御できます。他の人が見て使用できるようにメインストリームに配信する前に、変更セットを変更要求にリンクするように要求することもできます。テストなどの成果物へのリンクは、影響を受ける可能性のある関係者に変更を伝達するために、自動的または明示的に有効または無効のマークを付けることができます。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.2を示しています。
+
 ### Description
 With configuration management enabled, you can control change through (optionally mandated) use of change sets that isolate your changes from the main working stream. You can also require that change sets be linked to change requests, before delivering to the main stream for others to see and use.  Links to artifacts such as tests can be marked valid or invalid automatically or explicitly, to communicate changes to potentially impacted parties.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
@@ -3343,6 +4646,10 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 ### Tags
 ['CLM', 'Rational', 'IoTCE', '6.0.2', 'configuration management', 'global configurations']
 
+### Description(ja)
+このビデオでは、IBM Rational CollaborativeLifecycleManagementおよびIBMWatsonIoTContinuousEngineeringソリューションのグローバル構成を紹介します。コンポーネント、構成、ストリーム、ベースライン、および履歴を紹介します。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.2を示しています。
+
 ### Description
 This video introduces global configurations in the IBM Rational Collaborative Lifecycle Management and IBM Watson IoT Continuous Engineering solutions. It introduces components, configurations, streams and baselines, as well as history.  
 This video shows version 6.0.2 of the IBM CLM/CE solution.
@@ -3358,6 +4665,16 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.0.1']
+
+### Description(ja)
+IBM Rational Publishing Engine Document Builderを使用して、さまざまなRationalQualityManager構成から文書を生成する方法を学びます。ドキュメントには、テスト計画と関連するテストケースおよび結果が含まれています。  
+  
+参照：構成対応ドキュメントを生成するためのデータソースの設定  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.0.1/com.ibm.rational.pe.web.doc/topics/t_config_aware.html  
+  
+このビデオは、Rational PublishingEnginev2.0.1で作成されました。  
+  
+SY：HS
 
 ### Description
 Learn how to generate documents from different Rational Quality Manager configurations using IBM Rational Publishing Engine Document Builder. The documents contain test plans and associated test cases and results.  
@@ -3381,6 +4698,14 @@ SY:HS
 ### Tags
 ['IBM', 'Rational', 'RPE']
 
+### Description(ja)
+Rational Publishing Engineデスクトップ・クライアントを使用して、さまざまなRQM構成から文書を生成する方法を学びます。ドキュメントには、テスト計画と関連するテストケースおよび結果が含まれています。  
+  
+詳細については、「グローバル構成のOSLCリソースの検出」を参照してください。  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.0/com.ibm.rational.pe.publishing.doc/topics/t_globalconfig.html  
+  
+SY：HS
+
 ### Description
 Learn how to generate documents from different RQM configurations using the Rational Publishing Engine desktop client. The documents contain test plans and associated test cases and results.   
   
@@ -3401,6 +4726,14 @@ SY:HS
 ### Tags
 ['IBM', 'Rational', 'RPE', 'DNG', 'v2.1.1', 'rational publishing engine']
 
+### Description(ja)
+CLM 6.0.3の新しいコンポーネント属性を利用して、IBM RationalPublishingEngineのコンポーネントから構成対応の文書を生成できるようにする方法を学びます。このデモは、Rational DOORSNextGenerationのコンポーネントからドキュメントを生成する方法を示しています。  
+  
+詳細については、以下を参照してください。グローバル構成のOSLCリソースの検出-http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.1/com.ibm.rational.pe.publishing.doc/topics/t_globalconfig.html  
+  
+このビデオは、Rational PublishingEnginev2.1.1で作成されました。  
+sy：hs
+
 ### Description
 Learn how to take advantage of the new component attribute in CLM 6.0.3 so that you can generate configuration-aware documents from components in IBM Rational Publishing Engine. This demo shows how to generate a document from a component in Rational DOORS Next Generation.  
   
@@ -3420,6 +4753,17 @@ sy:hs
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'JavaScript', 'v2.1.1']
+
+### Description(ja)
+このデモでは、IBM Rational Publishing EngineDocumentBuilderでJavaScriptアセットを操作する方法について説明します。 Document Studioでは、JavaScriptエディターにラインマーキング、構文の色付け、コンテンツアシストが含まれるようになりました。テンプレートの参照リンクとしてJavaScriptを追加することもできます。  
+  
+詳細については、「JavaScriptコード要素の追加」を参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.1/com.ibm.rational.pe.publishing.doc/topics/t_element_jscode.html  
+  
+このビデオは、Rational PublishingEnginev2.1.1で作成されました。  
+  
+  
+sy：hs
 
 ### Description
 This demo highlights how you can now work with JavaScript assets in IBM Rational Publishing Engine Document Builder. In Document Studio, the JavaScript editor now includes line marking, syntax coloring and content assist. You can also add the JavaScript as a reference link in the template.   
@@ -3444,6 +4788,15 @@ sy:hs
 ### Tags
 ['IBM', 'Rational', 'RPE', 'JRS', 'v2.1.1']
 
+### Description(ja)
+レポートビルダーからRationalPublishingEngineテンプレートにグラフをドラッグアンドドロップし、グラフを表示するドキュメントを生成する方法を学びます。  
+  
+詳細については、「WebリソースURLからの文書テンプレートの作成-http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.1/com.ibm.rational.pe.publishing.doc/topics/t_dndurl_template」を参照してください。 html  
+  
+このビデオは、Rational PublishingEnginev2.1.1で作成されました  
+  
+SY：HS
+
 ### Description
 Learn how to drag and drop a graph from Report Builder into a Rational Publishing Engine template, and generate a document displaying the chart.   
   
@@ -3464,6 +4817,16 @@ SY: HS
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'MathML', 'v2.1.1']
+
+### Description(ja)
+このデモは、IBM Rational Publishing Engineの文書に数式（たとえば、2次式）を追加する方法を示しています。 MathMLマークアップ言語で数式を記述し、それをスクリプト式としてテンプレートに追加します。  
+  
+詳細については、「テキスト要素の追加」を参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.1/com.ibm.rational.pe.publishing.doc/topics/t_element_text.html  
+  
+このビデオは、Rational PublishingEnginev2.1.1で作成されました。  
+  
+SY：HS
 
 ### Description
 This demo shows how you can now add mathematical equations (for example quadratic formulas) to your documents in IBM Rational Publishing Engine. Write the mathematical equation with the MathML markup language and then add it as a script expression in your template.  
@@ -3487,6 +4850,16 @@ SY:HS
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.1']
 
+### Description(ja)
+IBM Rational Publishing Engineで、管理者がDocument Builderでジョブを一時停止、再開、またはキャンセルすることにより、サーバー上で現在実行されている文書生成ジョブを管理する方法を確認してください。  
+  
+詳細については、「ドキュメント生成ジョブの管理」を参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.1/com.ibm.rational.pe.administer.doc/topics/t_monitor_docbuilder.html  
+  
+このビデオは、Rational PublishingEnginev2.1.1で作成されました。  
+  
+SY：HS
+
 ### Description
 In IBM Rational Publishing Engine, see how administrators can manage document generation jobs that are currently running on the server by pausing, resuming, or cancelling jobs in Document Builder.  
   
@@ -3508,6 +4881,16 @@ SY: HS
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'DNG', 'v2.1.1']
+
+### Description(ja)
+IBM Rational Publishing Engineには、さまざまなデータ・ソースから文書を生成するために使用できる多くの新しいサンプル資産があります。このデモは、サンプルのRational DOORSNextGenerationテンプレートからドキュメントを生成する方法を示しています。  
+  
+詳細については、「ドキュメントビルダーのサンプル」を参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.1/com.ibm.rational.pe.samples.doc/topics/c_samples_webapp.html  
+  
+このビデオは、Rational PublishingEnginev2.1.1で作成されました。  
+  
+sy：hs
 
 ### Description
 IBM Rational Publishing Engine has many new sample assets that you can use to generate documents from different data sources. This demo shows how to generate a document from a sample Rational DOORS Next Generation template.  
@@ -3531,6 +4914,16 @@ sy:hs
 ### Tags
 ['IBM', 'Rational', 'RPE', 'DNG', 'v2.1.1']
 
+### Description(ja)
+Rational Publishing Engineは、Document Studioでガイド付きの支援を提供し、テンプレートをすばやく作成して特定のデータソースのドキュメントを生成するのに役立ちます。このデモを見て、ガイド付きツアーの開始方法と、入門ツアーおよびDOORS次世代ツアーを確認してください。  
+  
+詳細については、ガイド付きツアーとテンプレートアシスタントを参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.1/com.ibm.rational.pe.overview.doc/topics/c_tour.html  
+  
+このビデオは、Rational PublishingEnginev2.1.1で作成されました。  
+  
+SY：HS
+
 ### Description
 Rational Publishing Engine now provides you with guided assistance in Document Studio to help you quickly build templates and generate documents for specific data sources. Watch this demo to see how to launch the guided tours and to view the introductory tour and the DOORS Next Generation tour.  
   
@@ -3553,6 +4946,15 @@ SY: HS
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.1']
 
+### Description(ja)
+IBM Rational Publishing Engineの新しいユーザビリティーの改善により、ナビゲーションサイドバーを展開および折りたたむ、リスト内のすべての項目を選択する、すべてのグループを展開および折りたたむ、複数のテンプレートを選択してそれらからレポートを作成することができます。  
+詳細については、「Rational PublishingEngine2.1.1の新機能」を参照してください。  
+http://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.1/com.ibm.rational.pe.overview.doc/topics/c_whats_new_211.html  
+  
+このビデオは、Rational PublishingEnginev2.1.1で作成されました。  
+  
+sy：hs
+
 ### Description
 With the new usability improvements in IBM Rational Publishing Engine, you can expand and collapse the navigation sidebar, select all items in a list, expand and collapse all groups, and select multiple templates and create a report from them.   
 For more information, see: What’s new in Rational Publishing Engine 2.1.1  
@@ -3574,6 +4976,11 @@ sy:hs
 ### Tags
 None
 
+### Description(ja)
+このビデオは、IBM Rational Collaborative Lifecycle Management（CLM）6.0.3でScaled Agile Framework（SAFe）を使用するときにポートフォリオを開始する方法を説明する3部構成のシリーズのパート3です。  
+  
+パート2をご覧ください：https：//youtu.be/t42DHVNl_TE
+
 ### Description
 This video is part 3 of a 3 part series that explains how to initiate the portfolio when using Scaled Agile Framework (SAFe) with IBM Rational Collaborative Lifecycle Management (CLM) 6.0.3  
   
@@ -3590,6 +4997,11 @@ See part 2: https://youtu.be/t42DHVNl_TE
 
 ### Tags
 None
+
+### Description(ja)
+このビデオは、IBM Rational Collaborative Lifecycle Management（CLM）6.0.3でScaled Agile Framework（SAFe）を使用するときにポートフォリオを開始する方法を説明する3部構成のシリーズのパート2です。  
+  
+パート1を参照してください：https：//youtu.be/pwvmXVbnHBY
 
 ### Description
 This video is part 2 of a 3 part series that explains how to initiate the portfolio when using Scaled Agile Framework (SAFe) with IBM Rational Collaborative Lifecycle Management (CLM) 6.0.3  
@@ -3608,6 +5020,11 @@ See part 1: https://youtu.be/pwvmXVbnHBY
 ### Tags
 None
 
+### Description(ja)
+このビデオは、IBM Rational Collaborative Lifecycle Management（CLM）6.0.3を使用してScaled Agile Framework（SAFe）のツールを最適化する方法を説明する3部構成のシリーズのパート3です。  
+  
+パート2をご覧ください：https：//youtu.be/AQ90-PQTPCM
+
 ### Description
 This video is part 3 of a 3 part series that explains how to optimize the tooling for Scaled Agile Framework (SAFe) with IBM Rational Collaborative Lifecycle Management (CLM) 6.0.3  
   
@@ -3624,6 +5041,11 @@ See part 2: https://youtu.be/AQ90-PQTPCM
 
 ### Tags
 None
+
+### Description(ja)
+このビデオは、IBM Rational Collaborative Lifecycle Management（CLM）6.0.3を使用してScaled Agile Framework（SAFe）のツールを最適化する方法を説明する3部構成のシリーズのパート2です。  
+  
+パート1をご覧ください：https：//youtu.be/3-J1xtCZW8s
 
 ### Description
 This video is part 2 of a 3 part series that explains how to optimize the tooling for Scaled Agile Framework (SAFe) with IBM Rational Collaborative Lifecycle Management (CLM) 6.0.3  
@@ -3642,6 +5064,9 @@ See part 1: https://youtu.be/3-J1xtCZW8s
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -3656,6 +5081,9 @@ None
 
 ### Tags
 ['scaled agile framework', 'SAFe']
+
+### Description(ja)
+
 
 ### Description
 
@@ -3672,6 +5100,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -3686,6 +5117,9 @@ None
 
 ### Tags
 ['Rhapsody', 'Rational', 'Modeling', 'andy lapping']
+
+### Description(ja)
+このビデオでは、AndyLappingがRhapsodyでテーブルを作成するための基本を説明します。
 
 ### Description
 In this video Andy Lapping takes you through the basics of creating tables in Rhapsody
@@ -3702,6 +5136,9 @@ In this video Andy Lapping takes you through the basics of creating tables in Rh
 ### Tags
 ['rhapsody', 'modeling']
 
+### Description(ja)
+このビデオでは、Andy Lappingが、Rhapsody 8.2で導入された新しい機能（他のモデル要素に基づくモデル要素の自動作成/同期）を紹介します。これは、推論モデリングとも呼ばれます。
+
 ### Description
 In this video Andy Lapping takes you a new capability introduced in Rhapsody 8.2 - the automatic creation / synchronization of model elements based on other model elements - otherwise known as Inferred Modeling
 
@@ -3716,6 +5153,13 @@ In this video Andy Lapping takes you a new capability introduced in Rhapsody 8.2
 
 ### Tags
 ['IBM', 'Rational', 'test script', 'Information step type', 'Execution Step Type', 'Collaborative Lifecycle Management', 'manual test case', 'Test Script Preferences']
+
+### Description(ja)
+このビデオチュートリアルでは、手動テストスクリプトを作成するときに情報タイプのステップを作成する方法を示します。情報ステップは、実行不可能な読み取り専用のステップです。この新しいタイプのステップは、Rational QualityManagerv6.0.3で導入されました。  
+  
+Rational Quality Managerのv6.0.3の詳細については、https：//jazz.net/downloads/clmを参照してください。また、Rational Quality Managerナレッジセンター（http://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.3/com.ibm.rational.test.qm.doc/topics/c_qm_top.html）も参照してください。  
+  
+HS：VK
 
 ### Description
 This video tutorial demonstrates how to create an Information type step when you author a manual test script. An Information step is a non-executable, read-only step. This new type of step was introduced in Rational Quality Manager v6.0.3.   
@@ -3736,6 +5180,13 @@ HS:VK
 ### Tags
 ['IBM', 'Rational', 'Rational Quality Manager', 'test script', 'Test Automation', 'test suite', 'Collaborative Lifecycle Management', 'test case', 'Selenium', 'JUnit functions', 'traceability']
 
+### Description(ja)
+このビデオチュートリアルは、自動化スクリプトをテストスイートに関連付ける方法を示しています。その単一の自動化スクリプトが実行され、テストスイートに関連付けられたテストケースとスイートの結果が作成されます。  
+  
+Rational Quality Managerのv6.0.3の詳細については、https：//jazz.net/downloads/clmを参照してください。また、Rational Quality Managerナレッジセンター（http://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.3/com.ibm.rational.test.qm.doc/topics/c_qm_top.html）も参照してください。  
+  
+HS：VK
+
 ### Description
 This video tutorial demonstrates how to associate an automation script with the test suite. That single automation script runs and creates results for the test cases associated with the test suite as well as for the suite.  
   
@@ -3755,6 +5206,9 @@ HS: VK
 ### Tags
 ['ibm', 'rhapsody', 'test conductor', 'testing', 'model based testing']
 
+### Description(ja)
+このビデオでは、IBMテクニカルスペシャリストのAndy Lappingが、RhapsodyのTestConductorツールを使用したシステムエンジニアリングモデルのモデルベーステストの概要を説明します。
+
 ### Description
 In this video IBM Technical Specialist Andy Lapping takes you through an introduction to Model Based Testing for Systems Engineering models using Rhapsody's Test Conductor tool
 
@@ -3769,6 +5223,17 @@ In this video IBM Technical Specialist Andy Lapping takes you through an introdu
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.2', 'JSON', 'JIRA']
+
+### Description(ja)
+このデモでは、JIRAからJSONデータを取得するためのURLを作成する方法を学習します。次に、Rational Publishing Engine Document StudioにJSONスキーマを追加し、JIRAの問題を表示するように設計されたテンプレートからドキュメントを生成します。  
+  
+このビデオは、IBM RationalPublishingEngineバージョン2.1.2を使用して記録されました。  
+   
+詳細については、を参照してください。  
+JIRAとRationalPublishingEngineの統合  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.integration.doc/topics/c_jira_integrate.html  
+  
+HS：HS
 
 ### Description
 In this demo you’ll learn how to construct a URL to obtain JSON data from JIRA. You’ll then add the JSON schema in Rational Publishing Engine Document Studio and generate a document from a template designed to display JIRA issues.  
@@ -3793,6 +5258,17 @@ HS:HS
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.2', 'DNG', 'configurations', 'Rational Publishing Engine', 'DOORS Next Generation', 'requirements']
 
+### Description(ja)
+IBMDOORS®次世代モジュールの2つの異なるバージョンの違いを示すドキュメントを作成する方法を学びます。  
+  
+このビデオは、IBM RationalPublishingEngineバージョン2.1.2を使用して記録されました。  
+  
+詳細については、を参照してください。  
+比較ドキュメントの作成  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.publishing.doc/topics/t_compare_doc.html  
+  
+HS：HS
+
 ### Description
 Learn how to create a document that shows the differences between two different versions of an IBM DOORS® Next Generation module.  
   
@@ -3816,6 +5292,13 @@ HS:HS
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.2', 'Rational Publishing Engine', 'Document Builder', 'permissions']
 
+### Description(ja)
+パブリックアセットとプライベートアセットの違い、アセットの所有権を変更する方法、およびデフォルトのプライバシー設定を上書きする方法について説明します。  
+このビデオは、RationalPublishingEngineバージョン212を使用して記録されました。  
+詳細については、以下を参照してください。  
+アセットの権限を設定する  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.web.doc/topics/t_asset_perm.html
+
 ### Description
 Learn about the differences between public and private assets, how to change asset ownership, and how to override the default privacy settings.  
 This video was recorded using Rational Publishing Engine version 212.  
@@ -3834,6 +5317,15 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.web
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.2', 'JRS', 'Report Builder', 'documents', 'Microsoft Word', 'PDF', 'HTML', 'v6.0.4', 'Rational Publishing Engine', 'Jazz Reporting Service']
+
+### Description(ja)
+レポートをMicrosoftWord、PDF、HTMLなどのさまざまな種類のドキュメントにエクスポートする方法を学習します。ドキュメントの追加のフォーマットを行う場合は、RationalPublishingEngineに直接エクスポートできます。  
+このビデオは、Jazz ReportingService6.0.4およびIBMRationalPublishingEngineバージョン2.1.2を使用して記録されました。  
+詳細については、を参照してください。  
+レポートをさまざまな形式にエクスポートする  
+https://www.ibm.com/support/knowledgecenter/ SSYMRC_6.0.4/com.ibm.team.jp.jrs.doc/topics/t_jrs_export_reprts.html  
+  
+HS：HS
 
 ### Description
 You’ll learn how to export your report to various document types such as Microsoft Word, PDF, or HTML. If you want to do additional formatting of the document, you can export it directly to Rational Publishing Engine.  
@@ -3856,6 +5348,15 @@ HS:HS
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.2', 'Rational Publishing Engine', 'JTS', 'Jazz Team Server', 'Document Builder']
 
+### Description(ja)
+Jazz TeamServer認証を使用してDocumentBuilderをセットアップし、JazzTeamServerロールをRationalPublishingEngineロールにマップする方法を学習します。  
+このビデオは、Rational PublishingEngine2.1.2を使用して録画されました。  
+詳細については、以下を参照してください。  
+DocumentBuilder用のJazzTeamServerコンテナー認証の構成  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.install.doc/topics/t_auth_cont_jts.html  
+  
+HS：HS
+
 ### Description
 Learn how to set up Document Builder with Jazz Team Server authentication and map Jazz Team Server roles to Rational Publishing Engine roles.  
 This video was recorded using Rational Publishing Engine 2.1.2.  
@@ -3876,6 +5377,15 @@ HS:HS
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.2', 'tag', 'data source connection', 'Document Builder', 'Rational Publishing Engine']
+
+### Description(ja)
+Rational Publishing Engineでデータソース接続にタグを付けて、それらを見つけやすくすることができます。データソース接続にタグを付ける方法、タグで接続をグループ化する方法、タグ、接続名、または説明で接続を検索する方法を学びます。  
+このビデオは、IBM RationalPublishingEngineバージョン2.1.2を使用して記録されました。  
+詳細については、を参照してください。  
+アセットまたはドキュメントの整理と検索  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.web.doc/topics/t_find.html  
+  
+HS：HS
 
 ### Description
 You can tag your data source connections in Rational Publishing Engine to make them easier to find. Learn how to tag data source connections, group connections by tag, and search connections by tag, connection name, or description.  
@@ -3898,6 +5408,15 @@ HS:HS
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v2.1.2', 'admin', 'runtime variables', 'Document Builder', 'Rational Publishing Engine']
 
+### Description(ja)
+Rational Publishing Engine管理者は、権限やロールのマッピングなど、DocumentBuilderの高度なプロパティを設定できます。  
+このビデオは、IBM RationalPublishingEngineバージョン2.1.2を使用して記録されました。  
+詳細については、を参照してください。  
+ドキュメントビルダーの管理  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.web.doc/topics/r_admin.html  
+  
+HS：HS
+
 ### Description
 Rational Publishing Engine administrators can set advanced properties for Document Builder, for example permissions and role mapping.   
 This video was recorded using IBM Rational Publishing Engine version 2.1.2.  
@@ -3919,6 +5438,15 @@ HS:HS
 ### Tags
 ['IBM', 'Rational', 'JRS', 'Jazz Reporting Service', 'v6.0.4', 'custom expression', 'SQL', 'SPARQL', 'Report Builder']
 
+### Description(ja)
+レポートビルダーの高度なクエリモードを使用せずに、カスタム式を使用してレポートで特別な書式設定や複雑な計算を行う方法を学びます。  
+このビデオは、JazzReportingServiceバージョン6.0.4を使用して記録されました。  
+詳細については、を参照してください。  
+レポートビルダーを使用したプロジェクト全体のアーティファクトのレポート  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.4/com.ibm.team.jp.jrs.doc/topics/t_jrs_create_reports.html  
+  
+HS：HS
+
 ### Description
 Learn how to use custom expressions to do special formatting or complex calculations in reports without having to use the Report Builder advanced query mode.  
 This video was recorded using Jazz Reporting Service version 6.0.4.  
@@ -3939,6 +5467,16 @@ HS:HS
 
 ### Tags
 ['IBM', 'Rational', 'JRS', 'Jazz Reporting Service', 'v6.0.4', 'Report Builder', 'colors', 'highlighting']
+
+### Description(ja)
+表のセルの背景とテキストの色を変更したり、セルの色の透明度を調整したりして、レポートのデータを色分けする方法を学びます。  
+この例では、チームはリリースの最初の2つのスプリントの作業を計画しています。あるチームメンバーが別のプロジェクトに取り組むためにチームを離れるとき、彼らは自分が所有する作業項目を強調するレポートを作成して、簡単に再割り当てできるようにしたいと考えています。  
+このビデオは、JazzReportingServiceバージョン6.0.4を使用して記録されました。  
+詳細については、を参照してください。  
+レポートビルダーを使用したプロジェクト全体のアーティファクトのレポート  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.4/com.ibm.team.jp.jrs.doc/topics/t_jrs_create_reports.html  
+  
+HS：HS
 
 ### Description
 Learn how to color-code the data in your report by changing the background and text color of a table cell or adjust the transparency of the color of a cell.   
@@ -3962,6 +5500,11 @@ HS:HS
 ### Tags
 None
 
+### Description(ja)
+プロジェクトのコストを管理しましょう！  
+要件の管理が不十分であることが、期限の遅れやコストの急増によるプロジェクトの失敗について報告されている主な理由の1つです。要件ツールに直接組み込まれている変更および構成管理を使用して、プロジェクトを管理します。これは難しいことや複雑である必要はありません。  
+詳細：https：//www.ibm.com/uk-en/marketplace/cloud-requirements-management/details#product-header-top
+
 ### Description
 Take control of your project costs!  
 Poor management of requirements is one of the main reasons reported for project failure due to missed deadlines and costs spiraling out of control. Take control of your project with Change and Configuration Management built directly into the requirements tool. This does not need to be difficult or complicated.  
@@ -3978,6 +5521,12 @@ Learn more: https://www.ibm.com/uk-en/marketplace/cloud-requirements-management/
 
 ### Tags
 ['IBM', 'Rational', 'JRS', 'Jazz Reporting Service', 'v6.0.4', 'v6.0.3', 'SAFe', 'scaled agile', 'CLM', 'DNG', 'RTC', 'RQM', 'reports']
+
+### Description(ja)
+IBMの専門家であるAmySilberbauerが、ScaledAgileレポートをレポートビルダーにインポートする際の成功を最大化する方法を紹介します。  
+このビデオは、JazzReportingServiceバージョン6.0.3および6.0.4に適用されます。  
+詳細については、jazz.netのSAFeランディングページを参照してください。  
+https://jazz.net/safe/
 
 ### Description
 IBM expert Amy Silberbauer shows you how to maximize your success when importing the Scaled Agile reports into Report Builder.   
@@ -3997,6 +5546,9 @@ https://jazz.net/safe/
 ### Tags
 ['Web UI Tester', 'IBM']
 
+### Description(ja)
+このビデオでは、IBM Rational Test Workbench Web UI Tester91で導入された新機能について説明します。
+
 ### Description
 This video describes the new features that were introduced in IBM Rational Test Workbench Web UI Tester 9 1.
 
@@ -4011,6 +5563,9 @@ This video describes the new features that were introduced in IBM Rational Test 
 
 ### Tags
 ['rhapsody', 'sysml', 'rational', 'ibm', 'uml', 'rational rhapsody', 'ibm rhapsody', 'mbse']
+
+### Description(ja)
+IBM Technical EnablementSpecialistのAndyLappingが、Rhapsodyテーブルレイアウト内でコンテキストパターンをJavaと組み合わせる方法を説明します。これにより、どちらの方法だけでは不可能な高度なテーブルを作成できます。
 
 ### Description
 IBM Technical Enablement Specialist Andy Lapping walks you through how to combine context patterns with java inside Rhapsody table layouts - allowing the creation of advanced tables that simply wouldn't be possible with either method alone
@@ -4027,6 +5582,9 @@ IBM Technical Enablement Specialist Andy Lapping walks you through how to combin
 ### Tags
 ['ibm rhapsody', 'rational rhapsody', 'sysml', 'uml', 'mbse', 'requirements analysis', 'ibm']
 
+### Description(ja)
+IBM TechnicalEnablementのスペシャリストであるAndyLappingが、Rhapsodyの「リモート要件」の外観とコンテンツをカスタマイズする方法を示します。これはOSLCを通じてモデルに導入される要件です。
+
 ### Description
 IBM Technical Enablement specialist Andy Lapping shows how to customize the appearance and content of "Remote Requirements" in Rhapsody - that is Requirements that are brought into the model through OSLC
 
@@ -4041,6 +5599,9 @@ IBM Technical Enablement specialist Andy Lapping shows how to customize the appe
 
 ### Tags
 ['ibm rational', 'rhapsody', 'ibm rhapsody', 'mbse']
+
+### Description(ja)
+IBM TechnicalEnablementのスペシャリストであるAndyLappingは、過去数回のバージョンでRhapsodyのグラフィカル・エディターに加えられたいくつかの改善点を示しています。ベテランのRhapsodyユーザーでさえ、新しいことを学ぶことは確実です！
 
 ### Description
 IBM Technical Enablement specialist Andy Lapping demonstrates some of the improvements that have been made to the graphical editors in Rhapsody over the last few versions. Even seasoned Rhapsody users are sure to learn something new !
@@ -4057,6 +5618,9 @@ IBM Technical Enablement specialist Andy Lapping demonstrates some of the improv
 ### Tags
 None
 
+### Description(ja)
+Rational製品ヘルプにアクセスするには、3つの方法があります。1）ハードドライブにローカルにインストールする方法、2）システム管理者にエンタープライズ全体のサーバーにインストールさせる方法、3）システムにアクセスするように構成する方法Web上のRationalインフォメーションセンター。このビデオでは、Knowledge CenterCustomerInstallアプリケーションをコンピューターまたはイントラネットサーバーにインストールする方法の詳細な概要を説明します。
+
 ### Description
 There are three ways to access the Rational product help: 1) you can install it locally on your hard drive, 2) you can have your system administrator to install it on an enterprise wide server, or 3) you can configure your system to access the Rational information center on the Web. This video provides a detailed overview of how to install Knowledge Center Customer Install application on a computer or intranet server.
 
@@ -4072,6 +5636,9 @@ There are three ways to access the Rational product help: 1) you can install it 
 ### Tags
 ['IBM', 'Rational', 'Rational Programming Patterns', 'RPP', 'generation']
 
+### Description(ja)
+このビデオは、912バージョンと96バージョンの間で生成されたコードの処理に慣れているRationalProgrammingPatterns開発者を対象としています。 961バージョンでそのようなコードを開いたときに何が期待できるかを示し、主要な機能強化を強調しています。
+
 ### Description
 This video is aimed at Rational Programming Patterns developers who are used to handling code generated between the 912 and the 96 versions. It shows them what to expect when they open such a code in the 961 version and it emphasizes the major enhancements.
 
@@ -4086,6 +5653,14 @@ This video is aimed at Rational Programming Patterns developers who are used to 
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v6.0.5', 'Microsoft Excel', 'spreadsheet']
+
+### Description(ja)
+Microsoft Excelの出力は、RationalPublishingEngineデスクトップクライアントまたはドキュメントビルダーからドキュメントを生成するときに使用できます。サポートされているテンプレート要素は、段落、コンテナ、テキスト、ハイパーリンク、画像、表、行、およびセルです。  
+詳細については、テンプレートの設計に関するMicrosoftExcelの出力リファレンスを参照してください。  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.5/com.ibm.rational.pe.reference.doc/topics/r_excel.html  
+このビデオは、IBM RationalPublishingEngineバージョン6.0.5を使用して記録されました。  
+  
+HS：HS
 
 ### Description
 Microsoft Excel output is available when generating documents from the Rational Publishing Engine desktop client or Document Builder. Supported template elements are Paragraph, Container, Text, Hyperlink, Image, Table, Row, and Cell.  
@@ -4106,6 +5681,15 @@ HS:HS
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v6.0.5', 'HP ALM', 'Rational Publishing Engine', 'JSON', 'REST']
+
+### Description(ja)
+このビデオでは、HPALMの欠陥やその他のアーティファクトを追跡するドキュメントを作成するためにJSON形式のRESTAPIを使用してHPALMデータにアクセスする方法を説明します。 HPALMで製品化されたRESTAPI（http://admhelp.microfocus.com/alm/en/12.50/api_refs/REST/Resources.htmなど）に精通する必要があります。  
+詳細については、を参照してください。  
+HPALMとRationalPublishingEngineの統合  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.5/com.ibm.rational.pe.integration.doc/topics/c_hp_integrate.html  
+このビデオは、IBM RationalPublishingEngineバージョン6.0.5を使用して記録されました。  
+  
+HS：HS
 
 ### Description
 In this video you’ll see how to access the HP ALM data using the REST APIs in JSON format, in order to create a document that tracks defects or other artifacts in HP ALM.  You’ll need to get familiar with the HP ALM productized REST APIs, for example http://admhelp.microfocus.com/alm/en/12.50/api_refs/REST/Resources.htm.   
@@ -4128,6 +5712,15 @@ HS: HS
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v6.0.5', 'SSL', 'certificate', 'smart card', 'Rational Publishing Engine', 'authentication']
 
+### Description(ja)
+証明書（.p12）ファイルまたはスマートカードを使用して、Rational®PublishingEngineデスクトップクライアントからドキュメントを生成する方法を学習します。 RPEには、スマートカードまたは証明書の認証の詳細を入力できる場所がいくつかあります。  
+詳細については、を参照してください。  
+RationalPublishingEngineでの証明書またはスマートカード認証の構成  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.5/com.ibm.rational.pe.publishing.doc/topics/t_config_cert_auth.html  
+このビデオは、IBM RationalPublishingEngineバージョン6.0.5を使用して記録されました。  
+  
+HS：HS
+
 ### Description
 Learn how to generate documents from the Rational® Publishing Engine desktop client by using a certificate (.p12) file or a smart card.  There are several places in RPE where you can enter smart card or certificate authentication details.  
 For more information, see   
@@ -4149,6 +5742,9 @@ HS: HS
 ### Tags
 ['IBM', 'Rational', 'Rational Team Concert Advanced mode', 'RTC', 'v6.0.5']
 
+### Description(ja)
+このビデオでは、6.0.5リリースでドーム型となったWindowsシェルの使いやすさの向上について説明します。
+
 ### Description
 This video describes the usability improvements for windows shell that are dome in 6.0.5 release.
 
@@ -4163,6 +5759,11 @@ This video describes the usability improvements for windows shell that are dome 
 
 ### Tags
 ['configuration-management IBM global-configurations global-configuration-management', 'configuration management', 'Rational', 'IoTCE', 'CLM', 'global configurations', 'global-configurations', 'RQM']
+
+### Description(ja)
+このビデオでは、あるQM構成のテストアーティファクトに加えられた変更を別のQMストリームに選択的にマージして、加えられた変更を製品のさまざまなバージョンまたはバリアント間で再利用できるようにする方法について説明します。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.4を示しています。  
+ビデオは、IBM CLM/CEソリューションのバージョン6.0.4を示しています。
 
 ### Description
 This video explores how to selectively merge changes made to test artifacts in one QM configuration into another QM stream, so changes made can be reused across different versions or variants of your product.    
@@ -4181,6 +5782,10 @@ The video shows version 6.0.4 of the IBM CLM/CE solution.
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'configuration management', 'configuration-management', 'global configurations', 'DNG']
 
+### Description(ja)
+このビデオでは、ある構成の要件に加えられた変更を別の構成に配信する方法について説明し、製品のさまざまなバージョンまたはバリアント間でそれらの変更を簡単に再利用できるようにします。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.4を示しています。
+
 ### Description
 This video explores how to deliver changes made to requirements in one configuration to another, making it easy to reuse those changes across different versions or variants of your product.   
 This video show version 6.0.4 of the IBM CLM/CE solution.
@@ -4196,6 +5801,10 @@ This video show version 6.0.4 of the IBM CLM/CE solution.
 
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'global configurations', 'configuration management', 'components', 'FGCs']
+
+### Description(ja)
+IBM CLM / CEソリューションの最近のバージョンでは、RMおよびQMプロジェクトの構成を有効にすると、オプションで、プロジェクト領域を複数のコンポーネントに分割できます。各コンポーネントには、独自のアーティファクトのセットと独自の構成があります。このビデオでは、機能、コンポーネント戦略を決定するための考慮事項、および既存のプロジェクトエリアレベルのコンポーネントから複数の小さなコンポーネントにコンテンツを移行する方法について説明します。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.4を示しています。
 
 ### Description
 In recent versions of the IBM CLM/CE solution, when you enable configurations for RM and QM projects, you can optionally subdivide the project area into multiple components, each with its own set of artifacts and its own configurations. This video describes the capabilities, considerations for determining your component strategy, and how you can transition content from an existing project-area-level component into multiple smaller components.  
@@ -4213,6 +5822,10 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'global configurations', 'configuration management', 'global baseline', 'GCM']
 
+### Description(ja)
+グローバル構成は、ドメイン全体からの成果物を使用してコントリビューションをグループ化し、製品の全体像を提供します。このビデオは、特定のマイルストーンですべてのアーティファクトの状態をキャプチャして、グローバル構成のベースラインを作成する方法を示しています。グローバルベースラインは、レコードとして、および製品の新しいバージョンまたはバリアントの開始点として使用できます。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.4を示しています。
+
 ### Description
 The global configuration groups contributions with artifacts from across domains to provide a holistic view of your product. This video shows how to create a baseline of the global configuration, capturing the state of all artifacts at a particular milestone. Global baselines can be used as a record, and as a starting point for new versions or variants of your product.  
 This video shows version 6.0.4 of the IBM CLM/CE solution.
@@ -4228,6 +5841,10 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Tags
 ['configuration management', 'global configurations', 'Rational', 'CLM', 'IoTCE', 'configuration-management', 'RQM']
+
+### Description(ja)
+このビデオでは、ライフサイクルのトレーサビリティとリンクの有効性を活用して、グローバル構成のコンテキストで要件に加えられた変更にテストチームがどのように対応するかについて説明します。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.4を示しています。
 
 ### Description
 This video explores how a test team responds to changes made to requirements in the context of a global configuration, leveraging lifecycle traceability and link validity.  
@@ -4245,6 +5862,10 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'configuration management', 'global configurations', 'DNG']
 
+### Description(ja)
+このビデオでは、構成管理と変更セットを使用して要件への変更を管理し、変更を共有する準備ができるまでメインストリームから分離し、ライフサイクルのトレーサビリティとリンクの有効性を活用する方法を説明します。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.4を示しています。
+
 ### Description
 This video illustrates using configuration management and change sets to manage changes to requirements, isolating changes from the main stream until they are ready to share, and leveraging lifecycle traceability and link validity.  
 This video shows version 6.0.4 of the IBM CLM/CE solution.
@@ -4261,6 +5882,9 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 ### Tags
 ['configuration management', 'global configurations', 'Rational', 'CLM', 'IoTCE']
 
+### Description(ja)
+このビデオでは、IBM CollaborativeLifecycleManagementおよびContinuousEngineeringソリューションの構成管理機能の基本と利点の概要を説明します。重要な概念を紹介し、高レベルの採用ガイダンスを提供します。
+
 ### Description
 This video provides an overview of the basics and benefits of configuration management capabilities in the IBM Collaborative Lifecycle Management and Continuous Engineering solutions. It introduces key concepts and provides high-level adoption guidance.
 
@@ -4275,6 +5899,10 @@ This video provides an overview of the basics and benefits of configuration mana
 
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'global configurations', 'configuration management', 'GCM']
+
+### Description(ja)
+このビデオでは、グローバルコンポーネントと構成、およびそれらがアプリケーションドメイン全体からの貢献をグループ化して、製品とコンポーネントの全体像を提供し、各製品バージョンまたはバリアントを構成するアーティファクトのバージョンを決定する方法について説明します。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.4を示しています。
 
 ### Description
 This video explores global components and configurations and how they group contributions from across application domains to provide a holistic view of your products and components, and determine which versions of which artifacts make up each product version or variant.  
@@ -4292,6 +5920,10 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 ### Tags
 ['configuration management', 'global configurations', 'Rational', 'CLM', 'IoTCE', 'Report Builder', 'LQE', 'reporting']
 
+### Description(ja)
+このビデオでは、レポートビルダーを使用して、ライフサイクルクエリエンジンのデータソースを使用してバージョン管理されたアーティファクトのレポートを作成する方法について説明します。バージョン管理されたアーティファクトに関するレポートの主な違いについて説明し、レポートビルダーの機能についても説明します。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.4を示しています。
+
 ### Description
 This video explores how to use Report Builder to create reports for versioned artifacts using the Lifecycle Query Engine data source. It explains some key differences for reporting on versioned artifacts, and also highlights Report Builder capabilities.  
 This video shows version 6.0.4 of the IBM CLM/CE solution.
@@ -4307,6 +5939,11 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Tags
 ['Rational', 'CLM', 'IoTCE', 'RTC', 'global configurations', 'configuration management']
+
+### Description(ja)
+構成管理シナリオでは、変更管理  
+アーティファクト（作業項目など）はバージョン管理されていないため、技術的にはローカル構成の一部ではありません。ただし、グローバル構成コンテキストで要件の正しいバージョンにリンクし、成果物をテストする必要があります。このビデオは、Rational Team Concert変更管理アプリケーションでリリースと属性マッピングをセットアップして、作業項目とグローバル構成を関連付け、他のアーティファクト・タイプへのリンクが正しい構成コンテキストで解決されるようにする方法を示しています。  
+このビデオは、IBM CLM/CEソリューションのバージョン6.0.4を示しています。
 
 ### Description
 In a configuration management scenario, the change management   
@@ -4324,6 +5961,15 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Tags
 ['IBM', 'Rational', 'RELM', 'v6.0.5', 'overview']
+
+### Description(ja)
+このデモでは、IBM Rational EngineeringLifecycleManagerについて学習します。ビデオは、主な製品機能の概要を示しています。  
+このビデオは、IBM Rational EngineeringLifecycleManagerバージョン6.0.5を使用して記録されました。  
+詳細については、を参照してください。  
+Rational EngineeringLifecycleManagerの概要  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.5/com.ibm.team.jp.relm.doc/topics/c_node_overview.html  
+  
+HS：AJ
 
 ### Description
 In this demo you’ll learn about IBM Rational Engineering Lifecycle Manager. The video shows an overview of the main product capabilities.   
@@ -4346,6 +5992,15 @@ HS: AJ
 ### Tags
 ['IBM', 'Rational', 'RELM', 'v6.0.5', 'views', 'traceability']
 
+### Description(ja)
+このデモでは、いくつかの工学分野にわたるアーティファクト間の関係を示すビューを作成する方法を学習します。ビューエディタを使用して、アーティファクトをビューに追加し、関連するアーティファクトを表示し、コンテナ内のノードを構成します。  
+このビデオは、IBM Rational EngineeringLifecycleManagerバージョン6.0.5を使用して記録されました。  
+詳細については、を参照してください。  
+Rational EngineeringLifecycleManagerビューの操作  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.5/com.ibm.team.jp.relm.doc/topics/tut_relm_views.html  
+  
+HS：AJ
+
 ### Description
 In this demo you’ll learn how to create a view to show the relationships among artifacts across several engineering disciplines. You will use the view editor to add artifacts to the view, to show related artifacts, and to configure the nodes in the containers.  
 This video was recorded using IBM Rational Engineering Lifecycle Manager version 6.0.5.  
@@ -4367,6 +6022,15 @@ HS: AJ
 ### Tags
 ['IBM', 'Rational', 'RELM', 'v6.0.5', 'dependency analysis', 'change impact', 'snapshot']
 
+### Description(ja)
+このデモでは、いくつかのライフサイクル管理アプリケーションにわたる変更の影響を確認するために、ビューで依存関係分析を実行する方法を学習します。スナップショットを保存して、分析を記録します。  
+このビデオは、IBM Rational EngineeringLifecycleManagerバージョン6.0.5を使用して記録されました。  
+詳細については、を参照してください。  
+Rational EngineeringLifecycleManagerビューの操作  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.5/com.ibm.team.jp.relm.doc/topics/t_using_views.html  
+  
+HS：AJ
+
 ### Description
 In this demo you’ll learn how to run dependency analysis in a view to see the impact of a change across several lifecycle management applications. You will save a snapshot to record the analysis.  
 This video was recorded using IBM Rational Engineering Lifecycle Manager version 6.0.5.  
@@ -4387,6 +6051,19 @@ HS:AJ
 
 ### Tags
 ['IBM', 'Rational', 'RELM', 'v6.0.5', 'import', 'export']
+
+### Description(ja)
+このデモでは、ビューをエクスポートする方法と、[共有ビュー]ページでビューをインポートする方法を学習します。ウィザードを使用して、インポートするビューのスコープと条件を構成します。  
+このビデオは、IBM Rational EngineeringLifecycleManagerバージョン6.0.5を使用して記録されました。  
+詳細については、を参照してください。  
+ビューのエクスポート  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.5/com.ibm.team.jp.relm.doc/topics/t_admin_create_content_pack.html  
+  
+ビューのインポート  
+  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.5/com.ibm.team.jp.relm.doc/topics/t_admin_import_views_cae.html  
+  
+HS：AJ
 
 ### Description
 In this demo you’ll learn how to export views, and how to import views on the Shared Views page. You’ll use the wizard to configure the scope and conditions for the views that you import.   
@@ -4413,6 +6090,9 @@ HS: AJ
 ### Tags
 ['Unified Reporting', 'Test Workbench', 'IBM Rational Test Workbench']
 
+### Description(ja)
+このビデオでは、UnifiedReportingWebアプリケーションの簡単な紹介を提供します。このアプリケーションは、Test Workbenchからのすべてのテストレポートを1つの場所に統合し、複数のテスト製品を開いたり使用したりすることなく、テスト対象のアプリケーションのパフォーマンスを明確に示す、シンプルでナビゲートしやすいダッシュボードです。
+
 ### Description
 This video provides a short introduction to the Unified Reporting Web application. The application is a simple, easy-to-navigate dashboard that consolidates all test reports from Test Workbench into one place and gives a clear view of how your applications under test are performing, without needing to open or use multiple testing products.
 
@@ -4428,6 +6108,9 @@ This video provides a short introduction to the Unified Reporting Web applicatio
 ### Tags
 ['Digital Twin', 'IBM', 'Digital thread', 'Andy Lapping']
 
+### Description(ja)
+IBMは、デジタルツインを強力にサポートしています。継続的なエンジニアリングの話をご覧ください。
+
 ### Description
 IBM has great support for the Digital Twin.  Have a look at the Continuous Engineering story.
 
@@ -4442,6 +6125,16 @@ IBM has great support for the Digital Twin.  Have a look at the Continuous Engin
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v6.0.6', 'Document Builder', 'SSL certificate', 'authentication']
+
+### Description(ja)
+Rational Publishing Engine Document Builderは、証明書認証をサポートするようになりました。証明書を追加し、それらを使用して、認証方法としてSSL証明書を使用するデータソース接続を持つドキュメントを生成できます。  
+  
+このビデオは、IBM RationalPublishingEngineバージョン6.0.6を使用して記録されました。  
+詳細については、を参照してください。  
+DocumentBuilderでのデータソースの管理  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6/com.ibm.rational.pe.web.doc/topics/t_datasource.html  
+  
+HS：HS
 
 ### Description
 Rational Publishing Engine Document Builder now supports certificate authentication. You can add certificates and then use them to generate a document with a data source connection that uses an SSL certificate as the authentication method.  
@@ -4465,6 +6158,15 @@ HS:HS
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v6.0.6', 'Kerberos', 'authentication', 'Rational Publishing Engine']
 
+### Description(ja)
+デスクトップクライアントでテンプレートを設計してドキュメントを生成するときに、Kerberos / SPNEGO SSO（シングルサインオン）プロトコルを使用しているCLMアプリケーションで認証できるようになりました。この認証方法は、ユーザー名とパスワードを使用してログインするよりも安全です。  
+このビデオは、IBM RationalPublishingEngineバージョン6.0.6を使用して記録されました。  
+詳細については、を参照してください。  
+RationalPublishingEngineでのKerberos-SPNEGO認証の構成  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6/com.ibm.rational.pe.publishing.doc/topics/t_config_Kerberos_auth.html  
+  
+HS：HS
+
 ### Description
 When designing templates and generating documents in the desktop client, you can now authenticate with CLM applications that are using the Kerberos/SPNEGO SSO (single sign-on) protocol. This authentication method is more secure than logging in with a user name and password.  
 This video was recorded using IBM Rational Publishing Engine version 6.0.6.  
@@ -4485,6 +6187,15 @@ HS:HS
 
 ### Tags
 ['IBM', 'Rational', 'RPE', 'v6.0.6', 'document', 'preview', 'Rational Publishing Engine']
+
+### Description(ja)
+Document Studioには、ライブプレビュービューが含まれるようになりました。このビューでは、ドキュメントを手動で生成して開くことなく、テンプレートエディターでテンプレートをデザインするときに出力を確認できます。ライブデータまたはキャッシュデータを使用して出力をすばやく確認できます。これは、テンプレートをデバッグする場合やスクリプトを操作する場合に特に役立ちます。  
+このビデオは、IBM RationalPublishingEngineバージョン6.0.6を使用して記録されました。  
+詳細については、を参照してください。  
+ドキュメントのプレビュー  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6/com.ibm.rational.pe.publishing.doc/topics/t_docpreview.html  
+  
+HS：HS
 
 ### Description
 Document Studio now includes a live Preview view, where you can see the output as you design the template in the template editor, without having to manually generate the document and open it. You can quickly verify the output with live or cached data, which is especially helpful when you are debugging a template or working with scripts.   
@@ -4507,6 +6218,15 @@ HS: HS
 ### Tags
 ['IBM', 'Rational', 'Jazz Reporting Service', 'v6.0.6', 'Report Builder', 'schedule', 'export']
 
+### Description(ja)
+さまざまな頻度で自動的に実行されるようにレポートをスケジュールできるようになりました。次に、レポートをMicrosoft Excel、Microsoft Word、PDF、HTMLなどの必要な形式にエクスポートできます。  
+このビデオは、JazzReportingServiceバージョン6.0.6を使用して記録されました。  
+詳細については、を参照してください。  
+レポートビルダーで実行するレポートのスケジュール  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.6/com.ibm.team.jp.jrs.doc/topics/t_rb_sched.html  
+  
+HS：HS
+
 ### Description
 You can now schedule reports to run automatically at different frequencies.  Then, you can export the report to the format you need, such as Microsoft Excel, Microsoft Word, PDF, or HTML.   
 This video was recorded using Jazz Reporting Service version 6.0.6.  
@@ -4527,6 +6247,15 @@ HS: HS
 
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'v6.0.6', 'Report Builder', 'folder']
+
+### Description(ja)
+レポートをフォルダとサブフォルダにグループ化して整理できるようになりました。フォルダを作成したり、フォルダまたはレポートをフォルダに移動したり、レポートを作成するフォルダを選択したりできます。  
+このビデオは、JazzReportingServiceバージョン6.0.6を使用して記録されました。  
+詳細については、を参照してください。  
+レポートビルダーでのレポートの検索と整理  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.6/com.ibm.team.jp.jrs.doc/topics/t_rb_find_org.html  
+  
+HS：HS
 
 ### Description
 You can now organize your reports by grouping them into folders and subfolders. You can create folders, move folders or reports into folders, and pick the folder where you want to create a report.  
@@ -4549,6 +6278,10 @@ HS:HS
 ### Tags
 ['metamodel', 'rational', 'COBOL', 'programming patterns', 'RPP']
 
+### Description(ja)
+このビデオでは、Rational Programming Patternsメタモデルの基本原則を説明し、データ記述エンティティに焦点を当てています。  
+ソースコードの管理については、「RationalProgrammingPatternsのCOBOLファセットでのスケルトンプログラミング」というタイトルのビデオで説明されています。
+
 ### Description
 This video explains the basic principles of the Rational Programming Patterns metamodel and focuses on the data description entities.  
 The management of source code is explained in the video titled "Skeleton programming in the COBOL facet of Rational Programming Patterns".
@@ -4565,6 +6298,9 @@ The management of source code is explained in the video titled "Skeleton program
 ### Tags
 None
 
+### Description(ja)
+このビデオでは、Rational Programming Patterns Software Development Kit（SDK）のCOBOLファセットでソースコードを管理する方法について説明します。スケルトンを使用してコード構造のモデルを作成し、マイクロパターンを使用して特定のコードを管理する方法を示します。
+
 ### Description
 This video explains how to manage source code in the COBOL facet of the Rational Programming Patterns Software Development Kit (SDK). It shows how to create models for the code structure through Skeletons and manage specific code through Micropatterns.
 
@@ -4579,6 +6315,9 @@ This video explains how to manage source code in the COBOL facet of the Rational
 
 ### Tags
 ['IBM', 'Rational', 'Rational Quality Manager', 'RQM', 'QM', 'v6.0.4', 'v6.0.5', 'v6.0.6']
+
+### Description(ja)
+このビデオは、RationalQualityManagerでテストケース実行レコードのロールアップ結果を作成する方法を示しています。
 
 ### Description
 This video demonstrates how to create roll up results for a test case execution record in Rational Quality Manager.
@@ -4595,6 +6334,9 @@ This video demonstrates how to create roll up results for a test case execution 
 ### Tags
 ['IBM', 'Rational', 'Rational Quality Manager', 'RQM', 'QM', 'v6.0.4', 'v6.0.5', 'v6.0.6']
 
+### Description(ja)
+このビデオは、RationalQualityManagerでテストスイート実行レコードのロールアップ結果を作成する方法を示しています。
+
 ### Description
 This video demonstrates how to create roll up results for a test suite execution record in Rational Quality Manager.
 
@@ -4609,6 +6351,9 @@ This video demonstrates how to create roll up results for a test suite execution
 
 ### Tags
 None
+
+### Description(ja)
+このRationalQualityManagerのツアーは、4.x製品を使用して作成されましたが、他のリリースにも適用されます。
 
 ### Description
 This tour of Rational Quality Manager was created using the 4.x product but it applies for other releases.
@@ -4625,6 +6370,9 @@ This tour of Rational Quality Manager was created using the 4.x product but it a
 ### Tags
 None
 
+### Description(ja)
+このビデオでは、IBMテクニカルスペシャリストのAndy Lappingが、Rhapsodyの非常に強力な機能（カスタムビュー）について説明します。
+
 ### Description
 In this video IBM Technical Specialist Andy Lapping takes you through a very powerful capability in Rhapsody - Custom Views
 
@@ -4639,6 +6387,9 @@ In this video IBM Technical Specialist Andy Lapping takes you through a very pow
 
 ### Tags
 None
+
+### Description(ja)
+IBM Technical EnablementSpecialistのAndyLappingは、Rhapsody INIファイルの謎を解き明かし、よりスマートに作業するのに役立ついくつかの秘密の設定を明らかにします。
 
 ### Description
 IBM Technical Enablement Specialist Andy Lapping lifts the lid on the mystery of the Rhapsody INI file and reveals some secret settings that will help you work smarter.
@@ -4655,6 +6406,9 @@ IBM Technical Enablement Specialist Andy Lapping lifts the lid on the mystery of
 ### Tags
 ['IBM', 'Rational', 'Rational Quality Manager', 'RQM', 'QM', 'v6.0.4', 'v6.0.5', 'v6.0.6']
 
+### Description(ja)
+RationalQualityManagerでラボの予約を管理します。
+
 ### Description
 Manage lab reservations in Rational Quality Manager.
 
@@ -4669,6 +6423,9 @@ Manage lab reservations in Rational Quality Manager.
 
 ### Tags
 ['IBM', 'Rational', 'Rational Quality Manager', 'RQM', 'QM', 'v6.0.4', 'v6.0.5', 'v6.0.6']
+
+### Description(ja)
+このビデオは、テスト計画の反復を選択する方法を示しています。
 
 ### Description
 This video demonstrates how to select a test plan iteration.
@@ -4685,6 +6442,9 @@ This video demonstrates how to select a test plan iteration.
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -4699,6 +6459,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -4715,6 +6478,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -4729,6 +6495,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -4745,6 +6514,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -4759,6 +6531,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -4775,6 +6550,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -4789,6 +6567,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -4805,6 +6586,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -4819,6 +6603,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -4835,6 +6622,9 @@ None
 ### Tags
 ['IBM', 'Rational', 'Rational License Key Server Administration & Reporting Tool', 'v8.1.5']
 
+### Description(ja)
+このビデオは、IBM Rational License Key Server Administration＆ReportingToolを使用して使用可能なライセンスレポートを作成する方法を示しています。
+
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create an available licenses report.
 
@@ -4849,6 +6639,9 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Tags
 ['IBM', 'Rational', 'Rational License Key Server Administration & Reporting Tool', 'v8.1.5']
+
+### Description(ja)
+このビデオは、IBM Rational License Key Server Administration＆ReportingToolを使用してチャージバックレポートを作成する方法を示しています。
 
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a chargeback report.
@@ -4865,6 +6658,9 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Tags
 ['IBM', 'Rational', 'Rational License Key Server Administration & Reporting Tool', 'v8.1.5']
 
+### Description(ja)
+このビデオは、IBM Rational License Key Server Administration＆Reporting Toolを使用して、同時ピーク拒否レポートを作成する方法を示しています。
+
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a concurrent peak denial report.
 
@@ -4879,6 +6675,9 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Tags
 ['IBM', 'Rational', 'Rational License Key Server Administration & Reporting Tool', 'v8.1.5']
+
+### Description(ja)
+このビデオは、IBM Rational License Key Server Administration＆ReportingToolを使用して同時ピーク使用状況レポートを作成する方法を示しています。
 
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a concurrent peak usage report.
@@ -4895,6 +6694,9 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Tags
 ['IBM', 'Rational', 'Rational License Key Server Administration & Reporting Tool', 'v8.1.5']
 
+### Description(ja)
+このビデオは、IBM Rational License Key Server Administration＆ReportingToolを使用して有効期限レポートを作成する方法を示しています。
+
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create an expiration report.
 
@@ -4909,6 +6711,9 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Tags
 ['IBM', 'Rational', 'Rational License Key Server Administration & Reporting Tool', 'v8.1.5']
+
+### Description(ja)
+このビデオは、IBM Rational License Key Server Administration＆ReportingToolを使用してライセンス詳細レポートを作成する方法を示しています。
 
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a license details report.
@@ -4925,6 +6730,9 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Tags
 ['IBM', 'Rational', 'Rational License Key Server Administration & Reporting Tool', 'v8.1.5']
 
+### Description(ja)
+このビデオは、IBM Rational License Key Server Administration＆ReportingToolを使用してトークン値レポートを作成する方法を示しています。
+
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a Token Value report.
 
@@ -4939,6 +6747,9 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Tags
 ['IBM', 'Rational', 'Rational License Key Server Administration & Reporting Tool', 'v8.1.5']
+
+### Description(ja)
+このビデオは、IBM Rational License Key Server Administration＆ReportingToolを使用してユーザーベースのレポートを作成する方法を示しています。
 
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create a Userbased report.
@@ -4955,6 +6766,9 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Tags
 ['watson', 'ai', 'dng', 'rqa', 'doors next generation', 'continuous engineering', 'ibm']
 
+### Description(ja)
+IBMWatsonを搭載したRequirementsQualityAssistant（RQA）は、AIの力をエンジニアリングに適用します。 RQAは、DOORS Next Generationの要件の品質を評価し、それらを改善する方法に関するガイダンスを提供します。
+
 ### Description
 Powered by IBM Watson, Requirements Quality Assistant (RQA) applies the power of AI to engineering. RQA assesses the quality of requirements in DOORS Next Generation and provides guidance on how to improve them.
 
@@ -4969,6 +6783,9 @@ Powered by IBM Watson, Requirements Quality Assistant (RQA) applies the power of
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -4985,6 +6802,9 @@ None
 ### Tags
 ['iot', 'continuous engineering', 'ibm']
 
+### Description(ja)
+IBM Continuous Engineeringソリューションが、モノのインターネットの世界で複雑で接続された製品の設計にどのように役立つかをご覧ください。
+
 ### Description
 See how the IBM Continuous Engineering solution can help in designing complex, connected products in the world of Internet of Things.
 
@@ -5000,6 +6820,9 @@ See how the IBM Continuous Engineering solution can help in designing complex, c
 ### Tags
 ['Internet Of Things (Industry)', 'IBM (Award Winner)', 'Continuous Engineering', 'CE', 'IoT', 'IoT Foundation']
 
+### Description(ja)
+このデモンストレーションでは、IoTソリューションを構築および管理するためにIBMプラットフォームを利用して、接続されたシステムを設計、監視、および改善する方法を説明します。従来のシステムエンジニアリングを分析用の設計で強化する方法を見ていきます。これは、システムが展開されたときに監視するモニターと主要なデータポイントを定義することです。そして、接続されたシステムをより速く、より安全に、より信頼性が高く、より安全で、より最適化するために、そのデータを分析してエンジニアリングに戻すことで得られる洞察をフィードバックします。ある意味で、エンジニアリング、展開、運用に関するフィードバックループを有効にして、接続されたシステムを継続的に微調整、調整、改善します。
+
 ### Description
 In this demonstration, we will see how we can design, monitor and improve connected systems utilizing the IBM platform for building and managing IoT solutions.  We will take a look at how we can augment traditional systems engineering with designing for analytics. That is defining monitors and the key data points we want to monitor once a system is deployed.  And then feeding the insight we can gain by analyzing that data back into engineering in order to make our connected systems faster, safer, more reliable, more secure and more optimized. In a sense, enabling a feedback loop around engineering, deployment and operations to continuously fine tune, calibrate and improve our connected systems.
 
@@ -5014,6 +6837,11 @@ In this demonstration, we will see how we can design, monitor and improve connec
 
 ### Tags
 ['Rational Team Concert', 'SAFe support']
+
+### Description(ja)
+このビデオは、RationalTeamのIBMSAFeサポートによって提供されるプロジェクト域の初期化を示しています。  
+コンサートバージョン6.0。 SAFeテンプレートを使用してプロジェクトエリアインフラストラクチャを作成するのがいかに簡単かを学びます。 SAFeは、プログラムとチームのバックログを表す一連の計画、アジャイルリリーストレインのタイムラインに沿ったロードマップ計画、およびプログラムと  
+チーム。
 
 ### Description
 This video demonstrates the project area initialization provided by IBM SAFe support in Rational Team  
@@ -5032,6 +6860,9 @@ team.
 ### Tags
 ['ibm', 'rhapsody', 'rpe', 'rmm', 'rational publishing engine', 'rhapsody model manager']
 
+### Description(ja)
+このビデオでは、IBM Technical EnablementSpecialistのAndyLappingが、Rational Publishing Engineを使用して、リンクされた要件、テストケース、作業項目など、Rhapsody Model Manager（RMM）に保管されているモデルについてレポートする方法を示します。パート1-Rhapsodyクライアントを介したレポート。パート2では、RMMに関するレポートについて直接説明します。
+
 ### Description
 In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how to use Rational Publishing Engine to report on models stored in Rhapsody Model Manager (RMM) including linked requirements, test case and work items. In Part 1 - reporting through the Rhapsody client. Part 2 will cover reporting on RMM directly.
 
@@ -5046,6 +6877,9 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 
 ### Tags
 ['IBM', 'Rational', 'Rational License Key Server Administration & Reporting Tool', 'v8.1.5']
+
+### Description(ja)
+このビデオは、IBM Rational License Key Server Administration＆ReportingToolを使用してユーザー数レポートを作成する方法を示しています。
 
 ### Description
 This video demonstrates how use the IBM Rational License Key Server Administration & Reporting Tool to create User Count report.
@@ -5062,6 +6896,9 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 ### Tags
 ['ibm', 'rhapsody']
 
+### Description(ja)
+IBM Technical EnablementSpecialistのAndyLappingが、テーブルレイアウトおよびテーブルビューと組み合わせてクエリを使用する方法について説明します。
+
 ### Description
 IBM Technical Enablement Specialist Andy Lapping explains how to use queries in conjunction with table layouts and table views
 
@@ -5076,6 +6913,9 @@ IBM Technical Enablement Specialist Andy Lapping explains how to use queries in 
 
 ### Tags
 ['ibm', 'mbse']
+
+### Description(ja)
+このビデオでは、モデルが要件管理やテスト管理などの他の重要なMBSE機能とどのように統合されているかを確認します。
 
 ### Description
 In this video you will see how models are integrated with other essential MBSE capabilities such as requirements management and test management
@@ -5092,6 +6932,9 @@ In this video you will see how models are integrated with other essential MBSE c
 ### Tags
 ['ibm', 'mbse']
 
+### Description(ja)
+このビデオでは、既存のシステムに対して発生した欠陥が元の要件と設計を通じてどのように進行するか、およびモデルベースのシミュレーションとモデルベースのテストによって特定された問題を確認します。
+
 ### Description
 In this video you will see how a defect raised against an existing system is progressed through the original requirements and designs, and the problem identified through model based simulations and model based testing,
 
@@ -5107,6 +6950,9 @@ In this video you will see how a defect raised against an existing system is pro
 ### Tags
 ['ibm', 'mbse']
 
+### Description(ja)
+この短いビデオでは、IBM EngineeringLifecycleManagementを使用したモデルベースのシステムエンジニアリングの機能と利点の概要を説明します。
+
 ### Description
 This short video gives a brief overview of the capabilities and benefits of Model Based Systems Engineering with IBM Engineering Lifecycle Management
 
@@ -5121,6 +6967,15 @@ This short video gives a brief overview of the capabilities and benefits of Mode
 
 ### Tags
 ['IBM', 'Rational', 'Report Builder', 'validation', 'data problems', 'reports', 'JRS', 'LQE', 'TRS', 'Jazz Reporting Service']
+
+### Description(ja)
+このデモでは、レポートビルダーレポートのデータの問題を解決する方法を学習します。 TRSフィード検証を実行し、ライフサイクルクエリエンジンインデックスのデータを検証することで、管理者はインデックスを再作成せずにレポートを修正できる場合があります。  
+このビデオは、Jazz ReportingService6.0.6.1を使用して記録されました。  
+詳細については、以下を参照してください。  
+TRSフィードとLQEインデックスの検証  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.6.1/com.ibm.team.jp.lqe2.doc/topics/t_lqe_trs_val.html  
+  
+HS：HS（AJ）
 
 ### Description
 In this demo you’ll learn how to resolve data issues in Report Builder reports. By running TRS feed validation and validating the data in the Lifecycle Query Engine index, administrators might be able to fix the reports without reindexing.  
@@ -5143,6 +6998,13 @@ HS:HS(AJ)
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'v6.0.6.1', 'Report Builder', 'schedule', 'reports']
 
+### Description(ja)
+スケジュールされたレポートの準備ができたときにチームメンバーに通知できるようになりました。各電子メールアドレスは、JazzTeamServerユーザーアカウントに関連付ける必要があります。  
+このビデオは、JazzReportingServiceバージョン6.0.6.1を使用して記録されました。  
+詳細については、以下を参照してください。  
+レポートビルダーで実行するレポートのスケジュール  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.6.1/com.ibm.team.jp.jrs.doc/topics/t_rb_sched.html
+
 ### Description
 You can now notify team members when a scheduled report is ready. Each email address must be associated with a Jazz Team Server user account.   
 This video was recorded using Jazz Reporting Service version 6.0.6.1.  
@@ -5161,6 +7023,15 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.6.1/com.ibm.team.jp.jrs.d
 
 ### Tags
 ['IBM', 'Rational Publishing Engine', 'RPE', 'WAS', 'Liberty', 'WebSphere Application Server', 'v6.0.6.1', 'Document Builder']
+
+### Description(ja)
+IBM Rational Publishing Engine Document Builder Webアプリケーションは、Rational Publishing Engineをインストールすると、WebSphereLibertyアプリケーションサーバーに自動的にデプロイされるようになりました。展開に手動構成は必要ありません。  
+このビデオは、RationalPublishingEngineバージョン6.0.6.1を使用して記録されました。  
+詳細については、を参照してください。  
+WebSphere ApplicationServerLibertyプロファイルへのDocumentBuilderのデプロイ  
+ https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6.1/com.ibm.rational.pe.install.doc/topics/t_rpeng_liberty.html  
+  
+HS：HS
 
 ### Description
 The IBM Rational Publishing Engine Document Builder web application is now automatically deployed to the WebSphere Liberty application server when you install Rational Publishing Engine. No manual configuration is required for deployment.  
@@ -5183,6 +7054,15 @@ HS:HS
 ### Tags
 ['IBM', 'Rational Publishing Engine', 'RPE', 'Microsoft Excel', 'v6.0.6.1']
 
+### Description(ja)
+IBM RationalPublishingEngineでMicrosoftExcel出力の最新の機能拡張を利用する方法を学びます。行と列にまたがり、セルに画像を出力し、新しいワークシートを挿入し、後続のシートの名前を指定できるようになりました。  
+このビデオは、RationalPublishingEngineバージョン6.0.6.1を使用して記録されました。  
+詳細については、を参照してください。  
+テンプレートを設計するためのMicrosoftExcel出力リファレンス  
+ https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6.1/com.ibm.rational.pe.reference.doc/topics/r_excel.html  
+  
+HS：HS
+
 ### Description
 Learn how to take advantage of the latest enhancements to Microsoft Excel output in IBM Rational Publishing Engine. You can now span rows and columns, output images in cells, insert a new worksheet, and specify the names of subsequent sheets.  
 This video was recorded using Rational Publishing Engine version 6.0.6.1.  
@@ -5203,6 +7083,19 @@ HS:HS
 
 ### Tags
 ['IBM', 'Rational Publishing Engine', 'RPE', 'JTS', 'Jazz Team Server', 'authentication', 'SSO', 'v6.0.6.1']
+
+### Description(ja)
+IBM Rational Publishing Engine DocumentBuilderがJTS認証またはJazzSSO認証で構成されている場合、Document Builderにログインしていると、同じものを使用するCLMアプリケーションからのデータを含む文書を生成するときに、データ・ソースの資格情報を再入力する必要はありません。 JTS。  
+このビデオは、RationalPublishingEngineバージョン6.0.6.1を使用して記録されました。  
+  
+詳細については、を参照してください。  
+DocumentBuilder用のJazzTeamServerコンテナー認証の構成  
+ https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6.1/com.ibm.rational.pe.install.doc/topics/t_auth_cont_jts.html  
+  
+DocumentBuilderのJazzTeamServerシングルサインオン認証の構成  
+https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6.1/com.ibm.rational.pe.install.doc/topics/t_auth_sso_jts.html  
+  
+HS：HS
 
 ### Description
 When IBM Rational Publishing Engine Document Builder is configured with JTS authentication or Jazz SSO authentication, if you are logged into Document Builder , you do not have to enter the data source credentials again when generating a document with data from any CLM applications that use the same JTS.  
@@ -5229,6 +7122,15 @@ HS:HS
 ### Tags
 ['IBM', 'Rational Publishing Engine', 'RPE', 'Document Builder', 'admin', 'email notification', 'v6.0.6.1']
 
+### Description(ja)
+IBM Rational Publishing Engine Document Builderの管理者は、テストEメールを送信することにより、Eメール通知設定が正しく機能しているかどうかをテストできるようになりました。  
+このビデオは、RationalPublishingEngineバージョン6.0.6.1を使用して記録されました。  
+詳細については、を参照してください。  
+ドキュメントビルダーの管理  
+ https://www.ibm.com/support/knowledgecenter/SS6RHZ_6.0.6.1/com.ibm.rational.pe.web.doc/topics/r_admin.html  
+  
+HS：HS
+
 ### Description
 Administrators for IBM Rational Publishing Engine Document Builder can now test whether email notification settings are working correctly by sending a test email.  
 This video was recorded using Rational Publishing Engine version 6.0.6.1.  
@@ -5250,6 +7152,9 @@ HS:HS
 ### Tags
 ['ibm', 'rmm', 'rhapsody']
 
+### Description(ja)
+このビデオでは、IBM Technical EnablementSpecialistのAndyLappingが、Rational Publishing Engineを使用して、リンクされた要件を含むRhapsody Model Manager（RMM）に保管されているモデルについて直接レポートする方法を示しています。
+
 ### Description
 In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how to use Rational Publishing Engine to report directly on models stored in Rhapsody Model Manager (RMM) including linked requirements.
 
@@ -5264,6 +7169,9 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 
 ### Tags
 None
+
+### Description(ja)
+このビデオでは、IBM Technical EnablementSpecialistのAndyLappingが、RhapsodyModelManagerバージョン6.0.6.1で使用可能な新しいレポートスキーマを使用してRationalPublishingEngineを使用してトレーサビリティカバレッジ統計をレポートする方法を示します。
 
 ### Description
 In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how to use Rational Publishing Engine to report on traceability coverage statistics using  a new reporting schema available in Rhapsody Model Manager version 6.0.6.1
@@ -5280,6 +7188,9 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 ### Tags
 ['rhapsody', 'csv', 'import', 'mbse']
 
+### Description(ja)
+このビデオでは、IBM Technical EnablementSpecialistのAndyLappingが、CSVファイルをRhapsodyにインポートしてラウンドトリップする方法を示しています。
+
 ### Description
 In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how to import and roundtrip CSV files into Rhapsody
 
@@ -5294,6 +7205,9 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 
 ### Tags
 ['IBM', 'Rational Publishing Engine', 'RPE', 'traceability', 'PUB', 'requirements', 'DOORS Next', 'RTC', 'EWM', 'Engineering Publishing']
+
+### Description(ja)
+IBM Engineering Lifecycle Optimization – Publishing（以前のIBM Rational Publishing Engine）を使用して、要件とそれを実装する作業項目を示す単純なトレーサビリティー文書を作成する方法を学びます。
 
 ### Description
 Learn how to use IBM Engineering Lifecycle Optimization – Publishing (formerly IBM Rational Publishing Engine) to create a simple traceability document that shows requirements and the work items that implement them.
@@ -5310,6 +7224,9 @@ Learn how to use IBM Engineering Lifecycle Optimization – Publishing (formerly
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -5324,6 +7241,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -5340,6 +7260,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -5354,6 +7277,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -5370,6 +7296,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -5384,6 +7313,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -5400,6 +7332,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -5414,6 +7349,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -5430,6 +7368,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -5444,6 +7385,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -5460,6 +7404,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -5475,6 +7422,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -5489,6 +7439,10 @@ None
 
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'link validity', 'trace relationships', 'add artifacts', 'validity status']
+
+### Description(ja)
+以前は、リンクの有効性についてレポートできる唯一の方法は、レポートビルダーによって生成されたSPARQLコードを手動で編集することでした。これで、レポートビルダーのガイド付きインターフェイスを使用して、リンクの有効性に関するレポートを作成できます。  
+テストケースを要件まで追跡し、有効性情報を取得するレポートを作成する方法を学びます。
 
 ### Description
 Previously, the only way that you could report on link validity was by manually editing the SPARQL code generated by Report Builder. Now, you can use the Report Builder guided interface to build reports about link validity.  
@@ -5506,6 +7460,10 @@ Learn how to create a report that traces test cases to requirements and captures
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'DOORS Next', 'LQE', 'Lifecycle Query Engine', 'scoped by a configuration', 'configuration-scoped data sources', 'versioned type system', 'type system', 'baseline']
 
+### Description(ja)
+レポート管理者は、一貫したタイプのセットを定義する指定されたグローバル構成によってスコープが設定されたデータソースを追加できます。その後、ユーザーは、新しいデータソースに固有のタイプにスコープされたこのメタモデルに基づいて構築されたレポートを実行できます。  
+IBM Engineering Lifecycle Management – Jazz Reporting Serviceでレポートビルダーを使用して、特定のベースラインまたはストリームのデータソースを作成する方法を学びます。
+
 ### Description
 A report administrator can add a data source scoped by a specified global configuration that defines a consistent set of types. Users can then execute reports built upon this metamodel scoped to the types specific to the new data source.  
 Learn how to use Report Builder in IBM Engineering Lifecycle Management – Jazz Reporting Service to create a data source for a specific baseline or stream.
@@ -5521,6 +7479,10 @@ Learn how to use Report Builder in IBM Engineering Lifecycle Management – Jazz
 
 ### Tags
 ['IBM', 'Engineering Lifecycle Management', 'ELM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'banner', 'new look']
+
+### Description(ja)
+IBM Engineering Lifecycle Management（ELM）製品およびコンポーネントの製品バナーは、IBMのオープンソースのCarbon設計テーマに合わせて更新されています。この最新のテーマは、IBM製品全体で一貫した外観を提供します。  
+再設計されたユーザーインターフェイスでさまざまなレポートビルダーオプションにアクセスする方法を学びます。
 
 ### Description
 The product banners for IBM Engineering Lifecycle Management (ELM) products and components are updated to align with IBM's open-source Carbon design theme. This modern theme provides a consistent look across IBM products.  
@@ -5538,6 +7500,10 @@ Learn how to access the different Report Builder options in the redesigned user 
 ### Tags
 ['IBM', 'Engineering Lifecycle Management', 'ELM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'folders', 'organize folders']
 
+### Description(ja)
+レポートまたはその他のフォルダーを含むフォルダーの場合、親フォルダー内のすべてのレポートまたはフォルダーを選択できるようになりました。フォルダとレポートをある場所から別のフォルダにドラッグアンドドロップして、整理したり移動したりすることもできます。  
+フォルダを使用してレポートビルダーでレポートを整理する方法を学びます。
+
 ### Description
 For folders that contain reports or other folders, you can now select all the reports or folders in the parent folder. You can also drag and drop folders and reports from one location to another folder, in order to organize and move them with less effort.   
 Learn how to organize reports in Report Builder using folders.
@@ -5553,6 +7519,10 @@ Learn how to organize reports in Report Builder using folders.
 
 ### Tags
 ['IBM', 'Engineering Lifecycle Management', 'ELM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'Data Completeness Check', 'data completeness', 'data source', 'skipped resources', 'missing resources', 'resources with failed patches']
+
+### Description(ja)
+データ完全性チェックを使用して、特定のレポートにLQEデータソースに問題があるかどうかを確認できます。レポートの結果に影響を与える可能性のある問題には、スキップされたリソース、不足しているリソース、またはパッチが失敗したリソースが含まれます。レポートに期待するアーティファクトが表示されない場合、アーティファクトが複数回表示される場合、またはアプリケーションと比較して異なる数のアーティファクトが表示される場合は、データの完全性チェックを実行してください。  
+特定のレポートにLQEデータソースに問題があるかどうかを確認する方法を学びます。
 
 ### Description
 You can use Data Completeness Check to check if a specific report has problems with the LQE data source. Problems that might affect the report results include skipped resources, missing resources, or resources with failed patches. If your reports do not show the artifacts that you expect, show artifacts more than once, or show a different number of artifacts when compared with the application, perform a data completeness check.   
@@ -5570,6 +7540,9 @@ Learn how to check if a specific report has problems with the LQE data source.
 ### Tags
 None
 
+### Description(ja)
+IBM Technical EnablementSpecialistのAndyLappingが、SysMLのビューとビューポイント、およびそれらをRhapsodyモデルで使用する方法について説明します。
+
 ### Description
 IBM Technical Enablement Specialist Andy Lapping explains SysML Views and Viewpoints and how to use them in your Rhapsody models
 
@@ -5584,6 +7557,9 @@ IBM Technical Enablement Specialist Andy Lapping explains SysML Views and Viewpo
 
 ### Tags
 None
+
+### Description(ja)
+IBMWatsonを搭載したRequirementsQualityAssistant（RQA）は、AIの力をエンジニアリングに適用します。 RQAは、DOORS Next Generationの要件の品質を評価し、それらを改善する方法に関するガイダンスを提供します
 
 ### Description
 Powered by IBM Watson, Requirements Quality Assistant (RQA) applies the power of AI to engineering. RQA assesses the quality of requirements in DOORS Next Generation and provides guidance on how to improve them
@@ -5600,6 +7576,9 @@ Powered by IBM Watson, Requirements Quality Assistant (RQA) applies the power of
 ### Tags
 None
 
+### Description(ja)
+IBM Technical EnablementSpecialistのAndyLappingが、3つのプロパティーのみを設定することにより、独自の強力なカスタムRhapsodyモデル・ブラウザーを迅速かつ簡単に実装する方法について説明します。
+
 ### Description
 IBM Technical Enablement Specialist Andy Lapping explains how to implement your own powerful custom Rhapsody model browsers, quickly and easily by setting only three properties.
 
@@ -5614,6 +7593,9 @@ IBM Technical Enablement Specialist Andy Lapping explains how to implement your 
 
 ### Tags
 None
+
+### Description(ja)
+このビデオでは、IBMエンジニアリング技術スペシャリストのAndy Lappingが、IBMエンジニアリングライフサイクル最適化-エンジニアリングインサイトを使用して、接続されたエンジニアリングデータから洞察と価値を得る方法を示しています。
 
 ### Description
 In this video IBM Engineering Technical Specialist Andy Lapping shows you how you can gain insight and value from your connected engineering data using IBM Engineering Lifecycle Optimisation - Engineering Insights
@@ -5630,6 +7612,9 @@ In this video IBM Engineering Technical Specialist Andy Lapping shows you how yo
 ### Tags
 None
 
+### Description(ja)
+IBM Technical EnablementSpecialistのAndyLappingは、過去数回のリリースでRhapsodyモデルブラウザーに加えられたいくつかの改善点について説明しています。
+
 ### Description
 IBM Technical Enablement Specialist Andy Lapping covers some of the improvements that have been made to the Rhapsody model browser over the last few releases.
 
@@ -5644,6 +7629,14 @@ IBM Technical Enablement Specialist Andy Lapping covers some of the improvements
 
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'Draft reports', 'draft', 'organize reports', 'automatic deletion of draft reports', 'auto-delete draft reports']
+
+### Description(ja)
+ドラフトレポートは定期的にクリーンアップされるようになりました。ドラフトレポートの自動削除の期間を設定できます。  
+レポートビルダーでレポートの自動削除を構成する方法を学びます。  
+  
+詳細については、を参照してください。  
+レポートビルダーでのレポートの検索と整理  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc/topics/t_rb_find_org.html
 
 ### Description
 Draft reports are now cleaned up periodically. You can set the duration for the automatic deletion of Draft reports.  
@@ -5664,6 +7657,16 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc
 
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'LQE', 'Lifecycle Query Engine', 'custom work item attributes', 'DCC', 'Data Collection Component', 'revision history', 'DOORS', 'DOORS Next', 'data gaps', 'reporting']
+
+### Description(ja)
+ライフサイクルクエリエンジン（LQE）データソースでワークアイテムカスタム属性のタイプのレポートを作成できるようになりました。属性には、チームエリア、チームエリアリスト、プロジェクトエリア、プロジェクトエリアリスト、イテレーション、およびイテレーションリストが含まれます。これらの属性は、条件と列を追加するときに使用できます。  
+  
+また、データ収集コンポーネント（DCC）は、IBM EngineeringRequirementsManagementDOORS®およびIBMEngineeringRequirements ManagementDOORSNextアプリケーションから要件の改訂履歴をロードするようになりました。要件の改訂履歴に関するレポートを作成できます。  
+IBM Engineering Lifecycle Management – JazzReportingServiceでレポートビルダーを使用してデータのギャップを埋める方法を学びます。  
+  
+詳細については、を参照してください。  
+レポートビルダーを使用したプロジェクト全体のアーティファクトのレポート  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc/topics/t_jrs_create_reports.html
 
 ### Description
 You can now create reports for types of Work Item custom attributes on a Lifecycle Query Engine (LQE) data source. The attributes include Team area, Team area list, Project area, Project area list, Iteration, and Iteration list. These attributes are available when you add conditions and columns.  
@@ -5687,6 +7690,14 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'LQE', 'Lifecycle Query Engine', 'merge', 'append', 'trace relationship', 'relationship paths', 'traceability paths', 'traceability report', 'reporting']
 
+### Description(ja)
+1つのレポートに追加とマージのトレーサビリティパスを混在させることができるようになりました。マージパスが優先され、最初に評価され、次に結果が一緒に追加されます。  
+IBM Engineering Lifecycle Management – Jazz Reporting Serviceでレポートビルダーを使用して、レポート内のマージと追加の関係パスを組み合わせる方法を学びます。  
+  
+詳細については、を参照してください。  
+レポートビルダーのトレーサビリティレポートを操作するためのヒント  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc/topics/t_trace_multiple_rel_paths_merging.html
+
 ### Description
 You can now mix Append and Merge traceability paths in a single report. Merge paths take precedence and are evaluated first, then the results appended together.  
 Learn how to use Report Builder in IBM Engineering Lifecycle Management – Jazz Reporting Service to combine Merge and Append relationship paths in a report.   
@@ -5707,6 +7718,13 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc
 ### Tags
 ['IBM Engineering Insights', 'Reporting', 'Linked Validity Status', 'ELM']
 
+### Description(ja)
+このビデオでは、Engineering Insights（ENI）を使用して、リンクの有効性ステータス値に基づいて視覚的なレポートとフィルタリングを構成する方法を示します。このビデオはENI7.0.1を使用して録画されました。  
+  
+詳細については、を参照してください。  
+ビューでのリンク有効性ステータスベースのフィルタリングの構成  
+https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.relm.doc/topics/t_filter_link_validity.html
+
 ### Description
 This video demonstrates how Engineering Insights (ENI) enables you to configure visual reporting and filtering based on the Link Validity Status values. This video was recorded using ENI 7.0.1.  
   
@@ -5726,6 +7744,9 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.relm.do
 ### Tags
 ['IBM', 'elo-publishing']
 
+### Description(ja)
+IBM Engineering Lifecycle Optimization-Publishing Document Builderの製品バナーは、IBMのオープンソースCarbonDesignSystemに合わせて更新されています。この最新のテーマは、IBMエンジニアリングソリューション全体で一貫した外観を提供します。
+
 ### Description
 The product banner for IBM Engineering Lifecycle Optimization - Publishing Document Builder is updated to align with IBM's open-source Carbon Design System. This modern theme provides a consistent look across IBM Engineering solutions.
 
@@ -5740,6 +7761,11 @@ The product banner for IBM Engineering Lifecycle Optimization - Publishing Docum
 
 ### Tags
 ['IBM', 'elo-publishing']
+
+### Description(ja)
+GitLabとGithubからドキュメントを生成できます。 IBM Engineering Lifecycle Optimization-パブリッシング（PUB）は、これらのツールによって提供されるRESTAPIからデータを取得できます。テンプレートデザイナは、パブリッシングが提供するさまざまなオプション（並べ替え、フィルタリングなど）を活用できます。  
+  
+詳細については、GitLabまたはGitHubとEngineeringPublishingの統合https://www.ibm.com/support/knowledgecenter/SS6RHZ_7.0.1/com.ibm.rational.pe.integration.doc/topics/c_gitlab_integrate.htmlを参照してください。
 
 ### Description
 You can generate document from GitLab and Github. IBM Engineering Lifecycle Optimization - Publishing (PUB) can retrieve data from the REST API provided by these tools. Template designer can leverage various options (sorting, filtering, etc.) provided by Publishing.  
@@ -5757,6 +7783,12 @@ For more information, see Integrating GitLab or GitHub with Engineering Publishi
 
 ### Tags
 ['IBM', 'elo-publishing']
+
+### Description(ja)
+リソースの接続を追加するプロセスが簡略化されました。製品にアクセスしたり、URLを変更したりすることなく、リソースを参照して選択できます。  
+  
+詳細については、を参照してください。  
+DocumentBuilderでのデータソースの管理https://www.ibm.com/support/knowledgecenter/SS6RHZ_7.0.1/com.ibm.rational.pe.web.doc/topics/t_datasource.html
 
 ### Description
 The process to add connections for resources is now simplified. You can browse and select a resource without accessing the product or modifying the URL.  
@@ -5776,6 +7808,9 @@ Managing data sources in Document Builder https://www.ibm.com/support/knowledgec
 ### Tags
 None
 
+### Description(ja)
+このビデオでは、GitPullRequestsをEngineeringWorkflowManagementのバージョン7.0.1の作業項目にリンクする機能の概要を説明します。
+
 ### Description
 This video provides an overview of the ability to link Git Pull Requests to work items in version 7.0.1 of Engineering Workflow Management.
 
@@ -5790,6 +7825,9 @@ This video provides an overview of the ability to link Git Pull Requests to work
 
 ### Tags
 None
+
+### Description(ja)
+このビデオでは、RhapsodyモデルのWebベースのリポジトリであるRhapsody Model Manager（RMM）を紹介します。
 
 ### Description
 This video introduces Rhapsody Model Manager (RMM) - a web-based repository for Rhapsody models.
@@ -5806,6 +7844,9 @@ This video introduces Rhapsody Model Manager (RMM) - a web-based repository for 
 ### Tags
 None
 
+### Description(ja)
+金融サービス部門は、常に規制の監視と規制を受けています。リスク管理と業界標準への準拠の実証は非常に重要です。このビデオでは、IBM Engineering Lifecycle Management（ELM）ソリューションにより、企業が直面するリスクを測定および管理するために実施している内部統制を簡単にキャプチャして実証し、違反の報告と対処を行う方法を説明します。今風のファッション。
+
 ### Description
 The Financial Services sector is under constant regulatory scrutiny and regulation. Risk management and demonstrating compliance to industry standards is crucial. In this video you will see how the IBM Engineering Lifecycle Management (ELM) solution allows the business to easily capture and demonstrate the internal controls it has in place to measure and manage the risks that it faces, as well as reporting and addressing breaches in a timely fashion.
 
@@ -5820,6 +7861,9 @@ The Financial Services sector is under constant regulatory scrutiny and regulati
 
 ### Tags
 None
+
+### Description(ja)
+エンジニアリングライフサイクル最適化の概要-パブリッシング（PUB）
 
 ### Description
 Overview of Engineering Lifecycle Optimization - Publishing (PUB)
@@ -5836,6 +7880,9 @@ Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 ### Tags
 None
 
+### Description(ja)
+エンジニアリングライフサイクル最適化の概要-パブリッシング（PUB）
+
 ### Description
 Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 
@@ -5850,6 +7897,9 @@ Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 
 ### Tags
 ['rpe', 'PUB', 'elo-publishing']
+
+### Description(ja)
+エンジニアリングライフサイクル最適化の概要-パブリッシング（PUB）
 
 ### Description
 Overview of Engineering Lifecycle Optimization - Publishing (PUB)
@@ -5866,6 +7916,9 @@ Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 ### Tags
 ['elo-publishing']
 
+### Description(ja)
+簡略化された接続の関連付け
+
 ### Description
 Simplified Connection Association
 
@@ -5880,6 +7933,9 @@ Simplified Connection Association
 
 ### Tags
 ['elo-publishing']
+
+### Description(ja)
+ドキュメント生成の復元力
 
 ### Description
 Document Generation Resilience
@@ -5896,6 +7952,9 @@ Document Generation Resilience
 ### Tags
 None
 
+### Description(ja)
+このビデオでは、エンジニアリングワークフロー管理のバージョン7.0.2のWebクライアントでアーティファクトリンクを作成する機能の概要を説明します。
+
 ### Description
 This video provides an overview of the ability to create artifact links in the web client of version 7.0.2 of Engineering Workflow Management.
 
@@ -5911,6 +7970,9 @@ This video provides an overview of the ability to create artifact links in the w
 ### Tags
 None
 
+### Description(ja)
+このビデオでは、エンジニアリングワークフロー管理のバージョン7.0.2のWebクライアントでグローバル構成リンクを作成する機能の概要を説明します。
+
 ### Description
 This video provides an overview of the ability to create Global Configuration  links in the web client of version 7.0.2 of Engineering Workflow Management.
 
@@ -5925,6 +7987,10 @@ This video provides an overview of the ability to create Global Configuration  l
 
 ### Tags
 ['IBM', 'Engineering Insights', 'links information', 'current links information', 'actions', 'add new container', 'add and update links information', 'show links to', 'single click actions']
+
+### Description(ja)
+Engineering Insightsを使用すると、選択したノードコンテナの現在のリンクとその数のリストを確認できます。依存関係分析で考えられるすべてのリンクが考慮されているかどうかを確認するのに役立ちます。  
+リンク情報を生成してアクションを実行する方法を学びます。
 
 ### Description
 Engineering Insights enables you to see the list of current links and their count for the selected node container. It helps you to verify whether every possible link is considered in the dependency analysis.  
@@ -5942,6 +8008,10 @@ Learn how to generate links information and perform actions.
 ### Tags
 ['IBM', 'Engineering Insights', 'styles in ENI', 'create a style', 'edit a style', 'overwrite a style', 'managing style', 'refresh style', 'import a style', 'export a style', 'move or copy a style', 'change style of a view', 'sharing a style', 'manage co-owner of the style', 'create a view by using existing style']
 
+### Description(ja)
+ビューの作成者は、ノード定義をスタイルとして保存し、ビュー全体でそのスタイルを使用できるようになりました。ビューの作成者は、このスタイルを使用してビューをより速く作成し、各ノードのフォーマットに必要な時間を短縮できます。  
+ビュー全体でスタイルを使用する方法を学びます。
+
 ### Description
 View authors can now save the node definitions as a style and use that style across the views. The view authors can use the style to create a view faster and reduce the time required to format each node.  
 Learn how to use the style across view.
@@ -5957,6 +8027,13 @@ Learn how to use the style across view.
 
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'LQE', 'Lifecycle Query Engine', 'LQE status information in Report Builder']
+
+### Description(ja)
+ライフサイクルクエリエンジン（LQE）条件の詳細なステータス情報がレポートビルダーに表示されるようになりました。  
+  
+LQE条件が異なるために、LQEデータソースを含むレポートが不完全な場合は、適切な警告メッセージが表示されます。警告メッセージに表示されたLQEプロセスが完了した後、レポートを再実行できます。  
+  
+詳細については、レポートビルダーを使用した構成のデータに関するレポート（https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.2/com.ibm.team.jp.jrs.doc/topics/c_jrs_rep_cfgs.html）を参照してください。 。
 
 ### Description
 Detailed status information of Lifecycle Query Engine (LQE) conditions is now displayed in Report Builder.  
@@ -5977,6 +8054,13 @@ For more information, see Reporting on data in configurations with Report Builde
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'LQE', 'Lifecycle Query Engine', 'alternate queries', 'SPARQL queries', 'large project optimization', 'optimizing queries', 'optimizing reports']
 
+### Description(ja)
+プロジェクトでスコープする前に、アーティファクトでフィルタリングするレポートの代替SPARQLクエリを生成できるようになりました。  
+  
+データソースが構成によってスコープされたライフサイクルクエリエンジンまたはライフサイクルクエリエンジンである場合、代替クエリチェックボックスを使用してプロジェクトによるスコープのスコープを延期するを選択して、代替クエリを生成できます。このオプションは、レポートデータの[範囲の制限]セクションに多数のプロジェクトがある場合に役立ちます。  
+  
+詳細については、レポートの最適化（https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.2/com.ibm.team.jp.jrs.doc/topics/t_jrs_create_reports.html#task_optimize）を参照してください。
+
 ### Description
 You can now generate an alternative SPARQL query for reports to filter on artifacts before scoping by projects.  
   
@@ -5996,6 +8080,11 @@ For more information, see Optimizing reports (https://www.ibm.com/support/knowle
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'reports', 'searching records', 'search reports', 'search schedules', 'search', 'search functionality']
 
+### Description(ja)
+レポートビルダーの[フィルターするタイプ]テキストボックスは、[検索]テキストボックスと[クリックして検索]アイコンに置き換えられます。強化された検索機能により、折りたたまれたグループ内にネストされているタグ、フォルダー、レポート、スケジュール、または結果が取得されるようになりました。以前は、[マイレポート]、[すべてのレポート]、[マイスケジュール]、[すべてのスケジュール]、[マイ結果]、および[すべての結果]ページのグループ外または展開されたタグまたはフォルダー内のレコードのみが検索結果に表示されていました。たとえば、レポートが折りたたまれた状態のタグまたはフォルダー内にある場合、そのレポートは検索結果に表示されませんでした。  
+  
+詳細については、レポートビルダーでのレポートの検索と整理（https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.2/com.ibm.team.jp.jrs.doc/topics/t_rb_find_org.html）を参照してください。
+
 ### Description
 The Type to filter text box in Report Builder is replaced with the Search text box and Click to search icon. The enhanced search functionality now retrieves tags, folders, reports, schedules, or results that are nested within collapsed groups. Earlier, only records outside groups or within expanded tags or folders in the My reports, All reports, My schedules, All schedules, My results, and All results pages were displayed in the search results. For instance, if a report was within a tag or folder that was in a collapsed state, then the report was not displayed in the search results.   
   
@@ -6012,6 +8101,11 @@ For more information, see Finding and organizing reports in Report Builder (http
 
 ### Tags
 ['IBM', 'Jazz Reporting Service', 'JRS', 'Report Builder', 'LQE', 'Lifecycle Query Engine', 'repairing reports', 'missing artifacts in reports', 'missing parameters in reports']
+
+### Description(ja)
+レポートビルダーで、他のIBM Engineering Lifecycle Management（ELM）アプリケーションから欠落または名前変更された成果物を置き換えることができるようになりました。アーティファクトが欠落しているか名前が変更されているレポートを編集すると、[関係のトレースとアーティファクトの追加]セクションで、欠落しているアーティファクトの上にホバーテキストをサポートする警告アイコンが表示されます。この警告アイコンをクリックすると、不足しているアーティファクトを置き換えることができます。欠落しているすべてのアーティファクトを置き換えた後、レポートを正常に保存できます。  
+  
+詳細については、アーティファクトのタイプまたはパラメーターが欠落しているレポートの修復（https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.2/com.ibm.team.jp.jrs.doc/topics/c_rb_replace_missing_artifacts.html）を参照してください。 。
 
 ### Description
 You can now replace missing or renamed artifacts from other IBM Engineering Lifecycle Management (ELM) applications in Report Builder. When you edit the report that has missing or renamed artifacts, a warning icon with supporting hover text appears over missing artifacts in the "Trace relationships and add artifacts" section. You can click this warning icon to replace a missing artifact. You can successfully save the report after you replace all missing artifacts.  
@@ -6030,6 +8124,9 @@ For more information, see Repairing reports with missing artifact types or param
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -6044,6 +8141,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -6060,6 +8160,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -6074,6 +8177,9 @@ None
 
 ### Tags
 None
+
+### Description(ja)
+
 
 ### Description
 
@@ -6090,6 +8196,9 @@ None
 ### Tags
 None
 
+### Description(ja)
+
+
 ### Description
 
 
@@ -6105,6 +8214,9 @@ None
 ### Tags
 ['Rational Software Architect RealTime Edition 9.1.2 CP1', 'state diagrams', 'internal transitions', 'comments']
 
+### Description(ja)
+このビデオは、内部遷移と状態図のコメントに対して行われた改善を示しています。
+
 ### Description
 This video demonstrates improvements made for internal transitions and comments of state diagrams.
 
@@ -6119,6 +8231,9 @@ This video demonstrates improvements made for internal transitions and comments 
 
 ### Tags
 ['rsarte', '912cp1', 'mylyn', 'gerrit']
+
+### Description(ja)
+Gerritは人気のあるコードレビューシステムであり、MyLynを使用してRSARTEから直接アクセスできるようになりました。このビデオでは、統合によって提供される主なビューとワークフローについて簡単に紹介します。
 
 ### Description
 Gerrit is a popular code review system that now can be accessed directly from RSARTE using MyLyn. This video gives a short introduction to the main views and work flows provided by the integration.
