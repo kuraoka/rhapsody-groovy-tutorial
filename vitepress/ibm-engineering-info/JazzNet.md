@@ -1,5 +1,5 @@
 # Jazz.net Videos
-IBM Engineering Systems Design Rhapsodyの操作方法説明など。
+IBM Engineeringの製品情報など。
 [Jazz.net](https://www.youtube.com/c/JazznetCommunity/)
 
 ## Creating a Process Template - Part 9 - RTC Temperature Conversion Demo
