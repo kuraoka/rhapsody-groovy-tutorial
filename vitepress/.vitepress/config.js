@@ -5,13 +5,22 @@ export default {
   base: "/rhapsody-plugin-tutorial/",
   ignoreDeadLinks: true,
   themeConfig: {
-    sidebar: [{
-      items: [
-        {text: "Java", link: '/src/java/'},
-        {text: "Grovvy", link: '/src/groovy/'},
-        {text: "Scala", link: '/src/scala/'},
-        {text: "IBM Engineering Information", link: '/ibm-engineering-info/'}
-      ]
-    }] 
+    sidebar: [
+      {
+        text: 'Plugin Programming',
+        items: [
+          {text: "Java", link: '/src/java/'},
+          {text: "Grovvy", link: '/src/groovy/'},
+          {text: "Scala", link: '/src/scala/'}
+        ]
+      },
+      {
+        text: 'IBM Engineering Videos',
+        items: [
+          {text: "Software Education", link: '/ibm-engineering-info/SoftwareEducation'},
+          {text: "MBSETraining", link: '/ibm-engineering-info/MBSETraining'}
+        ]
+      }
+    ] 
   }
 }

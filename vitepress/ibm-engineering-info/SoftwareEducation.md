@@ -1,6 +1,6 @@
-# IBM Engineering Information
-
-## Videos
+# Software Education Videos
+IBM Engineering 製品の紹介など。
+[Software Education](https://www.youtube.com/c/IBMRationalUserEducation)
 
 ## Creating Reports on Rhapsody Models with Rational Publishing Engine v1.2 (Part 1)
 
@@ -80,6 +80,7 @@ Part 2 shows advanced examples (ICD generation and Traceability). It also shows 
 
 ### Video
 [Creating Reports on Rhapsody Models with Rational Publishing Engine v1.2 (Part 1)](https://youtu.be/hoQgh9h4pxg)
+[![Creating Reports on Rhapsody Models with Rational Publishing Engine v1.2 (Part 1)](https://i.ytimg.com/vi/hoQgh9h4pxg/mqdefault.jpg)](https://youtu.be/hoQgh9h4pxg){:target="_blank"}
 
 
 ## Deep Dive Tour: Rational Software Architect Real-Time Edition v8.5.1
@@ -146,6 +147,7 @@ In this video, Mattias Mohlin guides you through an in-depth view at the new fea
 
 ### Video
 [Deep Dive Tour: Rational Software Architect Real-Time Edition v8.5.1](https://youtu.be/pq-ae7qHNTo)
+[![Deep Dive Tour: Rational Software Architect Real-Time Edition v8.5.1](https://i.ytimg.com/vi/pq-ae7qHNTo/mqdefault.jpg)](https://youtu.be/pq-ae7qHNTo){:target="_blank"}
 
 
 ## What's New in Rational Software Architect Real-Time Edition v8.5.1 CP2
@@ -164,6 +166,7 @@ RSA RTE Community: http://goo.gl/AlJ5b
 
 ### Video
 [What's New in Rational Software Architect Real-Time Edition v8.5.1 CP2](https://youtu.be/JkuL-nAAuEA)
+[![What's New in Rational Software Architect Real-Time Edition v8.5.1 CP2](https://i.ytimg.com/vi/JkuL-nAAuEA/mqdefault.jpg)](https://youtu.be/JkuL-nAAuEA){:target="_blank"}
 
 
 ## Introduction to Systems Modeling Language (SysML), Part 1
@@ -218,6 +221,7 @@ Fore more information: http://www.omg.org/spec/SysML/1.3/ and http://www.incose.
 
 ### Video
 [Introduction to Systems Modeling Language (SysML), Part 1](https://youtu.be/xGDErNmqNLw)
+[![Introduction to Systems Modeling Language (SysML), Part 1](https://i.ytimg.com/vi/xGDErNmqNLw/mqdefault.jpg)](https://youtu.be/xGDErNmqNLw){:target="_blank"}
 
 
 ## Introduction to Systems Modeling Language (SysML), Part 2
@@ -262,6 +266,7 @@ Fore more info: http://www.omg.org/spec/SysML/1.3/ and http://www.incose.org
 
 ### Video
 [Introduction to Systems Modeling Language (SysML), Part 2](https://youtu.be/1tJq6DgY0BE)
+[![Introduction to Systems Modeling Language (SysML), Part 2](https://i.ytimg.com/vi/1tJq6DgY0BE/mqdefault.jpg)](https://youtu.be/1tJq6DgY0BE){:target="_blank"}
 
 
 ## Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 2
@@ -280,6 +285,7 @@ In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces 
 
 ### Video
 [Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 2](https://youtu.be/jMSvRm21Oug)
+[![Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 2](https://i.ytimg.com/vi/jMSvRm21Oug/mqdefault.jpg)](https://youtu.be/jMSvRm21Oug){:target="_blank"}
 
 
 ## Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 3
@@ -298,6 +304,7 @@ In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces 
 
 ### Video
 [Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 3](https://youtu.be/tIy-2tTS8jw)
+[![Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 3](https://i.ytimg.com/vi/tIy-2tTS8jw/mqdefault.jpg)](https://youtu.be/tIy-2tTS8jw){:target="_blank"}
 
 
 ## Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 1
@@ -316,6 +323,7 @@ In this 3-part series, Rational Technical Specialist Ricardo Camacho introduces 
 
 ### Video
 [Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 1](https://youtu.be/l4nqIZiyt5E)
+[![Introduction to Systems Engineering with Rational Rhapsody Designer v4.x, Part 1](https://i.ytimg.com/vi/l4nqIZiyt5E/mqdefault.jpg)](https://youtu.be/l4nqIZiyt5E){:target="_blank"}
 
 
 ## What's New in Rational Software Architect Real-Time Edition v8.5.1 CP3
@@ -334,6 +342,7 @@ RSA RTE Community: http://goo.gl/AlJ5b
 
 ### Video
 [What's New in Rational Software Architect Real-Time Edition v8.5.1 CP3](https://youtu.be/RUH1tQl8wjg)
+[![What's New in Rational Software Architect Real-Time Edition v8.5.1 CP3](https://i.ytimg.com/vi/RUH1tQl8wjg/mqdefault.jpg)](https://youtu.be/RUH1tQl8wjg){:target="_blank"}
 
 
 ## IBM Rational Team Concert Build Management: Accelerated Overview
@@ -358,6 +367,7 @@ This video provides an overview of the Rational Team Concert build management.
 
 ### Video
 [IBM Rational Team Concert Build Management: Accelerated Overview](https://youtu.be/za_UQwSr-_k)
+[![IBM Rational Team Concert Build Management: Accelerated Overview](https://i.ytimg.com/vi/za_UQwSr-_k/mqdefault.jpg)](https://youtu.be/za_UQwSr-_k){:target="_blank"}
 
 
 ## IBM Rational Team Concert Planning: Accelerated Overview
@@ -382,6 +392,7 @@ This video provides an overview of the Rational Team Concert planning.
 
 ### Video
 [IBM Rational Team Concert Planning: Accelerated Overview](https://youtu.be/Ij2LlLhZp4A)
+[![IBM Rational Team Concert Planning: Accelerated Overview](https://i.ytimg.com/vi/Ij2LlLhZp4A/mqdefault.jpg)](https://youtu.be/Ij2LlLhZp4A){:target="_blank"}
 
 
 ## IBM Jazz Source Control: Accelerated Overview
@@ -406,6 +417,7 @@ This video provides an overview of Jazz source control, which manages the source
 
 ### Video
 [IBM Jazz Source Control: Accelerated Overview](https://youtu.be/KZPRSnuMpwg)
+[![IBM Jazz Source Control: Accelerated Overview](https://i.ytimg.com/vi/KZPRSnuMpwg/mqdefault.jpg)](https://youtu.be/KZPRSnuMpwg){:target="_blank"}
 
 
 ## IBM Rational Team Concert: Accelerated Overview
@@ -430,6 +442,7 @@ This video provides an overview of the Rational Team Concert, which provides agi
 
 ### Video
 [IBM Rational Team Concert: Accelerated Overview](https://youtu.be/omWTfno_P6U)
+[![IBM Rational Team Concert: Accelerated Overview](https://i.ytimg.com/vi/omWTfno_P6U/mqdefault.jpg)](https://youtu.be/omWTfno_P6U){:target="_blank"}
 
 
 ## Introduction to SysML: Concepts of Activity Modeling
@@ -502,6 +515,7 @@ Questions
 
 ### Video
 [Introduction to SysML: Concepts of Activity Modeling](https://youtu.be/2EXloszVSpo)
+[![Introduction to SysML: Concepts of Activity Modeling](https://i.ytimg.com/vi/2EXloszVSpo/mqdefault.jpg)](https://youtu.be/2EXloszVSpo){:target="_blank"}
 
 
 ## Introduction to Systems Modeling (SysML): Scenario Modeling with Sequence Diagrams
@@ -580,6 +594,7 @@ Introduction to Systems Modeling (SysML): Scenario Modeling with Sequence Diagra
 
 ### Video
 [Introduction to Systems Modeling (SysML): Scenario Modeling with Sequence Diagrams](https://youtu.be/r4ad_S5nkSc)
+[![Introduction to Systems Modeling (SysML): Scenario Modeling with Sequence Diagrams](https://i.ytimg.com/vi/r4ad_S5nkSc/mqdefault.jpg)](https://youtu.be/r4ad_S5nkSc){:target="_blank"}
 
 
 ## UML and Rational Rhapsody Workflows for Embedded Code Development
@@ -648,6 +663,7 @@ Agenda:
 
 ### Video
 [UML and Rational Rhapsody Workflows for Embedded Code Development](https://youtu.be/yaLGw-ZSUKk)
+[![UML and Rational Rhapsody Workflows for Embedded Code Development](https://i.ytimg.com/vi/yaLGw-ZSUKk/mqdefault.jpg)](https://youtu.be/yaLGw-ZSUKk){:target="_blank"}
 
 
 ## Leveraging Action Language with IBM Rational Rhapsody v8.0.3
@@ -694,6 +710,7 @@ The action language is targeted at system engineers as it provides a simpler, hi
 
 ### Video
 [Leveraging Action Language with IBM Rational Rhapsody v8.0.3](https://youtu.be/K5cJDtzvMdA)
+[![Leveraging Action Language with IBM Rational Rhapsody v8.0.3](https://i.ytimg.com/vi/K5cJDtzvMdA/mqdefault.jpg)](https://youtu.be/K5cJDtzvMdA){:target="_blank"}
 
 
 ## Simplify Modeling with Interface Specifications using Rational DOORS and Rhapsody
@@ -754,6 +771,7 @@ Simplify Modeling with Interface Specifications using Rational DOORS and Rhapsod
 
 ### Video
 [Simplify Modeling with Interface Specifications using Rational DOORS and Rhapsody](https://youtu.be/sqF7pGdLXUE)
+[![Simplify Modeling with Interface Specifications using Rational DOORS and Rhapsody](https://i.ytimg.com/vi/sqF7pGdLXUE/mqdefault.jpg)](https://youtu.be/sqF7pGdLXUE){:target="_blank"}
 
 
 ## Share Changes in Rational Team Concert v4.0.5 Basic Mode
@@ -778,6 +796,7 @@ This video provides an overview of the Rational Team Concert Basic mode, which a
 
 ### Video
 [Share Changes in Rational Team Concert v4.0.5 Basic Mode](https://youtu.be/vkdTa8C4BaE)
+[![Share Changes in Rational Team Concert v4.0.5 Basic Mode](https://i.ytimg.com/vi/vkdTa8C4BaE/mqdefault.jpg)](https://youtu.be/vkdTa8C4BaE){:target="_blank"}
 
 
 ## Introduction to the Rational Rhapsody Harmony Toolkit for Systems Engineers
@@ -868,6 +887,7 @@ Introduction to the Rational Rhapsody Harmony Toolkit for Systems Engineers with
 
 ### Video
 [Introduction to the Rational Rhapsody Harmony Toolkit for Systems Engineers](https://youtu.be/axX6wwY3puQ)
+[![Introduction to the Rational Rhapsody Harmony Toolkit for Systems Engineers](https://i.ytimg.com/vi/axX6wwY3puQ/mqdefault.jpg)](https://youtu.be/axX6wwY3puQ){:target="_blank"}
 
 
 ## Reuse Existing Code with Rational Rhapsody
@@ -920,6 +940,7 @@ Reverse Engineer and reuse existing code through architectural analysis with IBM
 
 ### Video
 [Reuse Existing Code with Rational Rhapsody](https://youtu.be/UlUHh0I_DNY)
+[![Reuse Existing Code with Rational Rhapsody](https://i.ytimg.com/vi/UlUHh0I_DNY/mqdefault.jpg)](https://youtu.be/UlUHh0I_DNY){:target="_blank"}
 
 
 ## Introduction to Model-Based Trade Studies with SysML and Rational Rhapsody
@@ -978,6 +999,7 @@ Introduction to Model-Based Trade Studies with SysML and Rational Rhapsody by Ga
 
 ### Video
 [Introduction to Model-Based Trade Studies with SysML and Rational Rhapsody](https://youtu.be/uxnqcnISz9o)
+[![Introduction to Model-Based Trade Studies with SysML and Rational Rhapsody](https://i.ytimg.com/vi/uxnqcnISz9o/mqdefault.jpg)](https://youtu.be/uxnqcnISz9o){:target="_blank"}
 
 
 ## Model Based Testing: From Concept to Coverage
@@ -1040,6 +1062,7 @@ Model Based Testing: From Concept to Coverage with Ron Felice
 
 ### Video
 [Model Based Testing: From Concept to Coverage](https://youtu.be/X-yNioiwqC8)
+[![Model Based Testing: From Concept to Coverage](https://i.ytimg.com/vi/X-yNioiwqC8/mqdefault.jpg)](https://youtu.be/X-yNioiwqC8){:target="_blank"}
 
 
 ## Hardware/Software Co-Design: SysML and SystemC in Rhapsody and Sodius
@@ -1098,6 +1121,7 @@ Hardware/Software Co-Design: SysML and System C in Rhapsody and Sodius with Rick
 
 ### Video
 [Hardware/Software Co-Design: SysML and SystemC in Rhapsody and Sodius](https://youtu.be/61Hp0jQNnwE)
+[![Hardware/Software Co-Design: SysML and SystemC in Rhapsody and Sodius](https://i.ytimg.com/vi/61Hp0jQNnwE/mqdefault.jpg)](https://youtu.be/61Hp0jQNnwE){:target="_blank"}
 
 
 ## Importing Models and Design into Rational Rhapsody
@@ -1116,6 +1140,7 @@ Importing Models and Design into Rational Rhapsody with Paul Urban of IBM Ration
 
 ### Video
 [Importing Models and Design into Rational Rhapsody](https://youtu.be/ma6c2KrhsRA)
+[![Importing Models and Design into Rational Rhapsody](https://i.ytimg.com/vi/ma6c2KrhsRA/mqdefault.jpg)](https://youtu.be/ma6c2KrhsRA){:target="_blank"}
 
 
 ## Systems Engineering: Verify Requirements through Model Execution in Rational Rhapsody
@@ -1162,6 +1187,7 @@ Verify Requirements through Model Execution in Rational Rhapsody with Ron Felice
 
 ### Video
 [Systems Engineering: Verify Requirements through Model Execution in Rational Rhapsody](https://youtu.be/f_YW5r4EQkg)
+[![Systems Engineering: Verify Requirements through Model Execution in Rational Rhapsody](https://i.ytimg.com/vi/f_YW5r4EQkg/mqdefault.jpg)](https://youtu.be/f_YW5r4EQkg){:target="_blank"}
 
 
 ## Extend IBM Rational Rhapsody via the API
@@ -1222,6 +1248,7 @@ https://www.ibm.com/developerworks/mydeveloperworks/groups/service/html/communit
 
 ### Video
 [Extend IBM Rational Rhapsody via the API](https://youtu.be/9tJeo0Cl9-s)
+[![Extend IBM Rational Rhapsody via the API](https://i.ytimg.com/vi/9tJeo0Cl9-s/mqdefault.jpg)](https://youtu.be/9tJeo0Cl9-s){:target="_blank"}
 
 
 ## Migrating Legacy Applications for New Hardware using Rational Rhapsody
@@ -1240,6 +1267,7 @@ Migrating Legacy Applications for New Hardware using Rational Rhapsody with Thom
 
 ### Video
 [Migrating Legacy Applications for New Hardware using Rational Rhapsody](https://youtu.be/D7YrtQTSe-o)
+[![Migrating Legacy Applications for New Hardware using Rational Rhapsody](https://i.ytimg.com/vi/D7YrtQTSe-o/mqdefault.jpg)](https://youtu.be/D7YrtQTSe-o){:target="_blank"}
 
 
 ## Introduction to Systems Modeling (SysML): Basic Structural Modeling
@@ -1310,6 +1338,7 @@ complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 
 ### Video
 [Introduction to Systems Modeling (SysML): Basic Structural Modeling](https://youtu.be/K3RpSavVKeM)
+[![Introduction to Systems Modeling (SysML): Basic Structural Modeling](https://i.ytimg.com/vi/K3RpSavVKeM/mqdefault.jpg)](https://youtu.be/K3RpSavVKeM){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition CP1: Support UML Interfaces
@@ -1328,6 +1357,7 @@ complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 
 ### Video
 [Rational Software Architect RealTime Edition CP1: Support UML Interfaces](https://youtu.be/1jBylqQ4kmo)
+[![Rational Software Architect RealTime Edition CP1: Support UML Interfaces](https://i.ytimg.com/vi/1jBylqQ4kmo/mqdefault.jpg)](https://youtu.be/1jBylqQ4kmo){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition CP1: Navigate By URI
@@ -1346,6 +1376,7 @@ None
 
 ### Video
 [Rational Software Architect RealTime Edition CP1: Navigate By URI](https://youtu.be/4N-OI7vWkpg)
+[![Rational Software Architect RealTime Edition CP1: Navigate By URI](https://i.ytimg.com/vi/4N-OI7vWkpg/mqdefault.jpg)](https://youtu.be/4N-OI7vWkpg){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition CP1: Properties View
@@ -1364,6 +1395,7 @@ None
 
 ### Video
 [Rational Software Architect RealTime Edition CP1: Properties View](https://youtu.be/E69cBf6kXXA)
+[![Rational Software Architect RealTime Edition CP1: Properties View](https://i.ytimg.com/vi/E69cBf6kXXA/mqdefault.jpg)](https://youtu.be/E69cBf6kXXA){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition CP1: TC Compare/Merge Improvements
@@ -1382,6 +1414,7 @@ None
 
 ### Video
 [Rational Software Architect RealTime Edition CP1: TC Compare/Merge Improvements](https://youtu.be/rtyw7vssMeY)
+[![Rational Software Architect RealTime Edition CP1: TC Compare/Merge Improvements](https://i.ytimg.com/vi/rtyw7vssMeY/mqdefault.jpg)](https://youtu.be/rtyw7vssMeY){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition CP1: Exclude Element Code Generation
@@ -1400,6 +1433,7 @@ None
 
 ### Video
 [Rational Software Architect RealTime Edition CP1: Exclude Element Code Generation](https://youtu.be/6wWAr-XG6lc)
+[![Rational Software Architect RealTime Edition CP1: Exclude Element Code Generation](https://i.ytimg.com/vi/6wWAr-XG6lc/mqdefault.jpg)](https://youtu.be/6wWAr-XG6lc){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition CP1: External Constants Support
@@ -1418,6 +1452,7 @@ None
 
 ### Video
 [Rational Software Architect RealTime Edition CP1: External Constants Support](https://youtu.be/ju4ZkzLGxww)
+[![Rational Software Architect RealTime Edition CP1: External Constants Support](https://i.ytimg.com/vi/ju4ZkzLGxww/mqdefault.jpg)](https://youtu.be/ju4ZkzLGxww){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition CP1: Diagram Editing Improvements
@@ -1436,6 +1471,7 @@ None
 
 ### Video
 [Rational Software Architect RealTime Edition CP1: Diagram Editing Improvements](https://youtu.be/CJUsw_kPx8c)
+[![Rational Software Architect RealTime Edition CP1: Diagram Editing Improvements](https://i.ytimg.com/vi/CJUsw_kPx8c/mqdefault.jpg)](https://youtu.be/CJUsw_kPx8c){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition v9.0.0.1 State Diagram Editing
@@ -1454,6 +1490,7 @@ None
 
 ### Video
 [Rational Software Architect RealTime Edition v9.0.0.1 State Diagram Editing](https://youtu.be/QS2tm6emRYU)
+[![Rational Software Architect RealTime Edition v9.0.0.1 State Diagram Editing](https://i.ytimg.com/vi/QS2tm6emRYU/mqdefault.jpg)](https://youtu.be/QS2tm6emRYU){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition CP1: Select Type For Bounding
@@ -1472,6 +1509,7 @@ None
 
 ### Video
 [Rational Software Architect RealTime Edition CP1: Select Type For Bounding](https://youtu.be/J08PV7tZaKQ)
+[![Rational Software Architect RealTime Edition CP1: Select Type For Bounding](https://i.ytimg.com/vi/J08PV7tZaKQ/mqdefault.jpg)](https://youtu.be/J08PV7tZaKQ){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition CP1: Intro, Support UML Interfaces
@@ -1490,6 +1528,7 @@ None
 
 ### Video
 [Rational Software Architect RealTime Edition CP1: Intro, Support UML Interfaces](https://youtu.be/-XZO79trMns)
+[![Rational Software Architect RealTime Edition CP1: Intro, Support UML Interfaces](https://i.ytimg.com/vi/-XZO79trMns/mqdefault.jpg)](https://youtu.be/-XZO79trMns){:target="_blank"}
 
 
 ## Opening and modifying templates in ReporterPLUS for Rational Rhapsody 8.0
@@ -1512,6 +1551,7 @@ A demonstration of opening and modifying templates in the ReporterPLUS client fo
 
 ### Video
 [Opening and modifying templates in ReporterPLUS for Rational Rhapsody 8.0](https://youtu.be/t7AevvlgodY)
+[![Opening and modifying templates in ReporterPLUS for Rational Rhapsody 8.0](https://i.ytimg.com/vi/t7AevvlgodY/mqdefault.jpg)](https://youtu.be/t7AevvlgodY){:target="_blank"}
 
 
 ## Rational Programming Patterns Overview
@@ -1534,6 +1574,7 @@ This video presents some of the main features of Rational Programming Patterns t
 
 ### Video
 [Rational Programming Patterns Overview](https://youtu.be/fAaGWKE-2KU)
+[![Rational Programming Patterns Overview](https://i.ytimg.com/vi/fAaGWKE-2KU/mqdefault.jpg)](https://youtu.be/fAaGWKE-2KU){:target="_blank"}
 
 
 ## Introduction to SysML: State Modeling
@@ -1574,6 +1615,7 @@ In this video Joanne Scouler and Andy Lapping define and demonstrate the followi
 
 ### Video
 [Introduction to SysML: State Modeling](https://youtu.be/ZuFFYmxFCwM)
+[![Introduction to SysML: State Modeling](https://i.ytimg.com/vi/ZuFFYmxFCwM/mqdefault.jpg)](https://youtu.be/ZuFFYmxFCwM){:target="_blank"}
 
 
 ## Rational Rhapsody: Embedded Software Development with UML
@@ -1600,6 +1642,7 @@ In this video Rational Solution Architect Gavin Arthurs walks you through:
 
 ### Video
 [Rational Rhapsody: Embedded Software Development with UML](https://youtu.be/DfFydsrZHGw)
+[![Rational Rhapsody: Embedded Software Development with UML](https://i.ytimg.com/vi/DfFydsrZHGw/mqdefault.jpg)](https://youtu.be/DfFydsrZHGw){:target="_blank"}
 
 
 ## Introduction to IBM Rational DOORS Next Generation
@@ -1618,6 +1661,7 @@ Check out the Doors Next Generation free trial today and see how it has requirem
 
 ### Video
 [Introduction to IBM Rational DOORS Next Generation](https://youtu.be/N4Z7h4qt1MU)
+[![Introduction to IBM Rational DOORS Next Generation](https://i.ytimg.com/vi/N4Z7h4qt1MU/mqdefault.jpg)](https://youtu.be/N4Z7h4qt1MU){:target="_blank"}
 
 
 ## IBM Rhapsody v8.x Features: Port Wizards
@@ -1636,6 +1680,7 @@ In this video demonstration, technical specialist Andy Lapping defines and demon
 
 ### Video
 [IBM Rhapsody v8.x Features: Port Wizards](https://youtu.be/RvlSNQbLNVg)
+[![IBM Rhapsody v8.x Features: Port Wizards](https://i.ytimg.com/vi/RvlSNQbLNVg/mqdefault.jpg)](https://youtu.be/RvlSNQbLNVg){:target="_blank"}
 
 
 ## IBM Rhapsody v8.x Features: Standard Content and Stereotype-Based Helpers
@@ -1654,6 +1699,7 @@ In this video demonstration, technical specialist Andy Lapping defines and demon
 
 ### Video
 [IBM Rhapsody v8.x Features: Standard Content and Stereotype-Based Helpers](https://youtu.be/TzJ8hTUKbb8)
+[![IBM Rhapsody v8.x Features: Standard Content and Stereotype-Based Helpers](https://i.ytimg.com/vi/TzJ8hTUKbb8/mqdefault.jpg)](https://youtu.be/TzJ8hTUKbb8){:target="_blank"}
 
 
 ## IBM Rhapsody v8.x Features: Guide Me Pages
@@ -1672,6 +1718,7 @@ In this video technical specialist Andy Lapping takes you through the guided hel
 
 ### Video
 [IBM Rhapsody v8.x Features: Guide Me Pages](https://youtu.be/dFTXXwOrn18)
+[![IBM Rhapsody v8.x Features: Guide Me Pages](https://i.ytimg.com/vi/dFTXXwOrn18/mqdefault.jpg)](https://youtu.be/dFTXXwOrn18){:target="_blank"}
 
 
 ## IBM Rhapsody v8.x Features: Queries
@@ -1690,6 +1737,7 @@ In this video technical specialist Andy Lapping guides you through using Queries
 
 ### Video
 [IBM Rhapsody v8.x Features: Queries](https://youtu.be/eHdPxo20boI)
+[![IBM Rhapsody v8.x Features: Queries](https://i.ytimg.com/vi/eHdPxo20boI/mqdefault.jpg)](https://youtu.be/eHdPxo20boI){:target="_blank"}
 
 
 ## IBM Rational Rhapsody: Reuse Existing Code for Efficiency
@@ -1708,6 +1756,7 @@ In this video senior systems engineer Thomas Hall shows you how to reuse existin
 
 ### Video
 [IBM Rational Rhapsody: Reuse Existing Code for Efficiency](https://youtu.be/dFw4YiuCt3U)
+[![IBM Rational Rhapsody: Reuse Existing Code for Efficiency](https://i.ytimg.com/vi/dFw4YiuCt3U/mqdefault.jpg)](https://youtu.be/dFw4YiuCt3U){:target="_blank"}
 
 
 ## Introduction to Systems Modeling (SysML): Advanced Structural Modeling
@@ -1768,6 +1817,7 @@ complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 
 ### Video
 [Introduction to Systems Modeling (SysML): Advanced Structural Modeling](https://youtu.be/m5fIysmV1xE)
+[![Introduction to Systems Modeling (SysML): Advanced Structural Modeling](https://i.ytimg.com/vi/m5fIysmV1xE/mqdefault.jpg)](https://youtu.be/m5fIysmV1xE){:target="_blank"}
 
 
 ## TestConductor Support for Testing Rational Rhapsody in C
@@ -1786,6 +1836,7 @@ complete OMG SysML spec - http://www.omg.org/spec/SysML/1.3/
 
 ### Video
 [TestConductor Support for Testing Rational Rhapsody in C](https://youtu.be/W2Ky_pluyTM)
+[![TestConductor Support for Testing Rational Rhapsody in C](https://i.ytimg.com/vi/W2Ky_pluyTM/mqdefault.jpg)](https://youtu.be/W2Ky_pluyTM){:target="_blank"}
 
 
 ## Reporting across CLM projects using the Jazz Reporting Service, Part 1
@@ -1808,6 +1859,7 @@ In this video, you select the artifact type to report on, and the projects to re
 
 ### Video
 [Reporting across CLM projects using the Jazz Reporting Service, Part 1](https://youtu.be/PAP0LBG7tSc)
+[![Reporting across CLM projects using the Jazz Reporting Service, Part 1](https://i.ytimg.com/vi/PAP0LBG7tSc/mqdefault.jpg)](https://youtu.be/PAP0LBG7tSc){:target="_blank"}
 
 
 ## Reporting across CLM projects using the Jazz Reporting Service, Part 3
@@ -1826,6 +1878,7 @@ This video is the third of three that shows how to create a cross-project report
 
 ### Video
 [Reporting across CLM projects using the Jazz Reporting Service, Part 3](https://youtu.be/Qw_rzy-BCpQ)
+[![Reporting across CLM projects using the Jazz Reporting Service, Part 3](https://i.ytimg.com/vi/Qw_rzy-BCpQ/mqdefault.jpg)](https://youtu.be/Qw_rzy-BCpQ){:target="_blank"}
 
 
 ## Reporting across CLM projects using the Jazz Reporting Service, Part 2
@@ -1848,6 +1901,7 @@ This video is the second of three that shows how to create a cross-project repor
 
 ### Video
 [Reporting across CLM projects using the Jazz Reporting Service, Part 2](https://youtu.be/SGu1lM7vIqw)
+[![Reporting across CLM projects using the Jazz Reporting Service, Part 2](https://i.ytimg.com/vi/SGu1lM7vIqw/mqdefault.jpg)](https://youtu.be/SGu1lM7vIqw){:target="_blank"}
 
 
 ## Rational Software Architect RTE: What's New in v9.1.1
@@ -1882,6 +1936,7 @@ In this video Elena Strabykina takes you through what is new in RSA RTE v9.1.1
 
 ### Video
 [Rational Software Architect RTE: What's New in v9.1.1](https://youtu.be/uvZOXTLBHmM)
+[![Rational Software Architect RTE: What's New in v9.1.1](https://i.ytimg.com/vi/uvZOXTLBHmM/mqdefault.jpg)](https://youtu.be/uvZOXTLBHmM){:target="_blank"}
 
 
 ## Deliver changes in the Rational Team Concert Shell (Advanced Mode)
@@ -1906,6 +1961,7 @@ This video describes how to share a folder and deliver changes in the Rational T
 
 ### Video
 [Deliver changes in the Rational Team Concert Shell (Advanced Mode)](https://youtu.be/osLUtqmQ5SI)
+[![Deliver changes in the Rational Team Concert Shell (Advanced Mode)](https://i.ytimg.com/vi/osLUtqmQ5SI/mqdefault.jpg)](https://youtu.be/osLUtqmQ5SI){:target="_blank"}
 
 
 ## Share changes in Rational Team Concert Shell: Accept a team invitation
@@ -1930,6 +1986,7 @@ This video describes how to accept a team invitation in the Rational Team Concer
 
 ### Video
 [Share changes in Rational Team Concert Shell: Accept a team invitation](https://youtu.be/LV6PZf3s1qA)
+[![Share changes in Rational Team Concert Shell: Accept a team invitation](https://i.ytimg.com/vi/LV6PZf3s1qA/mqdefault.jpg)](https://youtu.be/LV6PZf3s1qA){:target="_blank"}
 
 
 ## Set preferences in the Rational Team Concert Shell (Advanced Mode)
@@ -1948,6 +2005,7 @@ This video describes how to set preferences in the Rational Team Concert Shell.
 
 ### Video
 [Set preferences in the Rational Team Concert Shell (Advanced Mode)](https://youtu.be/0Kym4DL25bI)
+[![Set preferences in the Rational Team Concert Shell (Advanced Mode)](https://i.ytimg.com/vi/0Kym4DL25bI/mqdefault.jpg)](https://youtu.be/0Kym4DL25bI){:target="_blank"}
 
 
 ## Create a repository workspace in the Rational Team Concert Shell (Advanced Mode)
@@ -1976,6 +2034,7 @@ This video describes how to create a repository workspace in the Rational Team C
 
 ### Video
 [Create a repository workspace in the Rational Team Concert Shell (Advanced Mode)](https://youtu.be/o2Ehns08VJM)
+[![Create a repository workspace in the Rational Team Concert Shell (Advanced Mode)](https://i.ytimg.com/vi/o2Ehns08VJM/mqdefault.jpg)](https://youtu.be/o2Ehns08VJM){:target="_blank"}
 
 
 ## Resolve a conflict in the Rational Team Concert Shell (Advanced Mode)
@@ -2000,6 +2059,7 @@ This video describes how to resolve a conflict in the Rational Team Concert Shel
 
 ### Video
 [Resolve a conflict in the Rational Team Concert Shell (Advanced Mode)](https://youtu.be/Y4rao0ScrDU)
+[![Resolve a conflict in the Rational Team Concert Shell (Advanced Mode)](https://i.ytimg.com/vi/Y4rao0ScrDU/mqdefault.jpg)](https://youtu.be/Y4rao0ScrDU){:target="_blank"}
 
 
 ## Work with Jazz properties in the Rational Team Concert Shell (Advanced Mode)
@@ -2024,6 +2084,7 @@ This video describes how to work with Jazz properties in the Rational Team Conce
 
 ### Video
 [Work with Jazz properties in the Rational Team Concert Shell (Advanced Mode)](https://youtu.be/1Dk0D_0619U)
+[![Work with Jazz properties in the Rational Team Concert Shell (Advanced Mode)](https://i.ytimg.com/vi/1Dk0D_0619U/mqdefault.jpg)](https://youtu.be/1Dk0D_0619U){:target="_blank"}
 
 
 ## Rational Team Concert client for Microsoft Visual Studio IDE: Create a work item
@@ -2050,6 +2111,7 @@ This video describes how to create a work item in the Rational Team Concert clie
 
 ### Video
 [Rational Team Concert client for Microsoft Visual Studio IDE: Create a work item](https://youtu.be/6-le45Oq7iw)
+[![Rational Team Concert client for Microsoft Visual Studio IDE: Create a work item](https://i.ytimg.com/vi/6-le45Oq7iw/mqdefault.jpg)](https://youtu.be/6-le45Oq7iw){:target="_blank"}
 
 
 ## Rational Team Concert Client for Microsoft Visual Studio IDE: Create a Plan
@@ -2076,6 +2138,7 @@ This video describes how to create a plan in the Rational Team Concert client fo
 
 ### Video
 [Rational Team Concert Client for Microsoft Visual Studio IDE: Create a Plan](https://youtu.be/apjM2HE1G2g)
+[![Rational Team Concert Client for Microsoft Visual Studio IDE: Create a Plan](https://i.ytimg.com/vi/apjM2HE1G2g/mqdefault.jpg)](https://youtu.be/apjM2HE1G2g){:target="_blank"}
 
 
 ## What's New in Jazz Reporting Services v5.0.2: Creating Traceability and Graphic Reports
@@ -2098,6 +2161,7 @@ In this video Jazz Reporting Specialists take you through the new features of IB
 
 ### Video
 [What's New in Jazz Reporting Services v5.0.2: Creating Traceability and Graphic Reports](https://youtu.be/Sk7kZHEO6RE)
+[![What's New in Jazz Reporting Services v5.0.2: Creating Traceability and Graphic Reports](https://i.ytimg.com/vi/Sk7kZHEO6RE/mqdefault.jpg)](https://youtu.be/Sk7kZHEO6RE){:target="_blank"}
 
 
 ## IBM Rhapsody Tables: Relation Tables and Profiling
@@ -2116,6 +2180,7 @@ In this video Andy Lapping takes you through more advanced used of Rhapsody tabl
 
 ### Video
 [IBM Rhapsody Tables: Relation Tables and Profiling](https://youtu.be/s5MRVkEkyOo)
+[![IBM Rhapsody Tables: Relation Tables and Profiling](https://i.ytimg.com/vi/s5MRVkEkyOo/mqdefault.jpg)](https://youtu.be/s5MRVkEkyOo){:target="_blank"}
 
 
 ## Unlocking Knowledge with Rational Engineering Lifecycle Manager
@@ -2134,6 +2199,7 @@ Follow Joanne Scouler and Ron Felice as they walk you through discovering the un
 
 ### Video
 [Unlocking Knowledge with Rational Engineering Lifecycle Manager](https://youtu.be/W_jJa5Lp2hg)
+[![Unlocking Knowledge with Rational Engineering Lifecycle Manager](https://i.ytimg.com/vi/W_jJa5Lp2hg/mqdefault.jpg)](https://youtu.be/W_jJa5Lp2hg){:target="_blank"}
 
 
 ## IBM Rhapsody Tables: Context Patterns in Table Views
@@ -2152,6 +2218,7 @@ In this must-see video for Rational Rhapsody users, Rhapsody expert and Technica
 
 ### Video
 [IBM Rhapsody Tables: Context Patterns in Table Views](https://youtu.be/iTHTxF5vOMc)
+[![IBM Rhapsody Tables: Context Patterns in Table Views](https://i.ytimg.com/vi/iTHTxF5vOMc/mqdefault.jpg)](https://youtu.be/iTHTxF5vOMc){:target="_blank"}
 
 
 ## IBM Rhapsody Tables: Populating Cell Data Using the API
@@ -2170,6 +2237,7 @@ In this session Andy Lapping takes you through using the API to populate table d
 
 ### Video
 [IBM Rhapsody Tables: Populating Cell Data Using the API](https://youtu.be/9LveEQQwiqk)
+[![IBM Rhapsody Tables: Populating Cell Data Using the API](https://i.ytimg.com/vi/9LveEQQwiqk/mqdefault.jpg)](https://youtu.be/9LveEQQwiqk){:target="_blank"}
 
 
 ## Rational Team Concert Custom Work Items: Adding a tab
@@ -2188,6 +2256,7 @@ This video describes how to create a required attribute - in this case a code re
 
 ### Video
 [Rational Team Concert Custom Work Items: Adding a tab](https://youtu.be/31TpGtc88N0)
+[![Rational Team Concert Custom Work Items: Adding a tab](https://i.ytimg.com/vi/31TpGtc88N0/mqdefault.jpg)](https://youtu.be/31TpGtc88N0){:target="_blank"}
 
 
 ## Rational Team Concert for Microsoft Visual Studio IDE: Deliver Changes and Resolve Work Item
@@ -2212,6 +2281,7 @@ This video describes how to deliver changes and resolve a work item in the Ratio
 
 ### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Deliver Changes and Resolve Work Item](https://youtu.be/wjjKwBeV_ng)
+[![Rational Team Concert for Microsoft Visual Studio IDE: Deliver Changes and Resolve Work Item](https://i.ytimg.com/vi/wjjKwBeV_ng/mqdefault.jpg)](https://youtu.be/wjjKwBeV_ng){:target="_blank"}
 
 
 ## Rational Team Concert for Microsoft Visual Studio IDE: Share Project and Solution
@@ -2236,6 +2306,7 @@ This video describes how to share a project and solution in the Rational Team Co
 
 ### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Share Project and Solution](https://youtu.be/SoDCKvbkVeE)
+[![Rational Team Concert for Microsoft Visual Studio IDE: Share Project and Solution](https://i.ytimg.com/vi/SoDCKvbkVeE/mqdefault.jpg)](https://youtu.be/SoDCKvbkVeE){:target="_blank"}
 
 
 ## Rational Team Concert for Microsoft Visual Studio IDE: Create Repository Workspace
@@ -2260,6 +2331,7 @@ This video describes how to create a repository workspace from a stream in the R
 
 ### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Create Repository Workspace](https://youtu.be/4RS_eScByKA)
+[![Rational Team Concert for Microsoft Visual Studio IDE: Create Repository Workspace](https://i.ytimg.com/vi/4RS_eScByKA/mqdefault.jpg)](https://youtu.be/4RS_eScByKA){:target="_blank"}
 
 
 ## Rational Team Concert for Microsoft Visual Studio IDE: Create and Promote a Snapshot
@@ -2284,6 +2356,7 @@ This video describes how to create and promote a snapshot in the Rational Team C
 
 ### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Create and Promote a Snapshot](https://youtu.be/0N0wLjLTgtA)
+[![Rational Team Concert for Microsoft Visual Studio IDE: Create and Promote a Snapshot](https://i.ytimg.com/vi/0N0wLjLTgtA/mqdefault.jpg)](https://youtu.be/0N0wLjLTgtA){:target="_blank"}
 
 
 ## Rational Team Concert for Microsoft Visual Studio IDE: Create a Component Baseline
@@ -2308,6 +2381,7 @@ This video describes how to create a component baseline in the Rational Team Con
 
 ### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Create a Component Baseline](https://youtu.be/4wo9vsyTpzc)
+[![Rational Team Concert for Microsoft Visual Studio IDE: Create a Component Baseline](https://i.ytimg.com/vi/4wo9vsyTpzc/mqdefault.jpg)](https://youtu.be/4wo9vsyTpzc){:target="_blank"}
 
 
 ## Rational Team Concert for Microsoft Visual Studio IDE: Accept Incoming Baselines/Change Sets
@@ -2332,6 +2406,7 @@ This video describes how to accept incoming baselines and change sets in the Rat
 
 ### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Accept Incoming Baselines/Change Sets](https://youtu.be/bWin0qawYfs)
+[![Rational Team Concert for Microsoft Visual Studio IDE: Accept Incoming Baselines/Change Sets](https://i.ytimg.com/vi/bWin0qawYfs/mqdefault.jpg)](https://youtu.be/bWin0qawYfs){:target="_blank"}
 
 
 ## Rational Team Concert for Microsoft Visual Studio IDE: Accept Changes from Other Team Members
@@ -2356,6 +2431,7 @@ This video describes how to accept changes from other team members in the Ration
 
 ### Video
 [Rational Team Concert for Microsoft Visual Studio IDE: Accept Changes from Other Team Members](https://youtu.be/PgX3rRNHOBQ)
+[![Rational Team Concert for Microsoft Visual Studio IDE: Accept Changes from Other Team Members](https://i.ytimg.com/vi/PgX3rRNHOBQ/mqdefault.jpg)](https://youtu.be/PgX3rRNHOBQ){:target="_blank"}
 
 
 ## Rational Team Concert: Define a workflow with approval tracking
@@ -2380,6 +2456,7 @@ This video describes how to define a workflow with approval tracking in Rational
 
 ### Video
 [Rational Team Concert: Define a workflow with approval tracking](https://youtu.be/akDgLcCIP80)
+[![Rational Team Concert: Define a workflow with approval tracking](https://i.ytimg.com/vi/akDgLcCIP80/mqdefault.jpg)](https://youtu.be/akDgLcCIP80){:target="_blank"}
 
 
 ## Rational Team Concert: Create a Work Item Type
@@ -2406,6 +2483,7 @@ This video describes how to create a work item type in Rational Team Concert v4.
 
 ### Video
 [Rational Team Concert: Create a Work Item Type](https://youtu.be/Gh7XsXbwbNk)
+[![Rational Team Concert: Create a Work Item Type](https://i.ytimg.com/vi/Gh7XsXbwbNk/mqdefault.jpg)](https://youtu.be/Gh7XsXbwbNk){:target="_blank"}
 
 
 ## Rational Team Concert: Customize the Work Item Editor
@@ -2430,6 +2508,7 @@ This video describes how to customize the work item editor in Rational Team Conc
 
 ### Video
 [Rational Team Concert: Customize the Work Item Editor](https://youtu.be/4wItMb2GO6s)
+[![Rational Team Concert: Customize the Work Item Editor](https://i.ytimg.com/vi/4wItMb2GO6s/mqdefault.jpg)](https://youtu.be/4wItMb2GO6s){:target="_blank"}
 
 
 ## Rational Team Concert: Create an enumeration attribute type
@@ -2456,6 +2535,7 @@ This video describes how to create an enumeration attribute type in Rational Tea
 
 ### Video
 [Rational Team Concert: Create an enumeration attribute type](https://youtu.be/dJLMHnkMj3M)
+[![Rational Team Concert: Create an enumeration attribute type](https://i.ytimg.com/vi/dJLMHnkMj3M/mqdefault.jpg)](https://youtu.be/dJLMHnkMj3M){:target="_blank"}
 
 
 ## IBM Rational Team Concert: Create a To-Do Work Item Type
@@ -2482,6 +2562,7 @@ This video describes how to create a ToDo work item type in the Rational Team Co
 
 ### Video
 [IBM Rational Team Concert: Create a To-Do Work Item Type](https://youtu.be/cUWczOaenvU)
+[![IBM Rational Team Concert: Create a To-Do Work Item Type](https://i.ytimg.com/vi/cUWczOaenvU/mqdefault.jpg)](https://youtu.be/cUWczOaenvU){:target="_blank"}
 
 
 ## Rational Team Concert: Create a Work Item Attribute
@@ -2508,6 +2589,7 @@ This video describes how to create a work item attribute in Rational Team Concer
 
 ### Video
 [Rational Team Concert: Create a Work Item Attribute](https://youtu.be/dV-X7aIlfKg)
+[![Rational Team Concert: Create a Work Item Attribute](https://i.ytimg.com/vi/dV-X7aIlfKg/mqdefault.jpg)](https://youtu.be/dV-X7aIlfKg){:target="_blank"}
 
 
 ## IBM Rational DOORS Next Gen 101: Overview and Demonstration
@@ -2532,6 +2614,7 @@ In this video distinguished engineer George Decandio gives you an overview of IB
 
 ### Video
 [IBM Rational DOORS Next Gen 101: Overview and Demonstration](https://youtu.be/qmW-9XZrUcU)
+[![IBM Rational DOORS Next Gen 101: Overview and Demonstration](https://i.ytimg.com/vi/qmW-9XZrUcU/mqdefault.jpg)](https://youtu.be/qmW-9XZrUcU){:target="_blank"}
 
 
 ## Rational Team Concert: Resolving Conflicts in File Content
@@ -2556,6 +2639,7 @@ This video describes how to resolve conflicts in file content in Rational Team C
 
 ### Video
 [Rational Team Concert: Resolving Conflicts in File Content](https://youtu.be/wnzHLpZNBVk)
+[![Rational Team Concert: Resolving Conflicts in File Content](https://i.ytimg.com/vi/wnzHLpZNBVk/mqdefault.jpg)](https://youtu.be/wnzHLpZNBVk){:target="_blank"}
 
 
 ## Rational Team Concert: Build results
@@ -2582,6 +2666,7 @@ This video describes how to view build results in Rational Team Concert v4.0.3.
 
 ### Video
 [Rational Team Concert: Build results](https://youtu.be/q469dEjJ2Zc)
+[![Rational Team Concert: Build results](https://i.ytimg.com/vi/q469dEjJ2Zc/mqdefault.jpg)](https://youtu.be/q469dEjJ2Zc){:target="_blank"}
 
 
 ## Rational Team Concert: Request a build
@@ -2606,6 +2691,7 @@ This video describes how to request a build in Rational Team Concert v4.0.3.
 
 ### Video
 [Rational Team Concert: Request a build](https://youtu.be/QNfSH7Wmp2o)
+[![Rational Team Concert: Request a build](https://i.ytimg.com/vi/QNfSH7Wmp2o/mqdefault.jpg)](https://youtu.be/QNfSH7Wmp2o){:target="_blank"}
 
 
 ## Rational Team Concert: Build definitions and build engines
@@ -2630,6 +2716,7 @@ This video describes how to use build definitions and build engines in Rational 
 
 ### Video
 [Rational Team Concert: Build definitions and build engines](https://youtu.be/z8uaYrVy1dk)
+[![Rational Team Concert: Build definitions and build engines](https://i.ytimg.com/vi/z8uaYrVy1dk/mqdefault.jpg)](https://youtu.be/z8uaYrVy1dk){:target="_blank"}
 
 
 ## Rational Team Concert: Resolve a Conflict
@@ -2654,6 +2741,7 @@ This video describes how to resolve a conflict in Rational Team Concert v4.0.
 
 ### Video
 [Rational Team Concert: Resolve a Conflict](https://youtu.be/qjkqWQEknkY)
+[![Rational Team Concert: Resolve a Conflict](https://i.ytimg.com/vi/qjkqWQEknkY/mqdefault.jpg)](https://youtu.be/qjkqWQEknkY){:target="_blank"}
 
 
 ## Rational Team Concert: Lock, Download, and Edit a File
@@ -2678,6 +2766,7 @@ This video describes how to lock, download, and edit a file in the Rational Team
 
 ### Video
 [Rational Team Concert: Lock, Download, and Edit a File](https://youtu.be/qzbeqwyQoMU)
+[![Rational Team Concert: Lock, Download, and Edit a File](https://i.ytimg.com/vi/qzbeqwyQoMU/mqdefault.jpg)](https://youtu.be/qzbeqwyQoMU){:target="_blank"}
 
 
 ## Rational Team Concert: Deliver Changes and Resolve a Work Item
@@ -2702,6 +2791,7 @@ This video describes how to deliver changes and resolve a work item in Rational 
 
 ### Video
 [Rational Team Concert: Deliver Changes and Resolve a Work Item](https://youtu.be/wyTv77oMCwo)
+[![Rational Team Concert: Deliver Changes and Resolve a Work Item](https://i.ytimg.com/vi/wyTv77oMCwo/mqdefault.jpg)](https://youtu.be/wyTv77oMCwo){:target="_blank"}
 
 
 ## Rational Team Concert: Create a Repository Workspace from a Stream
@@ -2726,6 +2816,7 @@ This video describes how to create a repository workspace from a stream in Ratio
 
 ### Video
 [Rational Team Concert: Create a Repository Workspace from a Stream](https://youtu.be/ZsNEgHtmAX4)
+[![Rational Team Concert: Create a Repository Workspace from a Stream](https://i.ytimg.com/vi/ZsNEgHtmAX4/mqdefault.jpg)](https://youtu.be/ZsNEgHtmAX4){:target="_blank"}
 
 
 ## Rational Team Concert: Add files and folders to a stream
@@ -2750,6 +2841,7 @@ This video describes how to add files and folders to a stream in the Rational Te
 
 ### Video
 [Rational Team Concert: Add files and folders to a stream](https://youtu.be/MaWHgBBm5tw)
+[![Rational Team Concert: Add files and folders to a stream](https://i.ytimg.com/vi/MaWHgBBm5tw/mqdefault.jpg)](https://youtu.be/MaWHgBBm5tw){:target="_blank"}
 
 
 ## Rational Team Concert: Accept changes from other team members
@@ -2774,6 +2866,7 @@ This video describes how to accept changes from other team members in Rational T
 
 ### Video
 [Rational Team Concert: Accept changes from other team members](https://youtu.be/CXb-xkzp83w)
+[![Rational Team Concert: Accept changes from other team members](https://i.ytimg.com/vi/CXb-xkzp83w/mqdefault.jpg)](https://youtu.be/CXb-xkzp83w){:target="_blank"}
 
 
 ## Rational Team Concert: Create and edit a text file
@@ -2798,6 +2891,7 @@ This video describes how to create and edit a text file in the Rational Team Con
 
 ### Video
 [Rational Team Concert: Create and edit a text file](https://youtu.be/FHzY-_-BsLQ)
+[![Rational Team Concert: Create and edit a text file](https://i.ytimg.com/vi/FHzY-_-BsLQ/mqdefault.jpg)](https://youtu.be/FHzY-_-BsLQ){:target="_blank"}
 
 
 ## Extending DOORS Next Gen with JavaScript
@@ -2820,6 +2914,7 @@ This video contains a demonstration of the DOORS user interface.
 
 ### Video
 [Extending DOORS Next Gen with JavaScript](https://youtu.be/F9-264596mM)
+[![Extending DOORS Next Gen with JavaScript](https://i.ytimg.com/vi/F9-264596mM/mqdefault.jpg)](https://youtu.be/F9-264596mM){:target="_blank"}
 
 
 ## IBM Rational DOORS Next Generation: Collaboration through diagramming
@@ -2872,6 +2967,7 @@ Additional information can be found in these locations:
 
 ### Video
 [IBM Rational DOORS Next Generation: Collaboration through diagramming](https://youtu.be/fpV2huAZhHY)
+[![IBM Rational DOORS Next Generation: Collaboration through diagramming](https://i.ytimg.com/vi/fpV2huAZhHY/mqdefault.jpg)](https://youtu.be/fpV2huAZhHY){:target="_blank"}
 
 
 ## IBM DevOps Plan with SAFe® in CLM v6.0: Prepare for First Program Increment, Part 2
@@ -2898,6 +2994,7 @@ https://youtu.be/H_752O8P_Bs
 
 ### Video
 [IBM DevOps Plan with SAFe® in CLM v6.0: Prepare for First Program Increment, Part 2](https://youtu.be/JLh0AED5qp8)
+[![IBM DevOps Plan with SAFe® in CLM v6.0: Prepare for First Program Increment, Part 2](https://i.ytimg.com/vi/JLh0AED5qp8/mqdefault.jpg)](https://youtu.be/JLh0AED5qp8){:target="_blank"}
 
 
 ## What's New in DOORS/DNG Reporting and Document Generation
@@ -2940,6 +3037,7 @@ IBM experts Jared Pulham, Ernest Mah, and Dragos Cojocari take you through the f
 
 ### Video
 [What's New in DOORS/DNG Reporting and Document Generation](https://youtu.be/_ja33-H9Rh4)
+[![What's New in DOORS/DNG Reporting and Document Generation](https://i.ytimg.com/vi/_ja33-H9Rh4/mqdefault.jpg)](https://youtu.be/_ja33-H9Rh4){:target="_blank"}
 
 
 ## IBM Rational DOORS Next Generation: Working with baselines
@@ -2974,6 +3072,7 @@ developerWorks video: http://www.ibm.com/developerworks/rational/library/doors-n
 
 ### Video
 [IBM Rational DOORS Next Generation: Working with baselines](https://youtu.be/DKqAyI1HLcc)
+[![IBM Rational DOORS Next Generation: Working with baselines](https://i.ytimg.com/vi/DKqAyI1HLcc/mqdefault.jpg)](https://youtu.be/DKqAyI1HLcc){:target="_blank"}
 
 
 ## CLM global configuration - Overview of concepts and terminology
@@ -2996,6 +3095,7 @@ developerWorks link: http://www.ibm.com/developerworks/rational/library/clm-conf
 
 ### Video
 [CLM global configuration - Overview of concepts and terminology](https://youtu.be/Yv4-G79OUDI)
+[![CLM global configuration - Overview of concepts and terminology](https://i.ytimg.com/vi/Yv4-G79OUDI/mqdefault.jpg)](https://youtu.be/Yv4-G79OUDI){:target="_blank"}
 
 
 ## Rational Team Concert: Flowing changes to different repositories (basic setup)
@@ -3020,6 +3120,7 @@ https://jazz.net/products/clm/
 
 ### Video
 [Rational Team Concert: Flowing changes to different repositories (basic setup)](https://youtu.be/00cEYfSeElE)
+[![Rational Team Concert: Flowing changes to different repositories (basic setup)](https://i.ytimg.com/vi/00cEYfSeElE/mqdefault.jpg)](https://youtu.be/00cEYfSeElE){:target="_blank"}
 
 
 ## Rational Team Concert: Flowing changes to different repositories (advanced setup)
@@ -3044,6 +3145,7 @@ https://jazz.net/products/clm/
 
 ### Video
 [Rational Team Concert: Flowing changes to different repositories (advanced setup)](https://youtu.be/lbTnTOPaU2Q)
+[![Rational Team Concert: Flowing changes to different repositories (advanced setup)](https://i.ytimg.com/vi/lbTnTOPaU2Q/mqdefault.jpg)](https://youtu.be/lbTnTOPaU2Q){:target="_blank"}
 
 
 ## Managing Requirement Changes with DOORS Next Generation (Global configuration management)
@@ -3068,6 +3170,7 @@ developerWorks link: http://www.ibm.com/developerworks/rational/library/managing
 
 ### Video
 [Managing Requirement Changes with DOORS Next Generation (Global configuration management)](https://youtu.be/6hQ9b1_bGiw)
+[![Managing Requirement Changes with DOORS Next Generation (Global configuration management)](https://i.ytimg.com/vi/6hQ9b1_bGiw/mqdefault.jpg)](https://youtu.be/6hQ9b1_bGiw){:target="_blank"}
 
 
 ## Effectively managing and reusing components with Global Configurations
@@ -3094,6 +3197,7 @@ developerWorks link: http://www.ibm.com/developerworks/rational/library/effectiv
 
 ### Video
 [Effectively managing and reusing components with Global Configurations](https://youtu.be/lgFj4gJA2aU)
+[![Effectively managing and reusing components with Global Configurations](https://i.ytimg.com/vi/lgFj4gJA2aU/mqdefault.jpg)](https://youtu.be/lgFj4gJA2aU){:target="_blank"}
 
 
 ## Effectively manage changes, baselines and engineering streams with Global Configurations
@@ -3118,6 +3222,7 @@ developerWorks video: http://www.ibm.com/developerworks/rational/library/effecti
 
 ### Video
 [Effectively manage changes, baselines and engineering streams with Global Configurations](https://youtu.be/mNN9b2caJYY)
+[![Effectively manage changes, baselines and engineering streams with Global Configurations](https://i.ytimg.com/vi/mNN9b2caJYY/mqdefault.jpg)](https://youtu.be/mNN9b2caJYY){:target="_blank"}
 
 
 ## IBM Rational DOORS 101 Basics (v9.6)
@@ -3136,6 +3241,7 @@ developerWorks video: http://www.ibm.com/developerworks/rational/library/effecti
 
 ### Video
 [IBM Rational DOORS 101 Basics (v9.6)](https://youtu.be/-iRWMbnDLiA)
+[![IBM Rational DOORS 101 Basics (v9.6)](https://i.ytimg.com/vi/-iRWMbnDLiA/mqdefault.jpg)](https://youtu.be/-iRWMbnDLiA){:target="_blank"}
 
 
 ## Rational Software Architect RealTime Edition: What's new in 9.1.2
@@ -3154,6 +3260,7 @@ This video presents the new features in Rational Software Architect RealTime Edi
 
 ### Video
 [Rational Software Architect RealTime Edition: What's new in 9.1.2](https://youtu.be/exV89pCwlW0)
+[![Rational Software Architect RealTime Edition: What's new in 9.1.2](https://i.ytimg.com/vi/exV89pCwlW0/mqdefault.jpg)](https://youtu.be/exV89pCwlW0){:target="_blank"}
 
 
 ## Rational Team Concert v. 6.0 - Managing Work Items and Status
@@ -3172,6 +3279,7 @@ This video shows you how to use work items to manage priorities, assign tasks an
 
 ### Video
 [Rational Team Concert v. 6.0 - Managing Work Items and Status](https://youtu.be/MwLFdTWw9c8)
+[![Rational Team Concert v. 6.0 - Managing Work Items and Status](https://i.ytimg.com/vi/MwLFdTWw9c8/mqdefault.jpg)](https://youtu.be/MwLFdTWw9c8){:target="_blank"}
 
 
 ## Rational Team Concert v. 6.0 - Using the Quick Planner Feature
@@ -3190,6 +3298,7 @@ This video explains how to quickly create items to track your project, create a 
 
 ### Video
 [Rational Team Concert v. 6.0 - Using the Quick Planner Feature](https://youtu.be/enc7--gAlAw)
+[![Rational Team Concert v. 6.0 - Using the Quick Planner Feature](https://i.ytimg.com/vi/enc7--gAlAw/mqdefault.jpg)](https://youtu.be/enc7--gAlAw){:target="_blank"}
 
 
 ## Rational Team Concert v. 6.0 - Stakeholders
@@ -3210,6 +3319,7 @@ Rational team Concert helps teams successfully track and execute projects. It al
 
 ### Video
 [Rational Team Concert v. 6.0 - Stakeholders](https://youtu.be/btpWbZxVusM)
+[![Rational Team Concert v. 6.0 - Stakeholders](https://i.ytimg.com/vi/btpWbZxVusM/mqdefault.jpg)](https://youtu.be/btpWbZxVusM){:target="_blank"}
 
 
 ## Rational Team Concert v.6.0 - Developing In The Eclipse Client
@@ -3228,6 +3338,7 @@ This video shows you how to create a work item, run a test build, deliver change
 
 ### Video
 [Rational Team Concert v.6.0 - Developing In The Eclipse Client](https://youtu.be/UNPuJbjt06g)
+[![Rational Team Concert v.6.0 - Developing In The Eclipse Client](https://i.ytimg.com/vi/UNPuJbjt06g/mqdefault.jpg)](https://youtu.be/UNPuJbjt06g){:target="_blank"}
 
 
 ## IBM's Support for SAFe® v3.0 in RTC v6.0: Dashboards
@@ -3246,6 +3357,7 @@ In this demonstration we will look at the dashboards, queries, and reports that 
 
 ### Video
 [IBM's Support for SAFe® v3.0 in RTC v6.0: Dashboards](https://youtu.be/ozgRRtdErco)
+[![IBM's Support for SAFe® v3.0 in RTC v6.0: Dashboards](https://i.ytimg.com/vi/ozgRRtdErco/mqdefault.jpg)](https://youtu.be/ozgRRtdErco){:target="_blank"}
 
 
 ## IBM's Support for SAFe® v3.0 in RTC v6.0: Work Items
@@ -3264,6 +3376,7 @@ In this demonstration of SAFe Support in Rational Team Concert version 6.0, we w
 
 ### Video
 [IBM's Support for SAFe® v3.0 in RTC v6.0: Work Items](https://youtu.be/TWz7atp4tck)
+[![IBM's Support for SAFe® v3.0 in RTC v6.0: Work Items](https://i.ytimg.com/vi/TWz7atp4tck/mqdefault.jpg)](https://youtu.be/TWz7atp4tck){:target="_blank"}
 
 
 ## IBM's Support for SAFe® v3.0 in RTC v6.0: Using Plans
@@ -3282,6 +3395,7 @@ In this demonstration we will walk you through how to use the plans, plan type, 
 
 ### Video
 [IBM's Support for SAFe® v3.0 in RTC v6.0: Using Plans](https://youtu.be/oLRHuc_qm30)
+[![IBM's Support for SAFe® v3.0 in RTC v6.0: Using Plans](https://i.ytimg.com/vi/oLRHuc_qm30/mqdefault.jpg)](https://youtu.be/oLRHuc_qm30){:target="_blank"}
 
 
 ## IBM's Support for SAFe® v3.0 in RTC v6.0: Project Area Initialization
@@ -3300,6 +3414,7 @@ After watching this video, you will feel confident in using the Project Area Ini
 
 ### Video
 [IBM's Support for SAFe® v3.0 in RTC v6.0: Project Area Initialization](https://youtu.be/-9L_QKlh8RM)
+[![IBM's Support for SAFe® v3.0 in RTC v6.0: Project Area Initialization](https://i.ytimg.com/vi/-9L_QKlh8RM/mqdefault.jpg)](https://youtu.be/-9L_QKlh8RM){:target="_blank"}
 
 
 ## IBM DOORS v9.x: Introduction to DOORS eXtension Language (DXL)
@@ -3318,6 +3433,7 @@ In this video technical sales specialist Jim Marsh takes you through the basics 
 
 ### Video
 [IBM DOORS v9.x: Introduction to DOORS eXtension Language (DXL)](https://youtu.be/6U_qfg-QgGA)
+[![IBM DOORS v9.x: Introduction to DOORS eXtension Language (DXL)](https://i.ytimg.com/vi/6U_qfg-QgGA/mqdefault.jpg)](https://youtu.be/6U_qfg-QgGA){:target="_blank"}
 
 
 ## IBM's Support for SAFe® v3.0 in RTC v6.0: Solution Overview
@@ -3336,6 +3452,7 @@ Welcome to this solution overview of IBM’s SAFe Support in Rational Team Conce
 
 ### Video
 [IBM's Support for SAFe® v3.0 in RTC v6.0: Solution Overview](https://youtu.be/KUr0TyA-99w)
+[![IBM's Support for SAFe® v3.0 in RTC v6.0: Solution Overview](https://i.ytimg.com/vi/KUr0TyA-99w/mqdefault.jpg)](https://youtu.be/KUr0TyA-99w){:target="_blank"}
 
 
 ## Rational Quality Manager v6.0: Add Support for Multiple Timelines and Team Areas
@@ -3358,6 +3475,7 @@ For more information, see http://www-01.ibm.com/support/knowledgecenter/SSR27Q_6
 
 ### Video
 [Rational Quality Manager v6.0: Add Support for Multiple Timelines and Team Areas](https://youtu.be/I1ovqQ3jxvM)
+[![Rational Quality Manager v6.0: Add Support for Multiple Timelines and Team Areas](https://i.ytimg.com/vi/I1ovqQ3jxvM/mqdefault.jpg)](https://youtu.be/I1ovqQ3jxvM){:target="_blank"}
 
 
 ## IBM Installation Manager: Installing Installation Manager
@@ -3378,6 +3496,7 @@ Visit the IBM Installation Manager Knowledge Center, where you can find informat
 
 ### Video
 [IBM Installation Manager: Installing Installation Manager](https://youtu.be/UX86M2azNp4)
+[![IBM Installation Manager: Installing Installation Manager](https://i.ytimg.com/vi/UX86M2azNp4/mqdefault.jpg)](https://youtu.be/UX86M2azNp4){:target="_blank"}
 
 
 ## Configuration Management Overview for CLM v6 releases
@@ -3400,6 +3519,7 @@ For more information about the configuration management features, see https://ja
 
 ### Video
 [Configuration Management Overview for CLM v6 releases](https://youtu.be/Q-ga_Q0PRy4)
+[![Configuration Management Overview for CLM v6 releases](https://i.ytimg.com/vi/Q-ga_Q0PRy4/mqdefault.jpg)](https://youtu.be/Q-ga_Q0PRy4){:target="_blank"}
 
 
 ## Jazz Reporting Service: Report Builder traceability
@@ -3420,6 +3540,7 @@ Learn how to create a full traceability path from stories to child tasks to rela
 
 ### Video
 [Jazz Reporting Service: Report Builder traceability](https://youtu.be/bo6UpxUAWtY)
+[![Jazz Reporting Service: Report Builder traceability](https://i.ytimg.com/vi/bo6UpxUAWtY/mqdefault.jpg)](https://youtu.be/bo6UpxUAWtY){:target="_blank"}
 
 
 ## IBM Jazz Reporting Service 6.0: Report Builder Aggregation and Drilldown
@@ -3438,6 +3559,7 @@ This video provides a demonstration of the aggregation and drilldown function in
 
 ### Video
 [IBM Jazz Reporting Service 6.0: Report Builder Aggregation and Drilldown](https://youtu.be/HwHvBrtnqIk)
+[![IBM Jazz Reporting Service 6.0: Report Builder Aggregation and Drilldown](https://i.ytimg.com/vi/HwHvBrtnqIk/mqdefault.jpg)](https://youtu.be/HwHvBrtnqIk){:target="_blank"}
 
 
 ## Global Configuration Management: Overview with IBM solution for CLM 6.0
@@ -3456,6 +3578,7 @@ The global configuration overview video provides an introduction to the main fea
 
 ### Video
 [Global Configuration Management: Overview with IBM solution for CLM 6.0](https://youtu.be/MQyNDsXQksE)
+[![Global Configuration Management: Overview with IBM solution for CLM 6.0](https://i.ytimg.com/vi/MQyNDsXQksE/mqdefault.jpg)](https://youtu.be/MQyNDsXQksE){:target="_blank"}
 
 
 ## IBM DevOps Plan with SAFe® in CLM v6.0: Optimize Speed of Delivery, Part 3
@@ -3482,6 +3605,7 @@ https://youtu.be/H_752O8P_Bs
 
 ### Video
 [IBM DevOps Plan with SAFe® in CLM v6.0: Optimize Speed of Delivery, Part 3](https://youtu.be/iGkWPz-bdUo)
+[![IBM DevOps Plan with SAFe® in CLM v6.0: Optimize Speed of Delivery, Part 3](https://i.ytimg.com/vi/iGkWPz-bdUo/mqdefault.jpg)](https://youtu.be/iGkWPz-bdUo){:target="_blank"}
 
 
 ## Rational Software Architect: What's new in RSA-RTE 9.5
@@ -3500,6 +3624,7 @@ This video provides an overview of the new features and function in IBM Rational
 
 ### Video
 [Rational Software Architect: What's new in RSA-RTE 9.5](https://youtu.be/O7cGuoqj_YI)
+[![Rational Software Architect: What's new in RSA-RTE 9.5](https://i.ytimg.com/vi/O7cGuoqj_YI/mqdefault.jpg)](https://youtu.be/O7cGuoqj_YI){:target="_blank"}
 
 
 ## Using Rational License Key Center to activate your Rational Development and Test Environment License
@@ -3518,6 +3643,7 @@ This video demonstrates how to access the Ratoinal License Key center to obtain 
 
 ### Video
 [Using Rational License Key Center to activate your Rational Development and Test Environment License](https://youtu.be/MhuZwntTBiQ)
+[![Using Rational License Key Center to activate your Rational Development and Test Environment License](https://i.ytimg.com/vi/MhuZwntTBiQ/mqdefault.jpg)](https://youtu.be/MhuZwntTBiQ){:target="_blank"}
 
 
 ## IBM Rational Quality Manager v6.0.1: Requirements Reconcile in Configuration-enabled Projects
@@ -3540,6 +3666,7 @@ For more information, see: http://www.ibm.com/support/knowledgecenter/SSR27Q_6.0
 
 ### Video
 [IBM Rational Quality Manager v6.0.1: Requirements Reconcile in Configuration-enabled Projects](https://youtu.be/cZx5uSOeKeQ)
+[![IBM Rational Quality Manager v6.0.1: Requirements Reconcile in Configuration-enabled Projects](https://i.ytimg.com/vi/cZx5uSOeKeQ/mqdefault.jpg)](https://youtu.be/cZx5uSOeKeQ){:target="_blank"}
 
 
 ## IBM Rational Quality Manager v6.0.1: Test Matrix Widget
@@ -3562,6 +3689,7 @@ For more information, see http://www.ibm.com/support/knowledgecenter/SSR27Q_6.0.
 
 ### Video
 [IBM Rational Quality Manager v6.0.1: Test Matrix Widget](https://youtu.be/oH69IlJgBuI)
+[![IBM Rational Quality Manager v6.0.1: Test Matrix Widget](https://i.ytimg.com/vi/oH69IlJgBuI/mqdefault.jpg)](https://youtu.be/oH69IlJgBuI){:target="_blank"}
 
 
 ## Global configurations with the IBM solution for Collaborative Lifecycle Management (CLM) 6.0.1
@@ -3580,6 +3708,7 @@ The global configuration overview video provides an introduction to the main fea
 
 ### Video
 [Global configurations with the IBM solution for Collaborative Lifecycle Management (CLM) 6.0.1](https://youtu.be/qKHgIUkPZPo)
+[![Global configurations with the IBM solution for Collaborative Lifecycle Management (CLM) 6.0.1](https://i.ytimg.com/vi/qKHgIUkPZPo/mqdefault.jpg)](https://youtu.be/qKHgIUkPZPo){:target="_blank"}
 
 
 ## IBM Rational Quality Manager v6.0: Copy a test plan
@@ -3602,6 +3731,7 @@ Using the Money that Matters sample project, copy an existing test plan to start
 
 ### Video
 [IBM Rational Quality Manager v6.0: Copy a test plan](https://youtu.be/KwCoS_Pfeg8)
+[![IBM Rational Quality Manager v6.0: Copy a test plan](https://i.ytimg.com/vi/KwCoS_Pfeg8/mqdefault.jpg)](https://youtu.be/KwCoS_Pfeg8){:target="_blank"}
 
 
 ## Migrating data from IBM Rational DOORS to IBM Rational DOORS Next Generation
@@ -3636,6 +3766,7 @@ Visit the Knowledge Center for details on the migration process.
 
 ### Video
 [Migrating data from IBM Rational DOORS to IBM Rational DOORS Next Generation](https://youtu.be/fxJuf12bDWo)
+[![Migrating data from IBM Rational DOORS to IBM Rational DOORS Next Generation](https://i.ytimg.com/vi/fxJuf12bDWo/mqdefault.jpg)](https://youtu.be/fxJuf12bDWo){:target="_blank"}
 
 
 ## Migrating requirements from Rational DOORS to Rational DOORS Next Generation
@@ -3654,6 +3785,7 @@ Overview of migration characteristics and process.
 
 ### Video
 [Migrating requirements from Rational DOORS to Rational DOORS Next Generation](https://youtu.be/1F4ju-AhEmo)
+[![Migrating requirements from Rational DOORS to Rational DOORS Next Generation](https://i.ytimg.com/vi/1F4ju-AhEmo/mqdefault.jpg)](https://youtu.be/1F4ju-AhEmo){:target="_blank"}
 
 
 ## Rational DOORS Next Generation: Capturing requirements information
@@ -3672,6 +3804,7 @@ In this learning module you will learn that the type of requirements information
 
 ### Video
 [Rational DOORS Next Generation: Capturing requirements information](https://youtu.be/64JktRLptB8)
+[![Rational DOORS Next Generation: Capturing requirements information](https://i.ytimg.com/vi/64JktRLptB8/mqdefault.jpg)](https://youtu.be/64JktRLptB8){:target="_blank"}
 
 
 ## IBM Rational CLM: Using link validity in 6.0.1
@@ -3702,6 +3835,7 @@ https://jazz.net/blog/index.php/2015/11/12/link-validity-coming-in-clm-version-6
 
 ### Video
 [IBM Rational CLM: Using link validity in 6.0.1](https://youtu.be/adG0Q6rfQcU)
+[![IBM Rational CLM: Using link validity in 6.0.1](https://i.ytimg.com/vi/adG0Q6rfQcU/mqdefault.jpg)](https://youtu.be/adG0Q6rfQcU){:target="_blank"}
 
 
 ## IBM Rational DOORS Next Generation: Basic Navigation
@@ -3730,6 +3864,7 @@ Finally, you will learn how to collapse and expand sections of the UI
 
 ### Video
 [IBM Rational DOORS Next Generation: Basic Navigation](https://youtu.be/cqPXIqKOOew)
+[![IBM Rational DOORS Next Generation: Basic Navigation](https://i.ytimg.com/vi/cqPXIqKOOew/mqdefault.jpg)](https://youtu.be/cqPXIqKOOew){:target="_blank"}
 
 
 ## Rational DOORS Next Generation: Did you even want to use Variables in your requirements?
@@ -3748,6 +3883,7 @@ Did you even want to use Variables in your requirements? Check out how embedded 
 
 ### Video
 [Rational DOORS Next Generation: Did you even want to use Variables in your requirements?](https://youtu.be/zCrPT075zog)
+[![Rational DOORS Next Generation: Did you even want to use Variables in your requirements?](https://i.ytimg.com/vi/zCrPT075zog/mqdefault.jpg)](https://youtu.be/zCrPT075zog){:target="_blank"}
 
 
 ## Installing and deploying Rational Publishing Engine Part 1 of 4
@@ -3782,6 +3918,7 @@ SY: Dragos Cojocari
 
 ### Video
 [Installing and deploying Rational Publishing Engine Part 1 of 4](https://youtu.be/0o6WxO_XIOk)
+[![Installing and deploying Rational Publishing Engine Part 1 of 4](https://i.ytimg.com/vi/0o6WxO_XIOk/mqdefault.jpg)](https://youtu.be/0o6WxO_XIOk){:target="_blank"}
 
 
 ## Installing and deploying Rational Publishing Engine Part 3 of 4
@@ -3810,6 +3947,7 @@ SY: Dragos Cojocari
 
 ### Video
 [Installing and deploying Rational Publishing Engine Part 3 of 4](https://youtu.be/SgMFXjGQdf8)
+[![Installing and deploying Rational Publishing Engine Part 3 of 4](https://i.ytimg.com/vi/SgMFXjGQdf8/mqdefault.jpg)](https://youtu.be/SgMFXjGQdf8){:target="_blank"}
 
 
 ## Installing and deploying Rational Publishing Engine Part 2 of 4
@@ -3836,6 +3974,7 @@ SY: Dragos Cojocari
 
 ### Video
 [Installing and deploying Rational Publishing Engine Part 2 of 4](https://youtu.be/WKEzmxiE1X4)
+[![Installing and deploying Rational Publishing Engine Part 2 of 4](https://i.ytimg.com/vi/WKEzmxiE1X4/mqdefault.jpg)](https://youtu.be/WKEzmxiE1X4){:target="_blank"}
 
 
 ## Installing and deploying Rational Publishing Engine Part 4 of 4
@@ -3864,6 +4003,7 @@ SY: Dragos Cojocari
 
 ### Video
 [Installing and deploying Rational Publishing Engine Part 4 of 4](https://youtu.be/f525EyKxTHw)
+[![Installing and deploying Rational Publishing Engine Part 4 of 4](https://i.ytimg.com/vi/f525EyKxTHw/mqdefault.jpg)](https://youtu.be/f525EyKxTHw){:target="_blank"}
 
 
 ## Importing an IBM Rational Rhapsody model into IBM Rational Software Architect
@@ -3886,6 +4026,7 @@ SY: Pritesh Patel
 
 ### Video
 [Importing an IBM Rational Rhapsody model into IBM Rational Software Architect](https://youtu.be/7LpF_7op-PA)
+[![Importing an IBM Rational Rhapsody model into IBM Rational Software Architect](https://i.ytimg.com/vi/7LpF_7op-PA/mqdefault.jpg)](https://youtu.be/7LpF_7op-PA){:target="_blank"}
 
 
 ## Editing templates with Rational Publishing Engine -1/6: A simple template with static text
@@ -3926,6 +4067,7 @@ SY:Dragos Cojocari
 
 ### Video
 [Editing templates with Rational Publishing Engine -1/6: A simple template with static text](https://youtu.be/ynlbtx5eIqQ)
+[![Editing templates with Rational Publishing Engine -1/6: A simple template with static text](https://i.ytimg.com/vi/ynlbtx5eIqQ/mqdefault.jpg)](https://youtu.be/ynlbtx5eIqQ){:target="_blank"}
 
 
 ## Editing templates with Rational Publishing Engine - 2/6: Add a Rational Doors Next Generation schema
@@ -3964,6 +4106,7 @@ SY: Dragos Cojocari
 
 ### Video
 [Editing templates with Rational Publishing Engine - 2/6: Add a Rational Doors Next Generation schema](https://youtu.be/vZG2ZmnHdNA)
+[![Editing templates with Rational Publishing Engine - 2/6: Add a Rational Doors Next Generation schema](https://i.ytimg.com/vi/vZG2ZmnHdNA/mqdefault.jpg)](https://youtu.be/vZG2ZmnHdNA){:target="_blank"}
 
 
 ## Editing templates with Rational Publishing Engine - 3/6: Connect to data source, generate a document
@@ -4002,6 +4145,7 @@ SY:Dragos Cojocari
 
 ### Video
 [Editing templates with Rational Publishing Engine - 3/6: Connect to data source, generate a document](https://youtu.be/6-B7wcRBhuY)
+[![Editing templates with Rational Publishing Engine - 3/6: Connect to data source, generate a document](https://i.ytimg.com/vi/6-B7wcRBhuY/mqdefault.jpg)](https://youtu.be/6-B7wcRBhuY){:target="_blank"}
 
 
 ## Editing templates with Rational Publishing Engine - 4/6:  Formatting your document
@@ -4042,6 +4186,7 @@ SY: Dragos Cojocari
 
 ### Video
 [Editing templates with Rational Publishing Engine - 4/6:  Formatting your document](https://youtu.be/riFQihDv1VM)
+[![Editing templates with Rational Publishing Engine - 4/6:  Formatting your document](https://i.ytimg.com/vi/riFQihDv1VM/mqdefault.jpg)](https://youtu.be/riFQihDv1VM){:target="_blank"}
 
 
 ## Editing templates with Rational Publishing Engine - 5/6: Add headers and footers
@@ -4082,6 +4227,7 @@ SY: Dragos Cojocari
 
 ### Video
 [Editing templates with Rational Publishing Engine - 5/6: Add headers and footers](https://youtu.be/5rV4dFXc_Gs)
+[![Editing templates with Rational Publishing Engine - 5/6: Add headers and footers](https://i.ytimg.com/vi/5rV4dFXc_Gs/mqdefault.jpg)](https://youtu.be/5rV4dFXc_Gs){:target="_blank"}
 
 
 ## Editing templates with Rational Publishing Engine - 6/6: Troubleshooting and debugging
@@ -4120,6 +4266,7 @@ SY: Dragos Cojocari
 
 ### Video
 [Editing templates with Rational Publishing Engine - 6/6: Troubleshooting and debugging](https://youtu.be/u7YWYWNQ7cY)
+[![Editing templates with Rational Publishing Engine - 6/6: Troubleshooting and debugging](https://i.ytimg.com/vi/u7YWYWNQ7cY/mqdefault.jpg)](https://youtu.be/u7YWYWNQ7cY){:target="_blank"}
 
 
 ## Rational Team Concert, Rational ClearCase, and Cadence Virtuoso - Part 1/3
@@ -4142,6 +4289,7 @@ SY
 
 ### Video
 [Rational Team Concert, Rational ClearCase, and Cadence Virtuoso - Part 1/3](https://youtu.be/u0lu_abu69c)
+[![Rational Team Concert, Rational ClearCase, and Cadence Virtuoso - Part 1/3](https://i.ytimg.com/vi/u0lu_abu69c/mqdefault.jpg)](https://youtu.be/u0lu_abu69c){:target="_blank"}
 
 
 ## Rational ClearCase, Rational Team Concert, and Cadence Virtuoso - Part 2/3
@@ -4164,6 +4312,7 @@ SY
 
 ### Video
 [Rational ClearCase, Rational Team Concert, and Cadence Virtuoso - Part 2/3](https://youtu.be/YBRd9dHecoI)
+[![Rational ClearCase, Rational Team Concert, and Cadence Virtuoso - Part 2/3](https://i.ytimg.com/vi/YBRd9dHecoI/mqdefault.jpg)](https://youtu.be/YBRd9dHecoI){:target="_blank"}
 
 
 ## Rational ClearCase, Rational Team Concert, and Cadence Virtuoso - Part 3/3
@@ -4182,6 +4331,7 @@ This presentation is the third and final part of a three-part series.  In this p
 
 ### Video
 [Rational ClearCase, Rational Team Concert, and Cadence Virtuoso - Part 3/3](https://youtu.be/eRat4DypqNM)
+[![Rational ClearCase, Rational Team Concert, and Cadence Virtuoso - Part 3/3](https://i.ytimg.com/vi/eRat4DypqNM/mqdefault.jpg)](https://youtu.be/eRat4DypqNM){:target="_blank"}
 
 
 ## Introduction To Jazz Architecture
@@ -4204,6 +4354,7 @@ SY
 
 ### Video
 [Introduction To Jazz Architecture](https://youtu.be/viib7pbJ5rg)
+[![Introduction To Jazz Architecture](https://i.ytimg.com/vi/viib7pbJ5rg/mqdefault.jpg)](https://youtu.be/viib7pbJ5rg){:target="_blank"}
 
 
 ## IBM Rhapsody Tables: Populating Custom Cell Data Using Java Inside Rhapsody
@@ -4222,6 +4373,7 @@ In this video IBM Technical Specialist Andy Lapping takes you through how to cus
 
 ### Video
 [IBM Rhapsody Tables: Populating Custom Cell Data Using Java Inside Rhapsody](https://youtu.be/omLjAkVHXt8)
+[![IBM Rhapsody Tables: Populating Custom Cell Data Using Java Inside Rhapsody](https://i.ytimg.com/vi/omLjAkVHXt8/mqdefault.jpg)](https://youtu.be/omLjAkVHXt8){:target="_blank"}
 
 
 ## IBM Rhapsody: Simplifying the Rhapsody User Experience with Domain Specific Modeling
@@ -4240,6 +4392,7 @@ In this video, IBM Technical Specialist Andy Lapping will demonstrate how to sim
 
 ### Video
 [IBM Rhapsody: Simplifying the Rhapsody User Experience with Domain Specific Modeling](https://youtu.be/G1oRwN1yi0A)
+[![IBM Rhapsody: Simplifying the Rhapsody User Experience with Domain Specific Modeling](https://i.ytimg.com/vi/G1oRwN1yi0A/mqdefault.jpg)](https://youtu.be/G1oRwN1yi0A){:target="_blank"}
 
 
 ## Global Configuration Management: What’s new in v6.0.2
@@ -4258,6 +4411,7 @@ The global configuration What’s New in v6.0.2 video shows and discusses extend
 
 ### Video
 [Global Configuration Management: What’s new in v6.0.2](https://youtu.be/3xcYj59mgxw)
+[![Global Configuration Management: What’s new in v6.0.2](https://i.ytimg.com/vi/3xcYj59mgxw/mqdefault.jpg)](https://youtu.be/3xcYj59mgxw){:target="_blank"}
 
 
 ## RPE - Duplicate connections and reports
@@ -4290,6 +4444,7 @@ This video was produced with Rational Publishing Engine v2.1.0.
 
 ### Video
 [RPE - Duplicate connections and reports](https://youtu.be/rKWx0B3uGPw)
+[![RPE - Duplicate connections and reports](https://i.ytimg.com/vi/rKWx0B3uGPw/mqdefault.jpg)](https://youtu.be/rKWx0B3uGPw){:target="_blank"}
 
 
 ## RPE - Create a template from a module
@@ -4318,6 +4473,7 @@ This video was produced with Rational Publishing Engine v2.1.0.
 
 ### Video
 [RPE - Create a template from a module](https://youtu.be/uwsje1Zg_6U)
+[![RPE - Create a template from a module](https://i.ytimg.com/vi/uwsje1Zg_6U/mqdefault.jpg)](https://youtu.be/uwsje1Zg_6U){:target="_blank"}
 
 
 ## RPE- Palette View
@@ -4340,6 +4496,7 @@ This video was produced with Rational Publishing Engine v2.1.0.
 
 ### Video
 [RPE- Palette View](https://youtu.be/VkEl7gnQ81E)
+[![RPE- Palette View](https://i.ytimg.com/vi/VkEl7gnQ81E/mqdefault.jpg)](https://youtu.be/VkEl7gnQ81E){:target="_blank"}
 
 
 ## RPE - Build a DOORS Next Generation to Design Manager traceability document
@@ -4368,6 +4525,7 @@ This video was produced with Rational Publishing Engine v2.1.0 and CLM 6.0.2.
 
 ### Video
 [RPE - Build a DOORS Next Generation to Design Manager traceability document](https://youtu.be/5FJLFQ1_2i4)
+[![RPE - Build a DOORS Next Generation to Design Manager traceability document](https://i.ytimg.com/vi/5FJLFQ1_2i4/mqdefault.jpg)](https://youtu.be/5FJLFQ1_2i4){:target="_blank"}
 
 
 ## RPE - Document Outline
@@ -4400,6 +4558,7 @@ hs
 
 ### Video
 [RPE - Document Outline](https://youtu.be/Lg2bRx3uZWI)
+[![RPE - Document Outline](https://i.ytimg.com/vi/Lg2bRx3uZWI/mqdefault.jpg)](https://youtu.be/Lg2bRx3uZWI){:target="_blank"}
 
 
 ## RPE - Studio Guide
@@ -4432,6 +4591,7 @@ hs
 
 ### Video
 [RPE - Studio Guide](https://youtu.be/a1nfFkAajIg)
+[![RPE - Studio Guide](https://i.ytimg.com/vi/a1nfFkAajIg/mqdefault.jpg)](https://youtu.be/a1nfFkAajIg){:target="_blank"}
 
 
 ## RPE  - Reuse JavaScript in a template
@@ -4464,6 +4624,7 @@ hs
 
 ### Video
 [RPE  - Reuse JavaScript in a template](https://youtu.be/imCjPKBhT_U)
+[![RPE  - Reuse JavaScript in a template](https://i.ytimg.com/vi/imCjPKBhT_U/mqdefault.jpg)](https://youtu.be/imCjPKBhT_U){:target="_blank"}
 
 
 ## RPE: Generate a requirements document from DOORS Next Generation
@@ -4496,6 +4657,7 @@ SY:HS
 
 ### Video
 [RPE: Generate a requirements document from DOORS Next Generation](https://youtu.be/MXP0JrOiVJQ)
+[![RPE: Generate a requirements document from DOORS Next Generation](https://i.ytimg.com/vi/MXP0JrOiVJQ/mqdefault.jpg)](https://youtu.be/MXP0JrOiVJQ){:target="_blank"}
 
 
 ## Reporting on versioned artifacts
@@ -4516,6 +4678,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Video
 [Reporting on versioned artifacts](https://youtu.be/MmsdoDgm0-s)
+[![Reporting on versioned artifacts](https://i.ytimg.com/vi/MmsdoDgm0-s/mqdefault.jpg)](https://youtu.be/MmsdoDgm0-s){:target="_blank"}
 
 
 ## Configuring change management to participate in global configurations
@@ -4536,6 +4699,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Video
 [Configuring change management to participate in global configurations](https://youtu.be/lFcpLhbQ_Ak)
+[![Configuring change management to participate in global configurations](https://i.ytimg.com/vi/lFcpLhbQ_Ak/mqdefault.jpg)](https://youtu.be/lFcpLhbQ_Ak){:target="_blank"}
 
 
 ## Delivering test artifact changes across streams
@@ -4556,6 +4720,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Video
 [Delivering test artifact changes across streams](https://youtu.be/rASk256fQB8)
+[![Delivering test artifact changes across streams](https://i.ytimg.com/vi/rASk256fQB8/mqdefault.jpg)](https://youtu.be/rASk256fQB8){:target="_blank"}
 
 
 ## Baselining a global configuration
@@ -4576,6 +4741,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Video
 [Baselining a global configuration](https://youtu.be/xlm6Z1ofxds)
+[![Baselining a global configuration](https://i.ytimg.com/vi/xlm6Z1ofxds/mqdefault.jpg)](https://youtu.be/xlm6Z1ofxds){:target="_blank"}
 
 
 ## Managing change in test artifacts
@@ -4596,6 +4762,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Video
 [Managing change in test artifacts](https://youtu.be/lQGNPQ7RXLY)
+[![Managing change in test artifacts](https://i.ytimg.com/vi/lQGNPQ7RXLY/mqdefault.jpg)](https://youtu.be/lQGNPQ7RXLY){:target="_blank"}
 
 
 ## Delivering requirements changes across streams
@@ -4616,6 +4783,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Video
 [Delivering requirements changes across streams](https://youtu.be/R0CFj2CAn3g)
+[![Delivering requirements changes across streams](https://i.ytimg.com/vi/R0CFj2CAn3g/mqdefault.jpg)](https://youtu.be/R0CFj2CAn3g){:target="_blank"}
 
 
 ## Managing requirements change with configurations and change sets
@@ -4636,6 +4804,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Video
 [Managing requirements change with configurations and change sets](https://youtu.be/ml9PzuKPyt8)
+[![Managing requirements change with configurations and change sets](https://i.ytimg.com/vi/ml9PzuKPyt8/mqdefault.jpg)](https://youtu.be/ml9PzuKPyt8){:target="_blank"}
 
 
 ## Global configurations overview
@@ -4656,6 +4825,7 @@ This video shows version 6.0.2 of the IBM CLM/CE solution.
 
 ### Video
 [Global configurations overview](https://youtu.be/0uilL9HAmqg)
+[![Global configurations overview](https://i.ytimg.com/vi/0uilL9HAmqg/mqdefault.jpg)](https://youtu.be/0uilL9HAmqg){:target="_blank"}
 
 
 ## RPE: Configuration-aware documents with RPE Document Builder
@@ -4688,6 +4858,7 @@ SY:HS
 
 ### Video
 [RPE: Configuration-aware documents with RPE Document Builder](https://youtu.be/ZyzO35bu4es)
+[![RPE: Configuration-aware documents with RPE Document Builder](https://i.ytimg.com/vi/ZyzO35bu4es/mqdefault.jpg)](https://youtu.be/ZyzO35bu4es){:target="_blank"}
 
 
 ## RPE: Generating configuration-aware documents using the RPE desktop client
@@ -4716,6 +4887,7 @@ SY:HS
 
 ### Video
 [RPE: Generating configuration-aware documents using the RPE desktop client](https://youtu.be/A_tnclbU564)
+[![RPE: Generating configuration-aware documents using the RPE desktop client](https://i.ytimg.com/vi/A_tnclbU564/mqdefault.jpg)](https://youtu.be/A_tnclbU564){:target="_blank"}
 
 
 ## RPE: Generating documents from fine-grained components
@@ -4744,6 +4916,7 @@ sy:hs
 
 ### Video
 [RPE: Generating documents from fine-grained components](https://youtu.be/PUgqDIYiJLs)
+[![RPE: Generating documents from fine-grained components](https://i.ytimg.com/vi/PUgqDIYiJLs/mqdefault.jpg)](https://youtu.be/PUgqDIYiJLs){:target="_blank"}
 
 
 ## RPE: JavaScript enhancements
@@ -4778,6 +4951,7 @@ sy:hs
 
 ### Video
 [RPE: JavaScript enhancements](https://youtu.be/HzxVPz8mM3U)
+[![RPE: JavaScript enhancements](https://i.ytimg.com/vi/HzxVPz8mM3U/mqdefault.jpg)](https://youtu.be/HzxVPz8mM3U){:target="_blank"}
 
 
 ## RPE: Adding a Jazz Reporting Service graph into a template
@@ -4808,6 +4982,7 @@ SY: HS
 
 ### Video
 [RPE: Adding a Jazz Reporting Service graph into a template](https://youtu.be/lvqqPGvd408)
+[![RPE: Adding a Jazz Reporting Service graph into a template](https://i.ytimg.com/vi/lvqqPGvd408/mqdefault.jpg)](https://youtu.be/lvqqPGvd408){:target="_blank"}
 
 
 ## RPE: Math equations
@@ -4840,6 +5015,7 @@ SY:HS
 
 ### Video
 [RPE: Math equations](https://youtu.be/r3SiGMSTem8)
+[![RPE: Math equations](https://i.ytimg.com/vi/r3SiGMSTem8/mqdefault.jpg)](https://youtu.be/r3SiGMSTem8){:target="_blank"}
 
 
 ## RPE: Monitoring and controlling document generation jobs in Document Builder
@@ -4872,6 +5048,7 @@ SY: HS
 
 ### Video
 [RPE: Monitoring and controlling document generation jobs in Document Builder](https://youtu.be/LPdjvxc7oXk)
+[![RPE: Monitoring and controlling document generation jobs in Document Builder](https://i.ytimg.com/vi/LPdjvxc7oXk/mqdefault.jpg)](https://youtu.be/LPdjvxc7oXk){:target="_blank"}
 
 
 ## RPE: Sample assets
@@ -4904,6 +5081,7 @@ sy:hs
 
 ### Video
 [RPE: Sample assets](https://youtu.be/XmBLlNz8lYI)
+[![RPE: Sample assets](https://i.ytimg.com/vi/XmBLlNz8lYI/mqdefault.jpg)](https://youtu.be/XmBLlNz8lYI){:target="_blank"}
 
 
 ## RPE: Guided tours in Document Studio
@@ -4936,6 +5114,7 @@ SY: HS
 
 ### Video
 [RPE: Guided tours in Document Studio](https://youtu.be/lBseL4QvG0g)
+[![RPE: Guided tours in Document Studio](https://i.ytimg.com/vi/lBseL4QvG0g/mqdefault.jpg)](https://youtu.be/lBseL4QvG0g){:target="_blank"}
 
 
 ## RPE: Document Builder usability improvements
@@ -4966,6 +5145,7 @@ sy:hs
 
 ### Video
 [RPE: Document Builder usability improvements](https://youtu.be/v3AKJ0-FgvU)
+[![RPE: Document Builder usability improvements](https://i.ytimg.com/vi/v3AKJ0-FgvU/mqdefault.jpg)](https://youtu.be/v3AKJ0-FgvU){:target="_blank"}
 
 
 ## Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Initiate the Portfolio, Part 3
@@ -4988,6 +5168,7 @@ See part 2: https://youtu.be/t42DHVNl_TE
 
 ### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Initiate the Portfolio, Part 3](https://youtu.be/UP32vzHqawE)
+[![Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Initiate the Portfolio, Part 3](https://i.ytimg.com/vi/UP32vzHqawE/mqdefault.jpg)](https://youtu.be/UP32vzHqawE){:target="_blank"}
 
 
 ## Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Initiate the Portfolio, Part 2
@@ -5010,6 +5191,7 @@ See part 1: https://youtu.be/pwvmXVbnHBY
 
 ### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Initiate the Portfolio, Part 2](https://youtu.be/t42DHVNl_TE)
+[![Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Initiate the Portfolio, Part 2](https://i.ytimg.com/vi/t42DHVNl_TE/mqdefault.jpg)](https://youtu.be/t42DHVNl_TE){:target="_blank"}
 
 
 ## Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Optimize Tooling, Part 3
@@ -5032,6 +5214,7 @@ See part 2: https://youtu.be/AQ90-PQTPCM
 
 ### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Optimize Tooling, Part 3](https://youtu.be/RHNSabvs5Ck)
+[![Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Optimize Tooling, Part 3](https://i.ytimg.com/vi/RHNSabvs5Ck/mqdefault.jpg)](https://youtu.be/RHNSabvs5Ck){:target="_blank"}
 
 
 ## Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Optimize Tooling, Part 2
@@ -5054,6 +5237,7 @@ See part 1: https://youtu.be/3-J1xtCZW8s
 
 ### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Optimize Tooling, Part 2](https://youtu.be/AQ90-PQTPCM)
+[![Get Up & Running Quickly with CLM 6.0.3 & SAFe® 4.0: Optimize Tooling, Part 2](https://i.ytimg.com/vi/AQ90-PQTPCM/mqdefault.jpg)](https://youtu.be/AQ90-PQTPCM){:target="_blank"}
 
 
 ## Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0: Prepare for PI Planning, Part 1 of 3
@@ -5072,6 +5256,7 @@ None
 
 ### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0: Prepare for PI Planning, Part 1 of 3](https://youtu.be/WzDF8_pyFZM)
+[![Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0: Prepare for PI Planning, Part 1 of 3](https://i.ytimg.com/vi/WzDF8_pyFZM/mqdefault.jpg)](https://youtu.be/WzDF8_pyFZM){:target="_blank"}
 
 
 ## Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0: Prepare for PI Planning, Part 2 of 3
@@ -5090,6 +5275,7 @@ None
 
 ### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0: Prepare for PI Planning, Part 2 of 3](https://youtu.be/wrmILcpzpI4)
+[![Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0: Prepare for PI Planning, Part 2 of 3](https://i.ytimg.com/vi/wrmILcpzpI4/mqdefault.jpg)](https://youtu.be/wrmILcpzpI4){:target="_blank"}
 
 
 ## Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0*: Prepare for PI Planning, Part 3 of 3
@@ -5108,6 +5294,7 @@ None
 
 ### Video
 [Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0*: Prepare for PI Planning, Part 3 of 3](https://youtu.be/XMntVeEkANY)
+[![Get Up & Running Quickly with CLM 6.0.3 & SAFe(r) 4.0*: Prepare for PI Planning, Part 3 of 3](https://i.ytimg.com/vi/XMntVeEkANY/mqdefault.jpg)](https://youtu.be/XMntVeEkANY){:target="_blank"}
 
 
 ## IBM Rhapsody Tables: The Basics
@@ -5126,6 +5313,7 @@ In this video Andy Lapping takes you through the basics of creating tables in Rh
 
 ### Video
 [IBM Rhapsody Tables: The Basics](https://youtu.be/Sinkndw6MPI)
+[![IBM Rhapsody Tables: The Basics](https://i.ytimg.com/vi/Sinkndw6MPI/mqdefault.jpg)](https://youtu.be/Sinkndw6MPI){:target="_blank"}
 
 
 ## IBM Rhapsody Inferred Modeling
@@ -5144,6 +5332,7 @@ In this video Andy Lapping takes you a new capability introduced in Rhapsody 8.2
 
 ### Video
 [IBM Rhapsody Inferred Modeling](https://youtu.be/Vd5T9Pba5lY)
+[![IBM Rhapsody Inferred Modeling](https://i.ytimg.com/vi/Vd5T9Pba5lY/mqdefault.jpg)](https://youtu.be/Vd5T9Pba5lY){:target="_blank"}
 
 
 ## IBM Rational Quality Manager:  Information type steps in manual test scripts
@@ -5170,6 +5359,7 @@ HS:VK
 
 ### Video
 [IBM Rational Quality Manager:  Information type steps in manual test scripts](https://youtu.be/hgYWtrTA3kk)
+[![IBM Rational Quality Manager:  Information type steps in manual test scripts](https://i.ytimg.com/vi/hgYWtrTA3kk/mqdefault.jpg)](https://youtu.be/hgYWtrTA3kk){:target="_blank"}
 
 
 ## IBM Rational Quality Manager: Test automation traceability
@@ -5196,6 +5386,7 @@ HS: VK
 
 ### Video
 [IBM Rational Quality Manager: Test automation traceability](https://youtu.be/vSkWxA_e3dk)
+[![IBM Rational Quality Manager: Test automation traceability](https://i.ytimg.com/vi/vSkWxA_e3dk/mqdefault.jpg)](https://youtu.be/vSkWxA_e3dk){:target="_blank"}
 
 
 ## IBM Rhapsody: Test Conductor for Systems
@@ -5214,6 +5405,7 @@ In this video IBM Technical Specialist Andy Lapping takes you through an introdu
 
 ### Video
 [IBM Rhapsody: Test Conductor for Systems](https://youtu.be/B_SIECDzUmY)
+[![IBM Rhapsody: Test Conductor for Systems](https://i.ytimg.com/vi/B_SIECDzUmY/mqdefault.jpg)](https://youtu.be/B_SIECDzUmY){:target="_blank"}
 
 
 ## RPE: Generating documents with JSON data from Atlassian JIRA
@@ -5248,6 +5440,7 @@ HS:HS
 
 ### Video
 [RPE: Generating documents with JSON data from Atlassian JIRA](https://youtu.be/xue_EuxyZds)
+[![RPE: Generating documents with JSON data from Atlassian JIRA](https://i.ytimg.com/vi/xue_EuxyZds/mqdefault.jpg)](https://youtu.be/xue_EuxyZds){:target="_blank"}
 
 
 ## RPE: Generating comparison documents from configurations
@@ -5282,6 +5475,7 @@ HS:HS
 
 ### Video
 [RPE: Generating comparison documents from configurations](https://youtu.be/OPTRRZ0jAQo)
+[![RPE: Generating comparison documents from configurations](https://i.ytimg.com/vi/OPTRRZ0jAQo/mqdefault.jpg)](https://youtu.be/OPTRRZ0jAQo){:target="_blank"}
 
 
 ## RPE: Report permissions in Document Builder
@@ -5308,6 +5502,7 @@ https://www.ibm.com/support/knowledgecenter/SS6RHZ_2.1.2/com.ibm.rational.pe.web
 
 ### Video
 [RPE: Report permissions in Document Builder](https://youtu.be/qSBWn1G9Nko)
+[![RPE: Report permissions in Document Builder](https://i.ytimg.com/vi/qSBWn1G9Nko/mqdefault.jpg)](https://youtu.be/qSBWn1G9Nko){:target="_blank"}
 
 
 ## Jazz Reporting Service: Generating Word, PDF, and HTML documents from Report Builder
@@ -5338,6 +5533,7 @@ HS:HS
 
 ### Video
 [Jazz Reporting Service: Generating Word, PDF, and HTML documents from Report Builder](https://youtu.be/Mj9ktFzoRXQ)
+[![Jazz Reporting Service: Generating Word, PDF, and HTML documents from Report Builder](https://i.ytimg.com/vi/Mj9ktFzoRXQ/mqdefault.jpg)](https://youtu.be/Mj9ktFzoRXQ){:target="_blank"}
 
 
 ## RPE: Document Builder authentication with Jazz Team Server
@@ -5368,6 +5564,7 @@ HS:HS
 
 ### Video
 [RPE: Document Builder authentication with Jazz Team Server](https://youtu.be/R00P4dPf9jE)
+[![RPE: Document Builder authentication with Jazz Team Server](https://i.ytimg.com/vi/R00P4dPf9jE/mqdefault.jpg)](https://youtu.be/R00P4dPf9jE){:target="_blank"}
 
 
 ## RPE: Tagging data source connections in Document Builder
@@ -5398,6 +5595,7 @@ HS:HS
 
 ### Video
 [RPE: Tagging data source connections in Document Builder](https://youtu.be/HtuCL2Yc0VQ)
+[![RPE: Tagging data source connections in Document Builder](https://i.ytimg.com/vi/HtuCL2Yc0VQ/mqdefault.jpg)](https://youtu.be/HtuCL2Yc0VQ){:target="_blank"}
 
 
 ## RPE: Administering runtime variables in Document Builder
@@ -5428,6 +5626,7 @@ HS:HS
 
 ### Video
 [RPE: Administering runtime variables in Document Builder](https://youtu.be/ZWeSZWmmI8Q)
+[![RPE: Administering runtime variables in Document Builder](https://i.ytimg.com/vi/ZWeSZWmmI8Q/mqdefault.jpg)](https://youtu.be/ZWeSZWmmI8Q){:target="_blank"}
 
 
 ## Jazz Reporting Service: Adding custom expressions in Report Builder
@@ -5458,6 +5657,7 @@ HS:HS
 
 ### Video
 [Jazz Reporting Service: Adding custom expressions in Report Builder](https://youtu.be/QwwBROM_cR0)
+[![Jazz Reporting Service: Adding custom expressions in Report Builder](https://i.ytimg.com/vi/QwwBROM_cR0/mqdefault.jpg)](https://youtu.be/QwwBROM_cR0){:target="_blank"}
 
 
 ## Jazz Reporting Service: Highlighting reports with color in Report Builder
@@ -5490,6 +5690,7 @@ HS:HS
 
 ### Video
 [Jazz Reporting Service: Highlighting reports with color in Report Builder](https://youtu.be/CzTSKtX7Wvk)
+[![Jazz Reporting Service: Highlighting reports with color in Report Builder](https://i.ytimg.com/vi/CzTSKtX7Wvk/mqdefault.jpg)](https://youtu.be/CzTSKtX7Wvk){:target="_blank"}
 
 
 ## Control changes to the requirements with Rational DOORS Next Generation
@@ -5512,6 +5713,7 @@ Learn more: https://www.ibm.com/uk-en/marketplace/cloud-requirements-management/
 
 ### Video
 [Control changes to the requirements with Rational DOORS Next Generation](https://youtu.be/G65e5yaxlAI)
+[![Control changes to the requirements with Rational DOORS Next Generation](https://i.ytimg.com/vi/G65e5yaxlAI/mqdefault.jpg)](https://youtu.be/G65e5yaxlAI){:target="_blank"}
 
 
 ## Jazz Reporting Service: Import the Scaled Agile (SAFe) reports
@@ -5536,6 +5738,7 @@ https://jazz.net/safe/
 
 ### Video
 [Jazz Reporting Service: Import the Scaled Agile (SAFe) reports](https://youtu.be/r7Pawl3yh0I)
+[![Jazz Reporting Service: Import the Scaled Agile (SAFe) reports](https://i.ytimg.com/vi/r7Pawl3yh0I/mqdefault.jpg)](https://youtu.be/r7Pawl3yh0I){:target="_blank"}
 
 
 ## What's new in IBM Rational Test Workbench Web UI Tester 9.1
@@ -5554,6 +5757,7 @@ This video describes the new features that were introduced in IBM Rational Test 
 
 ### Video
 [What's new in IBM Rational Test Workbench Web UI Tester 9.1](https://youtu.be/Rr1SG4j2X58)
+[![What's new in IBM Rational Test Workbench Web UI Tester 9.1](https://i.ytimg.com/vi/Rr1SG4j2X58/mqdefault.jpg)](https://youtu.be/Rr1SG4j2X58){:target="_blank"}
 
 
 ## IBM Rhapsody Tables: Combining Context Patterns and Java
@@ -5572,6 +5776,7 @@ IBM Technical Enablement Specialist Andy Lapping walks you through how to combin
 
 ### Video
 [IBM Rhapsody Tables: Combining Context Patterns and Java](https://youtu.be/_FgEcqytjt4)
+[![IBM Rhapsody Tables: Combining Context Patterns and Java](https://i.ytimg.com/vi/_FgEcqytjt4/mqdefault.jpg)](https://youtu.be/_FgEcqytjt4){:target="_blank"}
 
 
 ## IBM Rhapsody: Customizing OSLC Requirements in Rhapsody
@@ -5590,6 +5795,7 @@ IBM Technical Enablement specialist Andy Lapping shows how to customize the appe
 
 ### Video
 [IBM Rhapsody: Customizing OSLC Requirements in Rhapsody](https://youtu.be/WRWswbxLU_E)
+[![IBM Rhapsody: Customizing OSLC Requirements in Rhapsody](https://i.ytimg.com/vi/WRWswbxLU_E/mqdefault.jpg)](https://youtu.be/WRWswbxLU_E){:target="_blank"}
 
 
 ## IBM Rhapsody: Graphical Editor Improvements
@@ -5608,6 +5814,7 @@ IBM Technical Enablement specialist Andy Lapping demonstrates some of the improv
 
 ### Video
 [IBM Rhapsody: Graphical Editor Improvements](https://youtu.be/SeqtPYD1u-k)
+[![IBM Rhapsody: Graphical Editor Improvements](https://i.ytimg.com/vi/SeqtPYD1u-k/mqdefault.jpg)](https://youtu.be/SeqtPYD1u-k){:target="_blank"}
 
 
 ## Help configuration options in IBM Collaborative Lifecycle Management product help
@@ -5626,6 +5833,7 @@ There are three ways to access the Rational product help: 1) you can install it 
 
 ### Video
 [Help configuration options in IBM Collaborative Lifecycle Management product help](https://youtu.be/i2ll8n_uM-Y)
+[![Help configuration options in IBM Collaborative Lifecycle Management product help](https://i.ytimg.com/vi/i2ll8n_uM-Y/mqdefault.jpg)](https://youtu.be/i2ll8n_uM-Y){:target="_blank"}
 
 
 ## Upgraded generation in Rational Programming Patterns 9.6.1
@@ -5644,6 +5852,7 @@ This video is aimed at Rational Programming Patterns developers who are used to 
 
 ### Video
 [Upgraded generation in Rational Programming Patterns 9.6.1](https://youtu.be/lJITTdjmyCY)
+[![Upgraded generation in Rational Programming Patterns 9.6.1](https://i.ytimg.com/vi/lJITTdjmyCY/mqdefault.jpg)](https://youtu.be/lJITTdjmyCY){:target="_blank"}
 
 
 ## RPE: Generating Microsoft Excel documents
@@ -5672,6 +5881,7 @@ HS:HS
 
 ### Video
 [RPE: Generating Microsoft Excel documents](https://youtu.be/HZTYSbi7-pM)
+[![RPE: Generating Microsoft Excel documents](https://i.ytimg.com/vi/HZTYSbi7-pM/mqdefault.jpg)](https://youtu.be/HZTYSbi7-pM){:target="_blank"}
 
 
 ## RPE: Generating documents from HP ALM data
@@ -5702,6 +5912,7 @@ HS: HS
 
 ### Video
 [RPE: Generating documents from HP ALM data](https://youtu.be/CeK6F8jvq-g)
+[![RPE: Generating documents from HP ALM data](https://i.ytimg.com/vi/CeK6F8jvq-g/mqdefault.jpg)](https://youtu.be/CeK6F8jvq-g){:target="_blank"}
 
 
 ## RPE: Smart card and SSL certificate authentication
@@ -5732,6 +5943,7 @@ HS: HS
 
 ### Video
 [RPE: Smart card and SSL certificate authentication](https://youtu.be/L44THkyPS4E)
+[![RPE: Smart card and SSL certificate authentication](https://i.ytimg.com/vi/L44THkyPS4E/mqdefault.jpg)](https://youtu.be/L44THkyPS4E){:target="_blank"}
 
 
 ## Windows shell usability enhancements
@@ -5750,6 +5962,7 @@ This video describes the usability improvements for windows shell that are dome 
 
 ### Video
 [Windows shell usability enhancements](https://youtu.be/Z7gr0-n0XUw)
+[![Windows shell usability enhancements](https://i.ytimg.com/vi/Z7gr0-n0XUw/mqdefault.jpg)](https://youtu.be/Z7gr0-n0XUw){:target="_blank"}
 
 
 ## Delivering changes across configurations - test artifacts
@@ -5772,6 +5985,7 @@ The video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Video
 [Delivering changes across configurations - test artifacts](https://youtu.be/aCVGrNJenWI)
+[![Delivering changes across configurations - test artifacts](https://i.ytimg.com/vi/aCVGrNJenWI/mqdefault.jpg)](https://youtu.be/aCVGrNJenWI){:target="_blank"}
 
 
 ## Delivering changes across configurations - requirements
@@ -5792,6 +6006,7 @@ This video show version 6.0.4 of the IBM CLM/CE solution.
 
 ### Video
 [Delivering changes across configurations - requirements](https://youtu.be/p-o8X4m8_CI)
+[![Delivering changes across configurations - requirements](https://i.ytimg.com/vi/p-o8X4m8_CI/mqdefault.jpg)](https://youtu.be/p-o8X4m8_CI){:target="_blank"}
 
 
 ## Transitioning to multiple components for requirements and test artifacts
@@ -5812,6 +6027,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Video
 [Transitioning to multiple components for requirements and test artifacts](https://youtu.be/NEjWctuI9aw)
+[![Transitioning to multiple components for requirements and test artifacts](https://i.ytimg.com/vi/NEjWctuI9aw/mqdefault.jpg)](https://youtu.be/NEjWctuI9aw){:target="_blank"}
 
 
 ## Creating a global baseline
@@ -5832,6 +6048,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Video
 [Creating a global baseline](https://youtu.be/55zge7crcvQ)
+[![Creating a global baseline](https://i.ytimg.com/vi/55zge7crcvQ/mqdefault.jpg)](https://youtu.be/55zge7crcvQ){:target="_blank"}
 
 
 ## Managing change in test artifacts with configuration management
@@ -5852,6 +6069,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Video
 [Managing change in test artifacts with configuration management](https://youtu.be/g3s6jMQHxKo)
+[![Managing change in test artifacts with configuration management](https://i.ytimg.com/vi/g3s6jMQHxKo/mqdefault.jpg)](https://youtu.be/g3s6jMQHxKo){:target="_blank"}
 
 
 ## Managing change in requirements with configuration management
@@ -5872,6 +6090,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Video
 [Managing change in requirements with configuration management](https://youtu.be/gyVqiacjbzU)
+[![Managing change in requirements with configuration management](https://i.ytimg.com/vi/gyVqiacjbzU/mqdefault.jpg)](https://youtu.be/gyVqiacjbzU){:target="_blank"}
 
 
 ## Overview of configuration management
@@ -5890,6 +6109,7 @@ This video provides an overview of the basics and benefits of configuration mana
 
 ### Video
 [Overview of configuration management](https://youtu.be/RVIgXcrSA2A)
+[![Overview of configuration management](https://i.ytimg.com/vi/RVIgXcrSA2A/mqdefault.jpg)](https://youtu.be/RVIgXcrSA2A){:target="_blank"}
 
 
 ## Reviewing global configurations in the GCM application
@@ -5910,6 +6130,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Video
 [Reviewing global configurations in the GCM application](https://youtu.be/A1zOoX70wV0)
+[![Reviewing global configurations in the GCM application](https://i.ytimg.com/vi/A1zOoX70wV0/mqdefault.jpg)](https://youtu.be/A1zOoX70wV0){:target="_blank"}
 
 
 ## Reporting on configurations and versioned artifacts
@@ -5930,6 +6151,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Video
 [Reporting on configurations and versioned artifacts](https://youtu.be/9eR6GF2Xlow)
+[![Reporting on configurations and versioned artifacts](https://i.ytimg.com/vi/9eR6GF2Xlow/mqdefault.jpg)](https://youtu.be/9eR6GF2Xlow){:target="_blank"}
 
 
 ## Enabling RTC change management to participate in global configurations
@@ -5952,6 +6174,7 @@ This video shows version 6.0.4 of the IBM CLM/CE solution.
 
 ### Video
 [Enabling RTC change management to participate in global configurations](https://youtu.be/VDx6sZ9qXeY)
+[![Enabling RTC change management to participate in global configurations](https://i.ytimg.com/vi/VDx6sZ9qXeY/mqdefault.jpg)](https://youtu.be/VDx6sZ9qXeY){:target="_blank"}
 
 
 ## IBM Rational Engineering Lifecycle Manager: Overview
@@ -5982,6 +6205,7 @@ HS: AJ
 
 ### Video
 [IBM Rational Engineering Lifecycle Manager: Overview](https://youtu.be/vrA6ouuuizE)
+[![IBM Rational Engineering Lifecycle Manager: Overview](https://i.ytimg.com/vi/vrA6ouuuizE/mqdefault.jpg)](https://youtu.be/vrA6ouuuizE){:target="_blank"}
 
 
 ## IBM Rational Engineering Lifecycle Manager: Creating traceability views
@@ -6012,6 +6236,7 @@ HS: AJ
 
 ### Video
 [IBM Rational Engineering Lifecycle Manager: Creating traceability views](https://youtu.be/z7ObhbgDMUw)
+[![IBM Rational Engineering Lifecycle Manager: Creating traceability views](https://i.ytimg.com/vi/z7ObhbgDMUw/mqdefault.jpg)](https://youtu.be/z7ObhbgDMUw){:target="_blank"}
 
 
 ## IBM Rational Engineering Lifecycle Manager: Running dependency analysis in views
@@ -6042,6 +6267,7 @@ HS:AJ
 
 ### Video
 [IBM Rational Engineering Lifecycle Manager: Running dependency analysis in views](https://youtu.be/eOqg0A4tnM0)
+[![IBM Rational Engineering Lifecycle Manager: Running dependency analysis in views](https://i.ytimg.com/vi/eOqg0A4tnM0/mqdefault.jpg)](https://youtu.be/eOqg0A4tnM0){:target="_blank"}
 
 
 ## IBM Rational Engineering Lifecycle Manager: Exporting and importing views
@@ -6080,6 +6306,7 @@ HS: AJ
 
 ### Video
 [IBM Rational Engineering Lifecycle Manager: Exporting and importing views](https://youtu.be/BzuGnPWsH0E)
+[![IBM Rational Engineering Lifecycle Manager: Exporting and importing views](https://i.ytimg.com/vi/BzuGnPWsH0E/mqdefault.jpg)](https://youtu.be/BzuGnPWsH0E){:target="_blank"}
 
 
 ## Unified Reporting Web app
@@ -6098,6 +6325,7 @@ This video provides a short introduction to the Unified Reporting Web applicatio
 
 ### Video
 [Unified Reporting Web app](https://youtu.be/lC8pSAT-G9s)
+[![Unified Reporting Web app](https://i.ytimg.com/vi/lC8pSAT-G9s/mqdefault.jpg)](https://youtu.be/lC8pSAT-G9s){:target="_blank"}
 
 
 ## Continuous Engineering with Digital Twin
@@ -6116,6 +6344,7 @@ IBM has great support for the Digital Twin.  Have a look at the Continuous Engin
 
 ### Video
 [Continuous Engineering with Digital Twin](https://youtu.be/Ri0TD7kYsIQ)
+[![Continuous Engineering with Digital Twin](https://i.ytimg.com/vi/Ri0TD7kYsIQ/mqdefault.jpg)](https://youtu.be/Ri0TD7kYsIQ){:target="_blank"}
 
 
 ## RPE: Certificate authentication in Document Builder
@@ -6148,6 +6377,7 @@ HS:HS
 
 ### Video
 [RPE: Certificate authentication in Document Builder](https://youtu.be/NXiXVKvcVu0)
+[![RPE: Certificate authentication in Document Builder](https://i.ytimg.com/vi/NXiXVKvcVu0/mqdefault.jpg)](https://youtu.be/NXiXVKvcVu0){:target="_blank"}
 
 
 ## RPE: Kerberos authentication
@@ -6178,6 +6408,7 @@ HS:HS
 
 ### Video
 [RPE: Kerberos authentication](https://youtu.be/5ARWsalZzgw)
+[![RPE: Kerberos authentication](https://i.ytimg.com/vi/5ARWsalZzgw/mqdefault.jpg)](https://youtu.be/5ARWsalZzgw){:target="_blank"}
 
 
 ## RPE: Live Document Preview
@@ -6208,6 +6439,7 @@ HS: HS
 
 ### Video
 [RPE: Live Document Preview](https://youtu.be/Ism85E93r3Y)
+[![RPE: Live Document Preview](https://i.ytimg.com/vi/Ism85E93r3Y/mqdefault.jpg)](https://youtu.be/Ism85E93r3Y){:target="_blank"}
 
 
 ## JRS: Scheduling reports in Report Builder
@@ -6238,6 +6470,7 @@ HS: HS
 
 ### Video
 [JRS: Scheduling reports in Report Builder](https://youtu.be/93BSH56mWJY)
+[![JRS: Scheduling reports in Report Builder](https://i.ytimg.com/vi/93BSH56mWJY/mqdefault.jpg)](https://youtu.be/93BSH56mWJY){:target="_blank"}
 
 
 ## JRS: Organizing reports with folders in Report Builder
@@ -6268,6 +6501,7 @@ HS:HS
 
 ### Video
 [JRS: Organizing reports with folders in Report Builder](https://youtu.be/FRG9WqOzeDw)
+[![JRS: Organizing reports with folders in Report Builder](https://i.ytimg.com/vi/FRG9WqOzeDw/mqdefault.jpg)](https://youtu.be/FRG9WqOzeDw){:target="_blank"}
 
 
 ## Data description in the kernel facet of Rational Programming Patterns
@@ -6288,6 +6522,7 @@ The management of source code is explained in the video titled "Skeleton program
 
 ### Video
 [Data description in the kernel facet of Rational Programming Patterns](https://youtu.be/9Y2y732ncck)
+[![Data description in the kernel facet of Rational Programming Patterns](https://i.ytimg.com/vi/9Y2y732ncck/mqdefault.jpg)](https://youtu.be/9Y2y732ncck){:target="_blank"}
 
 
 ## Skeleton programming in the COBOL facet of Rational Programming Patterns
@@ -6306,6 +6541,7 @@ This video explains how to manage source code in the COBOL facet of the Rational
 
 ### Video
 [Skeleton programming in the COBOL facet of Rational Programming Patterns](https://youtu.be/cVLgNh_g5vE)
+[![Skeleton programming in the COBOL facet of Rational Programming Patterns](https://i.ytimg.com/vi/cVLgNh_g5vE/mqdefault.jpg)](https://youtu.be/cVLgNh_g5vE){:target="_blank"}
 
 
 ## Rolling up results for a Test Case Execution Record in Rational Quality Manager
@@ -6324,6 +6560,7 @@ This video demonstrates how to create roll up results for a test case execution 
 
 ### Video
 [Rolling up results for a Test Case Execution Record in Rational Quality Manager](https://youtu.be/Dj1vWKKahMo)
+[![Rolling up results for a Test Case Execution Record in Rational Quality Manager](https://i.ytimg.com/vi/Dj1vWKKahMo/mqdefault.jpg)](https://youtu.be/Dj1vWKKahMo){:target="_blank"}
 
 
 ## Rolling up results for a Test Suite Execution Record in Rational Quality Manager
@@ -6342,6 +6579,7 @@ This video demonstrates how to create roll up results for a test suite execution
 
 ### Video
 [Rolling up results for a Test Suite Execution Record in Rational Quality Manager](https://youtu.be/wawPAz39v4Y)
+[![Rolling up results for a Test Suite Execution Record in Rational Quality Manager](https://i.ytimg.com/vi/wawPAz39v4Y/mqdefault.jpg)](https://youtu.be/wawPAz39v4Y){:target="_blank"}
 
 
 ## Rational Quality Manager tour
@@ -6360,6 +6598,7 @@ This tour of Rational Quality Manager was created using the 4.x product but it a
 
 ### Video
 [Rational Quality Manager tour](https://youtu.be/JKWssLdHXQc)
+[![Rational Quality Manager tour](https://i.ytimg.com/vi/JKWssLdHXQc/mqdefault.jpg)](https://youtu.be/JKWssLdHXQc){:target="_blank"}
 
 
 ## IBM Rhapsody: Custom Views
@@ -6378,6 +6617,7 @@ In this video IBM Technical Specialist Andy Lapping takes you through a very pow
 
 ### Video
 [IBM Rhapsody: Custom Views](https://youtu.be/p5BbZrSNsDA)
+[![IBM Rhapsody: Custom Views](https://i.ytimg.com/vi/p5BbZrSNsDA/mqdefault.jpg)](https://youtu.be/p5BbZrSNsDA){:target="_blank"}
 
 
 ## IBM Rhapsody: The Rhapsody INI File
@@ -6396,6 +6636,7 @@ IBM Technical Enablement Specialist Andy Lapping lifts the lid on the mystery of
 
 ### Video
 [IBM Rhapsody: The Rhapsody INI File](https://youtu.be/9DCP6iRLX3k)
+[![IBM Rhapsody: The Rhapsody INI File](https://i.ytimg.com/vi/9DCP6iRLX3k/mqdefault.jpg)](https://youtu.be/9DCP6iRLX3k){:target="_blank"}
 
 
 ## Managing Lab Reservations in Rational Quality Manager
@@ -6414,6 +6655,7 @@ Manage lab reservations in Rational Quality Manager.
 
 ### Video
 [Managing Lab Reservations in Rational Quality Manager](https://youtu.be/3xFoM-EiT7Y)
+[![Managing Lab Reservations in Rational Quality Manager](https://i.ytimg.com/vi/3xFoM-EiT7Y/mqdefault.jpg)](https://youtu.be/3xFoM-EiT7Y){:target="_blank"}
 
 
 ## Select a test plan iteration
@@ -6432,6 +6674,7 @@ This video demonstrates how to select a test plan iteration.
 
 ### Video
 [Select a test plan iteration](https://youtu.be/J55qFgkb-wE)
+[![Select a test plan iteration](https://i.ytimg.com/vi/J55qFgkb-wE/mqdefault.jpg)](https://youtu.be/J55qFgkb-wE){:target="_blank"}
 
 
 ## MEC   Global Configs
@@ -6450,6 +6693,7 @@ None
 
 ### Video
 [MEC   Global Configs](https://youtu.be/6rQRDqJSAu4)
+[![MEC   Global Configs](https://i.ytimg.com/vi/6rQRDqJSAu4/mqdefault.jpg)](https://youtu.be/6rQRDqJSAu4){:target="_blank"}
 
 
 ## MEC   The CE Solution
@@ -6468,6 +6712,7 @@ None
 
 ### Video
 [MEC   The CE Solution](https://youtu.be/rzBPw8ltjAg)
+[![MEC   The CE Solution](https://i.ytimg.com/vi/rzBPw8ltjAg/mqdefault.jpg)](https://youtu.be/rzBPw8ltjAg){:target="_blank"}
 
 
 ## MEC   The V Lifecycle
@@ -6486,6 +6731,7 @@ None
 
 ### Video
 [MEC   The V Lifecycle](https://youtu.be/Q1t65FeqBRQ)
+[![MEC   The V Lifecycle](https://i.ytimg.com/vi/Q1t65FeqBRQ/mqdefault.jpg)](https://youtu.be/Q1t65FeqBRQ){:target="_blank"}
 
 
 ## MEC Demonstrating Compliance - Traceability
@@ -6504,6 +6750,7 @@ None
 
 ### Video
 [MEC Demonstrating Compliance - Traceability](https://youtu.be/s1VbaThX-ic)
+[![MEC Demonstrating Compliance - Traceability](https://i.ytimg.com/vi/s1VbaThX-ic/mqdefault.jpg)](https://youtu.be/s1VbaThX-ic){:target="_blank"}
 
 
 ## IBM Architecture Room Live
@@ -6522,6 +6769,7 @@ None
 
 ### Video
 [IBM Architecture Room Live](https://youtu.be/k6C4lcdo3Nc)
+[![IBM Architecture Room Live](https://i.ytimg.com/vi/k6C4lcdo3Nc/mqdefault.jpg)](https://youtu.be/k6C4lcdo3Nc){:target="_blank"}
 
 
 ## What's new video for sprints 2018.36 to 40
@@ -6540,6 +6788,7 @@ None
 
 ### Video
 [What's new video for sprints 2018.36 to 40](https://youtu.be/Go7uDmKRI4o)
+[![What's new video for sprints 2018.36 to 40](https://i.ytimg.com/vi/Go7uDmKRI4o/mqdefault.jpg)](https://youtu.be/Go7uDmKRI4o){:target="_blank"}
 
 
 ## 1  Demonstrating Compliance Intro - Practice Content
@@ -6558,6 +6807,7 @@ None
 
 ### Video
 [1  Demonstrating Compliance Intro - Practice Content](https://youtu.be/AuB4ePwZigo)
+[![1  Demonstrating Compliance Intro - Practice Content](https://i.ytimg.com/vi/AuB4ePwZigo/mqdefault.jpg)](https://youtu.be/AuB4ePwZigo){:target="_blank"}
 
 
 ## 5  Demonstrating Compliance - Conclusion
@@ -6576,6 +6826,7 @@ None
 
 ### Video
 [5  Demonstrating Compliance - Conclusion](https://youtu.be/C7tQbQJymBw)
+[![5  Demonstrating Compliance - Conclusion](https://i.ytimg.com/vi/C7tQbQJymBw/mqdefault.jpg)](https://youtu.be/C7tQbQJymBw){:target="_blank"}
 
 
 ## 4  Demonstrating Compliance - Engineering lifecycle Management
@@ -6594,6 +6845,7 @@ None
 
 ### Video
 [4  Demonstrating Compliance - Engineering lifecycle Management](https://youtu.be/gY1V1JPEneY)
+[![4  Demonstrating Compliance - Engineering lifecycle Management](https://i.ytimg.com/vi/gY1V1JPEneY/mqdefault.jpg)](https://youtu.be/gY1V1JPEneY){:target="_blank"}
 
 
 ## 2  Demonstrating Compliance - Requirements Management
@@ -6612,6 +6864,7 @@ None
 
 ### Video
 [2  Demonstrating Compliance - Requirements Management](https://youtu.be/doc6gnEzJpk)
+[![2  Demonstrating Compliance - Requirements Management](https://i.ytimg.com/vi/doc6gnEzJpk/mqdefault.jpg)](https://youtu.be/doc6gnEzJpk){:target="_blank"}
 
 
 ## Create an available licenses report
@@ -6630,6 +6883,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Video
 [Create an available licenses report](https://youtu.be/LAtV6T7vVcY)
+[![Create an available licenses report](https://i.ytimg.com/vi/LAtV6T7vVcY/mqdefault.jpg)](https://youtu.be/LAtV6T7vVcY){:target="_blank"}
 
 
 ## Create a Chargeback report
@@ -6648,6 +6902,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Video
 [Create a Chargeback report](https://youtu.be/ziOd7waje_I)
+[![Create a Chargeback report](https://i.ytimg.com/vi/ziOd7waje_I/mqdefault.jpg)](https://youtu.be/ziOd7waje_I){:target="_blank"}
 
 
 ## Create a concurrent peak denial report
@@ -6666,6 +6921,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Video
 [Create a concurrent peak denial report](https://youtu.be/VtjHgBXABt8)
+[![Create a concurrent peak denial report](https://i.ytimg.com/vi/VtjHgBXABt8/mqdefault.jpg)](https://youtu.be/VtjHgBXABt8){:target="_blank"}
 
 
 ## Create a concurrent peak usage report
@@ -6684,6 +6940,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Video
 [Create a concurrent peak usage report](https://youtu.be/eOkeJzIFv0w)
+[![Create a concurrent peak usage report](https://i.ytimg.com/vi/eOkeJzIFv0w/mqdefault.jpg)](https://youtu.be/eOkeJzIFv0w){:target="_blank"}
 
 
 ## Create an expiration report
@@ -6702,6 +6959,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Video
 [Create an expiration report](https://youtu.be/cbFvR_tEwGo)
+[![Create an expiration report](https://i.ytimg.com/vi/cbFvR_tEwGo/mqdefault.jpg)](https://youtu.be/cbFvR_tEwGo){:target="_blank"}
 
 
 ## Create a license details report
@@ -6720,6 +6978,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Video
 [Create a license details report](https://youtu.be/P5YnuLWYXxs)
+[![Create a license details report](https://i.ytimg.com/vi/P5YnuLWYXxs/mqdefault.jpg)](https://youtu.be/P5YnuLWYXxs){:target="_blank"}
 
 
 ## Create a Token Value report
@@ -6738,6 +6997,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Video
 [Create a Token Value report](https://youtu.be/BhrXv1z_YR0)
+[![Create a Token Value report](https://i.ytimg.com/vi/BhrXv1z_YR0/mqdefault.jpg)](https://youtu.be/BhrXv1z_YR0){:target="_blank"}
 
 
 ## Create a Userbased report
@@ -6756,6 +7016,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Video
 [Create a Userbased report](https://youtu.be/T7RFmYQKGH0)
+[![Create a Userbased report](https://i.ytimg.com/vi/T7RFmYQKGH0/mqdefault.jpg)](https://youtu.be/T7RFmYQKGH0){:target="_blank"}
 
 
 ## IBM Requirements Quality Assistant (RQA)
@@ -6774,6 +7035,7 @@ Powered by IBM Watson, Requirements Quality Assistant (RQA) applies the power of
 
 ### Video
 [IBM Requirements Quality Assistant (RQA)](https://youtu.be/RcKVxWjWFF8)
+[![IBM Requirements Quality Assistant (RQA)](https://i.ytimg.com/vi/RcKVxWjWFF8/mqdefault.jpg)](https://youtu.be/RcKVxWjWFF8){:target="_blank"}
 
 
 ## 3  Demonstrating Compliance - Testing
@@ -6792,6 +7054,7 @@ None
 
 ### Video
 [3  Demonstrating Compliance - Testing](https://youtu.be/68fYQH8VZOA)
+[![3  Demonstrating Compliance - Testing](https://i.ytimg.com/vi/68fYQH8VZOA/mqdefault.jpg)](https://youtu.be/68fYQH8VZOA){:target="_blank"}
 
 
 ## Continuous Engineering for the Internet of Things
@@ -6810,6 +7073,7 @@ See how the IBM Continuous Engineering solution can help in designing complex, c
 
 ### Video
 [Continuous Engineering for the Internet of Things](https://youtu.be/54Qa_uDP1bs)
+[![Continuous Engineering for the Internet of Things](https://i.ytimg.com/vi/54Qa_uDP1bs/mqdefault.jpg)](https://youtu.be/54Qa_uDP1bs){:target="_blank"}
 
 
 ## Designing, Monitoring and Improving Connected Systems with the IBM IoT Solution
@@ -6828,6 +7092,7 @@ In this demonstration, we will see how we can design, monitor and improve connec
 
 ### Video
 [Designing, Monitoring and Improving Connected Systems with the IBM IoT Solution](https://youtu.be/B84aLMmxxBc)
+[![Designing, Monitoring and Improving Connected Systems with the IBM IoT Solution](https://i.ytimg.com/vi/B84aLMmxxBc/mqdefault.jpg)](https://youtu.be/B84aLMmxxBc){:target="_blank"}
 
 
 ## RTC v6.0 SAFe support - Project Area Initialization
@@ -6850,6 +7115,7 @@ team.
 
 ### Video
 [RTC v6.0 SAFe support - Project Area Initialization](https://youtu.be/OFdvtzzaQXE)
+[![RTC v6.0 SAFe support - Project Area Initialization](https://i.ytimg.com/vi/OFdvtzzaQXE/mqdefault.jpg)](https://youtu.be/OFdvtzzaQXE){:target="_blank"}
 
 
 ## Reporting on Models in Rhapsody Model Manager (RMM) Part 1 - The Rhapsody Client
@@ -6868,6 +7134,7 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 
 ### Video
 [Reporting on Models in Rhapsody Model Manager (RMM) Part 1 - The Rhapsody Client](https://youtu.be/49xn9a83Yi8)
+[![Reporting on Models in Rhapsody Model Manager (RMM) Part 1 - The Rhapsody Client](https://i.ytimg.com/vi/49xn9a83Yi8/mqdefault.jpg)](https://youtu.be/49xn9a83Yi8){:target="_blank"}
 
 
 ## Create an User Count report
@@ -6886,6 +7153,7 @@ This video demonstrates how use the IBM Rational License Key Server Administrati
 
 ### Video
 [Create an User Count report](https://youtu.be/kcwlYVahB28)
+[![Create an User Count report](https://i.ytimg.com/vi/kcwlYVahB28/mqdefault.jpg)](https://youtu.be/kcwlYVahB28){:target="_blank"}
 
 
 ## Queries and Table Views
@@ -6904,6 +7172,7 @@ IBM Technical Enablement Specialist Andy Lapping explains how to use queries in 
 
 ### Video
 [Queries and Table Views](https://youtu.be/z7X7nbmJgZ0)
+[![Queries and Table Views](https://i.ytimg.com/vi/z7X7nbmJgZ0/mqdefault.jpg)](https://youtu.be/z7X7nbmJgZ0){:target="_blank"}
 
 
 ## MBSE - Models in the Lifecycle
@@ -6922,6 +7191,7 @@ In this video you will see how models are integrated with other essential MBSE c
 
 ### Video
 [MBSE - Models in the Lifecycle](https://youtu.be/mdOYHS-k5VU)
+[![MBSE - Models in the Lifecycle](https://i.ytimg.com/vi/mdOYHS-k5VU/mqdefault.jpg)](https://youtu.be/mdOYHS-k5VU){:target="_blank"}
 
 
 ## MBSE - A Day in the Life of a Defect
@@ -6940,6 +7210,7 @@ In this video you will see how a defect raised against an existing system is pro
 
 ### Video
 [MBSE - A Day in the Life of a Defect](https://youtu.be/iFaF1Mnj1_8)
+[![MBSE - A Day in the Life of a Defect](https://i.ytimg.com/vi/iFaF1Mnj1_8/mqdefault.jpg)](https://youtu.be/iFaF1Mnj1_8){:target="_blank"}
 
 
 ## MBSE Introduction
@@ -6958,6 +7229,7 @@ This short video gives a brief overview of the capabilities and benefits of Mode
 
 ### Video
 [MBSE Introduction](https://youtu.be/8d7WGUqJelQ)
+[![MBSE Introduction](https://i.ytimg.com/vi/8d7WGUqJelQ/mqdefault.jpg)](https://youtu.be/8d7WGUqJelQ){:target="_blank"}
 
 
 ## JRS: Troubleshooting data problems by validating TRS feeds and the LQE index
@@ -6988,6 +7260,7 @@ HS:HS(AJ)
 
 ### Video
 [JRS: Troubleshooting data problems by validating TRS feeds and the LQE index](https://youtu.be/Zprgdxu_DNk)
+[![JRS: Troubleshooting data problems by validating TRS feeds and the LQE index](https://i.ytimg.com/vi/Zprgdxu_DNk/mqdefault.jpg)](https://youtu.be/Zprgdxu_DNk){:target="_blank"}
 
 
 ## JRS: Email notification for scheduled reports in Report Builder
@@ -7014,6 +7287,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_6.0.6.1/com.ibm.team.jp.jrs.d
 
 ### Video
 [JRS: Email notification for scheduled reports in Report Builder](https://youtu.be/yFJFrF0nsnY)
+[![JRS: Email notification for scheduled reports in Report Builder](https://i.ytimg.com/vi/yFJFrF0nsnY/mqdefault.jpg)](https://youtu.be/yFJFrF0nsnY){:target="_blank"}
 
 
 ## RPE Document Builder: Automatic deployment to WebSphere Liberty
@@ -7044,6 +7318,7 @@ HS:HS
 
 ### Video
 [RPE Document Builder: Automatic deployment to WebSphere Liberty](https://youtu.be/o9AEbZcjSAs)
+[![RPE Document Builder: Automatic deployment to WebSphere Liberty](https://i.ytimg.com/vi/o9AEbZcjSAs/mqdefault.jpg)](https://youtu.be/o9AEbZcjSAs){:target="_blank"}
 
 
 ## RPE: Microsoft Excel output improvements
@@ -7074,6 +7349,7 @@ HS:HS
 
 ### Video
 [RPE: Microsoft Excel output improvements](https://youtu.be/Iq4SOkgZX-o)
+[![RPE: Microsoft Excel output improvements](https://i.ytimg.com/vi/Iq4SOkgZX-o/mqdefault.jpg)](https://youtu.be/Iq4SOkgZX-o){:target="_blank"}
 
 
 ## RPE Document Builder: Simplified Jazz Team Server authentication
@@ -7112,6 +7388,7 @@ HS:HS
 
 ### Video
 [RPE Document Builder: Simplified Jazz Team Server authentication](https://youtu.be/rT6AVXYiGEc)
+[![RPE Document Builder: Simplified Jazz Team Server authentication](https://i.ytimg.com/vi/rT6AVXYiGEc/mqdefault.jpg)](https://youtu.be/rT6AVXYiGEc){:target="_blank"}
 
 
 ## RPE Document Builder: Sending a test email
@@ -7142,6 +7419,7 @@ HS:HS
 
 ### Video
 [RPE Document Builder: Sending a test email](https://youtu.be/9H3GSiuTFVQ)
+[![RPE Document Builder: Sending a test email](https://i.ytimg.com/vi/9H3GSiuTFVQ/mqdefault.jpg)](https://youtu.be/9H3GSiuTFVQ){:target="_blank"}
 
 
 ## Reporting on Models in Rhapsody Model Manager (RMM) Part 2 - The RMM Server
@@ -7160,6 +7438,7 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 
 ### Video
 [Reporting on Models in Rhapsody Model Manager (RMM) Part 2 - The RMM Server](https://youtu.be/k2iWVe-Uq8M)
+[![Reporting on Models in Rhapsody Model Manager (RMM) Part 2 - The RMM Server](https://i.ytimg.com/vi/k2iWVe-Uq8M/mqdefault.jpg)](https://youtu.be/k2iWVe-Uq8M){:target="_blank"}
 
 
 ## Reporting on Models in Rhapsody Model Manager (RMM) Part 3 - Traceability Statistics
@@ -7178,6 +7457,7 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 
 ### Video
 [Reporting on Models in Rhapsody Model Manager (RMM) Part 3 - Traceability Statistics](https://youtu.be/7e4gIEDCV0s)
+[![Reporting on Models in Rhapsody Model Manager (RMM) Part 3 - Traceability Statistics](https://i.ytimg.com/vi/7e4gIEDCV0s/mqdefault.jpg)](https://youtu.be/7e4gIEDCV0s){:target="_blank"}
 
 
 ## Importing CSV Files
@@ -7196,6 +7476,7 @@ In this video, IBM Technical Enablement Specialist Andy Lapping demonstrates how
 
 ### Video
 [Importing CSV Files](https://youtu.be/FDIA7rvGgmc)
+[![Importing CSV Files](https://i.ytimg.com/vi/FDIA7rvGgmc/mqdefault.jpg)](https://youtu.be/FDIA7rvGgmc){:target="_blank"}
 
 
 ## RPE: Generate a traceability document with requirements and work items
@@ -7214,6 +7495,7 @@ Learn how to use IBM Engineering Lifecycle Optimization – Publishing (formerly
 
 ### Video
 [RPE: Generate a traceability document with requirements and work items](https://youtu.be/apMfKcRfRwo)
+[![RPE: Generate a traceability document with requirements and work items](https://i.ytimg.com/vi/apMfKcRfRwo/mqdefault.jpg)](https://youtu.be/apMfKcRfRwo){:target="_blank"}
 
 
 ## Customize TOC names for HTML split mode
@@ -7232,6 +7514,7 @@ None
 
 ### Video
 [Customize TOC names for HTML split mode](https://youtu.be/MfmreUYF_lo)
+[![Customize TOC names for HTML split mode](https://i.ytimg.com/vi/MfmreUYF_lo/mqdefault.jpg)](https://youtu.be/MfmreUYF_lo){:target="_blank"}
 
 
 ## Performance improvement for large HTML output files in split mode
@@ -7250,6 +7533,7 @@ None
 
 ### Video
 [Performance improvement for large HTML output files in split mode](https://youtu.be/1vMv1wFn4-0)
+[![Performance improvement for large HTML output files in split mode](https://i.ytimg.com/vi/1vMv1wFn4-0/mqdefault.jpg)](https://youtu.be/1vMv1wFn4-0){:target="_blank"}
 
 
 ## Generate comparison document in Document Builder
@@ -7268,6 +7552,7 @@ None
 
 ### Video
 [Generate comparison document in Document Builder](https://youtu.be/o_Y-OVUN5xw)
+[![Generate comparison document in Document Builder](https://i.ytimg.com/vi/o_Y-OVUN5xw/mqdefault.jpg)](https://youtu.be/o_Y-OVUN5xw){:target="_blank"}
 
 
 ## Install Document Builder from ELM installation launchpad
@@ -7286,6 +7571,7 @@ None
 
 ### Video
 [Install Document Builder from ELM installation launchpad](https://youtu.be/kVSNLaLM7PA)
+[![Install Document Builder from ELM installation launchpad](https://i.ytimg.com/vi/kVSNLaLM7PA/mqdefault.jpg)](https://youtu.be/kVSNLaLM7PA){:target="_blank"}
 
 
 ## Add icons to the table of contents for HTML output
@@ -7304,6 +7590,7 @@ None
 
 ### Video
 [Add icons to the table of contents for HTML output](https://youtu.be/EWj4x39PH4o)
+[![Add icons to the table of contents for HTML output](https://i.ytimg.com/vi/EWj4x39PH4o/mqdefault.jpg)](https://youtu.be/EWj4x39PH4o){:target="_blank"}
 
 
 ## Enable clickable regions for different hyperlinks within images for HTML output
@@ -7322,6 +7609,7 @@ None
 
 ### Video
 [Enable clickable regions for different hyperlinks within images for HTML output](https://youtu.be/dx2udrSWQcU)
+[![Enable clickable regions for different hyperlinks within images for HTML output](https://i.ytimg.com/vi/dx2udrSWQcU/mqdefault.jpg)](https://youtu.be/dx2udrSWQcU){:target="_blank"}
 
 
 ## Folder enhancements in Document Builder
@@ -7340,6 +7628,7 @@ None
 
 ### Video
 [Folder enhancements in Document Builder](https://youtu.be/24Y4ZmOPy3I)
+[![Folder enhancements in Document Builder](https://i.ytimg.com/vi/24Y4ZmOPy3I/mqdefault.jpg)](https://youtu.be/24Y4ZmOPy3I){:target="_blank"}
 
 
 ## Improved error logging for dragging and dropping JSON text
@@ -7358,6 +7647,7 @@ None
 
 ### Video
 [Improved error logging for dragging and dropping JSON text](https://youtu.be/kYnNEhpti3M)
+[![Improved error logging for dragging and dropping JSON text](https://i.ytimg.com/vi/kYnNEhpti3M/mqdefault.jpg)](https://youtu.be/kYnNEhpti3M){:target="_blank"}
 
 
 ## Improved workload distribution for load balancing
@@ -7376,6 +7666,7 @@ None
 
 ### Video
 [Improved workload distribution for load balancing](https://youtu.be/R3RVqxMKICc)
+[![Improved workload distribution for load balancing](https://i.ytimg.com/vi/R3RVqxMKICc/mqdefault.jpg)](https://youtu.be/R3RVqxMKICc){:target="_blank"}
 
 
 ## Simplified document comparison in Desktop client
@@ -7394,6 +7685,7 @@ None
 
 ### Video
 [Simplified document comparison in Desktop client](https://youtu.be/z_9Sf3PBz7E)
+[![Simplified document comparison in Desktop client](https://i.ytimg.com/vi/z_9Sf3PBz7E/mqdefault.jpg)](https://youtu.be/z_9Sf3PBz7E){:target="_blank"}
 
 
 ## Customize TOC font size and style for HTML split mode
@@ -7412,6 +7704,7 @@ None
 
 ### Video
 [Customize TOC font size and style for HTML split mode](https://youtu.be/FeagoGhzx90)
+[![Customize TOC font size and style for HTML split mode](https://i.ytimg.com/vi/FeagoGhzx90/mqdefault.jpg)](https://youtu.be/FeagoGhzx90){:target="_blank"}
 
 
 ## Support for PDF/A output enhancement
@@ -7430,6 +7723,7 @@ None
 
 ### Video
 [Support for PDF/A output enhancement](https://youtu.be/cmK207dYiLE)
+[![Support for PDF/A output enhancement](https://i.ytimg.com/vi/cmK207dYiLE/mqdefault.jpg)](https://youtu.be/cmK207dYiLE){:target="_blank"}
 
 
 ## Report Builder: Create a report that captures link validity information
@@ -7450,6 +7744,7 @@ Learn how to create a report that traces test cases to requirements and captures
 
 ### Video
 [Report Builder: Create a report that captures link validity information](https://youtu.be/E6aSZLBPwas)
+[![Report Builder: Create a report that captures link validity information](https://i.ytimg.com/vi/E6aSZLBPwas/mqdefault.jpg)](https://youtu.be/E6aSZLBPwas){:target="_blank"}
 
 
 ## Report Builder: Create a data source for a specific baseline or stream
@@ -7470,6 +7765,7 @@ Learn how to use Report Builder in IBM Engineering Lifecycle Management – Jazz
 
 ### Video
 [Report Builder: Create a data source for a specific baseline or stream](https://youtu.be/6XgsUebVSak)
+[![Report Builder: Create a data source for a specific baseline or stream](https://i.ytimg.com/vi/6XgsUebVSak/mqdefault.jpg)](https://youtu.be/6XgsUebVSak){:target="_blank"}
 
 
 ## Report Builder: New look
@@ -7490,6 +7786,7 @@ Learn how to access the different Report Builder options in the redesigned user 
 
 ### Video
 [Report Builder: New look](https://youtu.be/N0RPOygzYyA)
+[![Report Builder: New look](https://i.ytimg.com/vi/N0RPOygzYyA/mqdefault.jpg)](https://youtu.be/N0RPOygzYyA){:target="_blank"}
 
 
 ## Report Builder: Organize reports using folders
@@ -7510,6 +7807,7 @@ Learn how to organize reports in Report Builder using folders.
 
 ### Video
 [Report Builder: Organize reports using folders](https://youtu.be/gTZ-O4nOK0c)
+[![Report Builder: Organize reports using folders](https://i.ytimg.com/vi/gTZ-O4nOK0c/mqdefault.jpg)](https://youtu.be/gTZ-O4nOK0c){:target="_blank"}
 
 
 ## Report Builder: Check if a specific report has problems with the LQE data source
@@ -7530,6 +7828,7 @@ Learn how to check if a specific report has problems with the LQE data source.
 
 ### Video
 [Report Builder: Check if a specific report has problems with the LQE data source](https://youtu.be/EGxfilW3scw)
+[![Report Builder: Check if a specific report has problems with the LQE data source](https://i.ytimg.com/vi/EGxfilW3scw/mqdefault.jpg)](https://youtu.be/EGxfilW3scw){:target="_blank"}
 
 
 ## Views and Viewpoints
@@ -7548,6 +7847,7 @@ IBM Technical Enablement Specialist Andy Lapping explains SysML Views and Viewpo
 
 ### Video
 [Views and Viewpoints](https://youtu.be/aULSLBfXuFY)
+[![Views and Viewpoints](https://i.ytimg.com/vi/aULSLBfXuFY/mqdefault.jpg)](https://youtu.be/aULSLBfXuFY){:target="_blank"}
 
 
 ## Improving Requirements Quality with IBM Engineering Requirements Management and RQA
@@ -7566,6 +7866,7 @@ Powered by IBM Watson, Requirements Quality Assistant (RQA) applies the power of
 
 ### Video
 [Improving Requirements Quality with IBM Engineering Requirements Management and RQA](https://youtu.be/LuADaN20dfU)
+[![Improving Requirements Quality with IBM Engineering Requirements Management and RQA](https://i.ytimg.com/vi/LuADaN20dfU/mqdefault.jpg)](https://youtu.be/LuADaN20dfU){:target="_blank"}
 
 
 ## Custom Model Browsers
@@ -7584,6 +7885,7 @@ IBM Technical Enablement Specialist Andy Lapping explains how to implement your 
 
 ### Video
 [Custom Model Browsers](https://youtu.be/CAXo7lmyqWA)
+[![Custom Model Browsers](https://i.ytimg.com/vi/CAXo7lmyqWA/mqdefault.jpg)](https://youtu.be/CAXo7lmyqWA){:target="_blank"}
 
 
 ## Gain Insight and Value From Your Connected Engineering Data
@@ -7602,6 +7904,7 @@ In this video IBM Engineering Technical Specialist Andy Lapping shows you how yo
 
 ### Video
 [Gain Insight and Value From Your Connected Engineering Data](https://youtu.be/ELPdis9Ag8s)
+[![Gain Insight and Value From Your Connected Engineering Data](https://i.ytimg.com/vi/ELPdis9Ag8s/mqdefault.jpg)](https://youtu.be/ELPdis9Ag8s){:target="_blank"}
 
 
 ## Browser Improvements
@@ -7620,6 +7923,7 @@ IBM Technical Enablement Specialist Andy Lapping covers some of the improvements
 
 ### Video
 [Browser Improvements](https://youtu.be/qFY_fVttKLQ)
+[![Browser Improvements](https://i.ytimg.com/vi/qFY_fVttKLQ/mqdefault.jpg)](https://youtu.be/qFY_fVttKLQ){:target="_blank"}
 
 
 ## Report Builder: Configuring automatic deletion of Draft reports
@@ -7648,6 +7952,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc
 
 ### Video
 [Report Builder: Configuring automatic deletion of Draft reports](https://youtu.be/gTASh5aWB9s)
+[![Report Builder: Configuring automatic deletion of Draft reports](https://i.ytimg.com/vi/gTASh5aWB9s/mqdefault.jpg)](https://youtu.be/gTASh5aWB9s){:target="_blank"}
 
 
 ## Report Builder: Filling data gaps
@@ -7680,6 +7985,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc
 
 ### Video
 [Report Builder: Filling data gaps](https://youtu.be/_enx3wIcLTs)
+[![Report Builder: Filling data gaps](https://i.ytimg.com/vi/_enx3wIcLTs/mqdefault.jpg)](https://youtu.be/_enx3wIcLTs){:target="_blank"}
 
 
 ## Report Builder: Combining Merge and Append relationship paths
@@ -7708,6 +8014,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.jrs.doc
 
 ### Video
 [Report Builder: Combining Merge and Append relationship paths](https://youtu.be/lE5mEzaSmzk)
+[![Report Builder: Combining Merge and Append relationship paths](https://i.ytimg.com/vi/lE5mEzaSmzk/mqdefault.jpg)](https://youtu.be/lE5mEzaSmzk){:target="_blank"}
 
 
 ## Visual reporting and filtering based on the Link Validity Status values
@@ -7734,6 +8041,7 @@ https://www.ibm.com/support/knowledgecenter/SSYMRC_7.0.1/com.ibm.team.jp.relm.do
 
 ### Video
 [Visual reporting and filtering based on the Link Validity Status values](https://youtu.be/2y8ZUVmMYGA)
+[![Visual reporting and filtering based on the Link Validity Status values](https://i.ytimg.com/vi/2y8ZUVmMYGA/mqdefault.jpg)](https://youtu.be/2y8ZUVmMYGA){:target="_blank"}
 
 
 ## Publishing Document Builder:  New look for product and component banners
@@ -7752,6 +8060,7 @@ The product banner for IBM Engineering Lifecycle Optimization - Publishing Docum
 
 ### Video
 [Publishing Document Builder:  New look for product and component banners](https://youtu.be/BsnL3-oyzMg)
+[![Publishing Document Builder:  New look for product and component banners](https://i.ytimg.com/vi/BsnL3-oyzMg/mqdefault.jpg)](https://youtu.be/BsnL3-oyzMg){:target="_blank"}
 
 
 ## Generating documents with JSON data from GitLab
@@ -7774,6 +8083,7 @@ For more information, see Integrating GitLab or GitHub with Engineering Publishi
 
 ### Video
 [Generating documents with JSON data from GitLab](https://youtu.be/Vrwy1CidsAE)
+[![Generating documents with JSON data from GitLab](https://i.ytimg.com/vi/Vrwy1CidsAE/mqdefault.jpg)](https://youtu.be/Vrwy1CidsAE){:target="_blank"}
 
 
 ## Publishing Document Builder:  Resource picker enhancement
@@ -7798,6 +8108,7 @@ Managing data sources in Document Builder https://www.ibm.com/support/knowledgec
 
 ### Video
 [Publishing Document Builder:  Resource picker enhancement](https://youtu.be/8ZeZ6X0AY8w)
+[![Publishing Document Builder:  Resource picker enhancement](https://i.ytimg.com/vi/8ZeZ6X0AY8w/mqdefault.jpg)](https://youtu.be/8ZeZ6X0AY8w){:target="_blank"}
 
 
 ## IBM Engineering Workflow Management - Linking Git Pull Request with work items in EWM 7.0.1
@@ -7816,6 +8127,7 @@ This video provides an overview of the ability to link Git Pull Requests to work
 
 ### Video
 [IBM Engineering Workflow Management - Linking Git Pull Request with work items in EWM 7.0.1](https://youtu.be/BXLXD8W09sE)
+[![IBM Engineering Workflow Management - Linking Git Pull Request with work items in EWM 7.0.1](https://i.ytimg.com/vi/BXLXD8W09sE/mqdefault.jpg)](https://youtu.be/BXLXD8W09sE){:target="_blank"}
 
 
 ## Introduction to Rhapsody Model Manager
@@ -7834,6 +8146,7 @@ This video introduces Rhapsody Model Manager (RMM) - a web-based repository for 
 
 ### Video
 [Introduction to Rhapsody Model Manager](https://youtu.be/JJiaZ-khYVU)
+[![Introduction to Rhapsody Model Manager](https://i.ytimg.com/vi/JJiaZ-khYVU/mqdefault.jpg)](https://youtu.be/JJiaZ-khYVU){:target="_blank"}
 
 
 ## ELM for FSS Compliance
@@ -7852,6 +8165,7 @@ The Financial Services sector is under constant regulatory scrutiny and regulati
 
 ### Video
 [ELM for FSS Compliance](https://youtu.be/RR4TvPeUWpw)
+[![ELM for FSS Compliance](https://i.ytimg.com/vi/RR4TvPeUWpw/mqdefault.jpg)](https://youtu.be/RR4TvPeUWpw){:target="_blank"}
 
 
 ## Overview of Engineering Lifecycle Optimization - Publishing (PUB)
@@ -7870,6 +8184,7 @@ Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 
 ### Video
 [Overview of Engineering Lifecycle Optimization - Publishing (PUB)](https://youtu.be/IqGFNksEDrA)
+[![Overview of Engineering Lifecycle Optimization - Publishing (PUB)](https://i.ytimg.com/vi/IqGFNksEDrA/mqdefault.jpg)](https://youtu.be/IqGFNksEDrA){:target="_blank"}
 
 
 ## Overview of Engineering Lifecycle Optimization - Publishing (PUB)
@@ -7888,6 +8203,7 @@ Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 
 ### Video
 [Overview of Engineering Lifecycle Optimization - Publishing (PUB)](https://youtu.be/Rq0zHFuWPeE)
+[![Overview of Engineering Lifecycle Optimization - Publishing (PUB)](https://i.ytimg.com/vi/Rq0zHFuWPeE/mqdefault.jpg)](https://youtu.be/Rq0zHFuWPeE){:target="_blank"}
 
 
 ## Overview of Engineering Lifecycle Optimization - Publishing (PUB)
@@ -7906,6 +8222,7 @@ Overview of Engineering Lifecycle Optimization - Publishing (PUB)
 
 ### Video
 [Overview of Engineering Lifecycle Optimization - Publishing (PUB)](https://youtu.be/Ig3UaF_YKLk)
+[![Overview of Engineering Lifecycle Optimization - Publishing (PUB)](https://i.ytimg.com/vi/Ig3UaF_YKLk/mqdefault.jpg)](https://youtu.be/Ig3UaF_YKLk){:target="_blank"}
 
 
 ## Simplified Connection Association
@@ -7924,6 +8241,7 @@ Simplified Connection Association
 
 ### Video
 [Simplified Connection Association](https://youtu.be/eXYS0Ux68bI)
+[![Simplified Connection Association](https://i.ytimg.com/vi/eXYS0Ux68bI/mqdefault.jpg)](https://youtu.be/eXYS0Ux68bI){:target="_blank"}
 
 
 ## Document Generation Resilience
@@ -7942,6 +8260,7 @@ Document Generation Resilience
 
 ### Video
 [Document Generation Resilience](https://youtu.be/Pg4PiMrIBGM)
+[![Document Generation Resilience](https://i.ytimg.com/vi/Pg4PiMrIBGM/mqdefault.jpg)](https://youtu.be/Pg4PiMrIBGM){:target="_blank"}
 
 
 ## IBM Engineering Workflow Management - Simplified Linking in EWM 7.0.2
@@ -7960,6 +8279,7 @@ This video provides an overview of the ability to create artifact links in the w
 
 ### Video
 [IBM Engineering Workflow Management - Simplified Linking in EWM 7.0.2](https://youtu.be/4JxCxOThpsw)
+[![IBM Engineering Workflow Management - Simplified Linking in EWM 7.0.2](https://i.ytimg.com/vi/4JxCxOThpsw/mqdefault.jpg)](https://youtu.be/4JxCxOThpsw){:target="_blank"}
 
 
 ## IBM Engineering Workflow Management - Global Configuration Linking in EWM 7.0.2
@@ -7978,6 +8298,7 @@ This video provides an overview of the ability to create Global Configuration  l
 
 ### Video
 [IBM Engineering Workflow Management - Global Configuration Linking in EWM 7.0.2](https://youtu.be/n4BnRO_umsQ)
+[![IBM Engineering Workflow Management - Global Configuration Linking in EWM 7.0.2](https://i.ytimg.com/vi/n4BnRO_umsQ/mqdefault.jpg)](https://youtu.be/n4BnRO_umsQ){:target="_blank"}
 
 
 ## Viewing current links information
@@ -7998,6 +8319,7 @@ Learn how to generate links information and perform actions.
 
 ### Video
 [Viewing current links information](https://youtu.be/ZGGawqKiYdI)
+[![Viewing current links information](https://i.ytimg.com/vi/ZGGawqKiYdI/mqdefault.jpg)](https://youtu.be/ZGGawqKiYdI){:target="_blank"}
 
 
 ## Enhanced view building experience by using styles
@@ -8018,6 +8340,7 @@ Learn how to use the style across view.
 
 ### Video
 [Enhanced view building experience by using styles](https://youtu.be/GGhXZKC5TB8)
+[![Enhanced view building experience by using styles](https://i.ytimg.com/vi/GGhXZKC5TB8/mqdefault.jpg)](https://youtu.be/GGhXZKC5TB8){:target="_blank"}
 
 
 ## Report Builder: Detailed Lifecycle Query Engine status information in Report Builder
@@ -8044,6 +8367,7 @@ For more information, see Reporting on data in configurations with Report Builde
 
 ### Video
 [Report Builder: Detailed Lifecycle Query Engine status information in Report Builder](https://youtu.be/7ll77maTwGw)
+[![Report Builder: Detailed Lifecycle Query Engine status information in Report Builder](https://i.ytimg.com/vi/7ll77maTwGw/mqdefault.jpg)](https://youtu.be/7ll77maTwGw){:target="_blank"}
 
 
 ## Report Builder: Generating alternate queries to filter on artifacts before scoping by projects
@@ -8070,6 +8394,7 @@ For more information, see Optimizing reports (https://www.ibm.com/support/knowle
 
 ### Video
 [Report Builder: Generating alternate queries to filter on artifacts before scoping by projects](https://youtu.be/5MAHZF9D7dU)
+[![Report Builder: Generating alternate queries to filter on artifacts before scoping by projects](https://i.ytimg.com/vi/5MAHZF9D7dU/mqdefault.jpg)](https://youtu.be/5MAHZF9D7dU){:target="_blank"}
 
 
 ## Report Builder: Retrieving records using the enhanced Search functionality
@@ -8092,6 +8417,7 @@ For more information, see Finding and organizing reports in Report Builder (http
 
 ### Video
 [Report Builder: Retrieving records using the enhanced Search functionality](https://youtu.be/5d44p8cYWOA)
+[![Report Builder: Retrieving records using the enhanced Search functionality](https://i.ytimg.com/vi/5d44p8cYWOA/mqdefault.jpg)](https://youtu.be/5d44p8cYWOA){:target="_blank"}
 
 
 ## Report Builder: Repairing reports with missing artifact types or parameters
@@ -8114,6 +8440,7 @@ For more information, see Repairing reports with missing artifact types or param
 
 ### Video
 [Report Builder: Repairing reports with missing artifact types or parameters](https://youtu.be/Sjfbvq4V4AE)
+[![Report Builder: Repairing reports with missing artifact types or parameters](https://i.ytimg.com/vi/Sjfbvq4V4AE/mqdefault.jpg)](https://youtu.be/Sjfbvq4V4AE){:target="_blank"}
 
 
 ## ELM for Medical Devices Act 1 - Design Planning
@@ -8132,6 +8459,7 @@ None
 
 ### Video
 [ELM for Medical Devices Act 1 - Design Planning](https://youtu.be/wcV-DohDDoo)
+[![ELM for Medical Devices Act 1 - Design Planning](https://i.ytimg.com/vi/wcV-DohDDoo/mqdefault.jpg)](https://youtu.be/wcV-DohDDoo){:target="_blank"}
 
 
 ## ELM for Medical Devices Act 2 - Product Requirements
@@ -8150,6 +8478,7 @@ None
 
 ### Video
 [ELM for Medical Devices Act 2 - Product Requirements](https://youtu.be/UGkLKuzRw4E)
+[![ELM for Medical Devices Act 2 - Product Requirements](https://i.ytimg.com/vi/UGkLKuzRw4E/mqdefault.jpg)](https://youtu.be/UGkLKuzRw4E){:target="_blank"}
 
 
 ## ELM for Medical Devices Act 3 - Design Input
@@ -8168,6 +8497,7 @@ None
 
 ### Video
 [ELM for Medical Devices Act 3 - Design Input](https://youtu.be/5eJBhl6PQMk)
+[![ELM for Medical Devices Act 3 - Design Input](https://i.ytimg.com/vi/5eJBhl6PQMk/mqdefault.jpg)](https://youtu.be/5eJBhl6PQMk){:target="_blank"}
 
 
 ## ELM for Medical Devices Act 4 - Design Output
@@ -8186,6 +8516,7 @@ None
 
 ### Video
 [ELM for Medical Devices Act 4 - Design Output](https://youtu.be/mv_RPa1F16Q)
+[![ELM for Medical Devices Act 4 - Design Output](https://i.ytimg.com/vi/mv_RPa1F16Q/mqdefault.jpg)](https://youtu.be/mv_RPa1F16Q){:target="_blank"}
 
 
 ## ELM for Medical Devices Introduction
@@ -8204,6 +8535,7 @@ None
 
 ### Video
 [ELM for Medical Devices Introduction](https://youtu.be/KJtT3Uj6aqI)
+[![ELM for Medical Devices Introduction](https://i.ytimg.com/vi/KJtT3Uj6aqI/mqdefault.jpg)](https://youtu.be/KJtT3Uj6aqI){:target="_blank"}
 
 
 ## RSARTE 9.1.2 CP1: State diagram editing improvements
@@ -8222,6 +8554,7 @@ This video demonstrates improvements made for internal transitions and comments 
 
 ### Video
 [RSARTE 9.1.2 CP1: State diagram editing improvements](https://youtu.be/44UyGjAn9RM)
+[![RSARTE 9.1.2 CP1: State diagram editing improvements](https://i.ytimg.com/vi/44UyGjAn9RM/mqdefault.jpg)](https://youtu.be/44UyGjAn9RM){:target="_blank"}
 
 
 ## RSARTE 9.1.2 CP1: Gerrit Integration using MyLyn
@@ -8240,3 +8573,4 @@ Gerrit is a popular code review system that now can be accessed directly from RS
 
 ### Video
 [RSARTE 9.1.2 CP1: Gerrit Integration using MyLyn](https://youtu.be/aLI2q54pnYk)
+[![RSARTE 9.1.2 CP1: Gerrit Integration using MyLyn](https://i.ytimg.com/vi/aLI2q54pnYk/mqdefault.jpg)](https://youtu.be/aLI2q54pnYk){:target="_blank"}
