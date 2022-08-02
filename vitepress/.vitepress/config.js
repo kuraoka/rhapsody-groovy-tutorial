@@ -18,7 +18,8 @@ export default {
         text: 'IBM Engineering Videos',
         items: [
           {text: "Software Education", link: '/ibm-engineering-info/SoftwareEducation'},
-          {text: "MBSETraining", link: '/ibm-engineering-info/MBSETraining'}
+          {text: "MBSETraining", link: '/ibm-engineering-info/MBSETraining'},
+          {text: "Jazz.net", link: '/ibm-engineering-info/JazzNet'}
         ]
       }
     ] 
