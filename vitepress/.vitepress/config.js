@@ -9,9 +9,10 @@ export default {
       {
         text: 'Plugin Programming',
         items: [
-          {text: "Java", link: '/src/java/'},
-          {text: "Grovvy", link: '/src/groovy/'},
-          {text: "Scala", link: '/src/scala/'}
+          {text: "Overview", link: '/tutorial/'},
+          {text: "Java", link: '/tutorial/java/'},
+          {text: "Grovvy", link: '/tutorial/groovy/'},
+          {text: "Scala", link: '/tutorial/scala/'}
         ]
       },
       {
