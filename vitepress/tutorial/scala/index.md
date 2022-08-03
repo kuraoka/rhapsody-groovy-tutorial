@@ -25,7 +25,7 @@ Scalaアプリケーションの実行時に、下記を指定します。
 
 コンパイルは次になります。
 ```
-scalac -classpath .:"/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar" AppName.java
+scalac -cp "/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar" AppName.java
 ```
 
 実行は次になります。
@@ -41,8 +41,8 @@ scala -cp .:"/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar" -Dj
 import com.telelogic.rhapsody.core._
 
 object ShowNameOfSelectedElement extends App {
-	val ra: IRPApplication = RhapsodyAppServer.getActiveRhapsodyApplication()
-	val se: IRPModelElement = ra.getSelectedElement()
+	val ra = RhapsodyAppServer.getActiveRhapsodyApplication()
+	val se = ra.getSelectedElement()
 	if (null != se) {
 		printf("%s\n", se.getName())
 	}

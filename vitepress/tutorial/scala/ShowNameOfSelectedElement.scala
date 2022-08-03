@@ -1,8 +1,8 @@
 import com.telelogic.rhapsody.core._
 
 object ShowNameOfSelectedElement extends App {
-	val ra: IRPApplication = RhapsodyAppServer.getActiveRhapsodyApplication()
-	val se: IRPModelElement = ra.getSelectedElement()
+	val ra = RhapsodyAppServer.getActiveRhapsodyApplication()
+	val se = ra.getSelectedElement()
 	if (null != se) {
 		printf("%s\n", se.getName())
 	}

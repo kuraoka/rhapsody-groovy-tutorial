@@ -24,7 +24,7 @@ Groovyアプリケーションの実行時に、下記を指定します。
 
 コンパイル、実行は次になります。
 ```
-groovy -cp "/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar" -Djava.library.path="/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI" AppName.groovy
+groovy.bat -cp "/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar" -Djava.library.path="/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI" AppName.groovy
 ```
 
 ## サンプル
@@ -36,8 +36,8 @@ import com.telelogic.rhapsody.core.*
 
 class ShowNameOfSelectedElement {
 	static main(args) {
-		IRPApplication app = RhapsodyAppServer.getActiveRhapsodyApplication();
-		IRPModelElement se = app.getSelectedElement();
+		def app = RhapsodyAppServer.getActiveRhapsodyApplication();
+		def se = app.getSelectedElement();
 		if (null != se) {
 			System.out.println(se.getName());
 		}

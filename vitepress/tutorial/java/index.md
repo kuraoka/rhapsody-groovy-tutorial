@@ -25,7 +25,7 @@ Javaアプリケーションの実行時に、下記を指定します。
 
 コンパイルは次になります。
 ```
-javac -classpath .:"/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar" AppName.java
+javac -cp "/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar" AppName.java
 ```
 
 実行は次になります。
