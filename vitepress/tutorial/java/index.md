@@ -17,28 +17,36 @@ OS: Windows
 ```
 
 Javaアプリケーションのコンパイル時に、下記を指定します。
-```
-CLASSPATHに"(Rhapsodyのインストールフォルダ)/JavaAPI/rhapsody.jar"
-```
+- CLASSPATHに"(Rhapsodyのインストールフォルダ)/JavaAPI/rhapsody.jar"
+
 Javaアプリケーションの実行時に、下記を指定します。
-```
-CLASSPATHにて"(Rhapsodyのインストールフォルダ)/JavaAPI/rhapsody.jar"
-プロパティにてjava.library.path="(Rhapsodyのインストールフォルダ)/Share/JavaAPI"
-```
+- CLASSPATHにて"(Rhapsodyのインストールフォルダ)/JavaAPI/rhapsody.jar"
+- プロパティにてjava.library.path="(Rhapsodyのインストールフォルダ)/Share/JavaAPI"
 
-私の環境の場合、コンパイルは次になります。
-
+コンパイルは次になります。
 ```
-$ cat ~/.Java/startup
-javac -classpath .:/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar AppName.java
+javac -classpath .:"/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar" AppName.java
 ```
 
 実行は次になります。
-
 ```
-java -cp .:/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar -Djava.library.path="/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI" AppName
+java -cp .:"/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar" -Djava.library.path="/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI" AppName
 ```
 
 ## サンプル
 
 ### ハイライトしているモデルの名前を表示
+[ShowNameOfSelectedElement.java](ShowNameOfSelectedElement.java)
+```
+import com.telelogic.rhapsody.core.*;
+
+public class ShowNameOfSelectedElement {
+	public static void main(String[] args) {
+		IRPApplication app = RhapsodyAppServer.getActiveRhapsodyApplication();
+		IRPModelElement se = app.getSelectedElement();
+		if (null != se) {
+			System.out.println(se.getName());
+		}
+	}
+}
+```

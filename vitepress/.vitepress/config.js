@@ -11,7 +11,7 @@ export default {
         items: [
           {text: "Overview", link: '/tutorial/'},
           {text: "Java", link: '/tutorial/java/'},
-          {text: "Grovvy", link: '/tutorial/groovy/'},
+          {text: "Groovy", link: '/tutorial/groovy/'},
           {text: "Scala", link: '/tutorial/scala/'}
         ]
       },

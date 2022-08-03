@@ -18,10 +18,29 @@ IBM Engineering Systems Design Rhapsody 9.0.1
 Apache Groovy 3.0.9
 ```
 
-Groovyで、次の設定を行ってください。
+Groovyアプリケーションの実行時に、下記を指定します。
+- CLASSPATHにて"(Rhapsodyのインストールフォルダ)/JavaAPI/rhapsody.jar"
+- プロパティにてjava.library.path="(Rhapsodyのインストールフォルダ)/Share/JavaAPI"
 
+コンパイル、実行は次になります。
 ```
-$ cat ~/.groovy/startup
-JAVA_OPTS="$JAVA_OPTS -Djava.library.path=\"/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI\""
-CLASSPATH='"/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar"'
+groovy -cp "/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI/rhapsody.jar" -Djava.library.path="/c/Program Files/IBM/Rhapsody/9.0.1/Share/JavaAPI" AppName.groovy
+```
+
+## サンプル
+
+### ハイライトしているモデルの名前を表示
+[ShowNameOfSelectedElement.groovy](ShowNameOfSelectedElement.groovy)
+```
+import com.telelogic.rhapsody.core.*
+
+class ShowNameOfSelectedElement {
+	static main(args) {
+		IRPApplication app = RhapsodyAppServer.getActiveRhapsodyApplication();
+		IRPModelElement se = app.getSelectedElement();
+		if (null != se) {
+			System.out.println(se.getName());
+		}
+	}
+}
 ```
