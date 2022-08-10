@@ -5,6 +5,12 @@
 		"docs:serve": "vitepress serve vitepress"
 	},
 	"devDependencies": {
-		"vitepress": "^1.0.0-alpha.4"
-	}
+		"vitepress": "https://github.com/vuejs/vitepress.git"
+	},
+	"name": "rhapsody-plugin-tutorial",
+	"version": "1.0.0",
+	"main": "index.md",
+	"repository": "https://github.com/kuraoka/rhapsody-plugin-tutorial.git",
+	"author": "Mikio Kuraoka <mikio.kuraoka@gmail.com>",
+	"license": "MIT"
 }
