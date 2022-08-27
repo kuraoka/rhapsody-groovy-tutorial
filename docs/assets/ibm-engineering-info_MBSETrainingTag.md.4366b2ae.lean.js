@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a}from"./app.1d42d027.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ibm-engineering-info/MBSETrainingTag.md"}'),n={name:"ibm-engineering-info/MBSETrainingTag.md"},o=a("",1),i=[o];function s(p,l,h,d,b,u){return t(),r("div",null,i)}var f=e(n,[["render",s]]);export{g as __pageData,f as default};
