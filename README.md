@@ -1,5 +1,5 @@
 
-[RhapsodyのPlug-inのチュートリアル](https://kuraoka.github.io/rhapsody-groovy-tutorial/)
+[RhapsodyのPlug-inのチュートリアル](https://kuraoka.github.io/rhapsody-plugin-tutorial/)
 
 ## DocumentのBuild
 
